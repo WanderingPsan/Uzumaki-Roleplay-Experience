@@ -1,0 +1,189 @@
+<html>
+<head><title>Ultimate Shinobi Stories</title></head>
+
+
+
+</body>
+
+<body background="PLACEHOLDER">
+
+<style type="text/css">
+#profile { border: hidden;
+background-color: transparent; }
+body {background-color: black;}
+.pfor {display:none;}
+
+a:active, a:visited, a:link { text-decoration: none; font: 10pt
+Calibri; color: #808080; border: px solid #336
+ 6FF; margin
+-bottom: 4px; margin-left: 5px; width: 130px; letter-spacing:
+3px;
+padding-left: 4px; padding-right: 3px; }
+
+a:hover { text-decoration: none; font: 10pt Calibri;
+color: #9999FF; border: px solid #9999FF; margin-bottom: 4px;
+margin-left: 3px; width: 130px;  letter-spacing: 3px; padding-
+left: 4px; }
+
+</style>
+
+<body bgcolor="#000000">
+
+<center>
+
+<html>
+
+| <a href="#two">Story</a> |
+<a
+href="#three">Notable People</a> | <a href="#four">Recent Information</a>| <a href="#five"> Timeline </a>
+
+</div>
+
+<div style="width: 800px; height: 800px; overflow-y: hidden;">
+<a name="two"></a>
+<div style="width: 800px; height: 800px; overflow: auto;"
+align="center">
+<font face="Calibri"><font size="2"><font color=#F00000>
+<img src="PLACEHOLDER" style="width=:0px ; height:0px ; padding-right: 8px; padding-top: 8px; padding-bottom: 8px;"border="1"style="filter:alpha border="0" alt=""border="1"style="filter:alpha(opacity=30)" onMouseover="this.filters.alpha.opacity=100" onMouseout="this.filters.alpha.opacity=40">
+<br><br>
+<u><font color="#808080">Story Information-</u></font><font color="#000000"><html>
+<head><title>Story</title></head><body>
+<center><body bgcolor="#000000"><font size=2><font color="#0099FF"><b><i>
+<HR>
+Pre-Current Era Year 99
+</i>
+<HR>
+<br>
+<center>
+
+"Chakra. It is said that only twenty percent of the world has the capacity to use chakra to generate "Jutsu." It is a magical power that has yet to be understood by scholars internationally, yet is taken for granted. Those with chakra can abuse it for their own gain or protect the ones they cherish and love. It would be chakra that would cause the world to fall into chaos, and it could be chakra, that could bring the world to peace. "<br>
+- Scholar Sekijou Hiraga
+<br><br>
+In a world fraught with turmoil, three great villages have formed under the Gezo World Government. Located in the Land of Iron, the Gezo World Government controls the three great villages and carries with them the world's strongest military power. They are the judges of the world and are viewed with great reverence by the smaller regional governments that lead the ninja villages. However, at the same time, the ninja villages are also employed by the Gezo World Government to solve problems whether it be on regional scale or an international dilemma.<br><br>
+
+They would come to be known as Konohagakure, Kirigakure, and Sunagakure. These three great villages contended with one another for economic security and domestic prosperity. Two unofficial ninja villages lay towards the east and west, known as rogue villages; they would be Kumogakure and Amegakure respectively. <br><br>
+
+Yet, this world held more than just human beings. Animals of all sorts, entities of all skins and deformities, and beings with attitudes and differing personalities. It would be this world that would be the easel for the artists of tomorrow and it would be this world that would be the road for those of today. <br><br>
+
+It now comes to you. Walk the path of a hero or march the distance as a conqueror. 
+<br><br>
+<hr>
+Current Era Year 100 - January
+<hr><br>
+The Holy City of Tenryuujoutei. It is the land of the sacred, where people learn how to manipulate the natural energies of light, harnessing solar power as a powerful weapon against demons while less so against fellow shinobi. These were the people who have quelled the tides of the sinful man and has pushed back against the sins of humanity. The prestigious establishment pumps out ninja monks every so frequently to ninja villages, giving them their own exorcist to fend against any demons or necromancers who hail from the "Huevo Del Diablo". These two religious lands vye for power as the core religion in the world of shinobi, though often times clash with even heads. Huevo Del Diablo relies on Jashinism and other satanic religions, while Tenryuujoutei is a land of holiness, often toting the religion of Buddhism as their banner.<br><br>Recently, Kumogakure and Amegakure have been destroyed by hand of the Gezo World Government. For their treasonous acts against the Gezo World Government, which proved hazardous to business and income, the World Government completely obliterated said villages, reducing them to "illegal" ninja villages. Yet, many questions still remain. Where did the Gezo World Government... come from exactly?
+<br><br>
+<hr>
+Current Era Year 100 - February
+<hr><br>
+The merciless advances of Huevo Del Diablo in terms of interference in politics has gone too far. Huevo incited a war between Konohagakure and Kirigakure, resulting in the sorry defeat of Konohagakure, whose people were eviscerated by the Mizukage and his ruthless forces. Raiding the warehouses of all their food storages and their stockpiles of resources, the Mizukage left no trace of what was once the strongest military power in the world. Unfortunately, they had played into the scheme of Huevo Del Diablo. By weakening Kirigakure's military force against the mighty army of Konohagakure, Huevo Del Diablo forced open an opportunity and paved a path to the Tree of Raikyuu, located in the northeastern quadrant of Kirigakure. This opportunity was carved by the many souls collected on the day of reckoning that Konohagakure faced, later to be called Doomsday.
+<br><br>
+As time went on, Kirigakure was too busy collecting blades, such as the Hiramekarei, though their military force still stood strongly and proudly. Eventually, Huevo Del Diablo marched on Kirigakure, which had acted as their scapegoat in the war, giving Huevo Del Diablo ample souls to feed off of and power their newest technological creation. Goliath advanced and took down a great many of Kirigakure's military force, fending and staving off the many Explosive Tags that wearily targeted the behemoth. At the climax of the battle, Goliath was destroyed by the blades charged by the Tree of Raikyuu itself, the highest tree in Kirigakure no Sato. It appears Huevo's advance was over. Unfortunately, another village chose to advance: this time it was on Sunagakure.
+<br><br>
+<hr>
+Current Era Year 100 - March to May
+<hr><br>
+Kumogakure, led by the infamous Hornet and its three top factions, decided to lay siege upon Sunagakure in an effort to claim the village as its own. Should they have succeeded, they would have received recognition directly from the Gezo itself; in the search of recognition and legalization, Hornet attacked Sunagakure with all of its might. Once a three-thousand soldier behemoth of a village was reduced to nearly half of that number. While Sunagakure managed to protect itself in the first month from the front thanks to the presence of their Shodaime Kazekage - Sazuke, Jak, the tables had turned in Kumogakure's favor as Sunagakure made a rash decision to attempt taking over Konohagakure.
+<br><br>
+With the assistance of the Nidaime Mizukage, the head of the Shodaime Kazekage was claimed. Sazuke, Jak was killed by Kirigakure forces, leaving Sunagakure utterly defenseless to the attacks of Kumogakure. By sheer luck and strategy, the forces of Sunagakure managed to repel Kumogakure forces despite all of their scheming behinds the scenes, resulting in Kumogakure's ultimate demise and eventual return under new leadership. 
+<br><br>
+<hr>
+Current Era Year 100 - June
+<hr><br>
+Kirigakure no Sato had found themselves weakening from the loss of their Nidaime Mizukage, who succumbed to poison. This resulted in a change in leadership and a renewal of Kirigakure no Sato as a whole, though still abiding by the philosophy of the late Nidaime Mizukage. On the other hand, the technological advancement of Sunagakure no Sato lured attention to them, that of which from Amegakure no Sato. In a series of skirmishes, Amegakure no Sato seized their technological marvels as well as their engineers, resulting in Sunagakure no Sato becoming the weakest out of all four villages.
+<br><br>
+Konohagakure and Kumogakure experienced leadership changes as well. Konohagakure lost their interim-Nidaime Hokage and gave Zetsumo the chance to seize power and the opportunity to embed his name into history. Kumogakure, who had lost their Shodaime Raikage, changed leadership to Mikaelson, Niklaus, the Nidaime Raikage. Under a new reign, Kumogakure became known as the Bloody Kumogakure no Sato, with an extremely strict and harsh training regiment, resulting in the deaths of many a citizen and ninja. 
+<br>
+<hr><font color="#FFFFFF">-Illusions of Granduer </font><hr>
+<br></div>
+
+
+<div style="width: 600px; height: 800px; overflow-y: hidden;">
+<a name="three"></a>
+<div style="width: 600px; height: 800px; overflow: auto;"
+align="center">
+ <br><br>
+<font face="Calibri"><font size="2"><font color=#808080>
+(Bounty: None) "The Crazed" - Mae - Status: <font color=red>Deceased</font><br>This buxom woman is known for her services as Konohagakure's new "Nidaime" Hokage. Her powers are akin to Urek's own powers, but her habits can be described as depraved and disgusting. Many warn people to exercise caution around her..<br>
+---------------------<br>
+<font face="Calibri"><font size="2"><font color=#808080>
+(Bounty: None) "The Speed Star" - Saeki, Kenshin - Status: <font color=red>Deceased</font><br>Saeki, Kenshin is best known for his efforts in Kirigakure no Sato as a Chuunin ninja. Now a Missing Ninja, Kenshin is considered the fastest living thing the ninja world has ever seen, rumoring to top three-hundred miles an hour easily. He has gone into hiding recently.<br>
+---------------------<br>
+<font face="Calibri"><font size="2"><font color=#808080>
+(Bounty: 1,000,000) "The Legend Killer" - Urek - Status: <font color=red>Deceased</font><br>Urek is a mighty warrior who does not back down from a fight. He has fought and repelled a hundred Kumogakure soldiers by himself and sees himself as a freelance mercenary. Caution is to be exercised around this terrifying demon.<br>
+-------------------------<br>
+<font face="calibri"><font size="2"><font color=#808080>
+(Bounty: 500,000) "The God of War" - Zetsumo- Status: <font color=red>Deceased</font><br>Known for the fact that he is the Nidaime Hokage, Zetsumo's arsenal is known to be infinite. He is called The God of War because of his incredible fighting prowess and his inability to lose. This was only revoked in one situation by the White Demon, Kastya. <br>
+--------------------------<br>
+<font face="calibri"><font size="2"><font color=#808080>
+(Bounty: 500,000) "White Demon" - Kastya - Status: <font color=red>Deceased</font><br>Kastya is the Nidaime Kazekage, after replacing the previous interim Nidaime Kazekage Seto. She is known for her brutish and monstrous strength, capable of rendering mountains asunder as well as the human body shattered. Not only that, but under situations of pressure, the White Demon is unleashed from her.<br>
+---------------------------<br>
+<font face="calibri"><font size="2"><font color=#808080>
+(Bounty: None) "The Black Blade" - Hogo, Tethys - Status: <font color=red>Deceased</font>><br>Hogo, Tethys is known for the wielding of his black blade. Tethys is known to be one of the most loyal and strongest ninja of Kirigakure no Sato. Little is known of him, but his might and prowess have spread throughout the shinobi world. <br>
+----------------------------<br>
+<font face="calibri"><font size="2"><font color=#808080>
+(Bounty: None) "The Ruthless" - Mikaelson, Niklaus - Status: <font color=red>Deceased</font><br>Mikaelson Niklaus is known for his many ruthless training regiments in Kumogakure no Sato. Willing to kill his own men to deliver a point, he is not one anyone wishes to anger, as his anger only unleashes the caged monster inside. Niklaus is a ruthless monarch in Kumogakure and has recently seized power as the Nidaime Raikage, ushering in the age of tyranny.<br>
+-----------------------------<br>
+<font face="calibri"><font size="2"><font color=#808080>
+(Bounty: 1,000,000) "The Warlord" - Tetsujin - Status: <font color=red>Deceased</font><br>Very little is known of this man. However, Tetsujin is known to have slain Urek himself and was the cause of the Legend Killer's demise. His abilities are relatively unknown..<br>
+-----------------------------<br>
+<font face="calibri"><font size="2"><font color=#808080>
+(Bounty: None) "The Serene" - Kilm - Status: <font color=red>Deceased</font><br>Very little is known about Kilm other than he is the ideal person to look to for motivation. Each move he makes is for the better good and each word he speaks is to help. Kilm is just that guy.<br>
+-----------------------------<br>
+<font face="calibri"><font size="2"><font color=#808080>
+(Bounty: 1,000,000) "The Architect" - Taiga, Edge - Status: <font color=red>Deceased</font><br>Edge is that one guy in the back of the class that's always quiet and writing something in a journal. You never see exactly what he's writing, but you know the day that's revealed it's game over. Edge made his name felt across the entire Shinobi World in mere months of becoming a registered shinobi. Currently, his whereabouts are unknown.<br>
+
+</div>
+
+<div style="width: 600px; height: 800px; overflow-y: hidden;">
+<a name="four"></a>
+<div style="width: 600px; height: 800px; overflow: auto;"
+align="center">
+<font face="Calibri"><font size="2"><font color=##0099FF>
+<br><br>
+<font color="#808080"><font size="5"><u><font color=purple>Recent Events and <font color=green>Rumors</u></font></font>
+<p><ul>
+<li>. <font color=green></font></li>
+<li>. <font color=green></font></li>
+<li>.</li>
+</ul>
+
+</div>
+
+</div>
+
+<div style="width: 600px; height: 800px; overflow-y: hidden;">
+<a name="five"></a>
+<div style="width: 600px; height: 800px; overflow: auto;"
+align="center">
+<font face="Calibri"><font size="2"><font color=black>
+<br><br>
+<table border=2.5 bordercolor=black><tr><td>
+<font size="2"<font color=#FFCC00><font face="Segoe Print">
+<center><p><br><br>
+<br><br>  ================================
+<br><br>                 The Shinobi Times
+<br><br>  ================================
+<table border=4 bordercolor=black><tr><td>
+<font size="1.5"><font color=#FFCC00><font face="Segoe Print">
+<center><p><BODY BGCOLOR="Black">
+<div class="tree">
+ <ul>
+ <li>(Present-) Peaceful Era</a>
+ <ul>
+</div>
+</div>
+
+</div>
+
+
+
+</body></html>
+
+
+
+
+
+
+
+
+

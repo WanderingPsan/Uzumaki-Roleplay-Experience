@@ -1,0 +1,3060 @@
+
+x = 118
+y = 195
+z = 10
+B1 = list()
+B2 = list()
+B3 = list()
+B4 = list()
+B5 = list()
+B6 = list()
+B7 = list()
+B8 = list()
+B9 = list()
+F1 = list()
+F2 = list()
+G1 = list()
+G2 = list()
+G3 = list()
+M1 = list()
+M2 = list()
+M3 = list()
+M4 = list()
+M5 = list()
+M6 = list()
+Village = "Sunagakure"
+Trait = "Average"
+PrimaryElement = "Fire"
+displaykey = "IWantMyRealKeyBack"
+stat = 1
+Age = 15
+StaminaGain = 1.10000002384185791015625
+lx = 118
+ly = 195
+lz = 10
+WHO = list()
+ChakraGain = 1.2999999523162841796875
+StrengthGain = 1.5
+AgilityGain = 1.10000002384185791015625
+OffenceGain = 1.5
+DefenceGain = 1.2000000476837158203125
+ControlGain = 1.10000002384185791015625
+ResistanceGain = 1.2999999523162841796875
+TaijutsuGain = 1.10000002384185791015625
+NinjutsuGain = 1.5
+GenjutsuGain = 1.5
+Tan = 1
+Oicon = filedata("name=Base_Tan.dmi;length=5163;crc32=0xbc8c3f2d;encoding=base64",{"
+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
+"})
+name = "Ryujin, Fujitora"
+icon = object("//Oicon",0)
+gender = "male"
+key = "Tre sanders"
+contents = list(
+		object(".0"),
+		object(".1"),
+		object(".2"),
+		object(".3"),
+		object(".4"),
+		object(".5"),
+		object(".6"),
+		object(".7"),
+		object(".8"),
+		object(".9"),
+		object(".10"),
+		object(".11"),
+		object(".12"),
+		object(".13"),
+		object(".14"),
+		object(".15"),
+		object(".16"),
+		object(".17"),
+		object(".18"),
+		object(".19"),
+		object(".20"),
+		object(".21"),
+		object(".22"),
+		object(".23"),
+		object(".24"),
+		object(".25"),
+		object(".26"),
+		object(".27"),
+		object(".28"),
+		object(".29"),
+		object(".30"),
+		object(".31"),
+		object(".32"),
+		object(".33"),
+		object(".34"),
+		object(".35"),
+		object(".36"),
+		object(".37"),
+		object(".38"),
+		object(".39"),
+		object(".40"),
+		object(".41"),
+		object(".42"),
+		object(".43"),
+		object(".44"),
+		object(".45"),
+		object(".46"),
+		object(".47"),
+		object(".48"),
+		object(".49"),
+		object(".50"),
+		object(".51"),
+		object(".52"),
+		object(".53"),
+		object(".54"),
+		object(".55"),
+		object(".56"),
+		object(".57"),
+		object(".58"),
+		object(".59"),
+		object(".60"),
+		object(".61"),
+		object(".62"),
+		object(".63"),
+		object(".64"),
+		object(".65"),
+		object(".66"),
+		object(".67"),
+		object(".68"),
+		object(".69"),
+		object(".70"),
+		object(".71"),
+		object(".72"),
+		object(".73"),
+		object(".74"),
+		object(".75"),
+		object(".76"),
+		object(".77"),
+		object(".78"),
+		object(".79"),
+		object(".80"),
+		object(".81"),
+		object(".82"),
+		object(".83"),
+		object(".84"),
+		object(".85"),
+		object(".86"),
+		object(".87"),
+		object(".88"),
+		object(".89"),
+		object(".90"),
+		object(".91"),
+		object(".92"),
+		object(".93"),
+		object(".94"),
+		object(".95"),
+		object(".96"),
+		object(".97"),
+		object(".98"),
+		object(".99"),
+		object(".100"),
+		object(".101"),
+		object(".102"),
+		object(".103"),
+		object(".104"),
+		object(".105"),
+		object(".106"),
+		object(".107"),
+		object(".108"),
+		object(".109"),
+		object(".110"),
+		object(".111"),
+		object(".112"),
+		object(".113"),
+		object(".114"),
+		object(".115"),
+		object(".116"),
+		object(".117"),
+		object(".118"),
+		object(".119"),
+		object(".120"),
+		object(".121"),
+		object(".122"),
+		object(".123"),
+		object(".124"),
+		object(".125"),
+		object(".126"),
+		object(".127"),
+		object(".128"),
+		object(".129"),
+		object(".130"),
+		object(".131"),
+		object(".132"),
+		object(".133"),
+		object(".134"),
+		object(".135"),
+		object(".136"),
+		object(".137"),
+		object(".138"),
+		object(".139"),
+		object(".140"),
+		object(".141"),
+		object(".142"),
+		object(".143"),
+		object(".144"),
+		object(".145"),
+		object(".146"),
+		object(".147"),
+		object(".148"),
+		object(".149"),
+		object(".150"),
+		object(".151"),
+		object(".152"),
+		object(".153"),
+		object("//captarget/.0"),
+		object(".154"),
+		object(".155"),
+		object(".156"),
+		object(".157"),
+		object(".158"),
+		object(".159"),
+		object(".160"),
+		object(".161"),
+		object(".162"),
+		object(".163"),
+		object(".164"),
+		object(".165"),
+		object(".166"),
+		object(".167"),
+		object(".168"),
+		object(".169"),
+		object(".170"),
+		object(".171"),
+		object(".172"),
+		object(".173"),
+		object(".174"),
+		object(".175"),
+		object(".176"),
+		object(".177"),
+		object(".178"),
+		object(".179"),
+		object(".180"),
+		object(".181"),
+		object(".182"),
+		object(".183"),
+		object(".184"),
+		object(".185"),
+		object(".186"),
+		object(".187"),
+		object(".188"),
+		object(".189"),
+		object(".190"),
+		object(".191"),
+		object(".192"),
+		object(".193"),
+		object(".194"),
+		object(".195"),
+		object(".196"),
+		object(".197"),
+		object(".198"),
+		object(".199"),
+		object(".200"),
+		object(".201"),
+		object(".202"),
+		object(".203"),
+		object(".204"),
+		object(".205"),
+		object(".206"),
+		object(".207"),
+		object(".208"),
+		object(".209"),
+		object(".210"),
+		object(".211"),
+		object(".212"),
+		object(".213"),
+		object(".214"),
+		object(".215"),
+		object(".216"),
+		object(".217"),
+		object(".218"),
+		object(".219"),
+		object(".220"),
+		object(".221"),
+		object(".222"),
+		object(".223"),
+		object(".224"),
+		object(".225"),
+		object(".226"))
+	.0
+		type = /obj/Custom/Med/Meditate
+		RPPSpent = 182
+		idran = "Chakra"
+	.1
+		type = /obj/Custom/Ninjutsu/Drank/Shunshin
+		RPPSpent = 98
+		skil = "Mastered"
+		dran = 180.0749969482421875
+	.2
+		type = /obj/Perk/Reflex
+		description = "This character's reflexes are even more impressive than that of a character with the reflex perk. They are capable of dodging projectiles at medium range, and are capable of trading blows and blocking effectively with fast characters."
+		tier = 2
+		name = "Heightened Reflex"
+		icon_state = "rfx2"
+	.3
+		type = /obj/Perk/Katana_Proficiency
+		description = "This character's skill with a Katana is nothing to be laughed at. They are able to cut through an unguarded opponent with ease."
+		tier = 2
+		name = "Katana Proficiency 2"
+	.4
+		type = /obj/Perk/Shinobi_Info_Card
+	.5
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 15
+		ele = "Elementless"
+		description = "It's a simple technique where two shuriken, like the Fuma Shuriken, are piled one onto another and thrown simultaneously. However, depending on the way it's used, it can prove its absolute efficiency. The trick is to somehow draw the enemy's attention towards the upper shuriken. Then, they have to deal with the path of the lower, unnoticed shuriken. However, if the enemy notices both shuriken, which is done when they duck down, the technique ends up losing most of its efficiency."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		idran = "Chakra"
+		name = "Shadow Shuriken Technique"
+	.6
+		type = /obj/Custom/Genjutsu/Drank/Genjutsu_Kai
+		RPPSpent = 33
+		skil = "Mastered"
+		dran = 60.02500152587890625
+	.7
+		type = /obj/items/Clothing/Pants
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.8
+		type = /obj/items/Clothing/Holster
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+		icon = null
+	.9
+		type = /obj/items/Clothing/Shoes
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = null
+	.10
+		type = /obj/items/Clothing/Slash
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+		icon = null
+	.11
+		type = /obj/items/Clothing/Jacket
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Police Mask"
+		suffix = ""
+		icon = null
+	.12
+		type = /obj/items/Weapon/Shuriken
+		shuriken = 98
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "You current have 98 in this stack"
+	.13
+		type = /obj/Perk/Chakra
+		RPPSpent = 76
+	.14
+		type = /obj/Teacher
+	.15
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 5
+		ele = "Earth"
+		description = "This technique lets the user summon a river of mud. This technique can have water added to it to speed up the flow and increase its power."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 79.41306304931640625
+		idran = "Chakra"
+		name = "Earth Style: Mud Silhouette"
+	.16
+		type = /obj/items/Weapon/Tanto
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.17
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 40
+		ele = "Water"
+		description = "The user fires out a stream of water from their mouth. This is the simplest of water release techniques."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 35.66970062255859375
+		idran = "Chakra"
+		name = "Ninja Art: Watergun"
+	.18
+		type = /obj/items/Clothing/Suna_Head_Scarf
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.19
+		type = /obj/Perk/Uchiha_Compassion
+		canttier2 = 0
+		RPPSpent = 177
+	.20
+		type = /obj/items/Food/Small_Fish
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.21
+		type = /obj/Genjutsu/Henge
+	.22
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 33
+		ele = "Fire"
+		description = "Fire chakra engulfs the desired weapon in intense localised flames, which follow the subsequent path of the object in question, incinerating anything which comes into direct contact."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 80.09033203125
+		idran = "Chakra"
+		name = "Chakra Flow: Fire"
+	.23
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 27
+		ele = "Elementless"
+		description = "The user swings their sword in a single, large, crescent moon-shaped arc, which occurs with such ferocious velocity that the technique can be employed in situations where only a very limited time to react is available. The swing can be used to counter attacks from multiple opponents simultaneously."
+		skil = "Mastered"
+		jut = "Kenjutsu"
+		ran = "C"
+		dran = 177.978515625
+		idran = "Chakra"
+		name = "Crescent Moon Beheading"
+	.24
+		type = /obj/Perk/Basic_Sealing
+		description = "This character is skilled enough with sealing to seal a massive amount of weapons into a single scroll or object. They can seal a large number of weapons into a person's body, leaving seals grafted to one's skin permanently(even after the seal has been released), and even block one's ability to use up to one chakra nature, or just a bit of their chakra in general."
+		tier = 4
+		name = "Advanced Sealing"
+	.25
+		type = /obj/Custom/Fuuinjutsu/Drank/Basic_Sealing
+		RPPSpent = 4
+		skil = "Expert"
+		dran = 171.5
+	.26
+		type = /obj/Custom/Katon/Crank/FireDragonBullet
+		RPPSpent = 1
+		skil = "Mastered"
+		dran = 221.484375
+	.27
+		type = /obj/Custom/Fuuinjutsu/Crank/Lotus_Sealing
+		skil = "Expert"
+		dran = 281.25
+	.28
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 19
+		ele = "Elementless"
+		description = "The user concentrates chakra into their finger and using the heat from that, can apply writing of whatever they want to a surface. This technique however requires them to be very delicate with their chakra control. This technique causes slight discomfort for a living target and if it is on flesh, it will scar."
+		skil = "Novice"
+		jut = "Fuuinjutsu"
+		ran = "C"
+		dran = 58.125
+		idran = "Chakra"
+		name = "Finger Carving Seal"
+	.29
+		type = /obj/Ninjutsu/Suimen_Hokou_no_Waza
+		skill = 2
+		Active = 1
+	.30
+		type = /obj/Ninjutsu/Kawarimi
+	.31
+		type = /obj/Genjutsu/Bunshin
+	.32
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 1
+		ele = "Fire"
+		description = "A technique where chakra kneaded inside the body is converted into fire and expelled from the mouth either as a massive orb of roaring flame or as a continuous flame-thrower. The scope of the attack is altered by controlling the volume of chakra that is mustered. The released flames will engulf their target, and leave a crater on the ground's surface. This technique apparently requires more than average chakra reserves and most genin should not be able to do this technique."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 112.6270294189453125
+		idran = "Chakra"
+		name = "Fire Style: Fireball Jutsu"
+	.33
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = null
+	.34
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.35
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.36
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.37
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.38
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.39
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.40
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.41
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.42
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.43
+		type = /obj/items/Weapon/Shuriken
+		shuriken = 4
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "You current have 4 in this stack."
+	.44
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.45
+		type = /obj/items/Clothing/Suna_Chuunin
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.46
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html>\n<head><center><title>Kumo Lingo</title></center></head>\n<body><body bgcolor=black text=white>\n \n<body background=\"\" bgproperties=\"fixed\" text=\"#FFFFFF\" style=\"background-position:top; background-repeat:no-repeat;\">\n \n<table align=\"center\" cellpadding=\"0\" border=\"0\" cellspacing=\"0\"><tr><td><table align=\"center\" cellspacing=\"1\" cellpadding=\"1\" bgcolor=\"#111\" style=\"filter:alpha(opacity=70)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=70\"><tr><td bgcolor=\"#333\" background= https://upload.wikimedia.org/wikipedia/commons/2/22/Animated_fire_by_nevit.gif<a href=\"g\" target=\"_blank\"><img src=\"http://i.gyazo.com/89e012c1ff7ed8d7de7baec3fa3ac726.png\"  length = 400 width = 400 border=\"0\" alt=\"\"></a>\n<div style=\"margin-top:15px;background:#111;padding:0px;font-family:cambria;letter-spacing:-3px;text-transform:uppercase;font-size:30px;color:#777;text-align:center;\">\n \n \n<font color=yellow> Kumo Lingo (Prod. Zaytoven )\n<div style=\"margin-top:-5px;font-family:cambria;letter-spacing:2px;text-transform:uppercase;font-size:15px;color:#555;\">\n \n<font color=Red></font><font color=black font-size:30></font>\n \n</div></div></td></tr></table></td></tr></table></td><td>\n</td><td>\n</td><td><table align=\"center\" cellpadding=\"2\" border=\"0\" cellspacing=\"0\" bgcolor=\"red\" style=\"filter:alpha(opacity=40)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=40\"><tr><td>\n \n<table align=\"left\"><table align=\"left\" cellspacing=\"3\" cellpadding=\"0\"><tr><td align=\"top\" bgcolor=\"#000000\" height=\"600\" width=\"800\" border=\"0\" style=\"filter:alpha(opacity=90)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=90\"><div style=\"padding:float:left;6px;font-family:cambria;letter-spacing:-1px;font-size:20px;color:yellow;margin-bottom:400px;\">\n \n</div><div style=\"padding:3px;background:#000000;width:93%;margin:0 auto;\"></div><div style=\"padding-left:6px;padding-right:6px;line-height:175%;font-family:cambria;color:black>;font-size:11px;\">\n \n<div style=\"border-bottom:1px solid #000000\"><b>\n \n<font color=red>\n\n \n \n \n<center>\n<table style=\"width:300px\">\n<tr>\n<td background=\"\">\n<script type=\"text/javascript\">\n<!--\nfunction toggle_visibility(id) {\nvar e = document.getElementById(id);\nif(e.style.display == 'none')\ne.style.display = 'block';\nelse\ne.style.display = 'none';\n}\n//-->\n</script>\n<html>\n<font color=\"#535353\">\n<font face=\"calibri\"; size=3>\n<a onclick=\"toggle_visibility('goo');\">\n<br>\n<b><center>1. Ether - Reasons ft. Klaus, 2go</b></font>\n<br>\n<font face=\"calibri\"; size=\"2\"></font>\n</center>\n<br>\n</b></a><div id=\"goo\" style=display:none;>\n<center><font face=\"calibri\"; size=2><font color=\"#8A0804\">\nIntro<br>\nWe got the Ether on da' track<br>\nAye aye<br>\n<br><br><br>\nVerse 1 (Ether)\nClouds cause the rain (rain), <br>\nLighting and the thunder the strom rages again (gain),<br>\nFlow it be da fire, than us it gets no higher. <br>\nThey say the ticket to the top will one day expire,<br>\nI don't see it happing at all, I got all of the women, <br>\nLook up all you see is us,  clouding your vision, <br>\nLike a ninja on a mission never know when you will go missing,<br>\n All about my Yen dawg so why is everybody trippin,<br>\nTo many split second decesions why you worried bout me,<br>\nIm a just let this hook translate cause its no secret, <br><br>\n                                 \n \nHook (Ether)<br>\nI got em looking up and down, thats sight seeing <br>\nThey wanna know the future, that's palm reading<br>\nGrind so far gone won't stop, thats changing seasons<br>\nWhy am I so high up?<br>\nIts cause i got reasons<br>\nYeah, I got reasons<br>\nYeah .I got reasons<br>\nYou got reasons stay down for me we dont do Treason<br>\nAye I say we Dont do Treason and I got Reasons<br><br>\n\nVerse 2 (Klaus)<br>\nLocked up in jail a nigga was only fifteen,<br>\nNigga seeking help from public community,<br>\nFather told me my blood wasn't new to me,<br>\nGet down on my knees and pray for new belief.<br>\nCome out from time,<br>\nShooting them flies,<br>\nGlaw, glaw, glaw.<br>\nExtendo hit you like chopper don't lie<br>\nI run out from p the devil is a lie<br>\nReal nigga got ice<br>\nDrip drip drip<br>\nHave your bitch in the kitchen when she whip whip whip<br>\nWhippin till we take a trip<br>\nTrip to overseas<br>\nNiggas be wondering why bitches over me<br><br>\n\nHook<br><br>\n\nVerse 3 (2go)\nYeaaaaaaaaaahhhhhhhhhhhhh 2-Go!!!!!!!  \nUh Reason they like Raysons(rasins)<br>\n You girl swallow me I don't raise Sons<br>\n Im so bright they call me Raise Sun <br>\nwhere my check i need a Raise son no test\n 2go something you dont test .<br>\nstill say its mine...Wait what how that boy Carcausion when he Look like a Shadow and a Rasin Ugh... <br>\nNo money make money <br>\n2go take your money<br>\nBunny Rabbit i eat the cabbage<br>\nno magic<br>\n I got a new girl call her Ass-tastic<br><Br>\n Got my hands up in the air I can't breath... asmatic I got my reasons 2go thats  all you know..Dats Real <br><br>\n\nHook\n\n<br><br>\n                                 Bridge (Ether)<br><br>\nOhhhhhhh There is all a Reason............Waaatch how you trust cause they can change on you like the Seasons.........All that I know .allllll that i know iisssss... Everythang is done For a reason.. From the wayyy you got your Hair to the perfume that you wear.. Ohhh ohhhh ohhh ohh hooooooo.. Reasonos For making me think you down.. Reasons for clingin to arm infront all these people.....Ohhh yeah theres Reason's baby.... And it drives me crayz...aye aye alll I ever want is Reasons............aye Reasooonnssss oh ,, oh . ohhhhhoooooo. aye.\n (End)\n<br>\n<br></div>\n</td></tr></table></center>\n<br><hr><br>\n \n<center>\n<table style=\"width:300px\">\n<tr>\n<td background=\"\">\n<script type=\"text/javascript\">\n<!--\nfunction toggle_visibility(id) {\nvar e = document.getElementById(id);\nif(e.style.display == 'none')\ne.style.display = 'block';\nelse\ne.style.display = 'none';\n}\n//-->\n</script>\n<html>\n<font color=\"#535353\">\n<font face=\"calibri\"; size=3>\n<a onclick=\"toggle_visibility('foo');\">\n<br>\n<b><center>Klaus - Trappin Out</b></font>\n<br>\n<font face=\"calibri\"; size=\"2\"></font>\n</center>\n<br>\n</b></a><div id=\"foo\" style=display:none;>\n<center><font face=\"calibri\"; size=2><font color=\"#8A0808\">\n<font color=Red>Soon:</font></b><br>\nComing Soon\n\n<br>\n<br></div>\n</td></tr></table></center>\n<br><hr><br>\n \n<center>\n<table style=\"width:300px\">\n<tr>\n<td background=\"\">\n<script type=\"text/javascript\">\n<!--\nfunction toggle_visibility(id) {\nvar e = document.getElementById(id);\nif(e.style.display == 'none')\ne.style.display = 'block';\nelse\ne.style.display = 'none';\n}\n//-->\n</script>\n<html>\n<font color=\"#535353\">\n<font face=\"calibri\"; size=3>\n<a onclick=\"toggle_visibility('doo');\">\n<br>\n<b><center>Klaus - Ninstagram ft. Ether</b></font>\n<br>\n<font face=\"calibri\"; size=\"2\"></font>\n</center>\n<br>\n</b></a><div id=\"doo\" style=display:none;>\n<center><font face=\"calibri\"; size=2><font color=\"#8A0808\">\n<u><b><font color=Red>Coming soon</font></b></u><br>\n<div>\n</center>\n<br>\n<br></div>\n</td></tr></table></center>\n<br><hr><br>\n \n<center>\n<table style=\"width:300px\">\n<tr>\n<td background=\"\">\n<script type=\"text/javascript\">\n<!--\nfunction toggle_visibility(id) {\nvar e = document.getElementById(id);\nif(e.style.display == 'none')\ne.style.display = 'block';\nelse\ne.style.display = 'none';\n}\n//-->\n</script>\n<html>\n<font color=\"#535353\">\n<font face=\"calibri\"; size=3>\n<a onclick=\"toggle_visibility('boo');\">\n<br>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Kumo Lingo Mixtape"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.47
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.48
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.49
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.50
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.51
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.52
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.53
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.54
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.55
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.56
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.57
+		type = /obj/items/Food/KoolAidPowder
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.58
+		type = /obj/Perk/Studious_1
+		tier = 2
+		name = "Studious 2"
+	.59
+		type = /obj/items/Clothing/Anbu_Mask_Blue
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.60
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 13
+		ele = "Elementless"
+		description = "After placing two seals upon the target. This jutsu then causes that targets body to overheat from the inside and out over time per RP. Causing them to slow down in speed depending on how strong the seal is made to be by the user if they have the proper traning ; eventually bringing them down to their knees if not handled by two serperate people who can take off the seal at the very same time. If not then they will suffer immense internal heat as well as those who fail to remove it.  \[If not removed this has potential to kill\]"
+		skil = "Mastered"
+		jut = "Fuuinjutsu"
+		ran = "C"
+		dran = 94.921875
+		idran = "Chakra"
+		name = "Overheat Sealing"
+	.61
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 12
+		ele = "Earth"
+		description = "This technique changes earth into fine sand by channelling chakra into it, allowing the user to dig through it like a mole. This effect goes around the body (not just the hands), making it just large enough for a person to move through. The user can pinpoint where they are, despite being underground, by sensing the magnetic forces. They can also sense what is happening on the surface and use that information to launch a surprise attack on the enemy.One can also hide deep in the ground, escaping to a depth where the enemy can't reach. It also appears that after digging, the ground can be returned to its original state, leaving no trace of where the user entered the earth."
+		skil = "Veteran"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 256.2890625
+		idran = "Chakra"
+		name = "Earth Style: Hiding like a Mole Jutsu"
+	.62
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Elementless"
+		description = "A taijutsu where one launches a succession of high kicks and low kicks. Firstly, the opponent's evasion margin is restrained upon seeing the high kick, thus augmenting the chances for the low kick to hit the mark. So originally the high kick is little more than a feint."
+		skil = "Mastered"
+		jut = "Taijutsu"
+		ran = "D"
+		dran = 25.941600799560546875
+		idran = "Stamina"
+		name = "Konohagakure Style Taijutsu: Leaf Whirlwind"
+	.63
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.64
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.65
+		type = /obj/Ninjutsu/Shunshin
+		Active = 1
+	.66
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.67
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "We shall speak again, perhaps not this month or this year but we will have much to discuss if I survive.\n\n-Be strong, Fuji. For the sake of your village, and your child.\nYour friend.\n<p>\n\n<i>Heiwa, Hirusho.<i>\n\n<p> \nDo not send me me another message. \n<br>\nIt will not reach me."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Until we meet again."
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.68
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+		mouse_drag_pointer = object("//overlays",6)
+	.69
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.70
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.71
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.72
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.73
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.74
+		type = /obj/items/Clothing/CloudHeadband
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.75
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 212
+		ele = "Elementless"
+		description = "This technique creates a barrier around a place by placing four forbidden (?, kin) tags in different locations surrounding the place to be protected, a fifth tag on the location to be protected. The tags are placed on flat surfaces, and are connected with the user's chakra. This technique turns the entire range surrounded by the tags into a barrier space, and inside the space, the material's destruction is forbidden. Using any kind of physical attack to try and destroy something in the barrier is folly, as it will only lead to injury. To cancel this, it is necessary to search for the four tags and tear them off simultaneously. Meaning there must be at least five people on a team to cancel it."
+		skil = "Expert"
+		jut = "Fuuinjutsu"
+		ran = "C"
+		dran = 220.693359375
+		idran = "Chakra"
+		name = "Five Seal Barrier"
+	.76
+		type = /obj/Perk/Adrenaline_Focus
+		RPPSpent = 28
+	.77
+		type = /obj/Perk/Attack_Speed
+		description = "This character's ability to attack quickly makes their attacks even harder to follow. They are able to change the direction of their attacks and even change which appendage they are attacking with."
+		tier = 2
+		name = "Attack Speed 2"
+		icon_state = "str2"
+	.78
+		type = /obj/Custom/Fuuinjutsu/Brank/Root_Sealing
+		skil = "Mastered"
+		dran = 307.20001220703125
+	.79
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.80
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.81
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.82
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.83
+		type = /obj/items/Clothing/Bear_Hat
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+		icon = null
+	.84
+		type = /obj/items/Weapon/Shuriken
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "You current have 1 in this stack"
+	.85
+		type = /obj/Student
+	.86
+		type = /obj/Jounin
+	.87
+		type = /obj/items/Clothing/Kumo_Jonin
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.88
+		type = /obj/Jounin
+	.89
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 12
+		ele = "Elementless"
+		Kekkei = 1
+		description = "Similar to the basic Clone Technique, this technique creates copies of the user. However, these clones are corporeal instead of illusions. The user's chakra is evenly distributed among every clone, giving each clone an equal fraction of the user's overall power. The clones are capable of performing techniques on their own and can even bleed, but will usually disperse after hit by a strong enough force. The clones can also disperse on their own or be dispelled by the user of the technique. Shadow clones can't be distinguished from the original with Sharingan, Byakugan, Rinnegan or Rinne Sharingan."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 207.6180419921875
+		idran = "Chakra"
+		name = "Shadow Clone Jutsu"
+	.90
+		type = /obj/EditVillagePage
+	.91
+		type = /obj/ToggleGuardHostility
+	.92
+		type = /obj/Kazekage
+	.93
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Elementless"
+		description = "The technique is basically the user performing a jump kick into their opponent's face."
+		skil = "Mastered"
+		jut = "Taijutsu"
+		ran = "D"
+		dran = 14.1835689544677734375
+		idran = "Stamina"
+		name = "Dynamic Entry"
+	.94
+		type = /obj/items/Clothing/MistHeadband
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.95
+		type = /obj/items/Clothing/Mist_Chuunin
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.96
+		type = /obj/Custom/Blank_Buff
+		BOOST = 20
+		GChak = -200
+		Gstr = 0.5
+		Gdef = 2
+		Gatkspd = 0.5
+		RPPSpent = 1842
+		description = "Fire rotates around the body of the user. While it does not touch the skin due to its finesse, it is able to veil the user from life-threatening blows by acting as a secondary epidermic layer of fire. It can heat up skeletal muscle cells and invigorate processes that produce ATP within the muscle cells, making their attacks a bit faster and also a bit more powerful. One with high levels of control and Elemental Training in Fire is able to manipulate the armor itself."
+		jut = "Ninjutsu"
+		idran = "Chakra"
+		name = "Fire Shroud"
+	.97
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 21
+		ele = "Elementless"
+		description = "With this technique a translucent string, both elastic and highly durable, is attached to a shuriken, making it possible to alter its path after having thrown it. An expert will have the ability to freely glide the shuriken in any direction with just a single movement of their fingertip. The first attack, challenging the enemy, is avoided and after a time-lag of several seconds, it will come from behind. Depending on the performance, the possible tactics can be infinite."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 60.02500152587890625
+		idran = "Chakra"
+		name = "Manipulated Shuriken"
+	.98
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Elementless"
+		description = "This genjutsu creates eerie black ninja illusions, which appear one by one from trees and rocks, and then corners the enemy. Their movements are somehow slow, but when attacked they multiply, and in this way they appear like ghosts inhabiting the mist. Kunai knives are added to this technique, by throwing them to match illusions movement, making them seem real. As the clones continue to multiply rapidly, the victim will eventually be worn down."
+		skil = "Mastered"
+		jut = "Genjutsu"
+		ran = "D"
+		dran = 156.344482421875
+		idran = "Chakra"
+		name = "Mist Servant Jutsu"
+	.99
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 1
+		ele = "Elementless"
+		description = "This is a genjutsu that reveals the fears that dwell inside people's hearts. Everyone has an image of the one thing they wouldn't want to ever see. This genjutsu is a technique that draws forth such an image from within the heart and has one mistake it for reality. First, an imaginary circle of leaves will spin around and envelop the target, falling away shortly after. After a short period, the illusion will begin. This is to make the illusion more convincing, since the user will likely have moved before the illusion sets in. If the mental image is a gruesome one, the shock will be accordingly great."
+		skil = "Mastered"
+		jut = "Genjutsu"
+		ran = "D"
+		dran = 208.4593048095703125
+		idran = "Chakra"
+		name = "Demonic Illusion: Death Mirage Jutsu"
+	.100
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 28
+		ele = "Elementless"
+		description = "uses this genjutsu to break the will of his (captured) target, to make him or her give as much information as possible. However, if the target has strong will, the technique will be useless."
+		skil = "Mastered"
+		jut = "Genjutsu"
+		ran = "D"
+		dran = 121.76671600341796875
+		idran = "Chakra"
+		name = "Interrogation Jutsu"
+	.101
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 13
+		ele = "Elementless"
+		description = "The Summoning Technique is a space–time ninjutsu that allows the summoner to transport animals or people across long distances instantly via blood. This character summons Monkeys. They are capable of feats of great speed and agility."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 110.12420654296875
+		idran = "Chakra"
+		name = "Kuchiyose no Jutsu"
+	.102
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 41
+		ele = "Earth"
+		description = "This technique conceals the user underground and drags the object of their attack down into the earth, robbing them of their freedom. In addition, they can start another attack."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 2.9697768688201904296875
+		idran = "Chakra"
+		name = "Earth Style: Headhunter Jutsu"
+	.103
+		type = /obj/items/Scrolls/Mission_Scroll/CustomMission
+		mission = "<html><body bgcolor = grey><center><b><hr><font size = 5>-Rank Mission:  </font></b><br><hr><br>You must   to <br><hr><br>RP Requirements:<hr><br>Either 2 RPs per map, walk to the target as you RP. OR call an admin and RP with them to complete the mission.</center>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = " Mission:   to !"
+	.104
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 11
+		ele = "Hiden"
+		Kekkei = 1
+		description = "The user places several seals upon several different forms of mass to link and assemble together with the art of Fuuinjutsu in order to create a giant golem based off the solid element of which they may place these seals upon. The durability of the golem is high depending on the mass used for its creation, being a tree, a giant rock or any form of matter used to make the structure of this massive golem, granted that they are unable to use ninjutsu or genjutsu, they are as strong as the user makes them out to be with the ability to regenerate until the seals upon their bodies are completely destroyed . These golems are at the full command of the user. <br><br>\[Durability of the Object used (Most prevalent component of the golem in cases of fusion) + User's Control determines Durability and Ninjutsu Defence of the Golem.\]<br>\[Base Stat: 10.\]<br>\[Strength stat is based on the durability of the golem\]"
+		skil = "Mastered"
+		jut = "Fuuinjutsu"
+		ran = "A"
+		dran = 522.0062255859375
+		idran = "Chakra"
+		name = "Golem Command Seal"
+	.105
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<b>Alright...! It has been a long time since I have written to you.. but if you are mad about me staying here to protect my village or at-least what it's left of it. You are suppose to take that out on me. Do not put our kids in this mess, between us. You know the reason I left you guys was to take care of the village. Now, I know I did wrong.. I admit it. I was stupid for leaving you guys all alone, but I am going to make it up for it. So, do you mind if I stay with Izanami for a bit? So we can catch up or something? I would ask how you are, but you probably hating the shit out of my right now.</b><br>\n<br>\nFrom\n<br>\nBerith \n\n<p>\n\nYou are a grown woman..You knew the reason why we had to go, why I tried to drag you along..Yet you still chose the village over me and our kids..I have taken nothing out on the kids..Just you, the memory of you has only angered me. You can take care of Izanami...But if you abandon her again..I swear Berith..I will Kill you...She did not deserve this, none of us did...All along I thought you were dead, and I kept my wedding ring on....All I wanted..Was our old family back together..As a husband, father and lover..My father Hassan rules the place now, thanks to my efforts to take Suna back..Your job  for why you stayed...I ended up doing what you failed and only to find out you were alive and well?! YOU DID NOTHING TO Contact us! \n..<p>\nHope it was worth it....Take care of the children...\n<p>\n<u> Fujitora , Holder Of The Seven </u>\n<p>\n\n<b>Okay.. I deserved that... all of what you said. I'm sorry for what I have put you and the kids through. But I am going to make it up for it...  I'll take care of our kids, and I won't abandon them but... I really miss you and I still do have our we-- nevermind. That's not important right now. Just... all I ask for you is to forgive me whenever you want... I'll make it up for you guys.. and I will take care of the kids..  and no it wasn't worth it. Wait, you say take care of the children as if you are going to be gone away from them for good?\n\nPS. I am happy that you moved on. </b>\n<br>\n<br>\nFrom\n<br>\nBerith \n\n<p>\nThere's only one way to make it up for lost time...And by the time that's possible..I'd have been dead...I will never forgive you for this..And yes..I've tried to move on..To fill that void...Yet I still love you....I'm sorry Berith..But you, nor the kids..Will likely see me, with how things are, many are soon to be after my head anyhow...\n<p>\nIt's funny...The last thing I wanted before I died..Was for us to be together again..Considering you..Played a major role in my life...Goodbye..My One And Only Wife..\n<p>\n<u> Fujitora-------Ink spills </u><br>\n<br>\n\n<b>What...? You.. are going to make me cry.. why do you have to do this? Do not run away from your family. Alright, fine, I did wrong but the kids need you.. I need you, Fujitora. Do not do this...! I can't protect our kids forever.. you know, I can't. But I will try my best, but we need you Fuji. I still am in love with you and I still got jealous when your father told me that you have a girlfriend. Just please... don't do nothing crazy.. I can fight by yourside. Listen, you don't have to forgive me but I can fight by yourside and I can help you in any problems... please? Don't do this....At-least visit the village once in a while...! I know, what I did was wrong.. and you hate me... but please, I beg you...</b>\n<br>\n<br>\nFrom\n<br>\nBerith \n<p>\nFrom Fujitora\n<p>\nMy battles will come soon...You and the children will only get killed with the likes of me around...I'd enjoy, kissing you once more before I go..Though I'm not sure when the day will come..I am prepared..Hassan is a great grandfather to Izanami..Do not lose trust in him...Yusei is a great boy..He's able to do 100 push ups..Izanami has made many friends..She's the Princess of Sunagakure....So Berith...Do me a Solid..Keep her happy..I am and will always be her father, its my duty to go to extremes to protect my young..And my love..The Gezo are gods, but I will face them willingly..\n<p>\n<u> Fujitora </u>\n<br>\n<b>....WHAT?!?! You are facing the Gezo?! I heard they were really strong, why are you doing this to me? Fujitora, damn it... you have kids here... your children. And I know you hate me but I love you and I miss you. I cannot let you die.. I promise, I will make the kids happy but you cannot die. It's not what I want.. It's not what the kids want. They want their father.... think about your kids...</b>\n<p>\n<u> Berith </u>\n<br>\n<p>\nBecause I was warned that they might come after her...Iza..And I will go and that is why I am preparing to face them..Eventually though if they do not show..I'll return to Suna..Untill then..I will stay here in Kiri..So...Wait for me..Perhaps I'll show...\n<p>\nFujiness\n\n<b>Just be safe... your father told me to stop being a teenager and to stop sending you messages and stuff. Just becareful and I will talk to you later..! I'll send you another message. I'm about to do a mission with Iza.</b>\n<p>\n<u> Berith </u>\n<br>\n<p>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = null /*invalid data*/
+		icon_state = ""
+		mouse_drag_pointer = object("//overlays",6)
+	.106
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 135
+		ele = "Elementless"
+		description = "The user places their palms upon a wound inflicted upon their target, healing it. This santizes wounds and stops bleeding. It is capable of compltely healing minor to moderate wounds such as sword-inflicted stab wounds."
+		skil = "Veteran"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 171.05230712890625
+		idran = "Chakra"
+		name = "Novice Healing Jutsu"
+	.107
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 8
+		ele = "Fire"
+		description = "By creating a spark from their hands, this technique allows the user to throw multiple balls of flames, which are able to either cause fiery explosions on impact or set the target on fire."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 74.20635223388671875
+		idran = "Chakra"
+		name = "Exploding Flame Shot"
+	.108
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = null
+		dir = 4
+	.109
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<center>  \n\"Opening the gate into a island of which one places himself at risk every second he steps foot on the very soil..This Labyrinth, there is a very core within the island you must reach..However there is no map, there is no guidence, just you..Yourself..the beast and the traps within it..Some illusions may be extremely powerful, some ebast may try to eat or rip your to shreds..You might enter a human and leave as a mutate..All depending on your very course of actions..There are about seven phases..All of which has a risk far greater than the last..You will be given a certain slab to take with you, this wll be your ONLY key and only chance to access anything on the island, doors and what not..But there is a risk for that as well..These doors might trigger a trap...This island ..THis maze..Is Hell on earth..Natures on wrath to us puny humans..\"\n</center>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "From Fujitora Ryujin"
+		icon = null
+		icon_state = ""
+	.110
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.111
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "It's kind of sad, Fujitora, Ushi had yet to tell me that he was your cousin, which means we are both related in a way. The more you know huh? But I have one thing to tell you and warn you about. I have no idea how Ushinawa died, but Tetsujin is back and in the flesh. He attacked me a couple of days ago, broke my ribcage and my femurs. I have bruises all across my body. I don't know if you know of his abilities or not, but he can turn into steel, followed by turning into a thousand pieces and upon him doing that, he can turn them into senbon and impale you with them, please becareful Fujitora. Niza, Hiewa, and you are my only family left......And also....I have something else to tell you in secret, and it's mainly because I can trust you.\n<br>\n<i>\nHideki\n<p>\nI see...This is most saddening news...Those two were my closest family memebers..Ushi may of been my cousin but he was a dear older brother to me..But for him I'll continue this life for him..\n<p>\n<u> Fujitora </u>\n(OOC NOTE))\n<p>\nhttp://pastebin.com/QCwVw6xQ\n<p>\n<p>\nhttp://pastebin.com/HQX4Jqte\n<p>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "News"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.112
+		type = /obj/Perk/Hand_Seal_Speed
+		description = "This character can complete up to sixteen handseals in a single round."
+		tier = 2
+		name = "Hand Seal Speed 2"
+	.113
+		type = /obj/Perk/Innate_Sensing
+	.114
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.115
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Fujitora, I got..into some -trouble- and I was in konohagakure, I am now within the walls of amegakure and I don't know what to do..I could use some help getting out, Would you mind telling kenshin I'm here? Or come and get me..Or something...Sabo attacked me, so my leg hurts..and I have this thing on my tongue...Can't say who placed it, or why..But I'll need you to get rid of a few people...\n<p>\nI'll explain the rest once I see you once more.\n<p>\nFrom, Kohaku.\n<p>\n<p>\n<p>\nP.S, I've gotten a bit stronger.\n"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Help"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.116
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.117
+		type = /obj/items/Clothing/Anbu_Mask_Blue
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.118
+		type = /obj/items/Clothing/Kimono
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Straw Hat (1)"
+		suffix = ""
+		icon = null
+	.119
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.120
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.121
+		type = /obj/Perk/Locksmith
+	.122
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.123
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 39
+		ele = "Fire"
+		description = "The user is able to create and blow a flammable gas from their lungs. Once it comes in contact with fire or spark, the gas ignites into a large fireball. "
+		skil = "Expert"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 81.1830291748046875
+		idran = "Chakra"
+		name = "Fire Style: Misty Flames Dance Jutsu"
+	.124
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "(*Sanoke sweeps up off feet, and moves.*)\n(*Sanoke ||Before the trip could begin, Sanoke had to gather the proper provisions. Good fortune shines about upon him. Not only was the former shinobi well-off economically, but he also had some skill in the usage of Fuuinjutsu. Speedily, he sprints around the landscape, stopping at the proper stores to gather needed tools and supplies; things like ninja weapons, tags/seals, and of course some food. \n\nThey also had flash bombs, and so forth. Ignoring his partial guilt for the essential robbing of a corpse, he moved ahead.\n\nUpon going shopping, Sanoke sprints ahead, once more grabbing Mirai in a b ridal fashion and moving beyond the protective borders of Sunagakure. Indeed, they'd be forced to trek along the dastardly desert. The sun is indiscriminate, and beats down on their frames, forcing sweat to seep through pores. Nevertheless, this was in the job description. It isn't long before Sanoke and Mirai trek moret han a mile into the middle of nowhere, following a general map that had been provided within the scroll.\n\nThe turtle sage kneels down, pressing a finger along the hot desert flooring. This was going to be difficult for sure. A hand would bite down, conjuring up some blood. \"Mirai. Your eyes can be used to track, yeah? I want you to scan the perimeter. Keep your vision close to the ground, and try to see if you can find some underground tunnels. If you do, I'll let you lead the way, so we can infiltrate. . . Luckily, I have some summons that can do just the trick,\" Sanoke declared.\n\nA hand presses against the ground after five seals, allowing small baby turtles to appear shortly afterwards. They appear ready and eager to go -- but that would have to wait. \n\n\"Let's do this, already. This mission shouldn't take long.\"*)\n(*Hokuma, Mirai || And so it began. Departing from Sungakure after being swept off of her feet into Sanoke's arms as per usual the Kunoichi would glance around as she was carried away as Sanoke sprinted rapidly. Coming to a halt for a second she would gaze around noticing that he stopped at a store to obtain some supplies that could be utilized during the mission. \n\nBeing a rookie Mirai would've simply watched Sanoke pick out tools such as seals, tags, and weaponry. Once the two had stocked up on supplies she would've been swept off of her feet and into his arms once again in bridal fashion as the two of them began to move beyond the boarders of Sunagakure exiting the village. The sun would've gleamed upon them, causing both of the Shinobi to sweat profusely as they followed the map and headed towards the location in which they had to make several arrests and seal off the mines. \n\nPeering towards Sanoke as he kneeled down and conjured up a turtle. Mirai would take matters into her own hands, activating her Byakugan and extending her vision considerably. With her Byakugan active she would heed his orders and began to scan the area searching for an underground tunnel of some sort. \nFortunately, her Byakugan granted her more than the ability to see the chakra network, but it allowed her to see the tunnel that was hidden underground. Parting her lips, she would speak in a delicate tone.\"Where you're standing. The tunnel is there and I see a numerous amount of people down there.\" Mirai muttered taking a step a back.*)\n(*Sanoke ||\n\"Huh. . It's really right under my nose? God damnit. .\"\n\nHe blushes a tad, amused/embarrassed at his own inability to see the location of the tunnel. Before long, he summons yet another turtle -- and both seemed to mimick the color or decoration of his eyes. But now held usage of the almighty rinnegan, even if Sanoke's mastery with such was meager.\n\nThey begin to dig into the ground, showing speed that was far superior than a normal turtle. As they go, eventually, a decently sized hole is developed, and they sneak into the area. Strangely enough, what they saw was clearly projected onto Sanoke's brain, making this jutsu effective for recon and other tasks. \". . .Keep scanning. . We're about to go in. Cover yourself with the cap so we can blend in with the rest of the worker. The object is going to be simple, we're going to sneak pass the rest of the warriors, and beeline towards the leader. Once we got the leader, we take him out in secret, then use Henge in order to get the rest of lackeys out. . \"\n\nIt was a full proof plan. Thankfully, as the turtle make their way around, they eventually give life to an entry point. At once, Sanoke has them desummoned and grasps Mirai by the hand. He leads her off, finding the entrance while also getting into a Sunagakure garb just as she had. With his appearance completely concealed, the turtle summoner steps forward. . his feet moving lightly. . yet there being some quickness with his motions. \n\n\"Alright. . .Let's keep it going. . \"Thankfully, no one had suspected a damn thing. There were whispers, but in the end, most of the workers had keep to mining. \n\nPang! Pang! Sparks occasionally flew about as a result of the relentless hammering away. It was quite clear that they were making a killing. \"Keep your doujutsu activated. . .I'll let you lead again. . guide us towards the end -- where the 'Boss' should be. We'll have this handled quickly,\" Sanoke instructs, his voiced hushed and devoid of any real volume.\n\n*)\n(*Hokuma, Mirai || \"Hmm, that's right, you're standing on the entrance to the tunnel, \" Mirai said, confirming that he was in fact standing above the location of the tunnel and it was right under his nose. She peered towards Sanoke as he summoned yet another turtle to assist the duo in completing the mission. \n\nShe couldn't help but notice that the turtle possessed the same eyes as Sanoke however, she thought nothing of it being completely unaware of the Rinnegan and its abilities. Mirai watched carefully as both of the turtles began to dig into the ground hastefully so that the two Shinobi could enter the tunnel that was hidden underground. \n\nNodding her head, she would listen intently to Sanoke as he conveyed the plan and how they would go about completing the mission. Being a rookie, she didn't question his judgement and found his plan to be legit. Being grasped by her wrist she would be guided into the dark caverns of the tunnel by Sanoke that had been created by his turtles. Thankfully, none of the workers who had been mining illegally had suspected them or taking notice to them for the time being. She would proceed to make her way through the tunnels in search of the bosses so that they could complete the mission without much of a scuffle and inconvenience.*)\n(*Sanoke ||They'd continue to casually waltz around the mining area. To really blend in, Sanoke would have grabbed two pairs of pickaxes, handing one off to Mirai herself. The item rests on his shoulder, and generally, no one had grown suspicious. The mission was appearing as if it was going to be a cinch. . . All they had to do was continue in stride, and take out the boss man in no time.\n\nBefore long, they'd have moved nearly a mile within the underground tunnel, and closed in on the mid point -- where the base of operations truly was. The bandit boss for this operation, Randall, was currently seated within it. Oddly, there were no guards, as the Boss -- in all his arrogance -- believed no one could ever infiltrate this deeply within the tunnel, at least not being noticed. \n\nLittle did he know, two talented Sunagakure shinobi were on their way.\n\nBy then, Sanoke murmurs more instructions, and his hands fumble while hidden in the cloak. He was reaching for a scroll no doubt, to make this elimination of the threat as swift and effective as possible. \"You ready. . ? We should be in the clear by now. . .  Let's go and take this fool out. Try not to kill if you can, i'd like to just have him captured so we can lock things down and be on our way,\" the defacto squad leader instructs admist the way.\n\nIt was only a matter of time. And by this point, he took the lead to be able to shield Mirai had this been a trap. *)\n(*Hokuma, Mirai was surprised that the plan was going so smoothly, but then again, they were Shinobi and they were trained to blend in and stealthy. With Sanoke still having a firm grip upon her wrist the two of them traveled deeper into the depths of the underground tunnel. Utilizing her Byakugan she would be scanning the area searching for a figure head or the boss of this entire operation as they travelled deeper into the tunnel. \n\nLowering her voice she would speak to Sanoke ensuring that her voice was only audible enough for him to hear. Speaking amidst the individuals mining it would be difficult for them to hear what she was saying. \"Don't forget to seal this place off. That is something else we were also tasked with.\" Mirai muttered to Sanoke reminding him that he had to seal off the tunnel. Pausing for a moment she would respond to his question as well. \" I can likely knock them out without killing them. Hopefully this doesn't take long.\" Mirai said in a delicate tone. *)\n(*Sanoke ||\n\"I can feel more chakra in there. Two in particularly. . Hold your breath, I'm going to throw some gases in. Use your Byakugan to take advantage of such and knock them out. . I'll be by yourside to support you. . \"\n\nA few moments are waited to ensure that Mirai was fully prepared to take on such a crucial roll. \n\nAfter the lotted time, a scroll is withdrawn, sending heaps of bombs forward. They combust, releasing irritated gases. Ones that force your body to cough, and induces grogginess to ensure that they were weakened. Naturally, given that the tent would only contain the fumes, both of the individuals were rushing out. . . And that's where the duo of Sanoke and Mirai struck. \n\nEquipped with a tanto, the male moves ahead, holding his breath, and being just behind the Hyuuga. Indiscriminantly, he slashed, his moved shielded by residue of smoke that crept from the tent. Thankfully, he could see chakra, and thus could easily locate both of the perps even as they couldn't locate him. Inspite the use of a sharpened weapon, the teen is mindful to avoid striking vital areas, hoping to slow them down so that Mirai could subsequently knock them out.\n\nCue watching as the Hyuuga did her thing.\n\nOnce both parties are defeated, Sanoke takes the initiative, wrapping them with his Wirebind technique and summoning Ganba -- the turtle was very much like he always was. But even he could tell something was wrong, considering the eyes were precisely like the legendary doujutsu, the rinnegan. Not bothering to question it just yet, considering they were in the mission, the turtle does his job, gathering the defeated parties, and tunneling out. He's on path to Sunagakure. . Meanwhile, this leaves him and Mirai to complete the mission.\n\nThree seals later, and Sanoke mimics perfectly into the mob boss. \"I want ya to henge into the others. Let's go and kick these squares out, then I'll seal everything.\" All in all, the lengthy fight had left him unharmed. He suffered minor cuts or bruises, but a simple bandage was all that'd be needed. Cue leading Mirai back to where they came to leave the mines done for good.*)\n(*Hokuma, Mirai was prepared to follow through with what Sanoke had suggested and would merely nod her head. Waiting patiently she allow Sanoke to prepare to release some gases into the air. After the scroll was withdrawn she would've waited for him to launch some bombs forward before they abruptly combused and gas lingered into the air. \n\nOnce the gas would've lingered into the air obscuring the vision of the two leaders Mirai would've acted. With her Byakugan active she was capable of seeing both of her targets chakra network allowing her spot their location amid them being consumed in the gas that had been released into the air. Charging towards the duo Mirai's footsteps would've remained unaudible as she charged towards them. Once she closed the distance between herself and one of her targets she would've utilized her clans fighting style striking her target multiple times in a quick succession. Her movements were fluid and quick as she closed off the chakra passageway knocking one of the leaders unconcious. A thud would be heard as his body dropped to the ground. *)\n(*Sanoke ||Mirai worked admirably, taking out the other warrior with ease. Upon having the criminal defeated, Sanoke continues with his own battle. Swift sword swings are all that's needed, and save for a few cuts or bruise he's able to win in an effective manner. The boss is bloodied and cringing in pain, but he'll live. As previously intended, the wire bind technique goes, constricting their movements, and allowing both crooks to be transported via his summons.\n\nAt last, Sanoke henges as one. \"Henge as the other, and we'll go.\"\n\nAssuming compliance, the boy moves ahead of Mirai, and utilizes the disguise to order all the grunt bandits out. They disperse with swiftness, making the mines clear. \"Ergh. . That was a fuckin' pain. Let's get outta here though, I'll seal the exit once we're out.\" He really wanted to go back home, clearly enough.*)\n(*Sanoke ||Cue Mirai following suit. They go through the process, having hundreds of bandits exit the area. Once they're out, the seal is placed onto the exit, barring any and all entry. A five seal barrier. Sanoke, grabbing Mirai in the same bridal fashion, speeds on off, prepared to enter the village. \n\nHe does so in no time, considering how close the mining area was to Sunagakure.*)"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=382;crc32=0x5127ff91;encoding=base64",{"
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+"})
+		icon_state = ""
+	.125
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>Scroll</title></center></head><body>\n<br><br>\nRank: Councilman\n<br><br>\nDuration of Leave : 6 to 9 days\n<br><br>\nPurpose Of Leave: Vacational visit .\n<br><br>\nPassport Number: 18826930\n<br><br>\nName Of Traveler: Fujitora Muhhamed Ryujin\n<br><br>\nCompany: Zenaki\n<br><br>\nDay Of Leave: Upon Approval.. \n<br><br>\nTravel Method : Caravan\n<br><br>\n<u> Muhammed 'The General' Hassan (Field Commander)</u>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Travel Documents"
+		icon = null
+		icon_state = ""
+	.126
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "I need to talk to you Fujitora, please come to Kirigakure. This is important.\n<br>\n<br>\nAl-Saachez, Kirie\n<p>\nI am on my way towards the Waterfall village, but if it really needs me, then I'll arrive soon... But you're paying for my caravan , this was meant to be my vacation!\n<p>\n<br>\n<br>\nIt is more important than a vacation I can asure you of this Tora. Please come.\n<br>\n<br>\nAl-Saachez, Kirie\n<br>\n<br>\n(Written in very small letters that were somewhat phased out) P.S. I am not paying for shit."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Message to Fujitora"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.127
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.128
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<center> To Zenaki \n<p>\nAh.. I see..\nI miss you Master.. Please keep me posted. When I am needed tell me immidiatly and I will come over. I am here teaching the goodness thing about the medical stuff.. Come home soon, Master. And stay safe. \n<p>\n<u> Zenaki <3 <3  </u>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "From Zenaki <3"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.129
+		type = /obj/items/Citem/Hatchet
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.130
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 2
+		ele = "Hiden"
+		Kekkei = 1
+		description = "This is a sealing technique based on the fuinjutsu of Uzushiogakure's Uzumaki clan.\[2\] The sealing formula is used to seal any target into a human body or an object, and is mainly used when a giant enemy or evil spirit needs to be sealed away. To use it, it is necessary for the user to have great ability.<br><br>\[Can be used to seal any mass of chakra into a human being or object. This -can- be used on sentient objects such as masks and Undead Necromancer summonings. It is effective on ghouls. Cannot be used to seal humans into humans, but can be used to seal humans into objects or objects into humans.\]<br>\[Strength of the Seal = Ninjutsu + Control + Intelligence Stats + 10\]"
+		skil = "Novice"
+		jut = "Fuuinjutsu"
+		ran = "A"
+		dran = 2125
+		idran = "Chakra"
+		name = "Four-Symbols Seal"
+	.131
+		type = /obj/items/Clothing/Suna_Cloak
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Straw Hat"
+		suffix = "**Equipped**"
+		icon = null
+	.132
+		type = /obj/items/Weapon/Custom_Katana
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Ryushini No Yari"
+		suffix = "**Equipped**"
+		icon = null
+		mouse_drag_pointer = object("//overlays",6)
+	.133
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.134
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<p>\n*sloppy hand writing* Mind sending me abother letter? Within the fight I missed the bird..But what were we speaking of?..I can visit Konoha sometime soon if you'd have the time.\n<p>\n<u> Fujitora </u>\n<br>\n<br>\n<br>\n<br>\nNothing at all, visit soon though. I'm sure Heiwa would like to see you."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "To Fujitora"
+		icon = object("../../.216/icon",0)
+		icon_state = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(filedata("name=;ext=.dmi;length=360;crc32=0x2561d34c;encoding=base64",{"
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAA
+"}))
+	.135
+		type = /obj/items/Citem/tools/Backpouch
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = null
+		contents = list(
+				object(".0"),
+				object(".1"),
+				object(".2"),
+				object(".3"),
+				object(".4"),
+				object(".5"),
+				object(".6"),
+				object(".7"),
+				object(".8"),
+				object(".9"),
+				object(".10"),
+				object(".11"),
+				object(".12"),
+				object(".13"),
+				object(".14"),
+				object(".15"),
+				object(".16"),
+				object(".17"),
+				object(".18"),
+				object(".19"),
+				object(".20"),
+				object(".21"),
+				object(".22"),
+				object(".23"),
+				object(".24"),
+				object(".25"),
+				object(".26"),
+				object(".27"),
+				object(".28"),
+				object(".29"),
+				object(".30"),
+				object(".31"),
+				object(".32"),
+				object(".33"),
+				object(".34"),
+				object(".35"),
+				object(".36"),
+				object(".37"),
+				object(".38"),
+				object(".39"),
+				object(".40"),
+				object(".41"),
+				object(".42"),
+				object(".43"),
+				object(".44"),
+				object(".45"),
+				object(".46"),
+				object(".47"),
+				object(".48"),
+				object(".49"),
+				object(".50"),
+				object(".51"),
+				object(".52"),
+				object(".53"),
+				object(".54"),
+				object(".55"),
+				object(".56"),
+				object(".57"),
+				object(".58"),
+				object(".59"),
+				object(".60"),
+				object(".61"),
+				object(".62"),
+				object(".63"),
+				object(".64"),
+				object(".65"),
+				object(".66"),
+				object(".67"),
+				object(".68"),
+				object(".69"),
+				object(".70"),
+				object(".71"),
+				object(".72"),
+				object(".73"),
+				object(".74"))
+			.0
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.1
+				type = /obj/items/Citem/Gun_Barrel
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.2
+				type = /obj/items/Citem/Gun_Handle
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.3
+				type = /obj/items/Citem/Aeratum_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.4
+				type = /obj/items/Citem/Aeratum_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.5
+				type = /obj/items/Citem/Aeratum_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.6
+				type = /obj/items/Citem/Aeratum_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.7
+				type = /obj/items/Citem/Aeratum_Blade
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.8
+				type = /obj/items/Citem/Aeratum_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.9
+				type = /obj/items/Citem/Aeratum_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.10
+				type = /obj/items/Citem/Aeratum_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.11
+				type = /obj/items/Citem/Aeratum_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.12
+				type = /obj/items/Citem/Aeratum_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.13
+				type = /obj/items/Citem/Aeratum_Blade
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.14
+				type = /obj/items/Citem/Chakra_Orb
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.15
+				type = /obj/items/Citem/Chakra_Orb
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.16
+				type = /obj/items/Citem/Chakra_Orb
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.17
+				type = /obj/items/Citem/Chakra_Orb
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.18
+				type = /obj/items/Citem/Chakra_Orb
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.19
+				type = /obj/items/Citem/Chakra_Orb
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.20
+				type = /obj/items/Citem/Chakra_Orb
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.21
+				type = /obj/items/Citem/Iron_Blade
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.22
+				type = /obj/items/Citem/Iron_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.23
+				type = /obj/items/Citem/Iron_Bar
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.24
+				type = /obj/items/Citem/Hard_Wood_Plank
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.25
+				type = /obj/items/Citem/Hard_Wood_Plank
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.26
+				type = /obj/items/Citem/Hard_Wood_Plank
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.27
+				type = /obj/items/Citem/Hard_Wood_Plank
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.28
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.29
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.30
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.31
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.32
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.33
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.34
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.35
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.36
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.37
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.38
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.39
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.40
+				type = /obj/items/Citem/Hard_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.41
+				type = /obj/items/Citem/Soft_Wood_Plank
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.42
+				type = /obj/items/Citem/Soft_Wood_Plank
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.43
+				type = /obj/items/Citem/Soft_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.44
+				type = /obj/items/Citem/Soft_Wood_Plank
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.45
+				type = /obj/items/Citem/Soft_Wood_Plank
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.46
+				type = /obj/items/Citem/Soft_Wood_Plank
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.47
+				type = /obj/items/Citem/Soft_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.48
+				type = /obj/items/Citem/Soft_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.49
+				type = /obj/items/Citem/Soft_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.50
+				type = /obj/items/Citem/Soft_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.51
+				type = /obj/items/Citem/Soft_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.52
+				type = /obj/items/Citem/Soft_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.53
+				type = /obj/items/Citem/Soft_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				mouse_drag_pointer = object("//overlays",6)
+			.54
+				type = /obj/items/Citem/Soft_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.55
+				type = /obj/items/Citem/Soft_Wood
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.56
+				type = /obj/items/Citem/Katana_Sheathe
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.57
+				type = /obj/items/Citem/Katana_Sheathe
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.58
+				type = /obj/items/Citem/Katana_Hilt
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.59
+				type = /obj/items/Citem/Katana_Sheathe
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.60
+				type = /obj/items/Citem/Katana_Sheathe
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.61
+				type = /obj/items/Citem/Katana_Sheathe
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.62
+				type = /obj/items/Citem/Katana_Sheathe
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.63
+				type = /obj/items/Citem/Katana_Hilt
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.64
+				type = /obj/items/Citem/Katana_Hilt
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.65
+				type = /obj/items/Citem/Katana_Hilt
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.66
+				type = /obj/items/Citem/Katana_Hilt
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.67
+				type = /obj/items/Citem/Katana_Hilt
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.68
+				type = /obj/items/Citem/Paper
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.69
+				type = /obj/items/Citem/Paper
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.70
+				type = /obj/items/Citem/Paper
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.71
+				type = /obj/items/Citem/Paper
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.72
+				type = /obj/items/Citem/Paper
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.73
+				type = /obj/items/Citem/Paper
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.74
+				type = /obj/items/Citem/Paper
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+	.136
+		type = /obj/items/Citem/tools/Backpouch
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Sealed Legendary Blades"
+		suffix = "**Equipped**"
+		contents = list(object(".0"))
+			.0
+				type = /obj/items/Scrolls/Scroll
+				profile2 = "<html><head><center><title>ListedBijuu Chakra Stored/ Bijuu Information</title></center></head><body>\n\nBijuu..Tailed Beast of which are made up completely of chakra despite some physical features..These beast have been known as power and engines of destructions for the use of the shinobi world..Upon my journeys I have came to realize such that these are all very well living beings..My first encounter with a Bijuu host was with my wife..Kastya, who had a strange and white aura around her at first, before her body began to heat up, growing chakra tails up to a great number of strength and speed itself..I was frightened that day me and Zetsumo fought against her, everyone else left and eventually Zetsumo fleed as well..Iw as left to fight her and save her sister alone and so I came up with a plan for such, capturing Kastya off guard with my jutsu while she was losing power along with my epxlosive tags in the number of 50s...It was tough but I managed despite the sheer luck..From that moment I sensed the chakra remnants along with my partner at the time, we scattered to collect these remnants intially for research..But then we came to see what power they had..Then more and more bijuu began to appear..my step son Tetsumi was a host as well as my dear friend Koeki...However the horrid truth of such, I collected chakra and samples from each during their times of rampage...But the downfall to it all, is that when the bijuu chakra is removed from the host completely, they die...I discovered this the hard way when Kastya decided to leave such a gift behind for her loved ones...But now I have came to the theory of many more being out there, all of which I and my group will have to locate as this world has thousands of profound chakras many do not know of.. I only hope that these chakras do not get into the wrong hands..I plan to use these unique forms of chakra to change the world from what it is today..I live day by day with some of Kastyas own Bijuu chakra that I took from a new point on..Now I must continue till the goal line is reached..Till I can awaken both my eyes of red*Sharingan* and the next stage that my relative Hideki showed me *Mangekyou Sharingan*...This life of a farmer..Of a shinobi hasn't been too easy but content..As long as my loved ones are protected.\n<p>\n<p>\n<center>\n<u>Bijuu Chakra Obtained </u>\n<p>\nGobi- Ryujin Kastya  *Enough for 4-5 People for 4 tails each*\n<p>\nShukaku-Tetsumi Jiki *Enough for 4 People*\n<p>\nSanbi-Koeki *Enough for 2 people*\n<p>\nSaiken--Kirigakure Attack *Enough for 5 people*\n<p>\nSon Goku-- Personally experimented from Mokutsu *Enough for 5 people*\n<p>\nChomei--Pending\n<p>\nHachibi--Pending\n<p>\nNibi--Pending\n<p>\nKyuubi--Pending\n<p>\n</center>\n</body>"
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = null /*unrecognized data*/
+				icon = null /*invalid data*/
+				icon_state = ""
+	.137
+		type = /obj/Perk/Blank_Perk
+		description = "The Dragon Locksmith Blade generates the chakra flow of fire with minimal cost. Due to Fuuinjutsu seals lining up the blade from the lateral edges, fire is conjured easily and it appears that the flames that attach themselves to this blade are increasingly powerful. The blade itself is extraordinarily durable, crafted from refined magnesium reinforced steel.<br><br>\[Durability: 20\]<br>\[Adds +5 to Damage Calculation when using Chakra Flow Fire Only.\]<br>\[Adds +2 to Damage Calculation in General.\]"
+		tier = 2
+		name = "Ryushini no Yari"
+	.138
+		type = /obj/items/Citem/tools/Crafting_Manual
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.139
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>Scroll</title></center></head><body>\nThe third branch of government is the Judicial branch. The Judiciary is made up of courts -- Supreme, Circuit, the magistrate (local) and municipal (city) courts. The Judicial branch interprets the laws.\n<br><br>\nThe state judges are elected by the citizens rather than being appointed. They also run for their office as members of a political party.\n<br><br>\nThe duties of the judicial branch include:<br><br>\n\nInterpreting state laws;<br><br>\nSettling legal disputes;<br><br>\nPunishing violators of the law;<br><br>\nHearing civil cases;<br><br>\nProtecting individual rights granted by the state constitution;\nDeterming the guilt or innocence of those accused of violating the criminal laws of the state;<br><br>\nActing as a check upon the legislative and executive branches of state government.<br><br>\nThe Supreme Court of Appeals is the highest court in West Virginia and supervises the lower courts. It is comprised of five judges who are elected for twelve year terms by the voters. The Supreme Court is required to meet twice a year, in January and in September, and may hold special terms when necessary. The Supreme Court has the authority to determine if state laws and actions of state officials, including the Governor, are constitutional. Laws and executive orders cannot be enforced if they violate the state constitution.\n<br><br>\nMost cases brought before the Supreme Court are appeals that have been tried in the circuit or magistrate courts. Once a decision has been made by the Supreme Court that is the final decision, with the exception of conflicts between state and federal laws, which may be appealed to the United States Supreme Court.\n<br><br>\nOf the five Supreme Court justices, one is selected to be the Chief Justice. The selection process is a rotation between the five justices, each who serve as the chief justice for one year. The Chief Justice's duties include submitting a budget to the Legislature, and according to the state constitution, the Supreme Court will be appropriated for whatever amount it requests. The Chief Justice also assigns justices to write opinions and decisions of the Court.<br><br>\n\n<hr><hr>\n<a1>How a bill becomes a law</a1>\n<br><br>\nA bill is a proposed ___ or idea that any citizen can have. A bill may also repeal a current law. It can also change, or _____ a current law.\n<br><br>\nAny one can have the idea for a proposed law, but only a member of the ______ or the _____ __ _________ may sponsor a bill.\n<br><br>\nOnce a citizen has discussed their proposal with their legislator, that lawmaker would have the proposal written in the appropriate ____ ____ by a legislative staff lawyer. Upon completion, the lawmaker will file the bill for introduction with the ______ office, who in turns, assigns the bill a number.\n<br><br>\nDuring the next day's session, the bill is introduced and referred to its appropriate _________ by either the _______ or the _________. For example, if the bill is about education, then it will be referred to the education committee; if the bill is about crime, then it will be referred to the judiciary committee.\n<br><br>\nThe committee will study the bill and make any necessary changes by ________ the bill. After the committee makes its recommendation for passage, a message is sent to the floor with its recommendation.\n<br><br>\nOnly after the message from the committee is read to the full membership can it be placed on _____ _______. The West Virginia Constitution requires a bill be read on three separ ate days. After the bill is read for the first time, it will advance to second reading, usually the next day.\n<br><br>\nWhen the bill is read for the second time, it is also the _________ stage. Whichever body the bill is being read in, any member of that body may offer amendments. If a member offers an amendment it must meet the approval of half of the full membership. If less than half approve the amendment, then it is rejected.\n<br><br>\nAlso during second reading is when a bill is _________. An engrossed bill is the version of a bill with all adopted amendments of the house of origin.\n<br><br>\nAfter the bill is engrossed it is advanced to third reading -- the ______ stage. When the clerk has read the bill, members may discuss the issue and present their opinions on the subject. When all discussions are finished, members vote on the bill either by _____ ____ (yeas and the nays) or by ____ ____ (electronic voting). If passed by one house, the same process is repeated in the other house.\n<br><br>\nAnswers: 1. Law; 2. amend; 3. Senate; 4. House of Delegates; 5. bill form; 6. Clerk's; 7. Committee; 8.Speaker; 9. President; 10. amending; 11. first reading; 12. amendment; 13. engrossed; 14. voting. 15. voice vote; 16. machine vote"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=382;crc32=0x5127ff91;encoding=base64",{"
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+"})
+		icon_state = ""
+	.140
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.141
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Fuji and the higher ups of Sunagakure,\n<br>\n<br>\nI will be going back to Sunagakure... Kirie has sked me to train there with the blades.... She wants me to master them in Suna... Am I free to come back for a undefined amount of time... I promise I will pull my weight while I am there...\n<br>\nViolet"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.142
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.143
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "The blade is heavy as shit but I am still working on trying to lift it. Also Mizumi is becoming a real nuisense to me, he showed up not to long ago and attacked Sanoke.\n<br>\n<br>\nKirie\n<p>\n<p>\nI see, I am surprised that he is still alive and causing havok again and again..However, have you been progressing better with the sword?..Atlease in basic swings with it?\"\n<p>\nFuji\n<p>\n<br>\nI will deal with him when the time comes. Only that he is too cowardly to show his real self. No, I can barely lift the damn thing but I have not given up on it.\n<br>\n<br>\nKirie"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Kirie"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.144
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = null
+		dir = 4
+	.145
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<center> \n<p>\nGreetings, it's been some time..This is your uncle, I am writing this letter to check up on you ..Gotta make sure you are doing fine right?..Ever since you've left with your father, it's been out of my power to continue watching over y' with how far I've been...You may think I was an uncle far too busy for the role , but I always tried to keep an eye on y' kiddo...So I have a gift for you..Fire was your element yes?..I plan to deliver y' some scrolls to learn from, however I'm not sure if you've learned these yet or not..Take care Anguo.. And don't forget about y' old uncle..Despite his foolishness.\n<p>\n\n<u> Fujitora </u>\n<p>\n </center>\n<p>\nMister Fujitora, it really has been some time. You probably know by now, but I am no longer in Kirigakure, nor in the safety of shinobi you would expect. But I suppose you could still consider my condition, 'safe.' Sending scrolls for me would be nice, as being a child is no longer a life I can live. Not with what I've seen. Take care, Mister Fujitora and tell Izanami I said hello.\n<p>\n\n<u>Anguo</u>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "To Anguo from Uncle Fuji"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.146
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.147
+		type = /obj/items/Clothing/Tobi_Mask
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.148
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Father, I am going to search for the bijuu known to be the six tailed Slug..I've taken this oppertunity to develop more research and gain something greater for our home to honor..I know it may seem stupid but I've planned well ahead, and I am taken the direct location to where it is..This will be a classified S ranked mission.\n<br>\n<p>\nYour Son Fujitora\n<br>\n<br>\nWhatever, do what you want, if you don't come back successfully with the beat you failed your mission. As always i'll watch over your responsibilities."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "To Hassan"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.149
+		type = /obj/Squad_Member
+	.150
+		type = /obj/items/Clothing/Shirt
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Fairy"
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.151
+		type = /obj/items/Clothing/Shirt
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Mask"
+		suffix = ""
+		icon = null
+	.152
+		type = /obj/items/Clothing/Pants
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Uzu clan"
+		suffix = ""
+		icon = null
+	.153
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.154
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.155
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Hey Fuji. I'm outside the Sunagakure gates. I need to ask you something.\n<br><br>\nFrom,<br>\nHideki"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "To Fuji"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.156
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Semi Urgent, it involves me getting potentially stronger.\n<br>\n<br>\nKirie"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Message"
+		icon = null
+		icon_state = ""
+	.157
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 10
+		ele = "Fire"
+		description = "This technique creates a stream of fire that can be manipulated into several forms (so far, rings of fire that runs on the ground or a circle of fire flying through the air) before striking the target. It can also be used in combination with Wind Release: Divine Wind to create a tornado of flames, or with Wind Release: Godly Wind from the Mountains to release a massive inferno."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 6.5193653106689453125
+		idran = "Chakra"
+		name = "Ninja Art: Fire Run"
+	.158
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 95
+		ele = "Fire"
+		description = "The user fires a stream of fire from their mouth. This is the most basic fire style technique."
+		skil = "Expert"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 71.67136383056640625
+		idran = "Chakra"
+		name = "Ninja Art: Flamethrower"
+	.159
+		type = /obj/items/Clothing/Suna_Cloak
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Fuji's new Clothing"
+		suffix = "**Equipped**"
+		icon = null
+	.160
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Elementless"
+		lrncost = 10
+		nan = "Demonic Illusion: Death Mirage Jutsu"
+		Kekkei = 0
+		IsStored = 1
+		description = "This is a genjutsu that reveals the fears that dwell inside people's hearts. Everyone has an image of the one thing they wouldn't want to ever see. This genjutsu is a technique that draws forth such an image from within the heart and has one mistake it for reality. First, an imaginary circle of leaves will spin around and envelop the target, falling away shortly after. After a short period, the illusion will begin. This is to make the illusion more convincing, since the user will likely have moved before the illusion sets in. If the mental image is a gruesome one, the shock will be accordingly great."
+		skil = "New"
+		jut = "Genjutsu"
+		ran = "D"
+		dran = 208.4593048095703125
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Why the fuck you lyin"
+	.161
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Elementless"
+		lrncost = 10
+		nan = "Interrogation Jutsu"
+		Kekkei = 0
+		IsStored = 1
+		description = "uses this genjutsu to break the will of his (captured) target, to make him or her give as much information as possible. However, if the target has strong will, the technique will be useless."
+		skil = "New"
+		jut = "Genjutsu"
+		ran = "D"
+		dran = 173.95245361328125
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Why you always lyin"
+	.162
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Fujitora, I have something to ask you whenever you have the time to come see me.\n<p>\nLera"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Message"
+		icon = object("../../.216/icon",0)
+	.163
+		type = /obj/Perk/Chakra_Control
+		description = "This user's chakra control is on par with their skill rank. They are able to use jutsu at their skill level and below without wasting chakra, but anything above that is overly draining."
+		tier = 2
+		name = "Chakra Control Novice"
+	.164
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 9
+		ele = "Elementless"
+		description = "The user uses a giant roll of cloth to tightly wrap up the intended opponent, completely immobilising them, thus preventing them from moving or using any techniques. The ability itself is versatile as once completed, the addition of further seals can be placed on top of the bound victims, preventing them from even being summoned while in effect. "
+		skil = "Expert"
+		jut = "Fuuinjutsu"
+		ran = "C"
+		dran = 253.125
+		idran = "Chakra"
+		name = "Cloth Binding Technique"
+	.165
+		type = /obj/items/Clothing/Red_Scroll
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+	.166
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.167
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Fujitora, can you come to Kirigakure? Are you mad at me?\n<br>\n<br>\nKirie."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Message"
+		icon = null
+		icon_state = ""
+		mouse_drag_pointer = object("//overlays",6)
+	.168
+		type = /obj/items/Scrolls/KazeKage_Clothing
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.169
+		type = /obj/items/Clothing/KazeKage_Suit
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.170
+		type = /obj/items/Clothing/KazeKage_Hat
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.171
+		type = /obj/items/Clothing/Cloak
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Full body Sealing"
+		suffix = ""
+		icon = null
+		mouse_drag_pointer = object("//overlays",6)
+	.172
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.173
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<i>Fujitora,<p>\nI don't believe you will remember me, but I was in Kumogakure when you helped save the dying girl with the fan. I'm contacting you, or at least trying...Who knows if this letter will reach you...Anyways...I wanted to know if you would be able to teach me any Medical Techniques you may have....You're trying to become a medical shinobi..right? It seemed that way in Kumogakure...I just feel lost at the moment...Anyways...sorry for blabbing for so long...\n<p>\nMisharna, Misa"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Fujitora"
+		icon = null
+		icon_state = ""
+	.174
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Keep it on the low, also, i'm outside."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Baen"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.175
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "What's this about clearing a Labryinth, and learning Fire Shroud? \n</p>\n-Baen\n<p>\nThere is no Fire Shroud from the Labyrinth..\n<p>\nFuji\n</p>\nWhere is it from?\n</p>\n-Baen"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Baen"
+		icon_state = ""
+	.176
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = null
+		dir = 4
+	.177
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Elementless"
+		lrncost = 20
+		nan = "Finger Carving Seal"
+		Kekkei = 0
+		IsStored = 1
+		description = "The user concentrates chakra into their finger and using the heat from that, can apply writing of whatever they want to a surface. This technique however requires them to be very delicate with their chakra control. This technique causes slight discomfort for a living target and if it is on flesh, it will scar."
+		skil = "New"
+		jut = "Fuuinjutsu"
+		ran = "C"
+		dran = 58.125
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Finger Seal"
+	.178
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Elementless"
+		lrncost = 20
+		nan = "Chakra Transfer Technique"
+		Kekkei = 0
+		IsStored = 1
+		description = "The Chakra Transfer Technique allows the user to transfer some of their chakra to another person."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 126.5625
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Chakra transfer"
+	.179
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 1
+		ele = "Elementless"
+		description = "The Chakra Transfer Technique allows the user to transfer some of their chakra to another person."
+		skil = "Expert"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 160.1806640625
+		idran = "Chakra"
+		name = "Chakra Transfer Technique"
+	.180
+		type = /obj/items/Clothing/Long_Sleeved_Shirt
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Fire"
+		suffix = ""
+		icon = null
+	.181
+		type = /obj/items/Clothing/Pants
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Fire Aura"
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.182
+		type = /obj/Ninjutsu/KageBunshin
+		bunshinskill = 3
+	.183
+		type = /obj/items/Clothing/Backwards_Scarf
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Tablet - Amulet"
+		suffix = ""
+		icon = null
+	.184
+		type = /obj/items/Clothing/Facemask
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Tablet - Amulet"
+		suffix = ""
+		icon = null
+		mouse_drag_pointer = object("//overlays",6)
+	.185
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = null
+		dir = 4
+	.186
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>From Ai</title></center></head><body><i>Where you at though? I'm currently in Suna again. Can ya carry some jutsu scrolls I can study? I might need them now since Edge can attack at any minute, you know?</body>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Fuji"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.187
+		type = /obj/items/Clothing/Suna_Chuunin
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Checking"
+		suffix = ""
+		icon = null
+	.188
+		type = /obj/items/Clothing/Pants
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Stone Golem"
+		suffix = ""
+		icon = null
+		mouse_drag_pointer = object("//overlays",6)
+	.189
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Elementless"
+		lrncost = 30
+		nan = "Shadow Clone Jutsu"
+		Kekkei = 1
+		IsStored = 1
+		description = "Similar to the basic Clone Technique, this technique creates copies of the user. However, these clones are corporeal instead of illusions. The user's chakra is evenly distributed among every clone, giving each clone an equal fraction of the user's overall power. The clones are capable of performing techniques on their own and can even bleed, but will usually disperse after hit by a strong enough force. The clones can also disperse on their own or be dispelled by the user of the technique. Shadow clones can't be distinguished from the original with Sharingan, Byakugan, Rinnegan or Rinne Sharingan."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 207.6180419921875
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Shadow Bling"
+	.190
+		type = /obj/Custom/Fuuinjutsu/Arank/Advanced_Sealing
+		RPPSpent = 13
+	.191
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Fire"
+		lrncost = 30
+		nan = "Fire Style: Fire Dragon Bullet"
+		Kekkei = 0
+		IsStored = 1
+		description = " basic Fire Release technique, where the use exhales a flame breath from their mouth. This technique can be used in conjunction with Earth Release: Earth Dragon Bullet to ignite the projectiles fired by the latter technique, making it more devastating."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 221.484375
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Dragon Fire Bullet"
+	.192
+		type = /obj/items/ore/Aeratum_Ore
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		mouse_drag_pointer = object("//overlays",6)
+	.193
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.194
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Baens death is..bad. I do not know how much longer I can keep things up here.\n<br>\n<br>\nA.K\n<p>\nYou must cease the duties you have for the better of your country...If things get worse, you'll be stuck ...I also need a list of intell on the abilities our foe may have as well..\" \n<p>\n2035568F.D.\n<br>\n<br>\nI am afraid it might be too late for me and I do not know anything about his abilities. The woman that is with him knows genjutsu, that is about all I know.\n<br>\n<br>\nA.K"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Return to Sender"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.195
+		type = /obj/items/Clothing/SandHeadband
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+		icon = filedata("name=SunaLeg.dmi;length=507;crc32=0x3ccefb30;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAMAAAADAAgMAAAAvsoSUAAAADFBMVEXAwMAA3wCorrPAwMCXyHlZ
+AAAAAXRSTlMAQObYZgAAALR6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1Ow
+VTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpOSc1JrAQy
+jXTAkIszN78sNTc1D2SAIUK/Y0lJYnI2dlOQlLnlJ5cWI1QZYlfl7U9QSXhqYkF+Hnb7jFBczcWZ
+k59fAFYC1x2ckZmXVVqKyxZlBVc/F3AwAgCs51s0vHL32AAAAN1JREFUaIHt2UsOgjAQgGGa2D0u
+vE8XHoCF3XgDb+MhPKgRaNHpcxJMNPm/hRjKdFgNzDAMAPA/7HI4XpQB9iHObzv48fV78J8BRmbY
+dvBuvuBWSrlsWM6QBrjSSj0DAKDI7hXQel4M5uTCv/N8vvm8uMaAqZohkBkAADWu66qxu6FYvTUU
+2QyhmseqLhuKuLBW9bBh0qlkMuYzlG4B2IdR951Om2HSBty/HqC9JSCpzrIYy7f9pP7Lci/7CX0G
+AEC/1vwoWe8NkPOj9nxJzI+a8yU5P+r/HgEAwA97AqAWIdZMiz1MAAAAAElFTkSuQmCC
+"})
+	.196
+		type = /obj/items/Weapon/Custom_Katana
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Kamishini No Yari"
+		suffix = ""
+		icon = null
+		mouse_drag_pointer = object("//overlays",6)
+	.197
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.198
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>Scroll</title></center></head><body><b>You find several tens of explosive tags. React accordingly.</body>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Bank Note"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.199
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>Scroll</title></center></head><body>(Lol jk omit.)</body>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Bank Note 2"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.200
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.201
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>Scroll</title></center></head><body>--Dear Fujitora. <br> This is Heiwa writing the message. If it reaches you - my guardians have died over the last few weeks. Kirigakure is falling into a power vacuum following, as well, the death of the latest Mizukage. No ranks have been issued to the people and there is no discernable way to determine who would be right or fit for the job. I anticipate a conflict between people very soon. <br><br> The people are still wondering about who has done it and are recovering from the attack following thereafter. It'll likely be easy to get in now while everyone is scrambled. If you're willing to come this would be the most opportune time. I'll be by the wreckage of the southern gate. <br>---Heiwa</body>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Message from Heiwa"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.202
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = null
+		dir = 4
+	.203
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Father, trouble in Kirigakure. It sees Kirie is dead and I may have to step up as the new Mizukage. If theres any way you could help, I would greatly apreciate it.\n<p>\nLera"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Hassan"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.204
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Brother, please read the other scroll and pass it along to Father if you would.\n<p>\nLera"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Fujitora"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.205
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>Scroll</title></center></head><body>We're in Konoha now if you're coming.</body>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Note from Heiwa"
+		icon = object("../../.216/icon",0)
+		icon_state = ""
+	.206
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = null
+		dir = 4
+	.207
+		type = /obj/Custom/Blank_Buff/SharinganT2
+		BOOST = 20
+		GChak = 35
+		Sharingan = 1
+		idran = "Chakra"
+	.208
+		type = /obj/Perk/Speed
+		description = "This character's speed is beyond amazing. They are able to outrun some of the quickest shinobi, though, they suffer from tunnel vision at high speeds."
+		tier = 2
+		name = "Enhanced Speed"
+		icon_state = "spd2"
+	.209
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = null
+		dir = 4
+	.210
+		type = /obj/items/Weapon/Custom_Mahiru_Katana
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Down"
+		suffix = "**Equipped**"
+		icon = null
+	.211
+		type = /obj/items/Weapon/Custom_Katana
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Up"
+		suffix = "**Equipped**"
+		icon = null
+	.212
+		type = /obj/Perk/Blank_Perk
+		description = "This specially made obsidian blade is capable of resisting the powers of gravity. In retrospect, this blade is incredibly light, which makes it useful in conjunction with attacks that lower gravity's effect on weaponry. Thus, it speeds at untraceable speeds, making it a contender. However, due to its lightweight status, it is much less durable than a traditional sword. <br><br>\[Durability: 15\]<br>\[Add +3 Attack Speed to strikes.\]"
+		tier = 2
+		name = "Up"
+	.213
+		type = /obj/Perk/Blank_Perk
+		description = "This weapon is specially made for downward gravitational strikes, making the catastrophical blows even more powerful upon execution. The blows are capable of causing tremors through the earth. <br><br>\[Durability: 20\]<br>\[Add +10 to Gravity Attacks\]<br>\[Subtract 5 Attack Speed from all attacks.\]<br>\[Add +3 to regular Damage Calculation\]"
+		tier = 2
+		name = "Down"
+	.214
+		type = /obj/Perk/Blank_Perk
+		description = "This person has the aura of a chaotic neutral alignment."
+		tier = 1
+		name = "Chaotic Neutral"
+	.215
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.216
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Yo Fuji, where have you been I havent talked to you in days, I have a couple questions and some bad news, when you find me, come talk to me.\n\n<i>Muhammed Hassan</i>\n"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = null /*invalid data*/
+		icon_state = ""
+	.217
+		type = /obj/Perk/Midair_Combat
+		description = "This character is capable of moving three steps one time in midair while falling or leaping."
+		tier = 2
+		name = "Midair Combat 2"
+		icon_state = ""
+	.218
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Earth"
+		description = "When used with Earth Release: Earth Flow River, this technique can create a dragon-like head to fire balls of mud at an opponent. This can also be combined with a fire technique to shoot searing hot rock towards an opponent."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 193.8133087158203125
+		idran = "Chakra"
+		name = "Earth Style: Earth Dragon Bomb"
+	.219
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Earth"
+		description = "Yan can form nearby ground into rock projectiles. He can also use rocks in conjunction with a sealing tag to seal the opponent's movements."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 98.83022308349609375
+		idran = "Chakra"
+		name = "Earth Release: Flying Thrown Stones"
+	.220
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 12
+		ele = "Fire"
+		Kekkei = 1
+		description = "The user gathers fire natured chakra within their limbs of choosing. Fire is then forced from the limbs of choice, whether it be the palms or feet, giving the user the ability of psuedo high speed flight. Though not real flight in simplistic nature, its can come off as such as the user is granted the ability to clear great distances in short amounts of time. Note: Through greater mastery of both the technique and katon itself, users can deftly change their direction and hover in a single space through controlling the scope of the flames. <br><br>\[Speed is enhanced by Control. \[Speed + Control / 2\] + Tier of Speed = Tile Speed.\]"
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 399.360015869140625
+		idran = "Chakra"
+		name = "Great Fire Propulson"
+	.221
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Lightning"
+		description = "The user surges their chakra for a moment. The air directly around their body surges with raiton chakra shocking their opponents, numbing them for a moment."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 94.80950164794921875
+		idran = "Chakra"
+		name = "Ninja Art: Raiton Flash"
+	.222
+		type = /obj/Perk/Elemental_Training_Fire
+	.223
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 1
+		ele = "Lightning"
+		description = "Much like its fire counterpart, the user of this technique positions their hand of choice into a shape resembling a gun. Lightning natured chakra is then gathered and compressed around the user's index and middle fingers thus forming an orb. Upon completion the user clicks their thumb down to propel the orb towards their target. Upon impact the orb expands and detonates, leaving the victim shocked and quite possibly burned.<br><br>When Mastered, this technique has the ability to pierce."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 219.622711181640625
+		idran = "Chakra"
+		name = "Pistol Art: Lightning Style Condensed Bolt Bullet"
+	.224
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 240
+		ele = "Fire"
+		description = "The user compresses a large amount of chakra built up inside their body and changes it into a dragon head-shaped fireball. The user then skilfully manipulates that great fire, and attacks their opponent. Even outside of the attack range, its power and reliability are stressed. The flames have a high temperature, as they can create an upward movement of air currents which in turn can give rise to thunder clouds. A master of this technique can fire off several flames in succession and anyone caught in the technique could potentially be reduced to ashes."
+		skil = "Veteran"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 513.42999267578125
+		idran = "Chakra"
+		name = "Fire Style: Great Dragon Flame Jutsu"
+	.225
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 26
+		ele = "Fire"
+		description = "This technique creates a volley of small fireballs, which are sent flying in an unpredictable manner assaulting the enemy. In addition, the flames are controlled one by one with chakra, so avoiding them all is extremely difficult. "
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 78.40848541259765625
+		idran = "Chakra"
+		name = "Fire Style: Phoenix Flower Jutsu"
+	.226
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Earth"
+		description = "The user runs a steady stream of earth-oriented chakra down their blade. This doubles the durability of the object they are handling, though it cannot be used on human skin.<br><br>\[Double Durability.\]"
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 100.6468505859375
+		idran = "Chakra"
+		name = "Chakra Flow Earth"
+SecondaryElement = "Earth"
+Class = "Sannin"
+srank = "A-"
+Oname = "Ryujin, Fujitora"
+maxJchakra = 9800
+Jstam = 7000
+maxJstam = 7000
+Jnin = 30.619998931884765625
+Jgen = 8.5
+Jtai = 19.81999969482421875
+Jcon = 29.6000003814697265625
+Jint = 19.75
+Jref = 19.619998931884765625
+Jspd = 14.8999996185302734375
+Jstr = 17.93000030517578125
+Jdef = 13.22000026702880859375
+Jdur = 8.5
+Jatkspd = 19.5
+Jgenres = 13
+exp = 39055.1875
+HPPerc = 95
+icon_state = ""
+Yen = 489113.96875
+OSayFont = "#666699"
+uprank = 100
+InitialSet = 1
+OOCFont = "#715a8c"
+Dead = 1
+grabberSTR = 1
+Jchakra = 9800
+Dranks = 20
+JutsuSubmit = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Ryu Tsuga<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Kenjutsu<br><br><b>Jutsu Element:</b>Elementless<br><br><b>Jutsu Drain:</b>400<br><br>Jutsu Description: Concetrating the density of ones chakra into the very tip of the blade on a sword, while generating enough force within a swing to deliver a deadly slash of slicing chakra through the air to their target. This can cause minor to major cuts depending on the level of the shinobi utilizing this ability, the size of this slash can only be as large as the users total wing span, however if amplified in any way it can be much larger..<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Overheat Sealings<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Fuuinjutsu<br><br><b>Jutsu Element:</b>Katon<br><br><b>Jutsu Drain:</b>650<br><br>Jutsu Description: After placing two seals upon the target. This jutsu then causes that targets body to overheat from the inside and out over time per RP. Causing them to slow down in speed depending on how strong the seal is made to be by the user if they have the proper traning ; eventually bringing them down to their knees if not handled by two serperate people who can take off the seal at the very same time. If not then they will suffer immense internal heat as well as those who fail to remove it. <hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Fire Shroud<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Buff<br><br><b>Jutsu Element:</b>Fire<br><br><b>Jutsu Drain:</b>500<br><br>Jutsu Description: Forming fire to circulate around the users body while gaining a form of offense from the provided flames and self speed to add along with it from the chakra flow. This ability grants the user both attack speed and defense from physical attacks as the bits of fire constantly flow about a single persons figure , not touching their spin but providing protection and a bit of an extra kick to their own close range attacks.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Fire Shroud<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Buff<br><br><b>Jutsu Element:</b>Fire<br><br><b>Jutsu Drain:</b>500<br><br>Jutsu Description: Fire rotates around the body of the user, not touching their skin this fire provides a natural defense but also provides a buff from the concetration of chakra to their limbs for attack speed and strength. An experienced fire ninjutsu user may be able to manipulate the properties of this buff.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Golem Command Seal<br><b>Jutsu Rank:</b>B</align><b>Jutsu Type:</b><br><hr><br>Fuuinjutsu<br><br><b>Jutsu Element:</b>Elementless<br><br><b>Jutsu Drain:</b>700<br><br>Jutsu Description: The user places five seals upon a solid element, being a tree, rocks or any form of matter to draw towards the other five seals in order to create a giant being of that element, a golem which will fight at the command at the user.Only being as strong as the user makes them out to be with a fair limit. These golems can not use any for of Ninjutsu or Genjutsu..<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Golem Command Seal<br><b>Jutsu Rank:</b>B</align><b>Jutsu Type:</b><br><hr><br>Fuuinjutsu<br><br><b>Jutsu Element:</b>Eleemntless<br><br><b>Jutsu Drain:</b>700<br><br>Jutsu Description: The user places five seals upon a solid element, being a tree, rocks or any form of matter to draw towards the other five seals in order to create a giant being of that element, a golem which will fight at the command at the user.Only being as strong as the user makes them out to be with a fair limit. These golems can not use any for of Ninjutsu or Genjutsu..Due to the nature of the seal, these golems can rebuild themselves as if they were brand new, untill they and the seals placed on them are totally destroyed.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Golem Command Seal<br><b>Jutsu Rank:</b>A</align><b>Jutsu Type:</b><br><hr><br>Fuuinjutsu/Ninjutsu<br><br><b>Jutsu Element:</b>Elementless<br><br><b>Jutsu Drain:</b>1000<br><br>Jutsu Description: The user places several seals upon several different forms of mass to link and assemble together with the art of Fuuinjutsu in order to create a giant golem based off the solid element of which they may place these seals upon. The durability of the golem is high depending on the mass used for its creation, being a tree, a giant rock or any form of matter used to make the structure of this massive golem, granted that they are unable to use ninjutsu or genjutsu, they are as strong as the user makes them out to be with the ability to regenerate until the seals upon their bodies are completely destroyed . These golems are at the full command of the user. <hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Negation Seal<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Fuuinjutsu<br><br><b>Jutsu Element:</b>Hiden<br><br><b>Jutsu Drain:</b>500<br><br>Jutsu Description: Placing this seal upon yourself or a certain target for future or soon to come events of having to deal with the power of Fuuinjutsu. Depending on the power of the user, this seal will be able to negate almost any fuuinjutsu within the range of the seals power. Such a seal can be empowered by the user to become more durable, this seal alone makes a great armor when facing someone of the sealing expertise.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Mystic Fire Shroud<br><b>Jutsu Rank:</b>B </align><b>Jutsu Type:</b><br><hr><br>Buff<br><br><b>Jutsu Element:</b>Fire<br><br><b>Jutsu Drain:</b>Open <br><br>Jutsu Description: Blue and Golden flames which surfaces and rotates around the user, this being a more advance variation of the Fire Shroud but with high amounths of chakra being added for additional Defense mainly but also additional power in  Attack Speed all according to the users chakra control..This surving as a defense, it has an additional property added which grants the user flight by focusing the flame to a single point of their feet as if they were using Suimen. However in addition to the higher cost of chakra, comes a decrease in ones own Genjutsu power.. <hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Divine Dragons Judgement <br><b>Jutsu Rank:</b>A</align><b>Jutsu Type:</b><br><hr><br>Fuuinjutsu<br><br><b>Jutsu Element:</b>Hiden<br><br><b>Jutsu Drain:</b>2000<br><br>Jutsu Description: \nMade By Ryujin ,Fujitora \nThe user kneads his very own chakra with a bit of  his own life energy in order to form the hundred spirits of chinese long dragons  depending on the amouth of chakra and life energy placed into the jutsu  they can reshape themselves and continue their divine duty ,but the more life energy, the more risk.. These dragons are used capable of leaving the area far from the user as they are apart of the users own spirit, though very durable and quick, they act as sealing chains as well, they hunt for a single target or three at most in order to restrict them by biting into the spirits of that person and seal them away by the trigger activation of the user alone...The soul is then sealed away into the chosen item or person of the users choice.. They are able to move about 30 tiles away from the users body and are capable of acting on their own to track down and seal the ideal target if the user is not focused just so long as the jutsu is still in tact by the life force of the user...If skilled enough in the art of Fuuinjutsu , this can be used on bijuu as well.. . The purpose is to provide long range sealing which can easily follow the said target untill the job is done..The very control of the user and additional efforts can be crucial to the seals strength..Once sealed into the object or person, it creates a marking of 7 Long Dragons circulating around a lotus.. However  if too much life energy is used, the person runs the risk of dying after the seals completion. The goal is to destroy distance and provide a long range and powerful sealing method for the user.\nIntel+Control+Ninjutsu+15 By Perk Level= Seal strength<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Divine Dragons Judgement<br><b>Jutsu Rank:</b>A</align><b>Jutsu Type:</b><br><hr><br>Fuuinjutsu<br><br><b>Jutsu Element:</b>Hiden<br><br><b>Jutsu Drain:</b>2000<br><br>Jutsu Description: Created By Ryujin ,Fujitora to be sacred to the clan..The user kneads his very own chakra with a bit of  his own life energy in order to form the hundred spirits of chinese long dragons depending on the amouth of chakra and life energy placed into the jutsu , allowing them to replenish themselves if destroyed to continue on,but the more life energy, the more risk.. These dragons are used capable of leaving the area far from the user as they are apart of the users own spirit, though very durable and quick, they act as sealing chains as well, they hunt for a single target or three at most in order to restrict them by biting into the spirits of that person and seal them away by the trigger activation of the user alone...The soul and body of the target is then fully resitrcted and sealed away into the chosen item or person of the users choice.. They are able to move about 30 tiles away from the users body and are capable of acting on their own to track down and seal the ideal target if the user is not focused just so long as the jutsu is still in tact by the life force of the user...If skilled enough in the art of Fuuinjutsu , this can be used on bijuu as well.. . The purpose is to provide long range sealing which can easily follow the said target untill the job is done..The very control of the user and additional efforts can be crucial to the seals strength..Once sealed into the object or person, it creates a marking of 7 Long Dragons circulating around a lotus.. However  if too much life energy is used, the person runs the risk of dying after the seals completion. The goal is to destroy distance and provide a long range and powerful sealing method for the user.\n<p>\nIntel+Control+Ninjutsu+15 By Perk Level= Seal strength<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Five Chain Sealing<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Fuuinjutsu<br><br><b>Jutsu Element:</b>Hiden<br><br><b>Jutsu Drain:</b>1000<br><br>Jutsu Description: The user summons out a series of 5 durable normal sized iron chains marked with fuuinjutsu which can be used to send after and bind their target..Upon contact the user would be free to channel their chakra in order to imprint any seals they may possess, however this takes mastery and someone who can atlease perform the ROOT seals to do..The purpose is to provide long range fuuinjutsu but in turn makes the cost of those fuuinjutsu abilities double  of what they'd normally be with direct contact..<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Reika Release Seal<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Fuuinjutsu<br><br><b>Jutsu Element:</b>Labyrinth Hiden<br><br><b>Jutsu Drain:</b>1200<br><br>Jutsu Description: The marker of this seal has one main goal to amplify their own movement for a short period of time at a large cost of their own chakra being released so rapidly through such a method... The seal aims for the persons inner chakra, focusing on their jolts to increase movement in that specific area, the legs for Speed or arms for Attack Speed ..But they can only chose one type of limb, they can not amplify the movement of all limbs unless they have Advance sealing T4 and above.. \n+4 Speed If Used on legs \n+4 Attack Speed \nMust choose One of the options.. When used on someone other than themselves the cost doubles as this jutsu only last for 3 turns, to continue use, they must output more of their stamina..<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>BOI!<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Fire<br><br><b>Jutsu Drain:</b>300<br><br>Jutsu Description: The user flattens their dominant hand out , aiming at their target of roast they thrust that arm and hand towards that general direction in order to generate a slash of flame that will hurl at the targets given their direction , this flame in the shape of a hand that is formed when roasting someone , this damage is amlified by their roasting ability, though one of the few basic fire jutsu, it is capable to render the roastee asunder if powerful enough.<hr><br>"
+Uchiha = 1
+Eranks = 13
+Exp = 369
+MaxGenjutsu = 1.0220010280609130859375
+Oprofile = "<html>\n<head><center><title>(Fujitora)</title></center></head>\n\n<body bgcolor=CCCCC# text=black>\n\n<iframe width=\"1\" height=\"1\" src=\"(theme song link)\" frameborder=\"0\" allowfullscreen></iframe>\n\n<br><font face=\"Tw Cen MT Condensed\" size=\"3px\" color=\"black\">\n\n<table border bgcolor=white text=black align=right>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><center>(Ryujin, Fujitora</center></th>\n</tr>\n<tr>\n<td colspan=\"2\"><center><img src=http://images.forwallpaper.com/files/images/9/9bfb/9bfbb79c/345633/dynasty-warrior.jpg>\n<p>\nFarmer Fujitora, A Retired Shinobi Seeking Peace.\n<br>\n<img src=https://i.gyazo.com/c5b72072f981a781a8b84f965c29fd58.png></center></td>\n</tr>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><i></i></th>\n</tr>\n<tr>\n<th colspan=\"3\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b>Debut</b></th>\n</tr>\n<tr>\n<td>Appears In</td>\n<td>(Current)</td>\n</tr>\n<tr>\n<td>Arc</td>\n<td>(etc)</td>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\">Personal</th>\n</tr>\n<tr>\n<td>Birthdate</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Gender</td>\n<td>(M)</td>\n</tr>\n<tr>\n<td>Age</td>\n<td>(20-25)</td>\n</tr>\n<tr>\n<td>Height</td>\n<td>(Average)</td>\n</tr>\n<tr>\n<td>Weight</td>\n<td>(Average For Age)</td>\n</tr>\n<tr>\n<td>Blood Type</td>\n<td>(O+)</td>\n</tr>\n<tr>\n<td>Classification</td>\n<td>(Jounin)</td>\n</tr>\n<tr>\n<td>Affiliation</td>\n<td>(IC)\n<img src=\"http://images1.wikia.nocookie.net/__cb20090830222823/naruto/images/thumb/d/de/Konohagakure_Symbol.svg/18px-Konohagakure_Symbol.svg.png\"; width=\"18\" height=\"18\"> <Example <br>\n</td>\n</tr>\n<tr>\n<td>Team</td>\n<td>\n<font size=2>\n<br>\nSquad<br>\n<b>4</b><br>\n<br>\n<br>\n</font>\n</td>\n</tr>\n<tr>\n<td>Partners</td>\n<td>\nKidoku(X)<br>\nTategama(X)<br>\nKastya(Wife)(X)<br></td>\n</tr>\n<tr>\n<td>Rival</td>\n<td>(etc)<br>\n</td>\n</tr>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\">Rank</th>\n</tr>\n<tr>\n<td>Rank</td>\n<td>(Chuunin)</td>\n</tr>\n<tr>\n<td>Generation Rank</td>\n<td>(3 Idk)</td>\n</tr>\n<tr>\n<td>Acad Grad. Age</td>\n<td>(12)</td>\n</tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b>Family</b></th>\n<tr>\n<td>(Ryunin by Title)</td>\n<td>Purely Uchiha</td>\n</tr>\n</tr>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b>Nature Type</b></th>\n</tr>\n<tr>\n<td>(IC)\n<br>\n</td>\n</tr>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b>Techniques</b></th>\n</tr>\n<tr>\n<td colspan=\"2\">\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????\n</td>\n</tr>\n<td colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b><center>Weapons</b></center></th>\n</tr>\n<tr>\n<td colspan=\"2\">\n <br>\n <br>\n <br>\n <br>\n<br>\n <br>\n</td>\n</tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\">Missions</th>\n</tr>\n<tr>\n<td>D-Rank:</td>\n<td>0</td>\n</tr>\n<tr>\n<td>C-Rank:</td>\n<td>0</td>\n</tr>\n<tr>\n<td>B-Rank:</td>\n<td>0</td>\n</tr>\n<tr>\n<td>A-Rank:</td>\n<td>0</td>\n</tr>\n</table>\n</center>\n<br>\n<br><i>\"(etc)!\n\"<br>-(etc)</br>\n<br>\n</i>\n</i><br>\n<br>\n<font size=+1>Background Story</font>\n<hr>\n<font size=5 color=#FFFFFF face=fantasy><u>  (Through his life he was a kid in the land of Sunagakure, however it is highly possible that he is not a native of this village, though he does love it dearly, he has grown to always be against what ever evil rises from it. He is known to be a revolutionary speaker at times, however he is very polite and reasonable. Though he has the blood of the Uchiha, he knows nothing of the heritage. He has found love in the land of Sunagakure soon enough to marry Kastya, a kind hearted Jinchuriki. Always being one to think before he acts, his life in Suna has been a shifty one but not enough to prevent him from seeing the world, influencing change along the way..Slowly but surely... )</u> </font>\n<Font color\"gray\">\n<br>\n<br>\n<font size=+1></font> (etc)\n<hr><br>\n\nPart 1: <br><br>\nTo be typed. <br><br>\n\nPart 2:<br><br>\nN/A\n<br><br>\n<font size=+1></font> (Not yet)\n<hr><br>\n\nPart 1:<br><br>\nN/A\n<br><br>\n\n<body background= http://p1.pichost.me/640/45/1685510.jpg >\n\n <iframe height=0 width=0 src=http://picosong.com/jzUu></iframe>"
+Cranks = 63
+Calories = 27400
+MaxNinjutsu = 4.71584987640380859375
+kawarimiskill = 3
+MaxStamina = 24.02972412109375
+Branks = 22
+Stamina = 24.02972412109375
+Shunshin = 1
+shunshinskill = 3707
+Health = 10000000272564224
+MaxHealth = 10000000272564224
+Aranks = 13
+Kage = 1
+Sranks = 8
+RPP = 14.6953125
+Ninjutsu = 4.54788112640380859375
+senserange = 5
+CB1 = object(".0")
+	.0
+		type = /obj/items/Citem/Iron_Blade
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+CB2 = object(".0")
+	.0
+		type = /obj/items/Citem/Iron_Bar
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+CB3 = object(".0")
+	.0
+		type = /obj/items/Citem/Energy_Core
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+CB4 = object(".0")
+	.0
+		type = /obj/items/Citem/Energy_Limiter
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+CB5 = object(".0")
+	.0
+		type = /obj/items/Citem/Gun_Barrel
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+CB8 = object(".0")
+	.0
+		type = /obj/items/Citem/Katana_Hilt
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+Book_Page = 11
+Hatchet = 0
+mining = 1
+Squad = "Ziare1"
+SquadName = "Suicide Squad"
+SquadMember = 1
+SquadM = 1
+Convert = 1
+SayFont = "#666699"
+profile = "<center> \n<p>\n <font size=5 color=#FFFFFF face=fantasy> Ryujin,Fujitora </font>\n<p>\n<font size=3 color=#FFFFFF face=fantasy> Labyrinth King\n<p>\n-I'm Just A Simple Farmer-</font>\n<p>\n<font size=3 color=#FFFFFF face=fantasy> Why live in a world chained by the iron shackles of shinobi law ,binding yourself to the eventual end, claiming to have your freedom but not knowing who is truly free?..Freedom lies beyond the petty ways of such filth to take the lives of your fellow man...Freedom lies behind the skies, beyond the sea, beyond your very own sight.. Freedom is the only thing that truly surpasses each and every Law that binds us down to the slaves you allow yourselves to be.... </font>\n<p>\n<img src=http://images.forwallpaper.com/files/images/9/9bfb/9bfbb79c/345633/dynasty-warrior.jpg>\n<p>\n<font size=5 color=#FFFFFF face=fantasy> What do you want to know about me IC?..Well that's all to discover..But just know that I am a simple farmer..Rice Cake? 4 Yen!  </font>\n<p>\n\n</center>\n<body background= http://p1.pichost.me/640/45/1685510.jpg >\n\n <iframe height=0 width=0 src=http://picosong.com/jzUu></iframe>"
+overlays = list(appearance(),object("",6),appearance(filedata("name=Red+Scroll.dmi;length=1170;crc32=0x66e4a798;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAABkAAAAAgBAMAAAC4Bqn0AAAAElBMVEXAwMAAAABmMwAzAACAAABA
+AABu9burAAAAAXRSTlMAQObYZgAAAMJ6VFh0RGVzY3JpcHRpb24AAHicpZG9DoIwFIXn9ikaWImR
+4uqgAQ0x4ujc0Cs0Qktoxfj2FjRWkxoHc5dzk+/c35Css21ekHSf4wF6LZQkS7KYzTG6Cm5qmyQU
+oxpEVZtHog0zYGUQYMRFr0ceo1PPWnhqDg27WUmjKTBq1QAtyLFA7PwrY1h59ld5wzaqvGhHxX5q
+d/iJHIF1Svr70Y+pMWqU6ibk5U4Vr8DfI3HmOLLhTPTfG+Vy+LZXSLIinR53B+CFeHUq2JLOAAAD
+YElEQVR4nO2by3LiMBBFPVjZ8wkU/oEpzOxVZbFP1YT//5UxIPnRrSeNbSa5Z5HEj3a30L2WLJyq
+AgAAAAAAAAAAAACr8WvrAgAY2B23roABg4D3oW1/b10CBQYB74MxeusSKAmDwD9gRfTWBTD2axqk
+Ng+6V14UgAVZ1SDN9cHfwyuvCsBypA2yL7vgxcy3zdf4d+NGkEM4Xn3p2eZF+897Jv8a8eB7kZL/
+zCAZUyT1NX/MUmai8ByDXMxMoaZQoNH80vrBz2NfxUyyvxtkON5PkT6rKjpFuhgqsInC8wRKDFIm
+8Gj+jCleNB78PMoMchevGkeAs1XssHh907eeXkGZsltwL1BikCKBx/M394OxEUxcP/hW7Cc/Q8dn
+BtG3X4PAds4gJ3fGTd96egVlYrdgr8GoQSICZ/Hx/MzgjML60yjfTu3buQxb518aafsS8YUGqZ1B
+7DYzCNM3UTih1GBU4KX5af3MYIX1Z3Dx7Vxx0ibN/+4Gk7YvEU8MwEgYaPfHznmcQLuWfRXaK7w9
+h+KZwNszF2jXuksmDSrNXxifRnn7qsBx3jO9ql0m/9YGTyBtXypeaBB2B26bs6HnmO7UBsKZwepT
+ywXaNqH3c1h8aX5qkML4qrbFOseyVQS6aGwvma0w9enb+6FXyx8XkM1vxvx6Xk/e8Sq06iJtn/jz
+IQ/hHuIP8ZTT8azpPtUdm9D51GD1seECPR2DL7DR+ML8zGCl9Tf2bDfno+vYyj/4DGOi7UAV7kB/
+XteB4vz2035WQDa/GfPreT2p44/Lq9BDobR90viXG6S/A3vShe/AlH4E0XSfCo8g4vyeETAWz/ST
+6oDan3pokRWICXegv+5cAaTz3y+ghAIUGETPjtMZpbh9wvgq/U152ffoNdf37VPOf4XZ1yFdtr/E
++RPx7ItO1gFkHbr2Dz7DmEgFwjvQX2dQAC/PnxDgYwY45Guujx3Ddur49dr//BjX7ckjoLh9wvgq
+wyB4nXeEGaR2U4Rhez7EZN7BTbgDDzT2xs514PL54wKq3Qg45NekntRxuyw5VDa/mUnbJ42v0i8j
+wiATyl+2DE1R7B90We6JDnzv/KWU/kdhon0viIdBClj/dX2pAP73/NuT1D8MAkAEGASACDAIABFg
+EAAAAAAAsBb/ALCYWDvKB6JJAAAAAElFTkSuQmCC
+"})),object("",6),object("",6),object("",6),object("",6),object("",6),object("",6),appearance(filedata("name=Rain.dmi;length=224;crc32=0x61f7db72;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEXAwMAAAAAr16GmAAAAAXRS
+TlMAQObYZgAAAGR6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+Di
+LM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGMg05OJMK0rMTYWwlRVc/VzAJgIAmrcY
+C32rgUMAAAAYSURBVAiZY/BbwMDAsOIAkHgDZoGIQQQACYsFK0tsXiEAAAAASUVORK5CYII=
+"})))
+exptunarank = 7
+PerC2Nxt = 7
+Agility = 1.7999999523162841796875
+captarget = object(".0")
+	.0
+		type = /obj/items/Citem/tools/Backpouch
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(null /*invalid data*/)
+		contents = list(
+				object(".0"),
+				object(".1"),
+				object(".2"),
+				object(".3"),
+				object(".4"),
+				object(".5"),
+				object(".6"),
+				object(".7"),
+				object(".8"),
+				object(".9"),
+				object(".10"),
+				object(".11"),
+				object(".12"),
+				object(".13"),
+				object(".14"),
+				object(".15"),
+				object(".16"),
+				object(".17"),
+				object(".18"),
+				object(".19"),
+				object(".20"),
+				object(".21"),
+				object(".22"))
+			.0
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Earth"
+				lrncost = 20
+				nan = "Earth Style: Mud Silhouette"
+				Kekkei = 0
+				IsStored = 1
+				description = "This technique lets the user summon a river of mud. This technique can have water added to it to speed up the flow and increase its power."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "D"
+				dran = 147
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Mud Shilluet."
+			.1
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 20
+				nan = "Crescent Moon Beheading"
+				Kekkei = 0
+				IsStored = 1
+				description = "The user swings their sword in a single, large, crescent moon-shaped arc, which occurs with such ferocious velocity that the technique can be employed in situations where only a very limited time to react is available. The swing can be used to counter attacks from multiple opponents simultaneously."
+				skil = "New"
+				jut = "Kenjutsu"
+				ran = "C"
+				dran = 250
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Crescent Moon Beheading"
+			.2
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Earth"
+				lrncost = 20
+				nan = "Earth Style: Mud Silhouette"
+				Kekkei = 0
+				IsStored = 1
+				description = "This technique lets the user summon a river of mud. This technique can have water added to it to speed up the flow and increase its power."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "D"
+				dran = 72.029998779296875
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Earth Style: Mud River"
+			.3
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 10
+				nan = "Konohagakure Style Taijutsu: Leaf Whirlwind"
+				Kekkei = 0
+				IsStored = 1
+				description = "A taijutsu where one launches a succession of high kicks and low kicks. Firstly, the opponent's evasion margin is restrained upon seeing the high kick, thus augmenting the chances for the low kick to hit the mark. So originally the high kick is little more than a feint."
+				skil = "New"
+				jut = "Taijutsu"
+				ran = "D"
+				dran = 48.01999664306640625
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Leaf whirlwind"
+			.4
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 30
+				nan = "Shadow Clone Jutsu"
+				Kekkei = 1
+				IsStored = 1
+				description = "Similar to the basic Clone Technique, this technique creates copies of the user. However, these clones are corporeal instead of illusions. The user's chakra is evenly distributed among every clone, giving each clone an equal fraction of the user's overall power. The clones are capable of performing techniques on their own and can even bleed, but will usually disperse after hit by a strong enough force. The clones can also disperse on their own or be dispelled by the user of the technique. Shadow clones can't be distinguished from the original with Sharingan, Byakugan, Rinnegan or Rinne Sharingan."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "B"
+				dran = 225.279998779296875
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Shadow Clone Technique"
+			.5
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 20
+				nan = "Overheat Sealing"
+				Kekkei = 0
+				IsStored = 1
+				description = "After placing two seals upon the target. This jutsu then causes that targets body to overheat from the inside and out over time per RP. Causing them to slow down in speed depending on how strong the seal is made to be by the user if they have the proper traning ; eventually bringing them down to their knees if not handled by two serperate people who can take off the seal at the very same time. If not then they will suffer immense internal heat as well as those who fail to remove it.  \[If not removed this has potential to kill\]"
+				skil = "New"
+				jut = "Fuuinjutsu"
+				ran = "C"
+				dran = 168.75
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Overheat Sealings"
+			.6
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 20
+				nan = "Overheat Sealing"
+				Kekkei = 0
+				IsStored = 1
+				description = "After placing two seals upon the target. This jutsu then causes that targets body to overheat from the inside and out over time per RP. Causing them to slow down in speed depending on how strong the seal is made to be by the user if they have the proper traning ; eventually bringing them down to their knees if not handled by two serperate people who can take off the seal at the very same time. If not then they will suffer immense internal heat as well as those who fail to remove it.  \[If not removed this has potential to kill\]"
+				skil = "New"
+				jut = "Fuuinjutsu"
+				ran = "C"
+				dran = 94.921875
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Overheat Sealings Mastered"
+			.7
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 10
+				nan = "Genjutsu: Kai"
+				Kekkei = 0
+				IsStored = 1
+				description = "The ninja needs to stop the flow of chakra in their body, and then apply an even stronger power to disrupt the flow of the caster's chakra; this is called Genjutsu Dissipation (???, Genjutsu Kai). This can also be done by an unaffected ninja by applying a sudden surge of chakra into the affected person."
+				skil = "New"
+				jut = "Genjutsu"
+				ran = "D"
+				dran = 60.02500152587890625
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Genjutsu :Kai Mastered"
+			.8
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 20
+				nan = "Five Seal Barrier"
+				Kekkei = 0
+				IsStored = 1
+				description = "This technique creates a barrier around a place by placing four forbidden (?, kin) tags in different locations surrounding the place to be protected, a fifth tag on the location to be protected. The tags are placed on flat surfaces, and are connected with the user's chakra. This technique turns the entire range surrounded by the tags into a barrier space, and inside the space, the material's destruction is forbidden. Using any kind of physical attack to try and destroy something in the barrier is folly, as it will only lead to injury. To cancel this, it is necessary to search for the four tags and tear them off simultaneously. Meaning there must be at least five people on a team to cancel it."
+				skil = "New"
+				jut = "Fuuinjutsu"
+				ran = "C"
+				dran = 220.693359375
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Five Seal Barrier"
+			.9
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 20
+				nan = "Kuchiyose no Jutsu"
+				Kekkei = 0
+				IsStored = 1
+				description = "The Summoning Technique is a space–time ninjutsu that allows the summoner to transport animals or people across long distances instantly via blood. This character summons Monkeys. They are capable of feats of great speed and agility."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "C"
+				dran = 154.6875
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Monkey Summoning (Complete)"
+			.10
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 20
+				nan = "Novice Healing Jutsu"
+				Kekkei = 0
+				IsStored = 1
+				description = "The user places their palms upon a wound inflicted upon their target, healing it. This santizes wounds and stops bleeding. It is capable of compltely healing minor to moderate wounds such as sword-inflicted stab wounds."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "C"
+				dran = 180.2032470703125
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Novice healing jutsu"
+			.11
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Fire"
+				lrncost = 30
+				nan = "Exploding Flame Shot"
+				Kekkei = 0
+				IsStored = 1
+				description = "By creating a spark from their hands, this technique allows the user to throw multiple balls of flames, which are able to either cause fiery explosions on impact or set the target on fire."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "C"
+				dran = 104.2349853515625
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Exploding Flame Shot"
+			.12
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Wind"
+				lrncost = 30
+				nan = "Wind Style: Great Breakthrough"
+				Kekkei = 0
+				IsStored = 1
+				description = "This is a relatively simple technique that creates a sudden gust of wind, but its scale varies greatly depending on the user. If used by a superior shinobi, it has enough destructive power to knock down a large tree. The wind from the squall can blow away all things in the user's line of sight. A variation of the technique involves a smaller blast of wind which gets ignited with flame."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "C"
+				dran = 124.1400146484375
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Great Breakthrough"
+			.13
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Wind"
+				lrncost = 30
+				nan = "Wind Style: Air Bullet"
+				Kekkei = 0
+				IsStored = 1
+				description = "This technique shoots multiple bullets of air at the victim with intense speed. The bullets also have great power, enough to subdue a whole group of shinobi."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "C"
+				dran = 79.1015625
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Wind Bullet"
+			.14
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 10
+				nan = "Genjutsu: Kai"
+				Kekkei = 0
+				IsStored = 1
+				description = "The ninja needs to stop the flow of chakra in their body, and then apply an even stronger power to disrupt the flow of the caster's chakra; this is called Genjutsu Dissipation (???, Genjutsu Kai). This can also be done by an unaffected ninja by applying a sudden surge of chakra into the affected person."
+				skil = "New"
+				jut = "Genjutsu"
+				ran = "D"
+				dran = 60.02500152587890625
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Genjutsu: Kai"
+			.15
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Wind"
+				lrncost = 20
+				nan = "Divine Wind"
+				Kekkei = 0
+				IsStored = 1
+				description = "The user releases a gust of wind that forms several small tornadoes. Combined with Fire Release: Running Fire that forms a circle on ground level, this creates a massive flaming hurricane."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "D"
+				dran = 54.022502899169921875
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Divine Wind"
+			.16
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 30
+				nan = "Shadow Clone Jutsu"
+				Kekkei = 1
+				IsStored = 1
+				description = "Similar to the basic Clone Technique, this technique creates copies of the user. However, these clones are corporeal instead of illusions. The user's chakra is evenly distributed among every clone, giving each clone an equal fraction of the user's overall power. The clones are capable of performing techniques on their own and can even bleed, but will usually disperse after hit by a strong enough force. The clones can also disperse on their own or be dispelled by the user of the technique. Shadow clones can't be distinguished from the original with Sharingan, Byakugan, Rinnegan or Rinne Sharingan."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "B"
+				dran = 207.6180419921875
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Shadow Clone Mastered"
+			.17
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 10
+				nan = "Shunshin no Jutsu"
+				Kekkei = 0
+				IsStored = 1
+				description = "A technique wherein the user exerts chakra into their body, increasing their metabolic rate, allowing them to cover a distance in a short period. This technique has a delay and causes the user to become dizzy and disoriented for a short period after use until mastered."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "D"
+				dran = 180.0749969482421875
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Body Flicker Technique"
+			.18
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Wind"
+				lrncost = 30
+				nan = "Sickle Weasel Technique"
+				Kekkei = 0
+				IsStored = 1
+				description = "This bold move is Temari's speciality. By freely manipulating the gale brought forth by her Giant Folding Fan, the many air currents collide and create vacuum pockets. The person enveloped by this gale is assaulted by countless invisible blades, carving up their body. Also, the strong wind power will blow away all incoming projectile weapons and will even make the opponent unable to stay on their feet."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "C"
+				dran = 71.19140625
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Sickle Weasel No Jutsu"
+			.19
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Fire"
+				lrncost = 30
+				nan = "Fire Style: Fireball Jutsu"
+				Kekkei = 0
+				IsStored = 1
+				description = "A technique where chakra kneaded inside the body is converted into fire and expelled from the mouth either as a massive orb of roaring flame or as a continuous flame-thrower. The scope of the attack is altered by controlling the volume of chakra that is mustered. The released flames will engulf their target, and leave a crater on the ground's surface. This technique apparently requires more than average chakra reserves and most genin should not be able to do this technique."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "C"
+				dran = 64.94641876220703125
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Fire Style: Fireball"
+			.20
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Fire"
+				lrncost = 20
+				nan = "Ninja Art: Fire Run"
+				Kekkei = 0
+				IsStored = 1
+				description = "This technique creates a stream of fire that can be manipulated into several forms (so far, rings of fire that runs on the ground or a circle of fire flying through the air) before striking the target. It can also be used in combination with Wind Release: Divine Wind to create a tornado of flames, or with Wind Release: Godly Wind from the Mountains to release a massive inferno."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "D"
+				dran = 12.06787109375
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Fire Style: Fire Run"
+			.21
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Fire"
+				lrncost = 20
+				nan = "Ninja Art: Flamethrower"
+				Kekkei = 0
+				IsStored = 1
+				description = "The user fires a stream of fire from their mouth. This is the most basic fire style technique."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "D"
+				dran = 65.0080413818359375
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Fire Style: Flamethrower"
+			.22
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 10
+				nan = "Mist Servant Jutsu"
+				Kekkei = 0
+				IsStored = 1
+				description = "This genjutsu creates eerie black ninja illusions, which appear one by one from trees and rocks, and then corners the enemy. Their movements are somehow slow, but when attacked they multiply, and in this way they appear like ghosts inhabiting the mist. Kunai knives are added to this technique, by throwing them to match illusions movement, making them seem real. As the clones continue to multiply rapidly, the victim will eventually be worn down."
+				skil = "New"
+				jut = "Genjutsu"
+				ran = "D"
+				dran = 156.344482421875
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Mist servant Jutsu"
+Salary = 586
+Chakra = 2147483520
+RPLOG = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Medic - Mon Dec  7 21:15:18 2015</b><font><hr><br>(*Ryujin, Fujitora eventually went on over towards the child or man to help by attempting to heal him with some medical Ninjutsu, though it was not his best work, medical ninjutsu was studied over for a few months during his time with Zenaki ..So he used it whenever he could possible to try and heal the wounded..In cases like this he made it so that his focus was highly on the recovery of another and his chakra control to be as youngsters would say it..On Point , and his abilities were gonna be Lit..*)\n<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Medic - Wed Dec  9 03:09:00 2015</b><font><hr><br>(*Ryujin, Fujitora soon went to stand behind Zenaki or Claudette , whom he would be healing, he looked to his son and wondered why he was afraid..Figured it was because of what threat Fujitora made himself to be when he discovered that Zenaki was actually this new woman ...So the man began the healing process with the medical ninjutsu art, healing his wifes wounds away to try and fic her up. \"Seems the kids get along nicely..\" though now he wondered..If the children of hers even inherited his eyes or talent.. *)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Sharingan perk Copy Wheel - Wed Dec  9 05:56:16 2015</b><font><hr><br>(*Ryujin, Fujitora now drawing his blade of the Ryushini No Yari , he spoke in reply to her words \"You eyes can see but can your body react?\" he then rushed towards her at great speeds after the flame made its explosion and he had taken cover . \n\nIn doing so, the man also made a few other preporations by placing a few seals on the mountain by throwing them or atlease attempting to. But for now, he focused on getting closer to his daughter, to see how well her eyes helped her in close combat...This brought up memories of how he and Ushinawa would train with one another, when Fujitora did not have sharingan but rather just his child self, and Ushinawa's child self, training in hand to hand combat with bokkens..\n\n<C'mon big cousin, stop holding back!>\n<You gotta get stronger Fuji or else you'll just stay weak.>\n<Grr..>>\n\nOld days , a swing of memory as he attempts to strike Izanami on her blind side of the left where she needs to always be aware of if her eyes picked up his person or chakra.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Copy wheel - Wed Dec  9 06:30:24 2015</b><font><hr><br>(*Ryujin, Fujitora keeping a watch for the counter to come, he saw the girl forming an earth chakra flow to counter his flame, however in that time frame, he went to do the same not to counter but rather to prove his point of the eyes, copying her ability he cancled his chakra flow in order to make his own blade jsut as durable 20 x 2+5 or how the math went, he did this to still try and grab his daughters shoulder to place this seal and see just how much she had grown.. The reflex of the man being (22.12) currently and attack speed of (19.5 ) to all add along with it.. \n\n\"That's new for me.\" he refers to the earth chakra flow.*)<br>"
+JConst = 950
+AFK = 1

@@ -1,0 +1,1148 @@
+
+x = 116
+y = 249
+z = 10
+AFK = 1
+exp = 15079.255859375
+leeching = 1
+B1 = list()
+B2 = list()
+B3 = list()
+B4 = list()
+B5 = list()
+B6 = list()
+B7 = list()
+B8 = list()
+B9 = list()
+F1 = list()
+F2 = list()
+G1 = list()
+G2 = list()
+G3 = list()
+M1 = list()
+M2 = list()
+M3 = list()
+M4 = list()
+M5 = list()
+M6 = list()
+Class = "Genin"
+Village = "Sunagakure"
+Trait = "Genius"
+srank = "A-"
+PrimaryElement = "Fire"
+SecondaryElement = "Earth"
+TertiaryElement = "Water"
+QuadranaryElement = "Lightning"
+QuinaryElement = "Wind"
+RPP = 1500
+Yen = 3357433.75
+displaykey = "DyslexicFairyDinosaur"
+stat = 1
+Age = 17
+Stamina = 3
+StaminaGain = 1.10000002384185791015625
+lx = 116
+ly = 249
+lz = 10
+WHO = list()
+Chakra = 0
+ChakraGain = 1.39999997615814208984375
+StrengthGain = 1.7999999523162841796875
+AgilityGain = 1.10000002384185791015625
+OffenceGain = 1.5
+ControlGain = 1.60000002384185791015625
+ResistanceGain = 1.39999997615814208984375
+TaijutsuGain = 1.39999997615814208984375
+Ninjutsu = 4.82680797576904296875
+NinjutsuGain = 1.10000002384185791015625
+MaxGenjutsu = 1.0020000934600830078125
+GenjutsuGain = 1.39999997615814208984375
+SayFont = "#6f2705"
+OSayFont = "#6f2705"
+hair = null /*invalid data*/
+Tan = 1
+Female = 1
+Salary = 3191
+grabberSTR = 1
+profile = "<html><head><title>Moi</title></head><body>\n\n<body background=\"http://wallpapercave.com/wp/REDc2E1.jpg\" bgproperties=\"fixed\" text=\"#FFFFFF\" style=\"background-position:top; background-repeat:no-repeat;\"> <body background color=black>\n\n<table align=\"center\" cellpadding=\"0\" border=\"0\" cellspacing=\"0\"><tr><td><table align=\"center\" cellspacing=\"5\" cellpadding=\"0\" bgcolor=\"#111\" style=\"filter:alpha(opacity=70)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=70\"><tr><td bgcolor=\"#333\" background=\"http://i156.photobucket.com/albums/t38/srenity1004/dracula_02_1280.jpg\" style=\"filter:alpha(opacity=40)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=40\" width=\"552\" height=\"643\" border=\"0\">\n\n</div></div></td></tr></table></td></tr></table></td><td>\n</td><td><table align=\"center\" cellpadding=\"2\" border=\"0\" cellspacing=\"0\" bgcolor=\"white\" style=\"filter:alpha(opacity=40)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=40\"><tr><td>\n\n<table align=\"left\"><table align=\"left\" cellspacing=\"3\" cellpadding=\"0\"><tr><td align=\"top\" bgcolor=\"#000000\" height=\"276\" width=\"550\" border=\"0\" style=\"filter:alpha(opacity=90)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=90\"><div style=\"padding:float:left;6px;font-family:cambria;letter-spacing:-1px;font-size:20px;color:black;margin-bottom:400px;\">\n\n</div><div style=\"padding:3px;background:#000000;width:93%;margin:0 auto;\"></div><div style=\"padding-left:6px;padding-right:6px;line-height:175%;font-family:cambria;color:black>;font-size:11px;\">\n\n\n<center>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#00FF00>Age</font></b><br> Early Twenties</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#00FF00>Height</font></b><br> 5'5</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#00FF00>Hair Color</font></b><br> Black</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#00FF00>Eye Color</font></b><br> Amber</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#00FF00> Sex</font></b><br> Female</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#00FF00>Information</font></b><br> \nLera is never apart from Samehada and it is almost always on her back. She also has a scottish accent.<br> Lera's Tattoo's: <br><img src=\"http://i54.tinypic.com/1zdnb0o.jpg\"></img>\n</div>\n<br>\n\n</center>\n</div>\n\n<iframe width=\"1\" height=\"1\" src=\"http://www.youtube.com/embed/uApi6I2f3sQ?&autoplay=1&loop=1&amp;rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+Samehada = 1
+Oicon = filedata("name=Base_FemaleTan.dmi;length=4572;crc32=0xf3948a8b;encoding=base64",{"
+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
+dHuiX2n6gRe15+lxXR9Q6foAIQnP+oDbc5Pzj5p+YG17GJscUHBCElf0AbhVbGSBQoM7Se42OukD
++Cmq6AdWti+wLfzlbqNloQgUaOlljQQA6RO4fdBZH8A1Pyj6gZXtqyLDzw5oMu5ZpZz1AQw5CkNb
+w0XY/gMCDZKz8c3yRR/ANpf1A2vb4xaddoKslHfWB7AAVIgA6x/rFHXGnItjB2AbpjzPYzkPwJr2
+RAzR5wdwSRIBIH0AdxvAodXuozD9mBxA+gA04dQ5lAv6ghXtaQnDXY7vHmo7KuXEZdkMiBed9QHs
+Iob1K+kHVrY/kL4gE+QDBSqg2qYVkgyqK2R6PONVTBd9ABeBph9Y1x4qQOeaVtgHFaQPkGYA6tDY
+YnLRNM/rA9KXIz7C02BF+gAJgCUqLY2flwI0LZ8ECtJmfiUAKjtsWz4BwNPTeCAkE+TY+4I/Vf0l
+AEhS4VIHQDhW/hUACPw5dp42CmwFOhBlz/U1fUDq8noql0VKgtEMUOlxntigpvwFrMsPKn+uHocs
+rrTbbrv9Tlt+assX62lG2Iqm9q+Y9fv/yf0rZv3+f3L/mtm//5/Yv2YbeP8/rX/FrN//T+1fz9DW
+7/8n8n/mFeuJYbv+5V1N2/f/U/nPwgMOHphClqUcS9PsEQPz9//T+A+keU2EGzFDeCRQV3nk+Nz4
+/f9E/jNiWuu2yXPklXL8kI3jEUGIImD5/n8a/2EBuKall9byHDPFCd+ffZwrxu//J/WPANT00tq0
+0PDLXbIwfv8/lf/FM8D8/f9E/hfnAPP3/xP5X3oXsH7/P5n/pfsA6/f/k/lfuhO0fv8/uX/1tMX4
+/f+3+JfM+v3/t/gXzfr9/3f4l838/f/0/mXbyPv/Kf3LZv76e3r/su0AWL//n9y/bNbv/7/Bv2yv
+4d8V90KVt/jfbbfd/rZZ8/Pm/o35eXv/tvy8tX9zfv4d/nn6nKrY8vOqf3r9PaE+wJafX+S/XOtf
+eSXGgp//gf/w+ns6/zb8/Gb8H4z4+e34P9jw8xvyr2+l/kV9wN0VrPj5jfi34Oc35N+Gn9+OfyN+
+fjv+jfj5Dfk/mPDzW/Jvys9vwb85P2/t35yft/Zvzs9b+zfn5639m/Pz1v7N6Wlr/+YB2Pu35eet
+/Zvz89b+D+KRwa4P2G233f55M+fn5RoeTWq/1uz5edG//+j67iMhAtb8vFID+98nRYD45e3qA94B
+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
+AAAAAElFTkSuQmCC
+"})
+Oname = "Hassan, Lera"
+Shunshin = 1
+Dranks = 1
+Cranks = 3
+Branks = 2
+JConst = 992
+Jchakra = 30600
+maxJchakra = 30600
+Jstam = 10000
+maxJstam = 10000
+Jnin = 37.700000762939453125
+Jgen = 12.05000019073486328125
+Jtai = 13.6499996185302734375
+Jcon = 35.09999847412109375
+Jint = 19.5
+Jref = 11.5
+Jspd = 8.69999980926513671875
+Jstr = 15.5
+Jdef = 9
+Jdur = 10.19999980926513671875
+Jatkspd = 9.94999980926513671875
+Jgenres = 16.549999237060546875
+exptunarank = 15
+PerC2Nxt = 15
+uprank = 100
+InitialSet = 1
+HPPerc = 99
+RPLOG = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Dust (day 6) - All other Dust Rp's are on my old key, which was bugged. - Fri Nov 20 19:44:25 2015</b><font><hr><br>Lera 's clone saw that the walls were complete and it was still in sight, it then held its two hands out palms facing forwards. Ironically, for Sanoke's sight; even her clone had chakra on par with a Bijuu. That chakra began focusing in the clones hands, with the Doton element in the left and the Fuuton element in the right. For a moment, the clone prepared itself for the task ahead; knowing it was likely about to destroy itself.\n<p>\nThen, it would begin in ernest; channeling a third elemental chakra to hover before its hands. To Sanoke's eyes, these chakra's would then slowly begin to mix together; creating something entire new and incredibly powerful. To normal sight, a tiny golden speck would manifest infront of the Clones hands; steadily growing into a small sphere.\n<p>\nAs the sphere grew, so would the chakra supplying it; it was near blinding in its sheer power. A deep throated hum would start to resonate towards them, centering from the sphere; while it did, the concentration of her clone reached its peak. Lera herself could only hold this new element at a certain level before it lost stability; the clone being weaker than her, was even more limited by this fact.\n<p>\nAll at once, the sphere's circumference would grow exponentially; effectively removing both of the clones hands and rising its deep hum to ear shaking levels. As soon as she saw this, Lera clapped her hands and filled the gap between the walls; summoning several more layers of it for good measure. Then the explosion happened. A Bright golden light could be seen from behind the wall, the chakra expanding rapidly and effectively erasing everything in its path.\n<p>\nFortunately for Lera and Sanoke, they were both far enough away to escape damage; though the first layer of walls showed damage, parts of it simply missing. With a sigh, she lowered her walls and revealed the scene ahead; a crater had formed in place of her clone, sand was quickly filling it up. However, it seemed as if the sand from the crater was just...gone; completely destroyed on a sub-atanomical level.\n<p>\n\"So...what did you see?\"<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Please Refer to the logs of \"For Lera's LC, Key bugged\" - Fri Nov 20 21:37:55 2015</b><font><hr><br>Since my key got bugged I had to remake Lera on a different key.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Dust (day 7) - Sat Nov 21 19:49:07 2015</b><font><hr><br>Lera formed a single handseal and created a clone, the clone would wander a short distance away towards the centre of the crater. At the same time, Lera would construct several layers of walls; with a gap in between the two so Momura and herself could see everything the clone did. With everything set, she nodded towards the clone and watched what it did with a ever so slight look of worry on herself. She'd already shown this to Sanoke, who could protect himself. Momura however, likely couldn't if it all went wrong.\n<p>\nThe clone would hold its arms outwards, facing its palms to open air. It would start concentrating humungous amounts of chakra into those palms, getting the amount right before it added the elemental composition. With a deep breath, it began in ernest; changing its left hand to Doton, its right to Fuuton and focusing a point of Katon chakra directly infront of its palms. Focusing on three elements was especially difficult, it was only due to expert control that she could do it at all.\n<p>\nAs the three chakras started to mix together, a tiny golden speck would appear in place of the katon chakra. Steadily growing until it was the size of a glowing golden golf ball of energy. Once it reached this point, a deep hum would suffuse through the air; betraying the little ball for something immensely powerful. It was only at this point her clones could keep control, being weaker than the original. After removing the skin from her palms though, Lera was reluctant to practice it without knowing she could definitely do it.\n<p>\nBreaking her from her thoughts, the clone let out a quiet grunt telling Lera that it could no longer keep control. Forming a final handseal, Lera closed up the gap in the walls; adding a few more layers before she grabbed Momura and rushed a little further backwards \"Brace yourself!\". The clone hidden behind the wolf would suddenly lose control of the sphere; having it expand rapidly with greater power than Lera had yet to achieve so far.\n<p>\nMomura and Lera were lucky to have moved backwards, the energy covered her walls; completely removing them from existence. A few more feet on the technique and the pair would have likely been killed. After a few more moments, the energy receded and the pair were able to view the devastation. Not only was the crater now twice the size it was previously. But everything touched by the explosion was completely gone, as if it had never existed.\n<p>\n\"Oh damn...sorry Momura, that was more powerful that last time.\"<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Training Kiyoko. - Sun Nov 22 15:14:46 2015</b><font><hr><br>Lera put her hands together in a clap, channeling chakra to her palm before thrusting it forwards. It released a blast of wind, a little more powerful than Divine wind but not powerful enough to cause serious damage.\n<p>\n\"This one is Gale Palm. Its stronger than Divine wind, but not as strong as Great Breakthrough. Its perfect for the next step up. In this one, the palm sort of acts as a booster; you 'push' the wind forwards and release it at the peak of your thrust. Let me show you~\"\n<p>\nAt this, Lera would attempt to go up behind Kiyoko and grip her gently by the wrist; pulling her arm back and then slowly pushing it forwards in a thrust. She said the words \"And release\" when her arm hit the peek of its thrust<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Training Kiyoko. - Sun Nov 22 15:14:46 2015</b><font><hr><br>Lera went towards one of the biggest rocks she could find and picked it up whilst lightening its weight. She found a good position and placed it back on the ground, before exponentially increasing its weight; causing it to make a deep impression on the sand. Once it was deep enough, she tossed the rock away and quickly lined the edge of the 'hole' with more rock; using her Earthen corridor technique to do so.\n<p>\nWith the hole ready, she just let out a constant stream of water into it; filling it up until they had a small pond<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Training Kiyoko. - Sun Nov 22 15:15:37 2015</b><font><hr><br>Lera took a few steps towards the pond, stepping onto the water and then walking to stand in the middle.\n<p>\n\"Suimen is super easy, its basic chakra control.\" she lifted her leg to show the sole of her foot, where a very light blue haze could be seen \"The idea is to coat your feet in chakra, it acts as a sort of....whats the best way to explain it. It sort of sticks you to the water. However, be careful! Too much chakra and you'll push the water away from your foot, too little and you'll just fall in. Its harder to walk on water as you have to modulate your chakra to match how the water moves, but I know you can do it.\"<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Training Kiyoko - Sun Nov 22 15:34:24 2015</b><font><hr><br>Lera took out a spindle of strong wire aswell as a holster of shuriken to give to Kiyoko. She then turned away, making a big show of tieing wire around her index finger and through the centre of a shuriken.\n<p>\n\"Keep an eye on my finger okay?\"\n<p>\nShe leaned back her arm and tossed the shuriken forwards, letting it fly straight towards a rock. The shuriken stayed straight until it was about the hit the rock. It was then that Kiyoko would be able to see her finger twitching, sending vibrations and movements down the wire. The Shuriken changed its course into a curve, making several circles around the rock and wrapping it in wire.\n<p>\n\"The key here is the wire. You have to be able to alter the shurikens direction with the most minimal of movements. Though, of course I don't expect you to be able to do it perfectly right away.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Training Kiyoko - Sun Nov 22 16:07:40 2015</b><font><hr><br>Lera clasped her hands together in a few handseals, directing her chakra towards Kiyoko and making eye contact. If successful, a great number of clones would rise up around her; none made any attempts to attack, instead they just circled.\n<p>\n\"This is the Mist servant technique. A genjutsu that creates these clones as you can see. The thing about this technique, is that the more you strike them; the more they multiply. Great for tiring your opponents down. Now, let me show you how to break it.\"\n<p>\nStepping forwards towards Kiyoko, Lera formed a single handseal; making sure Kiyoko could see exactly what it was. She then placed her fingers on Kiyoko's forhead and momentarily halted the womans chakra flow, before suddenly surging it. Kiyoko would notice he sudden break of Lera's genjutsu as well as the feeling of chakra surging through her body.\n<p>\n\"Another one that having great chakra control is usefu\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Teaching - Fri Dec  4 08:22:36 2015</b><font><hr><br>Hassan, Lera put her hands together in a simple handseal, channeling chakra into her legs and feet. She released that chakra all at once, pushing off at extremely high speeds; it almost appeared as if she teleported.\n<p>\n\"Its not really teleportation, its just instantaneous speeds. You have to use the chakra in your legs and feet as a...booster, release it all at once just as you're pushing off. Be careful though, if you fall over it will hurt quite a bit...\"\n<p>\nShe then stood in Kiyoko's path, ready to catch her if something went wrong.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Mission - Fri Dec  4 10:46:49 2015</b><font><hr><br>Hassan, Lera stepped away from the village, the map for sunagakure in one hand. She studied it thoroughly, memorising every nuiance and hidden little nooks. With Lera's uncanny ability to memorise things photographically, it was easy to commit it to her memory. Once she'd learned all she could, she tucked the scroll back into her jacket and started walking. She sort of wanted to take this a little slower than her usual pace, knowing that training with Sanoke could be in store after the mission was done.\n<p>\nIt would have been easy just to summon thirty clones and have them search along with her; but that would leave her exhausted and unfit for any follow up training. That being said, she did make ten of them; sending them each off in different directions. At the same time, she would bite into her thumb and summon a wolf; a wolfs nose could be a useful thing when looking for something like a mine.\n<p>\nWhile her clones sank into the ground, she would continue walking; keeping her eyes peeled for any sign of a cave or mines system. She was also aware that the desert wasn't exactly the safest place in the world, what with all the wild predators and even the ocasional group of bandits. Her wolf barked out a warning however, when one such danger attempted to creep up on her.\n<p>\nShe spun around, facing what looked like a scorpion; extra large with a ridged carapice to protect the soft innards. It was about the size of a small puppy and it seemed to be targeting her wolf, rather than her. Big or not, it was still just a scorpion however. She reached behind her back and pulled Samehada out, holding it loosely in one hand. The scorpion barely had time to react when she slammed the weapon down upon it, cracking through its hard shell and crushing the soft innards.\n<p>\nWith a slight yawn, she turned away from the quickly cooling corpse and set back to walking; it was fortunate she was well trained, most of the dangers in this desert meant nothing to her. Looking around, she really could see no signs of any mines; but she wasn't really keen on the idea of reporting a failed mission, having not failed a single mission to date. Sighing to herself, she grabbed the wolf around its waist and lifted off\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Teaching - Wed Dec  9 13:24:16 2015</b><font><hr><br>Hassan, Lera formed her hands into a single seal, drawing in her breath and then releasing it in a twisting stream of wind. When she cut the wind off, she took a step back and started to explain.\n<p>\n\"This is called Divine Wind, probably the best jutsu to learn when your working with wind for the first time. Let me tell you how to access the element. Wind is like...a fine blade, finer than any physical blade. So thats what you should equate it too. I also find that ascociating elements with a colour, for me that makes tapping into them much easier. For example...\"\n<p>\nHolding up her thumb, she manifested a single flame \"Katon is Red.\" then on her index finger a droplet of water \"Suiton is dark blue\" on her middle finger a tiny spark \"Raiton is white blue\" on her third finger a small stone \"Doton is dark brown\" then finally on her little finger, a tiny shard of wind \"And Fuuton is green. I also coloured my own element, which is gold. Anyways, try accessing your Fuuton chakra.\"<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Transitionist (Day 10) - Thu Dec 10 13:35:47 2015</b><font><hr><br>Hassan, Lera split the wave of water sweeping towards her, swinging samehada down upon it. The training was starting to get repetitive, but she continued out of necessity more than anything. The improvement had been significant at least, not only with her ability to destroy oncoming Ninjutsu using Samehada; but also with her ability to transition between different elements and ninjutsu in general.\n<p>\nWith a smile, she placed samehada on her back and cracked her knuckles. Her clones, standing watching her a short distance away; returned her smile with smiled of their own. This was easily her favourite part of the training, trying to outspeed her two clones in ninjutsu. Obviously, her clones were not quite as strong as she was; but with the fact that their was two of them and only one of her, winning in speed had proven to be annoyingly difficult.\n<p>\nShe gave them no quarter though, immediately forming a single handseal to release a gargantuan wave straight for her two clones. The wave was abruptly stopped by a wall of mud, to which Lera replied by stringing another five handseals together and driving her hands towards the wave. There was still a stutter between jutsu, a slight hesitation that would get her killed in battle; but compared to the complete failures at the start of her training this was a huge improvement.\n<p>\nThe Lightning flowed through her hands and into the wave, energising it to the point where the entire wave flashed blue with it. However, her clones still had the upper hand in casting speed and they knew exactly what move she would take. One of them had already formed handseals perched on top of the wall, drawing in a breath even as she was releasing her Lightning. Then, a great gust of wind was abruptly released; smashing into her wave and tearing through the Raiton chakra like paper.\n<p>\nThe second clone followed up, also jumping to the top of the wall in order to release a simple flamethrower in her direction. It was all she could do to counter it, signing a single seal and spitting out her own stream of water. She still needed more speed, she had to mould the chakra faster...form the seals faster; she had to be unbeatable. The clones started moving, splitting up faster than she could catch them both with a jutsu. As it was, she formed yet more seals and released a hail on wind shards; only able to watch as the barrage travelled in between her two clones uselessly.\n<p>\nIn a few more moments, the clones were on either side of her, each forming their own seals in order to release a ball of flame and a small wave of water. Lera still wasn't quick enough, not to block both of the jutsu at once. Instead, she formed a single handseal and created a wall of mud to stop the flames. The wave however, slammed into her back; pusing her against the wall, if not for Samehada on her back consuming the wave...she might have actually suffered an injury.\n<p>\nWhat bruises she did recieve were instantly healed by the blades unique abilities. She gave a slight huff and slammed her hands together in more seals, deciding to just get rid of both the clones at once. When she exhaled, she began moving her head erratically, firing off clouds of powerful wind shards in all directions. The wind tore through both her mud wall and the two clones, dispersing them and leaving her with their exhaustion. She momentarily slumped before Samehada restored her stamina with the chakra it had eaten; she found it odd, how even now she was still learning new things about the blade. It seemed, the long they were together; the greater their bond became.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Teaching. - Thu Dec 10 20:40:44 2015</b><font><hr><br>Hassan, Lera nodded her head and held up her other hand, between herself and Rias.\n<p>\n\"Raiton as an element is known for its ability to pierce, unlike wind which is known to cut. Highly concentrated Raiton can tear through earth like paper, which is why its quite a good counter for that jutsu you were talking about. When you imagine Raiton, imagine taking your chakra and rubbing it together; make it fast...fast enough to produce friction and sparks. I find that assigning a colour to each element makes things easier...for example.\"\n<p>\nWith her free hand, she began to manifest the elements on her thumbs and fingers. A red flame appeared on her thumb \"Katon is red.\" A deep blue droplet of water appeared on her index finger \"Suiton is dark blue\" A visible shard of wind appeared on her middle finger \"Fuuton is green.\" a tiny piece of dirt appeared on her third finger \"Doton is brown...and finally.\" a tiny spark appeared on her little finger \"Raiton is white blue.\"\n<p>\n\"The best way to learn how to access an element, is to experience it first hand...which is why I have to aplogise for this.\" Suddenly, a painful shock of Raiton ran through her arm and into her hand still clasping Rias'. It would be painful for the woman, no doubt...but with no lasting damage.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Dual caster - Fri Dec 11 05:15:18 2015</b><font><hr><br>Hassan, Lera moved to sit behind Izanami, reaching out to put a hand of her shoulder. Iza would find that the gravitational pull on her body was growing, weighing her down and making it much harder to move around.\n<p>\n\"Alright, I'm increasing the gravitational pull on your body. I'm holding it back ever so slightly so you have a chance. Do you feel the chakra? The way its pulling your body down. What you need to do is reverse that, counteract my gravity with your own. When your able to move again, regardless of my jutsu; I'll consider you to have learned this.\"<br>"
+JutsuSubmit = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Earth Release: Gravitational field<br><b>Jutsu Rank:</b>A</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Earth<br><br><b>Jutsu Drain:</b>Whatever A rank drain is<br><br>Jutsu Description: This jutsu requires mastery over both Lightweight rock technique and Heavy weight rock technique.\nBy focusing chakra in the area directly around them, the user is able to increase or decrease gravitational pull.\nThis effect extends to everyone and everything nearby. Naturally, the user also comes under the jutsus effect.\n(Range is depicted by chakra usage. E.g 3 tile range = 1 use, 5 tiles = 2 uses. etc etc)<hr><br>"
+name = "Hassan, Lera"
+icon = object("//Oicon",0)
+icon_state = ""
+overlays = list(appearance(filedata("name=;ext=.dmi;length=1141;crc32=0x72b1e16e;encoding=base64",{"
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3GYFNCyYwa7cLAAAA
+tg==
+"})),appearance(null /*invalid data*/),appearance(filedata("name=;ext=.dmi;length=1115;crc32=0xfb5de6d5;encoding=base64",{"
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2byLntqjj27+20FS3Jn9NCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCk=
+"})),appearance(filedata("name=;ext=.dmi;length=672;crc32=0x8c96b1a1;encoding=base64",{"
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3R4FNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3
+"})),appearance(filedata("name=Lera%27sIcon.dmi;length=1829;crc32=0xfa8fd581;encoding=base64",{"
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQAAAAAA5qXatiYAAAAAIAEAqDyeCQAQAAAAgCm2fyLntqjj27+20FS3vYBNCyYwa7cLAAAA
+tgAgAQA=
+"})),appearance(filedata("name=Samehada.dmi;length=1896;crc32=0xa03042d6;encoding=base64",{"
+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
+P+9nAAAAAElFTkSuQmCC
+"})),appearance(object("//hair",0)),appearance(filedata("name=Rain.dmi;length=224;crc32=0x61f7db72;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEXAwMAAAAAr16GmAAAAAXRS
+TlMAQObYZgAAAGR6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+Di
+LM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGMg05OJMK0rMTYWwlRVc/VzAJgIAmrcY
+C32rgUMAAAAYSURBVAiZY/BbwMDAsOIAkHgDZoGIQQQACYsFK0tsXiEAAAAASUVORK5CYII=
+"})))
+gender = "male"
+contents = list(
+		object(".0"),
+		object(".1"),
+		object(".2"),
+		object(".3"),
+		object(".4"),
+		object(".5"),
+		object(".6"),
+		object(".7"),
+		object(".8"),
+		object(".9"),
+		object(".10"),
+		object(".11"),
+		object(".12"),
+		object(".13"),
+		object(".14"),
+		object(".15"),
+		object(".16"),
+		object(".17"),
+		object(".18"),
+		object(".19"),
+		object(".20"),
+		object(".21"),
+		object(".22"),
+		object(".23"),
+		object(".24"),
+		object(".25"),
+		object(".26"),
+		object(".27"),
+		object(".28"),
+		object(".29"),
+		object(".30"),
+		object(".31"),
+		object(".32"),
+		object(".33"),
+		object(".34"),
+		object(".35"),
+		object(".36"),
+		object(".37"),
+		object(".38"),
+		object(".39"),
+		object(".40"),
+		object(".41"),
+		object(".42"),
+		object(".43"),
+		object(".44"),
+		object(".45"),
+		object(".46"),
+		object(".47"),
+		object(".48"),
+		object(".49"),
+		object(".50"),
+		object(".51"),
+		object(".52"),
+		object(".53"),
+		object(".54"),
+		object(".55"),
+		object(".56"),
+		object(".57"),
+		object(".58"),
+		object(".59"),
+		object(".60"),
+		object(".61"),
+		object(".62"),
+		object(".63"),
+		object(".64"),
+		object(".65"),
+		object(".66"),
+		object(".67"),
+		object(".68"),
+		object(".69"),
+		object(".70"),
+		object(".71"),
+		object(".72"),
+		object(".73"),
+		object(".74"),
+		object(".75"),
+		object(".76"),
+		object(".77"),
+		object(".78"),
+		object(".79"),
+		object(".80"),
+		object(".81"),
+		object(".82"),
+		object(".83"),
+		object(".84"),
+		object(".85"),
+		object(".86"),
+		object(".87"),
+		object(".88"),
+		object(".89"),
+		object(".90"),
+		object(".91"),
+		object(".92"),
+		object(".93"),
+		object(".94"),
+		object(".95"),
+		object(".96"),
+		object(".97"),
+		object(".98"),
+		object(".99"),
+		object(".100"),
+		object(".101"),
+		object(".102"),
+		object(".103"),
+		object(".104"),
+		object(".105"),
+		object(".106"),
+		object(".107"),
+		object(".108"),
+		object(".109"))
+	.0
+		type = /obj/items/Clothing/SandHeadband
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.1
+		type = /obj/Genjutsu/Bunshin
+	.2
+		type = /obj/Ninjutsu/Kawarimi
+	.3
+		type = /obj/Genjutsu/Henge
+	.4
+		type = /obj/Custom/Med/Meditate
+		RPPSpent = 1637
+		idran = "Chakra"
+	.5
+		type = /obj/Perk/Shinobi_Info_Card
+	.6
+		type = /obj/items/Clothing/Long_Shoes
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",8)
+	.7
+		type = /obj/items/Clothing/Pants
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",1163)
+	.8
+		type = /obj/items/Clothing/Jacket
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",3173)
+	.9
+		type = /obj/items/Clothing/Slash
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",4302)
+	.10
+		type = /obj/Perk/Strength
+		description = "This Character has a great deal of body power. Their physical power is more than just impressive. Their strikes are capable of rattling bones, and an unguarded strike can break bones. This character has enough strength to take on medium sized beasts such as those who are summoned via contract on equal grounds."
+		tier = 2
+		name = "Enhanced Strength"
+		icon_state = "str2"
+	.11
+		type = /obj/Perk/Hand_Seal_Speed
+		description = "This character can complete up to sixteen handseals in a single round."
+		tier = 2
+		name = "Hand Seal Speed 2"
+	.12
+		type = /obj/Perk/Studious_1
+		tier = 2
+		name = "Studious 2"
+	.13
+		type = /obj/Perk/Chakra
+		description = "This character's chakra pools are impressive. An untrained student with massive chakra has the reserves of a fully trained Genin, and a trained student will have the reserves to rival a fresh chuunin character. Massive Chakra ups the reserve of the character to that of a trained character exactly one rank up, and if the character is trained, then it ups their reserves to two ranks up, however not trained."
+		tier = 2
+		name = "Massive Chakra"
+		icon_state = "cha2"
+	.14
+		type = /obj/Perk/Chakra_Control
+		description = "This user is capable of using techniques up to a single skill rank higher than themselves without overly draining themselves. Though they still have trouble with anything higher."
+		tier = 3
+		name = "Chakra Control Adept"
+	.15
+		type = /obj/Perk/Samehada_Proficiency
+		giChakra = 2500
+	.16
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Elementless"
+		Kekkei = 1
+		description = "The Summoning Technique is a space–time ninjutsu that allows the summoner to transport animals or people across long distances instantly and uses blood as a sacrifice. This character summons small wolves for reconaissance."
+		skil = "Mastered"
+		jut = "Fuuinjutsu"
+		ran = "C"
+		dran = 87.5
+		idran = "Chakra"
+		name = "Summoning Technique"
+	.17
+		type = /obj/Gene/Monstrous_Chakra
+	.18
+		type = /obj/Perk/Elemental_Training_Fire
+		description = "This character has a novice's understanding of the Fire Element and is capable of performing C ranked Katon Techniques and creating D-ranked techniques."
+		tier = 2
+		name = "Elemental Training Fire 2"
+	.19
+		type = /obj/Perk/Elemental_Training_Wind
+		description = "This character has a novice's understanding of the Wind Element and is capable of performing C ranked Fuuton Techniques and creating D-ranked techniques."
+		tier = 2
+		name = "Elemental Training Wind 2"
+	.20
+		type = /obj/Perk/Elemental_Training_Earth
+		description = "This character has a novice's understanding of the Earth Element and is capable of performing C ranked Doton Techniques and creating D-ranked techniques"
+		tier = 2
+		name = "Elemental Training Earth 2"
+	.21
+		type = /obj/Perk/BFSW
+		description = "This character is able to utilize a rather large sword as if it were a short sword."
+		tier = 2
+		name = "BFSW Adept"
+	.22
+		type = /obj/Custom/Ninjutsu/Drank/Shunshin
+		skil = "Mastered"
+		dran = 180.0749969482421875
+	.23
+		type = /obj/Custom/Ninjutsu/Brank/KageBunshinNoJutsu
+		RPPSpent = 43
+		skil = "Mastered"
+		dran = 266.239990234375
+	.24
+		type = /obj/Custom/Blank_Buff/EarthSpear
+		RPPSpent = 56
+		idran = "Chakra"
+	.25
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 129
+		ele = "Earth"
+		description = "The user runs a steady stream of earth-oriented chakra down their blade. This doubles the durability of the object they are handling, though it cannot be used on human skin.<br><br>\[Double Durability.\]"
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 72.5
+		idran = "Chakra"
+		name = "Chakra Flow Earth"
+	.26
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 40
+		ele = "Fire"
+		description = "The user runs down a steady flow of fire down their blade, with the capacity of burning or searing their opponent with the contact of their weapon at disposal."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 72.5
+		idran = "Chakra"
+		name = "Chakra Flow Fire"
+	.27
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 25
+		ele = "Wind"
+		description = "The user runs a steady current of wind down their blade or weapon. By doing so, they increase the damage of their weapon.<br><br>\[Add 1/5 of Control to Damage in Calculation.\]"
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 72.5
+		idran = "Chakra"
+		name = "Chakra Flow Wind"
+	.28
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 14
+		ele = "Earth"
+		description = "This technique condenses the soil and rock in the area to sprout out in the form of four large spikes which attack the target from four separate directions in an attempt to skewer the opponent making it harder to evade."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 87.5
+		idran = "Chakra"
+		name = "Earth and Stone Bamboo Shoot"
+	.29
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 59
+		ele = "Elementless"
+		description = "With this technique a translucent string, both elastic and highly durable, is attached to a shuriken, making it possible to alter its path after having thrown it. An expert will have the ability to freely glide the shuriken in any direction with just a single movement of their fingertip. The first attack, challenging the enemy, is avoided and after a time-lag of several seconds, it will come from behind. Depending on the performance, the possible tactics can be infinite."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		idran = "Chakra"
+		name = "Manipulated Shuriken Technique"
+	.30
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Elementless"
+		description = "It's a simple technique where two shuriken, like the Fuma Shuriken, are piled one onto another and thrown simultaneously. However, depending on the way it's used, it can prove its absolute efficiency. The trick is to somehow draw the enemy's attention towards the upper shuriken. Then, they have to deal with the path of the lower, unnoticed shuriken. However, if the enemy notices both shuriken, which is done when they duck down, the technique ends up losing most of its efficiency."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		idran = "Chakra"
+		name = "Shadow Shuriken Technique"
+	.31
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 105
+		ele = "Earth"
+		description = "Contrary to its counterpart, this technique reduces one's gravity, making it much lighter. The atmosphere, along with their body, can be lightened in order to take flight and increasing their manoeuvrability. With enough practice, the user can control their flight through the sky with specific bodily movements. However, a consequence of using this technique on oneself or another individual is a decrease in the physical force of the affected person's attacks.<br><br>\[Add +3 Attack Speed and +3 Speed.\]<br>\[Subtract 3 Strength and 3 Dura.\]"
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 155.5
+		idran = "Chakra"
+		name = "Earth Release: Lightweight Technique"
+	.32
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 30
+		ele = "Earth"
+		description = "A technique which enhances the targets gravity at the user's discretion. The enemy's mobility is diminished, as the person is crushed by gravity — and in some cases exhibit petrification-like symptoms and then began to crumble.\[2\] Using a desert region to their advantage, the user can easily bury the enemy alive by submerging them in sand.\[3\] When this technique is applied to the user it decreases their speed, but the increased weight drastically improves their strength. This method makes it possible for even a weak person to land a devastating hit.<br><br>\[Add 3 Str, 3 Dura, and Multiply Weight by 3.\]<br>\[Subtract 3 Speed, 3 Reflex, and 3 Attack Speed.\]"
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 188.5
+		idran = "Chakra"
+		name = "Earth Release: Added-Weight Rock Technique"
+	.33
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Lera's Last will and testament\n<hr>\nI hereby declare, in sound of mind and soul, that my belongings be split among the following.\n<p>\nAll my funds, my houses and any other material possesions shall be left to my Wife Kiyoko.\n<p>\nSamehada shall be left to one of my children upon reaching an appropriate age, until that time the weapon may be taken and used by Chikyu Kansari. However, in the event that Samehada chooses a different wielder; then the blade will belong to that person.\n<p>\nMy expansive archive of Jutsu scrolls shall be left to Sunagakure.\n<p>\nThe Kiba blades shall be left with Ryujin, Izanami.\n<p>\nThe secrets of Pandora's light, stored safely in my home; shall be passed to Izanami Ryujin.\n<p>\nFinally, I declare the new Head of the Hassan clan to be Trilliam Hassan.\n<p>\n(Signed and Sealed Lera)"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=382;crc32=0x5127ff91;encoding=base64",{"
+AFoAAAB44Nu/XBRZCxhprgmoPJ4JeODbv96+PreoPJ4JigEAAKg8ngk6AAAAzn1NCwAAAAAAAAAA
+AFoAAAB44Nu/XBRZCxhprgmoPJ4JeODbv96+PreoPJ4JigEAAKg8ngk6AAAAzn1NCwAAAAAAAAAA
+AFoAAAB44Nu/XBRZCxhprgmoPJ4JeODbv96+PreoPJ4JigEAAKg8ngk6AAAAzn1NCwAAAAAAAAAA
+AFoAAAB44Nu/XBRZCxhprgmoPJ4JeODbv96+PreoPJ4JigEAAKg8ngk6AAAAzn1NCwAAAAAAAAAA
+AFoAAAB44Nu/XBRZCxhprgmoPJ4JeODbv96+PreoPJ4JigEAAKg8ngk6AAAAzn1NCwAAAAAAAAAA
+AFoAAAB44Nu/XBRZCxhprgmoPJ4JeODbv96+PreoPJ4JigEAAKg8ngk6AAAAzn1NCwAAAAAAAAAA
+AFoAAAB44Nu/XBRZCxhprgmoPJ4JeODbv96+PreoPJ4JigEAAKg8ng==
+"})
+		icon_state = ""
+	.34
+		type = /obj/Student
+	.35
+		type = /obj/Perk/Mind
+	.36
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.37
+		type = /obj/Custom/Genjutsu/Drank/Genjutsu_Kai
+		skil = "Mastered"
+		dran = 60.02500152587890625
+	.38
+		type = /obj/Custom/Genjutsu/Drank/Mist_Servant
+		RPPSpent = 69
+		skil = "Mastered"
+		dran = 90.03749847412109375
+	.39
+		type = /obj/Custom/Genjutsu/Drank/Magen_Narakumi
+		RPPSpent = 87
+		skil = "Mastered"
+		dran = 75.631500244140625
+	.40
+		type = /obj/Custom/Genjutsu/Crank/Magen_Katon
+		RPPSpent = 24
+		skil = "Mastered"
+		dran = 79.1015625
+	.41
+		type = /obj/Custom/Genjutsu/Drank/Interrogation_Jutsu
+		RPPSpent = 68
+		skil = "Mastered"
+		dran = 110.4459991455078125
+	.42
+		type = /obj/Custom/Genjutsu/Crank/Sly_Mind_Effect
+		RPPSpent = 22
+		skil = "Mastered"
+		dran = 79.1015625
+	.43
+		type = /obj/Custom/Doton/Crank/Earth_Style_Hidden_Mole_Jutsu
+		RPPSpent = 36
+		skil = "Mastered"
+		dran = 94.921875
+	.44
+		type = /obj/Custom/Doton/Drank/Earth_Style_Mud_Silhouette
+		RPPSpent = 48
+		skil = "Mastered"
+		dran = 72.029998779296875
+	.45
+		type = /obj/Custom/Doton/Drank/Earth_Style_Headhunter_Jutsu
+		RPPSpent = 43
+		skil = "Mastered"
+		dran = 54.022502899169921875
+	.46
+		type = /obj/Custom/Fuuton/Drank/Wind_Style_Divine_Wind
+		RPPSpent = 230
+		skil = "Mastered"
+		dran = 60.02500152587890625
+	.47
+		type = /obj/Custom/Katon/Drank/Ninja_Art_Fire_Run
+		RPPSpent = 96
+		skil = "Mastered"
+		dran = 48.6202545166015625
+	.48
+		type = /obj/Custom/Katon/Crank/Fire_Style_Fireball_Jutsu
+		RPPSpent = 158
+		skil = "Mastered"
+		dran = 142.3828125
+	.49
+		type = /obj/Custom/Raiton/Crank/Lightning_Style_Earth_Flash
+		RPPSpent = 22
+		skil = "Mastered"
+		dran = 142.3828125
+	.50
+		type = /obj/Custom/Fuuton/Crank/Wind_Style_Great_Breakthrough
+		RPPSpent = 53
+		skil = "Mastered"
+		dran = 128.14453125
+	.51
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 82
+		ele = "Elementless"
+		description = "The user's hand jets out to the opponent's Adam's Apple. This act requires precision and speed. Once this is executed, the opponent is most likely to temporarily choke, giving the user a free shot.<br><br>When used with a sword in the hand, the stun is more intense."
+		skil = "Mastered"
+		jut = "Taijutsu"
+		ran = "E"
+		idran = "Stamina"
+		name = "Throat Strike"
+	.52
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 98
+		ele = "Elementless"
+		description = "The art of Tai Chi is the full utilization of the arms and the legs. The Misdirect is a counter to basic Gouken-style attacks, by redirecting the vector in which their attack hits. In simplicity, it requires good eyesight and reflexes to use. The user lifts their right hand and pushes the opponent's arm away while closing in on them, enabling them a free shot should they have enough reflexes to execute the maneuver."
+		skil = "Mastered"
+		jut = "Taijutsu"
+		ran = "E"
+		idran = "Stamina"
+		name = "Misdirect"
+	.53
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 50
+		ele = "Elementless"
+		description = "After performing the necessary hand seals, the user launches several strands of wire to ensnare an enemy. Once captured, the user can tighten the wire at will, to inflict injury or maim the victim."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 3.520457744598388671875
+		idran = "Chakra"
+		name = "Wire Bind"
+	.54
+		type = /obj/Custom/Doton/Arank/Earth_Clone_Jutsu
+		RPPSpent = 148
+		skil = "Mastered"
+		dran = 391.50469970703125
+	.55
+		type = /obj/Custom/Fuuton/Brank/Wind_Release_Vacuum_Sphere
+		RPPSpent = 61
+		skil = "Mastered"
+		dran = 348.160003662109375
+	.56
+		type = /obj/Custom/Katon/Drank/Fire_Shot
+		RPPSpent = 48
+		skil = "Mastered"
+		dran = 66.027496337890625
+	.57
+		type = /obj/Custom/Doton/Brank/Earth_Style_Earthen_Corridor
+		RPPSpent = 32
+		skil = "Mastered"
+		dran = 266.239990234375
+	.58
+		type = /obj/Custom/Katon/Crank/Exploding_Flame
+		RPPSpent = 21
+		skil = "Mastered"
+		dran = 205.6640625
+	.59
+		type = /obj/Custom/Doton/Brank/Earth_Style_Earth_Dragon_Bomb
+		RPPSpent = 25
+		skil = "Mastered"
+		dran = 204.8000030517578125
+	.60
+		type = /obj/Custom/Suiton/Drank/Ninja_Art_Water_Gun
+		RPPSpent = 40
+		skil = "Mastered"
+		dran = 66.027496337890625
+	.61
+		type = /obj/Custom/Suiton/Crank/Water_Style_Syrup_Trap
+		RPPSpent = 10
+		skil = "Mastered"
+		dran = 142.3828125
+	.62
+		type = /obj/Custom/Suiton/Arank/Water_Clone_Jutsu
+		RPPSpent = 30
+		description = "The Water Clone Technique can be used to perform tasks the user is unable or unwilling to do for themselves. The range of the clone is limited however, as it can not travel very far from the original body without losing control. Like other clone techniques, if the water clones are injured enough they will revert back to normal water."
+		skil = "Mastered"
+		ran = "C"
+		dran = 391.50469970703125
+	.63
+		type = /obj/Custom/Suiton/Crank/Water_Style_Raging_Waves
+		skil = "Mastered"
+		dran = 94.921875
+	.64
+		type = /obj/Custom/Suiton/Brank/Water_Style_Exploding_Water_Shock_Wave
+		RPPSpent = 2
+		skil = "Mastered"
+		dran = 491.52001953125
+	.65
+		type = /obj/Custom/Fuuton/Crank/Wind_Style_Gale_Palm
+		RPPSpent = 139
+		skil = "Mastered"
+		dran = 94.921875
+	.66
+		type = /obj/Custom/Raiton/Crank/Ninja_Art_Lightning_Ball
+		RPPSpent = 8
+		skil = "Mastered"
+		dran = 110.7421875
+	.67
+		type = /obj/Custom/Katon/Crank/FireDragonBullet
+		RPPSpent = 334
+		skil = "Mastered"
+		dran = 221.484375
+	.68
+		type = /obj/Custom/Katon/Crank/Fire_Style_Misty_Flames_Dance_Jutsu
+		RPPSpent = 234
+		skil = "Mastered"
+		dran = 126.5625
+	.69
+		type = /obj/Custom/Doton/Brank/Earth_Style_Mud_Wall
+		RPPSpent = 39
+		skil = "Mastered"
+		dran = 184.3199920654296875
+	.70
+		type = /obj/Custom/Raiton/Drank/Ninja_Art_Raiton_Flash
+		RPPSpent = 56
+		skil = "Mastered"
+		dran = 60.02500152587890625
+	.71
+		type = /obj/Custom/Fuuton/Crank/Wind_Style_Air_Bullet
+		RPPSpent = 2022
+		skil = "Mastered"
+		ran = "C"
+		dran = 71.19140625
+	.72
+		type = /obj/Custom/Katon/Crank/Fire_Style_Dragon_Fire_Jutsu
+		RPPSpent = 23
+		skil = "Mastered"
+		dran = 189.84375
+	.73
+		type = /obj/Custom/Taijutsu/Drank/Dynamic_Entry
+		RPPSpent = 56
+		skil = "Mastered"
+		dran = 36.0149993896484375
+	.74
+		type = /obj/Custom/Taijutsu/Drank/Leaf_Whirlwind
+		RPPSpent = 141
+		skil = "Mastered"
+		dran = 48.01999664306640625
+	.75
+		type = /obj/items/Weapon/Samehada
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+	.76
+		type = /obj/Teacher
+	.77
+		type = /obj/Perk/Elemental_Training_Dust
+		name = "Pandora's Light"
+	.78
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 177
+		ele = "Wind"
+		description = "This technique infuses wind-natured chakra into bladed weapons. The user can then manipulate the blades in a spinning manner to attack the target. "
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 33.427646636962890625
+		idran = "Chakra"
+		name = "Wind Release: Rotating Shurikens"
+	.79
+		type = /obj/Custom/Blank_Buff
+		BOOST = 20
+		GChak = -3
+		Gstr = 2.5
+		Gdef = 4
+		Gatkspd = 1.5
+		RPPSpent = 122
+		description = "Fire rotates around the body of the user. While it does not touch the skin due to its finesse, it is able to veil the user from life-threatening blows by acting as a secondary epidermic layer of fire. It can heat up skeletal muscle cells and invigorate processes that produce ATP within the muscle cells, making their attacks a bit faster and also a bit more powerful. One with high levels of control and Elemental Training in Fire is able to manipulate the armor itself."
+		jut = "Ninjutsu"
+		idran = "Chakra"
+		name = "Fire Shroud"
+	.80
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.81
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.82
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.83
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.84
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.85
+		type = /obj/items/Weapon/Shuriken
+		shuriken = 30
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "You current have 30 in this stack"
+	.86
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.87
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.88
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.89
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.90
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.91
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.92
+		type = /obj/items/Weapon/Windmill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.93
+		type = /obj/Perk/Reflex
+	.94
+		type = /obj/Perk/Blank_Perk
+		description = "This character is good, they are to the point that they will commit acts that might be considered wrongful in order to achieve what they believe to be truly good and the best outcome for the world and people around them."
+		tier = 1
+		name = "Chaotic Good"
+	.95
+		type = /obj/items/Scrolls/Mission_Scroll/DRankMission/DRank5
+		completer = "DyslexicFairyDinosaur"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.96
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Fire"
+		lrncost = 50
+		nan = "Fire Style: Shadow Clone Jutsu"
+		Kekkei = 0
+		IsStored = 1
+		description = "This technique allows the user to make a shadow clone infused with fire. Because it is a shadow clone, it is able to perform techniques and interact with the environment due to it having physical substance; and also evenly distributes the user's chakra to each clone. If the clone is injured, it will revert to its natural fire-state, at the same time burning whatever it is touching."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "A"
+		dran = 339.304046630859375
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Fire Shadow Clone -Mastered-"
+	.97
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 48
+		ele = "Fire"
+		description = "This technique allows the user to make a shadow clone infused with fire. Because it is a shadow clone, it is able to perform techniques and interact with the environment due to it having physical substance; and also evenly distributes the user's chakra to each clone. If the clone is injured, it will revert to its natural fire-state, at the same time burning whatever it is touching."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "A"
+		dran = 398.517333984375
+		idran = "Chakra"
+		name = "Fire Style: Shadow Clone Jutsu"
+	.98
+		type = /obj/items/Clothing/Long_Sleeved_Shirt
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Lera's Outfit"
+		suffix = "**Equipped**"
+		icon = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(filedata("name=;ext=.dmi;length=873;crc32=0x955abf03;encoding=base64",{"
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278bAQAAJwEAAAAAAAAAAAAAfyLntqjj27+20FS33H5NCyYwa7cLAAAA
+ChsBAADY39u/t/hUt6jj278b
+"}))
+	.99
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 295
+		ele = "Elementless"
+		description = "The user swings their sword in a single, large, crescent moon-shaped arc, which occurs with such ferocious velocity that the technique can be employed in situations where only a very limited time to react is available. The swing can be used to counter attacks from multiple opponents simultaneously. "
+		skil = "Mastered"
+		jut = "Kenjutsu"
+		ran = "C"
+		dran = 75.084686279296875
+		idran = "Chakra"
+		name = "Cloud-Style Crescent Moon Beheading"
+	.100
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 52
+		ele = "Earth"
+		description = "This technique is used for sneaking and striking silently, like a fish underwater, and then suddenly appearing to the ground's surface. Furthermore, it's even more efficient when employed in a crowded area that, if the target notices something, can be overrun by the nearby masses, or with distractions like a Clone Technique to draw the enemy's attention."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 124.5849609375
+		idran = "Chakra"
+		name = "Doton: Dochu Eigyo No Jutsu"
+	.101
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 161
+		ele = "Wind"
+		description = "The user takes a deep breath and exhales several blades of wind at different angles, by rapidly moving their head in various directions. The power of this technique can be dramatically enhanced when utilised in conjunction with the effects of extreme suction, such as that generated by Baku, where the augmented attack proved effective enough to even slice through the defences of a complete Susanoo."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "A"
+		dran = 337.88824462890625
+		idran = "Chakra"
+		name = "Wind Style: Vacuum Serial Waves"
+	.102
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 162
+		ele = "Fire"
+		description = "This technique creates a volley of small fireballs, which are sent flying in an unpredictable manner assaulting the enemy. In addition, the flames are controlled one by one with chakra, so avoiding them all is extremely difficult. "
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 40.20948028564453125
+		idran = "Chakra"
+		name = "Fire Style: Phoenix Flower Jutsu"
+	.103
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 89
+		ele = "Fire"
+		description = "The user compresses a large amount of chakra built up inside their body and changes it into a dragon head-shaped fireball. The user then skilfully manipulates that great fire, and attacks their opponent. Even outside of the attack range, its power and reliability are stressed. The flames have a high temperature, as they can create an upward movement of air currents which in turn can give rise to thunder clouds. A master of this technique can fire off several flames in succession and anyone caught in the technique could potentially be reduced to ashes."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 210.637939453125
+		idran = "Chakra"
+		name = "Fire Style: Great Dragon Flame Jutsu"
+	.104
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Elementless"
+		lrncost = 10
+		nan = "Konohagakure Style Taijutsu: Leaf Whirlwind"
+		Kekkei = 0
+		IsStored = 1
+		description = "A taijutsu where one launches a succession of high kicks and low kicks. Firstly, the opponent's evasion margin is restrained upon seeing the high kick, thus augmenting the chances for the low kick to hit the mark. So originally the high kick is little more than a feint."
+		skil = "New"
+		jut = "Taijutsu"
+		ran = "D"
+		dran = 48.01999664306640625
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Leaf Whirlwind"
+	.105
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.106
+		type = /obj/Ninjutsu/Shunshin
+		Active = 1
+	.107
+		type = /obj/items/Weapon/Raiga
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Kiba"
+		suffix = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(filedata("name=;ext=.dmi;length=359;crc32=0x142561db;encoding=base64",{"
+CwBwKbbMAQAAt/hUt6jj27/QAwAA1AMAAPTf7bYQBAAAfyLntqjj27+20FS3e31NCyYwa7cLAAAA
+CwBwKbbMAQAAt/hUt6jj27/QAwAA1AMAAPTf7bYQBAAAfyLntqjj27+20FS3e31NCyYwa7cLAAAA
+CwBwKbbMAQAAt/hUt6jj27/QAwAA1AMAAPTf7bYQBAAAfyLntqjj27+20FS3e31NCyYwa7cLAAAA
+CwBwKbbMAQAAt/hUt6jj27/QAwAA1AMAAPTf7bYQBAAAfyLntqjj27+20FS3e31NCyYwa7cLAAAA
+CwBwKbbMAQAAt/hUt6jj27/QAwAA1AMAAPTf7bYQBAAAfyLntqjj27+20FS3e31NCyYwa7cLAAAA
+CwBwKbbMAQAAt/hUt6jj27/QAwAA1AMAAPTf7bYQBAAAfyLntqjj27+20FS3e31NCyYwa7cLAAAA
+CwBwKbbMAQAAt/hUt6jj278=
+"}))
+	.108
+		type = /obj/items/Clothing/Belt
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Right Kiba"
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.109
+		type = /obj/items/Scrolls/Mission_Scroll/DRankMission/DRank1
+		completer = "DyslexicFairyDinosaur"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+key = "DyslexicFairyDinosaur"

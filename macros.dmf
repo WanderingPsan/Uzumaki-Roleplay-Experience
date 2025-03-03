@@ -1,0 +1,18 @@
+macro "macro1"
+	elem 
+		name = "CTRL+WEST"
+		command = ".TurnWEST"
+		is-disabled = false
+	elem 
+		name = "CTRL+NORTH"
+		command = ".TurnNORTH"
+		is-disabled = false
+	elem 
+		name = "CTRL+EAST"
+		command = ".TurnEAST"
+		is-disabled = false
+	elem 
+		name = "CTRL+SOUTH"
+		command = ".TurnSOUTH"
+		is-disabled = false
+

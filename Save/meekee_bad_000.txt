@@ -1,0 +1,1073 @@
+
+x = 114
+y = 217
+z = 1
+B1 = list()
+B2 = list()
+B3 = list()
+B4 = list()
+B5 = list()
+B6 = list()
+B7 = list()
+B8 = list()
+B9 = list()
+F1 = list()
+F2 = list()
+G1 = list()
+G2 = list()
+G3 = list()
+M1 = list()
+M2 = list()
+M3 = list()
+M4 = list()
+M5 = list()
+M6 = list()
+Class = "Jounin"
+Village = "Konohagakure"
+Trait = "Strategist"
+srank = "C"
+PrimaryElement = "Fire"
+displaykey = "Meekee"
+stat = 1
+Age = 16
+StaminaGain = 1.5
+lx = 114
+ly = 217
+lz = 1
+WHO = list()
+StrengthGain = 0.60000002384185791015625
+AgilityGain = 1.10000002384185791015625
+OffenceGain = 1.39999997615814208984375
+DefenceGain = 1.10000002384185791015625
+ControlGain = 1.89999997615814208984375
+ResistanceGain = 1.5
+TaijutsuGain = 1.2000000476837158203125
+NinjutsuGain = 2.400000095367431640625
+GenjutsuGain = 1.7000000476837158203125
+hair = null /*invalid data*/
+Pale = 1
+Oicon = filedata("name=Base_Pale.dmi;length=14941;crc32=0xb48e6182;encoding=base64",{"
+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
+RU5ErkJggg==
+"})
+name = "Ziare"
+icon = object("//Oicon",0)
+overlays = list(
+		appearance(null /*invalid data*/),
+		appearance(null /*invalid data*/),
+		appearance(null /*invalid data*/),
+		appearance(filedata("name=KonoMask.dmi;length=1124;crc32=0x9462a7cc;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAOAAAADgBAMAAADoA3fSAAAAHlBMVEXAwMD/ERFNTU3GysmMjIwq
+KiqwsLEsLCwWFhbAwMBf6pVzAAAAAXRSTlMAQObYZgAAAKx6VFh0RGVzY3JpcHRpb24AAHicU1Zw
+cnX39FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFPJSImLMyWz
+qBikgYszrSgxNxXKTknNSawEMo10wJCLMze/LDU3NQ9kgiHCAEr1O5aUJCZnYzcFSZlbfnJpMUKV
+IXZV3v4ElYSnJhbk52G3zwjF1VycOfn5BWAlygqufi7g8AUAGs9gneCZBHsAAAM8SURBVHic7ZvB
+btpAEIbXlDQc2ahpr46L1B6rwgO4gaAeS1QrPbYIJVeQ2jhHl1MfuyYBszsGD8M4RIn+T8JivZ6d
+WZMgf9rFGAAAAC+awNr26ngI7Mn73idjXvU/n9k9R7CrwLxqywwSBDb5fh0b07y+SGx7j0kGNur2
+V+8vJ+MRc317UeDDLbUmkOdr29NkOCkS9s+ZhCSFP8Md7lA+QCC6pdWD7XSHamSHO1Qv2jsEAAAA
+AADAc+L+6Vf8CLz3M/NSv3rdSGao4oAlK/0aTpKRleibOGDJSr/urZFUXOka4oAlXggpmNc3cUA1
+Yn3T+p5Y3+B7AAAAniHNNE1/uyfy9tRtH+cn6kw4u0rTkZNhMb6XIKUVCKEzognT9IYmvFVNcbZ4
+xnESzObJ5V+3bW+KFYJ7et1b+257wXzCH/2vbsK7KIo+Om17evV24gYMf/0ZOc8otGCWaZZ8y9yE
+8yj657Sjs7bxnoGsCU6i7QWz3OWvlhMQFocH3gxKox0PvmwvmE+YGePOaJy/Gj/dK6gtBN6EacEs
+YXFYnwi9K7pm4DYH+Qk3YeYXzDI2g9ifUYnGudvq+OWExcGjYn2w0+mUr/eJ3UbT79tcsH59cDsb
+CtavD0rRrg9KqVwfBAAAAADYwxe1gin2RWmA2helAVpfFAdofVEcoPVFcYDWF8UBWl8UB9ACpb4o
+DtD6ojxA6Yv1BAAAAAAAACGc3nGre1Jf5PSu1E+R+iKnd6V+rWCyekf7tYLJ6V2pXyuYnN6V+rWC
+yeldqV8tmJwP0n61YLI+SPrD4rA+4Tb5AVkf9PvrEMzYbWzQO6//UQQTAAAAAODFo9wPKl8OVO4H
+le83JfrFbc/U7zelPsdsz1SvH5b2gzLbM9Xrh1S/uO2Z6vVDQ5frTPX2TL3e0f2gWXl75usP649d
+r3dEv2jFCxqtzMbb+kOp3hF32qRvYauVTCv6CYzeUf3aoG+xMfNpRT8lrhp/FzrmaKjZnC5mYI56
+B0148BnG7md4CNy/0oPg/h8eBPebBgAAAHgC8PvCJ/99oTyh2veE1OF7ImrwPWHCTOt7QsLisD4R
+elewy3kyHmO/aDVYzgMAAABAnfwHVKWG8KmVpjEAAAAASUVORK5CYII=
+"})),
+		appearance(object("//hair",0)),
+		appearance(filedata("name=KonoNeck.dmi;length=544;crc32=0xecdfe888;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAMAAAACgBAMAAACoBn5uAAAAElBMVEXAwMD/EREsLCyorrP////h
+4eES7Fm7AAAAAXRSTlMAQObYZgAAAKh6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/Y0lJYnI2dlOQlLnlJ5cWI1QZYlfl7U9QSXhqYkF+Hnb7
+jFBczcWZk59fAFairODq5wIOHgAa8U+wUBRhhwAAAQhJREFUaIHt29sNwjAMheFkg2aEwgRIbEAX
+QIj9V+HyFlvk1DJ9gP6feEmVkpSL5FO5pQDAz2irDg1M79fncWutG9fngcj717m12bxBP+G89Ass
+l+GG7Lge77dugdJv+HUJo7HcoPsISi0ReoNZyQ0CAABgP2R+UBPS+UFMSOcHNSGbH/QEynMAAADs
+RjY/ZAOGzQ8+TyQDhs0PLk+kA4a9QpcnCBgAAAD7Fev+iauHWPOKKt9dvV9PofNVfe/K+1Kvo/N9
++S/qe1/emwVWlP/j+r5NtrzvFtig/DffwfdFf0VxW/8PAAAA/lT2+QLdXyT6g9L9Rer2fbq/SD1f
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggg==
+"})),
+		appearance(null /*invalid data*/),
+		appearance(null /*invalid data*/),
+		appearance(null /*invalid data*/),
+		appearance(filedata("name=Herb+Bag.dmi;length=779;crc32=0x298c7df3;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAOAAAADgBAMAAADoA3fSAAAAHlBMVEXAwMDOvJPGrYyufV61l3mg
+eliXbD6nhGEAAAAfHx8coqoPAAAAAXRSTlMAQObYZgAAAMN6VFh0RGVzY3JpcHRpb24AAHichZHL
+DoIwEEXX7Vc0sCWG19aFBjTEiEvXDR2hEVpCK8a/t6ARSGrIbO4k587TJfv0mOUkOWe4h05xKciW
+xBsfoydnujJJFGJUAS8r/UmUphqMdByMGO/UwGN062gDX82gpi8jQ28MjBrZQwNiKBBM/p3WtLjb
+q8ywgyweaqICO3W6rCJXoK0U9n7hYmqMainbEfm5E8lKsPeIJnPgmVg70YyP/aWBi/7fHi5J82R8
+1Btr6XQINpP6+wAAAcxJREFUeJzt2s1OwlAQhuEaadQdkHAB1nAfLjRshVAvoWsWJm576ZbftHjo
+dJjTEfB9FgRKT79DFPHLkCQAAAA3bDysPbgLnTEMHTzb/fNL7VEWOiV48GCs3M/gc1l79B46ZRk6
+uNfccAcPb7Pao6/QKbPQwb3mhl87JH6v6vGhM1ahg4cV8oYjkzcMAAAA4ALQF8/oi4O2BXH7YocF
+cftihwVm3/1eHgAAAMC/5NBom85otDb6Rmukb7RG+kYLAAAAoBfW+aF2nGedH6q//mmdH4bGea2s
+88PQOK+dcX7IOA8A/sAjgc6B0fdTPnkHur9CMbCMHCg830vg6UuWm8Cokc6BZe329HauPbDtgmXt
+9loDpV+KUhko9L0Ygc1+KPY96Y3d/mzyqx+KfU8MlP6YHvVDse9J1xMDj/qh2PfMgdp+KF7v0v4j
+IBAAAABI7PNA9XrrPFC93joPVK+3zgPV663zQL69CQDATUrz/MM1bz4aTTwTq7wq0S8vHW34vUTX
+wLwy3wZO1vddAvNtYO4XmOdFsbvTe+DaIsuKIsumLmG7wDVboKbvxQhU9b10G2h6W6j6XoxAXd9b
+2H+Eur6XVolT348L548nwNMPdW5eoy4ZJN8AAAAASUVORK5CYII=
+"})),
+		appearance(null /*invalid data*/),
+		object("",5754),
+		appearance(filedata("name=Bubble.dmi;length=522;crc32=0x9023b439;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAAOVBMVEXAwMBdXV3////4+Pjw8PDl
+5eVGRkbg4OADAwPa2tqDg4NLS0uxsbF5eXnAwMDT09OwsLDp6enU1NQ5SZLMAAAAAXRSTlMAQObY
+ZgAAAHl6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckA
+coyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGMg05OJMK0rMTQWxLYCiqTmJlUCmqQ4IGhrpGEKh
+CXbIpazg6ucCdgMAYfkiK2Zn4LQAAAD6SURBVGiB7ZfJDsMgDERJE4PJoiz//7E1iVTlYORIpoeq
+8zQnHsIcxyEAAAAA4G/obnzFv4S+74eBiJQbXh+6/rRFE8X2PsThsqnAqo9s+sg1H+I5OqVcUH4g
+ntn0zDUf4jk6X2g/dPrA+YZyoYXnD+29XFCPm/lgaLcHAAAAAGgG9oMH+8HV70vF1/v/ONE4JUnF
+zwvNS5LU9oOr35eKr/f/aZJkScUviyRLsB9gPwAAAAAAcOHt/+b73v5vDvD2fwvp9+tG65Yklf6/
+H7QfSaL2f3MA0bZJsqTS/49DkiVq/zcHePu/hbf/P3nf1f/tAc7+bw748f7/BmRJFyMnWrejAAAA
+AElFTkSuQmCC
+"}),,99,,18,22,"R"),
+		object("",13641),
+		object("",13641),
+		object("",13641),
+		object("",13641),
+		object("",13641),
+		object("",13641),
+		object("",13641),
+		object("",13641))
+contents = list(
+		object(".0"),
+		object(".1"),
+		object(".2"),
+		object(".3"),
+		object(".4"),
+		object(".5"),
+		object(".6"),
+		object(".7"),
+		object(".8"),
+		object(".9"),
+		object(".10"),
+		object(".11"),
+		object(".12"),
+		object(".13"),
+		object(".14"),
+		object(".15"),
+		object(".16"),
+		object(".17"),
+		object(".18"),
+		object(".19"),
+		object(".20"),
+		object(".21"),
+		object(".22"),
+		object("//captarget/.0"),
+		object(".23"),
+		object(".24"),
+		object(".25"),
+		object(".26"),
+		object(".27"),
+		object(".28"),
+		object(".29"),
+		object(".30"),
+		object(".31"),
+		object(".32"),
+		object(".33"),
+		object(".34"),
+		object(".35"),
+		object(".36"),
+		object(".37"),
+		object(".38"),
+		object(".39"),
+		object(".40"),
+		object(".41"),
+		object(".42"),
+		object(".43"),
+		object(".44"),
+		object(".45"),
+		object(".46"),
+		object(".47"),
+		object(".48"),
+		object(".49"),
+		object(".50"),
+		object(".51"),
+		object(".52"),
+		object(".53"),
+		object(".54"),
+		object(".55"),
+		object(".56"),
+		object(".57"),
+		object(".58"),
+		object(".59"),
+		object(".60"),
+		object(".61"),
+		object(".62"),
+		object(".63"),
+		object(".64"),
+		object(".65"),
+		object(".66"),
+		object(".67"),
+		object(".68"),
+		object(".69"),
+		object(".70"),
+		object(".71"),
+		object(".72"),
+		object(".73"))
+	.0
+		type = /obj/Perk/Will_Of_Fire
+	.1
+		type = /obj/items/Clothing/LeafHeadband
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",5756)
+	.2
+		type = /obj/Genjutsu/Bunshin
+	.3
+		type = /obj/Ninjutsu/Kawarimi
+	.4
+		type = /obj/Genjutsu/Henge
+	.5
+		type = /obj/Gene/High_Intelligence
+	.6
+		type = /obj/Custom/Med/Meditate
+		RPPSpent = 50
+		idran = "Chakra"
+	.7
+		type = /obj/Perk/Shinobi_Info_Card
+	.8
+		type = /obj/items/Clothing/Shirt
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",8)
+	.9
+		type = /obj/items/Clothing/Jacket
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",1452)
+	.10
+		type = /obj/items/Clothing/Pants
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",2581)
+	.11
+		type = /obj/items/Clothing/Shoes
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.12
+		type = /obj/items/Clothing/Belt
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.13
+		type = /obj/Perk/Chakra_Control
+		description = "This user's chakra control is on par with their skill rank. They are able to use jutsu at their skill level and below without wasting chakra, but anything above that is overly draining."
+		tier = 2
+		name = "Chakra Control Novice"
+	.14
+		type = /obj/Perk/Studious_1
+	.15
+		type = /obj/Perk/Nara_Clan
+	.16
+		type = /obj/Custom/Nara/Drank/ShadowImitate
+		RPPSpent = 48
+		skil = "Mastered"
+		dran = 44.41849517822265625
+	.17
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 20
+		ele = "Elementless"
+		description = " It's a simple technique where two shuriken, like the Fuma Shuriken, are piled one onto another and thrown simultaneously. However, depending on the way it's used, it can prove its absolute efficiency. The trick is to somehow draw the enemy's attention towards the upper shuriken. Then, they have to deal with the path of the lower, unnoticed shuriken. However, if the enemy notices both shuriken, which is done when they duck down, the technique ends up losing most of its efficiency."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 60.02500152587890625
+		idran = "Chakra"
+		name = "Shadow Shuriken"
+	.18
+		type = /obj/Perk/Hand_Seal_Speed
+		description = "This character can complete up to sixteen handseals in a single round."
+		tier = 2
+		name = "Hand Seal Speed 2"
+	.19
+		type = /obj/Student
+	.20
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 30
+		ele = "Elementless"
+		Kekkei = 1
+		description = "By infusing the blades with his own chakra beforehand, they are given the effect of his shadow techniques. By using these weapons to pierce the enemies' shadows, they are paralysed in place. To pierce the shadow, it is necessary to avoid the target just barely — Shikamaru added fake explosive tags when he used them against Kakuzu and Hidan to help with that. Since it is more difficult for the enemy to notice it, this ninjutsu compensates for the weak point of the similar Shadow Imitation Technique, being its limited effective range. It is unknown for how long this jutsu can keep its targets paralysed, however it can be disrupted simply by the removal of the blade or by the disappearance of the opponent's shadow."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 110.7421875
+		idran = "Chakra"
+		name = "Shadow Imitation Shuriken Technique"
+	.21
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.22
+		type = /obj/Teacher
+	.23
+		type = /obj/items/Citem/tools/Bingo_Book
+		Village = "Konohagakure"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Konohagakure Bingo Book"
+	.24
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 23
+		ele = "Elementless"
+		description = "The ninja needs to stop the flow of chakra in their body, and then apply an even stronger power to disrupt the flow of the caster's chakra; this is called Genjutsu Dissipation (???, Genjutsu Kai). This can also be done by an unaffected ninja by applying a sudden surge of chakra into the affected person."
+		skil = "Mastered"
+		jut = "Genjutsu"
+		ran = "D"
+		dran = 32.427005767822265625
+		idran = "Chakra"
+		name = "Genjutsu: Kai"
+	.25
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 113
+		ele = "Elementless"
+		description = "A taijutsu where one launches a succession of high kicks and low kicks. Firstly, the opponent's evasion margin is restrained upon seeing the high kick, thus augmenting the chances for the low kick to hit the mark. So originally the high kick is little more than a feint."
+		skil = "Mastered"
+		jut = "Taijutsu"
+		ran = "D"
+		dran = 25.941600799560546875
+		idran = "Stamina"
+		name = "Konohagakure Style Taijutsu: Leaf Whirlwind"
+	.26
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 86
+		ele = "Hiden"
+		description = "After using the Shadow Imitation Shuriken Technique, the chakra in the weapon used can be manipulated if it hits a shadow. The user can form a long distance shadow that comes from the weapon to ensnare their opponent usually catching most off guard.."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 110.7421875
+		idran = "Chakra"
+		name = "Shadow Imitation Shuriken Trap Technique"
+	.27
+		type = /obj/Perk/Tag_Specialist
+	.28
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 109
+		ele = "Elementless"
+		description = "The technique is basically the user performing a jump kick into their opponent's face."
+		skil = "Mastered"
+		jut = "Taijutsu"
+		ran = "D"
+		dran = 43.77645111083984375
+		idran = "Stamina"
+		name = "Dynamic Entry"
+	.29
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.30
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.31
+		type = /obj/items/Weapon/Shuriken
+		shuriken = 10
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "You current have 10 in this stack"
+	.32
+		type = /obj/items/Weapon/Shuriken
+		shuriken = 9
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "You current have 9 in this stack"
+	.33
+		type = /obj/items/Weapon/Shuriken
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(null /*invalid data*/)
+	.34
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 24
+		ele = "Elementless"
+		description = "After performing the necessary hand seals, the user launches several strands of wire to ensnare an enemy. Once captured, the user can tighten the wire at will, to inflict injury or maim the victim."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 58.806365966796875
+		idran = "Chakra"
+		name = "Wire Bind"
+	.35
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 167
+		ele = "Fire"
+		description = "The user fires a stream of fire from their mouth. This is the most basic fire style technique."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 13.069698333740234375
+		idran = "Chakra"
+		name = "Ninja Art: Flamethrower"
+	.36
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 14
+		ele = "Fire"
+		description = "This technique creates a stream of fire that can be manipulated into several forms (so far, rings of fire that runs on the ground or a circle of fire flying through the air) before striking the target. It can also be used in combination with Wind Release: Divine Wind to create a tornado of flames, or with Wind Release: Godly Wind from the Mountains to release a massive inferno."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 4.491117954254150390625
+		idran = "Chakra"
+		name = "Ninja Art: Fire Run"
+	.37
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.38
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.39
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.40
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(null /*invalid data*/)
+	.41
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.42
+		type = /obj/Custom/Genjutsu/Drank/Magen_Narakumi
+		RPPSpent = 241
+		skil = "Mastered"
+		dran = 84.035003662109375
+	.43
+		type = /obj/items/Clothing/Robe
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Paines Rock -Hideo's Quest Item-"
+		suffix = ""
+		icon = filedata("name=;ext=.dmi;length=1241;crc32=0x8355eeba;encoding=base64",{"
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAAAF9S1CgAAAAAAAAAA
+AAEAAABI4Nu/5Nn8CDgROAmIvfAIeODbv96+PreIvfAI5AgAAIi98Ag6AAA=
+"}),null /*unrecognized data*/
+		mouse_drag_pointer = appearance(null /*invalid data*/)
+	.44
+		type = /obj/Perk/Elemental_Training_Fire
+		description = "This character has a novice's understanding of the Fire Element and is capable of performing C ranked Katon Techniques and creating D-ranked techniques."
+		tier = 2
+		name = "Elemental Training Fire 2"
+	.45
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 83
+		ele = "Elementless"
+		description = "A technique developed from the Nara clan's hiden Shadow Imitation Technique with combat in mind. It is possible to inflict direct damage to the enemy by transforming and moving shadows endowed with physical power. It is possible to attack body parts like fingers and such by turning the shadow slender and to bind the opponent's body in order to restrain them. It was given its name because, above all else, strangulation is the most efficient method. The smaller the distance to the target, the greater the power of the shadow. This technique cannot be used for an extended period of time, as it weakens with each passing minute."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 184.3199920654296875
+		idran = "Chakra"
+		name = "Shadow-Neck Bind"
+	.46
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.47
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Hello Ziare, just checking up on how things were your end. I've moved on over to Suna and am now receiving training from Marrisa. Things haven't been all that great here because things with Rias haven't been going well...i'm not sure whether i'm really into her anymore, things are just confusing with her and I think she's found another person she likes anyway. Hope things are good for you. - Akira.\n<br><br>\nIve just been wandering the earth aimlessly with no direction, ive almost starved a few times, I have killed some bandits, and I have done notheing major\n<br><br>\nGood to hear you're still alive, though it's a little troubling to hear you're wandering the wilderness. Something just came up too, I saw Rias holding hands with someone else and they looked to be pretty close, guess I blew it man...oh well. Keep in touch. - Akira"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "To Ziare"
+		icon = object("../../.57/icon",0)
+		icon_state = ""
+	.48
+		type = /obj/items/Clothing/LeafHeadband
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",5756)
+	.49
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.50
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.51
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<body bgcolor=\"black\">\n<font color=\"orange\">\n<font size=2>\nYo Ortho, I hear that you opened a village for people to come into from Konoha. Right now i've been wandering the lands for a while and I would like to see if I could check this place out.<br><br>\n\n<hr><hr>\n<font color=\"silver\">\nYes. The settlement is called Shinkogakure and it's located south of Konohagakure but west of Genjigakure. I actually have some questions to ask you before you show up. I trust you as a close friend and I'd like to know if you have information on the Mizukage wanting me dead. I caught word that he traveled to Sunagakure in hopes of getting the Kazekage to aid him in taking my life. Do you know anything?<br><br>\n\n<hr><hr>\n<font color=\"orange\">\nNope, all i've heard about that is that I should stay out of it, I am sure I could easily get info on it though.<br><br>\n\n<hr><hr>\n<font color=\"silver\">\nPlease do. When you come to Shinkogakure and the guards stop you, tell them the password. It's \"the wind blows at all time of day\". (OOCly UchihaHouse)."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Novice",null /*unrecognized data*/
+		icon = null /*invalid data*/
+		icon_state = ""
+	.52
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.53
+		type = /obj/items/Police_Badge
+		Password = "1"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon_state = "Key"
+	.54
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Fire"
+		lrncost = 30
+		nan = "Fire Style: Fire Dragon Bullet"
+		Kekkei = 0
+		IsStored = 1
+		description = " basic Fire Release technique, where the use exhales a flame breath from their mouth. This technique can be used in conjunction with Earth Release: Earth Dragon Bullet to ignite the projectiles fired by the latter technique, making it more devastating."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 199.5610198974609375
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "-Mastered- Fire Dragon Bullet"
+	.55
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 430
+		ele = "Elementless"
+		Kekkei = 1
+		description = "This is a ninjutsu from among the Nara clan's secret techniques that uses materialised shadows to attack and bind, instead of merely immobilising and controlling like the Shadow Imitation Technique. The user changes the shape of their shadow into several sharp needles and controls each separately. They can then attack several targets simultaneously and at the same time snatch away their ability to move by sewing them stuck with the shadow threads. Because it is a physical attack, it is impossible to capture someone without harming them, but on the other hand, since the speed of invocation and the time of duration are excellent, it can be used when urgent restraint is required.<br><br>\[Maximum number of Threads = Control Stat.\]<br>\[Ninjutsu + Control vs Nin Def x2 = Damage.\]"
+		skil = "Novice"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 480
+		idran = "Chakra"
+		name = "Shadow Sewing Technique"
+	.56
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.57
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Hey Ziare it's Akira, just checking up on what you've been doing since it has been a while since we spoke. I'm fine for the most part, started to make a few friends in Suna now so things are getting better. - Akira"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = null /*invalid data*/
+		icon_state = ""
+	.58
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 118
+		ele = "Fire"
+		description = " basic Fire Release technique, where the use exhales a flame breath from their mouth. This technique can be used in conjunction with Earth Release: Earth Dragon Bullet to ignite the projectiles fired by the latter technique, making it more devastating."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 449.012298583984375
+		idran = "Chakra"
+		name = "Fire Style: Fire Dragon Bullet"
+	.59
+		type = /obj/Jounin
+	.60
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Hiden"
+		description = "The user attaches their shadow to a target without restricting the target's movements. When the target's shadow comes into contact with a third party's, the user's shadow attaches to theirs instead, allowing them to be bound with the Shadow Imitation Technique."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 250
+		idran = "Chakra"
+		name = "Shadow Imitation Shadow Bind"
+	.61
+		type = /obj/items/Citem/tools/Lockpick
+		Setti = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+	.62
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = null /*unrecognized data*/
+		icon = null /*invalid data*/
+		dir = 4
+	.63
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>Scroll</title></center></head><body>I think I need a little time off of work after what I said last time...Sorry about offending you and I think i'm done drinking for a while."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = null /*invalid data*/
+		icon_state = ""
+	.64
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 39
+		ele = "Elementless"
+		Kekkei = 1
+		description = "This is a ninjutsu using materialised shadows, but compared to the Shadow Sewing Technique from the same line, this technique places emphasis on the minute control of the shadow's movements. It is accurate enough to even make the tentacles go through tiny holes. Basically, this technique takes the user's own shadow and transforms and stretches it into countless thin tentacles, which are then used to grab objects and pull them in. Also, one can skilfully make use of the tentacle-shaped shadow tendrils by using them to lift up and throw weapons like kunai and such. This technique has many possible applications and uses. There are no hand seals used for this technique, but the hand movements resemble that of Gaara's Sand Binding Coffin."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 79.1015625
+		idran = "Chakra"
+		name = "Shadow Gathering Technique"
+	.65
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		dir = 4
+	.66
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<body bgcolor=Black><font size=2><font face=Segoe UI Light><font color=\"Sky Blue\">\nYour idiotic excuse of a Jounin, Osuda, is abusing his rights.<p>\n<font color=White><u><i>Raitori, Amaya</i></u><br>\n<br>\nThanks bitch, I try."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = 32.427005767822265625,null /*unrecognized data*/
+		icon = null /*invalid data*/
+		icon_state = ""
+	.67
+		type = /obj/Perk/Blank_Perk
+		description = "This character has a relaxing and calming aura about them. Their presence is capable of soothing those around them and bringing peace to calm areas. They are capable of relaxing aggressors in battles and more often than not choose a more nonviolent route rather than causing long lasting damage to an opponent."
+		tier = 2
+		name = "Calming Aura"
+	.68
+		type = /obj/Ninjutsu/Suimen_Hokou_no_Waza
+	.69
+		type = /obj/items/Clothing/Long_Shoes
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",10663)
+	.70
+		type = /obj/items/Clothing/Long_Sleeved_Shirt
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",6326)
+	.71
+		type = /obj/items/Clothing/Pants
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",8653)
+	.72
+		type = /obj/items/Clothing/Vest
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",12623)
+	.73
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Fire"
+		description = "The user syphens large amounts of chakra thinly though the battlefield towards the target where it expands like a bubble. The syphen acts like a string and when they add fire natured chakra, it burns across the syphen and explodes in flames around the large mass of chakra. To those who cannot sense or see chakra, this comes off as an spontanous eruption of fire. The technique requires high amounts of chakra control and the higher the mastery of the technique, the faster it can be executed.  (Nin+Con+3 vs Nin Def x2)"
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 750
+		idran = "Chakra"
+		name = "Apparent Spontaneous Combustion"
+key = "Meekee"
+ChakraGain = 1.2999999523162841796875
+TertiaryElement = "Fire"
+Oname = "Ziare"
+Jchakra = 1500
+maxJchakra = 1500
+Jstam = 1500
+maxJstam = 1500
+Jnin = 20.18000030517578125
+Jgen = 5
+Jtai = 5
+Jcon = 20.6000003814697265625
+Jint = 15
+Jref = 5
+Jspd = 5
+Jstr = 5
+Jdef = 5
+Jdur = 5
+Jatkspd = 5
+Jgenres = 7.5
+Yen = 992305
+uprank = 50
+InitialSet = 1
+OOCFont = "#ff6600"
+profile = "<html>\n<head><center><title>Theres is only death...Mine...Or yours..</title></center></head>\n<body bgcolor=white text=black><center><img src=https://41.media.tumblr.com/tumblr_lzfced20g01rouy0wo1_500.jpg><hr><hr>\n<table border=\"0\">\n<tr>\n<td width=1000>\n<h3><font color=white>Info</font></h3>\n<font size=\"3\" color = \"red\">\n<b>Forename:</b> Ziare<br>\n<b>Clan / Family name:</b>Linkyazhi <br>\n<b>Gender:</b> Male <br>\n<b>Age:</b> 18<br>\n<b>Birthday:</b> July 28th <br>\n<b>Hair Color:</b> Jet Black <br>\n<b>Eye Color:</b> Greenish Hazel <br>\n<b>Height:</b> 5'5\" <br>\n<b>Weight:</b> 140 lbs<br>\n<b>Village:</b> Konohagakure no Sato<br>\n<b>Blood Type:</b>O-<br>\n<b>Kekkei Genkai:</b> \[None\] <br>\n<br>\n<hr>\n<hr>\n<b>Description:</b><br>\n<br>\nAthletic build<br> Can be found with his glasses on always. <br>Rarely shows any sign of annoyance. <br> Is usually clean.<br>Seems to always be waking up from a nap.\n<hr>\n<hr>\n<html>\n<b>Goals:</b><br>\n<li><strike>Pass the exams</strike><br>\n<li><strike>Become a Chuunin</strike><br>\n<li><strike>Become the best star gazer</strike><br>\n<li>Finally return home...<br>\n<center><img src=http://pm1.narvii.com/5615/b1d63c7d7b4567f40d860ac15d2356b573a907b0_hq.jpg><hr><hr></center>\n<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/234989572&color=ff5500\"></iframe>"
+JutsuSubmit = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Shadow Shuriken<br><b>Jutsu Rank:</b>D</align><b>Jutsu Type:</b><br><hr><br>Shuriken-Jutsu<br><br><b>Jutsu Element:</b>Elementless<br><br><b>Jutsu Drain:</b>0<br><br>Jutsu Description: It's a simple technique where two shuriken, like the Fuma Shuriken, are piled one onto another and thrown simultaneously.  However, depending on the way it's used, it can prove its absolute efficiency.  The trick is to somehow draw the enemy's attention towards the upper shuriken.  Then, they have to deal with the path of the lower, unnoticed shuriken.  However, if the enemy notices both shuriken, which is done when they duck down, the technique ends up losing most of its efficiency.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Concentration Exercise<br><b>Jutsu Rank:</b>D</align><b>Jutsu Type:</b><br><hr><br>None<br><br><b>Jutsu Element:</b>Elementless<br><br><b>Jutsu Drain:</b>100 Stamina<br><br>Jutsu Description: The user takes their turn to take a step back and think over the battle logically. This in turn gives them the ability to think over their battle strategy, lower their stress and heart rate, as well as possibly pointing out weaknesses they wouldn't have noticed before.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Shadow Imitation Shuriken Trap Technique<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Hiden<br><br><b>Jutsu Element:</b>Elementless<br><br><b>Jutsu Drain:</b>350<br><br>Jutsu Description: After using the Shadow Imitation Shuriken Technique, the chakra in the weapon used can be manipulated if it hits a shadow. The user can form a long distance shadow that comes from the weapon to ensnare their opponent usually catching most off guard.. <hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Shadow Binding Queen's Gambit<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Hiden<br><br><b>Jutsu Element:</b>Elementless<br><br><b>Jutsu Drain:</b>400-500<br><br>Jutsu Description: First, the user only needs to make the first two handsigns to intiate the jutsu( the final handsign is made after all other requirements are made). The user than has to manage to transfer their chakra to the target. Once done, multiple shadow arms will appear from the place the chakra was transferred to and proceed to bind the limbs and circle around the target strengthening the binding. The binding slowly gets weaker over turns if the target doesn't keep tansfering their chakra through touch. Large outputs of chakra or strength can break the bindings early.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Shadow Immitation Shadow Bind Technique<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Hiden<br><br><b>Jutsu Element:</b>Elementless<br><br><b>Jutsu Drain:</b>Twice Shadow Immitation<br><br>Jutsu Description: The user attaches their shadow to a target without restricting the target's movements. When the target's shadow comes into contact with a third party's, the user's shadow attaches to theirs instead, allowing them to be bound with the Shadow Imitation Technique.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Calming Aura<br><b>Jutsu Rank:</b>E-D</align><b>Jutsu Type:</b><br><hr><br>Passive<br><br><b>Jutsu Element:</b>None<br><br><b>Jutsu Drain:</b>0-100<br><br>Jutsu Description: This character's aura and presence are calming and soothing. This is due to their chakra carrying a relaxing aura but only when forced. When doing this, the user can not fight, or exude their aura in battle.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Relaxed Aura<br><b>Jutsu Rank:</b>null</align><b>Jutsu Type:</b><br><hr><br>null<br><br><b>Jutsu Element:</b>null<br><br><b>Jutsu Drain:</b>null<br><br>Jutsu Description: This character has a relaxing and calming aura about them. Their presence is capable of soothing those around them and bringing peace to calm areas. They are capable of relaxing aggressors in battles and more often than not choose a more nonviolent route rather than causing long lasting damage to an opponent. <hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Fire Release: Apparent Spontaneous Combustion<br><b>Jutsu Rank:</b>B</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Fire<br><br><b>Jutsu Drain:</b>700-800<br><br>Jutsu Description: The user syphens large amounts of chakra thinly though the battlefield towards the target where it expands like a bubble. The syphen acts like a string and when they add fire natured chakra, it burns across the syphen and explodes in flames around the large mass of chakra. To those who cannot sense or see chakra, this comes off as an spontanous eruption of fire. The technique requires high amounts of chakra control and the higher the mastery of the technique, the faster it can be executed.\n<br><br>\n<center>\[Nin + Con + 3 vs Nin Defence x2\]</center><hr><br>"
+exp = 1605.5985107421875
+HPPerc = 88
+RPP = 2100
+MaxNinjutsu = 1.0020000934600830078125
+kawarimiskill = 3
+icon_state = ""
+grabberSTR = 1
+Calories = 11110
+SayFont = "#cc9900"
+OSayFont = "#cc9900"
+LockPickSkill = 8
+leeching = 1
+RPLOG = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>9th-10th - Thu Nov 12 03:30:46 2015</b><font><hr><br>ET Tier 1 Fire - Mon Nov 9 20:01:04 2015\n--------------------------------------------------------------------------------\n<br><br>\nZiare had touched upon the paper and watched as it burned in his very hands, he knew what he would need to do from here, he would need to hone and train his fire power now to the maximum that he coudl take it. He would begin with a few leaves and starting a small fire with his own chakra. It shouldnt have been so hard for him since he had adequate control. \n<br><br>\nZiare started the way that he was told he should start, he grabbed a leaf and would try to channel his own chakra in and through the leaf. As his chakra flowed through the leaf he could feel the leaf slowly beggining to heat up, but the leaf would not be set ablaze by his own chakra. \n<br><br>\nZiare cursed to himself as he prepared to start again, he needed to learn how to set a leaf on fire with his chakra to move on. He heald the small green leaf in front of his with both of his hands as he looked over the leaf intensiively. He acted as though his stare itself would set the small objct ablaze but he knew that it wouldn't. That was why he was channeling his chakra. \n<br><br>\nZiare just poured large amounts of his chakra into the leaf, he poured so much chakra in fact that the leaf began to glow a small light blue. Although he was giving so much effort towards making the leaf catch flame, he was still not transfering enough of his elemental chakra through his own chakra and it fell flat because of this. \n<br><br>\nZiare squeezed the leaf tight now as he held it close to himself and tried everythign eh could in his control to turn the leaf into ashes. He was still unfamiliar with his trainings and still was unable to totransfer enough chakra to set the leaf ablaze, btu perhaps through sheer luck he created a small spark that seared the top of the leaf and elft him with some hope.\n\"\n\"\n<br><br>\n--------------------------------------------------------------------------------\n\nElemental Training 1 Fire - Tue Nov 10 21:22:33 2015\n--------------------------------------------------------------------------------\n<br><br>\nZiare would have aquired a new leaf by now and heald th leaf directly in front of his face as he prepared for a long days worth of training as he usually did. He took a deep breath and prepared his chakra. He had learned how to tansform more of it into the fire nature that it needed to be to create the effects that he was so pleased to get most of the time. \n<br><br>\nZiare channeled his chakra through the leaf with an intensity that blazed through his very being. He wanted so much to burn the leaf by pure force of will from him holding it, but he knew that it wouldn't work, he needed to be methodical and take this one period at a time. In a few minutes he had all the chakra he needed converted into fire nature chakra. \n<br><br>\nNow that he had the chakra he needed converted he just channeled the rest of it into the leaf and watched as it lit ablaze from his very fingertips into ashes that flew out of his hand. He had finally done it and he looked at the ashes with an astounded face, he could finally move on. \n<br><br>\nNow he increased the scale that he was going to be working with. He held out his hands and cupped them into a little ball. He would need to channel chakra into his hands and create a small and controlled fireball in his hands that he could basically hold and use to his advantage. He nodded to himself before moving on, he knew that he would get this with practice. \n<br><br>\nZiare cupped his hands once again and placed them directly in front of his person. He took a deep breath and would begin then and there. He channled his chakra through his body until his body got hot and tried to convert it to fire natured chakra. There would be a few spark in the cupped hands before nothing would happen and he would need to restart.\n<br><br><br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Elemental Trainng - Thu Nov 12 03:37:36 2015</b><font><hr><br>Ziare heald his hands out once again with them cupped perfectly in front of his peron. He left a little hold open so that oxygen would be able to flow freeely through and into the cupped portion of his hands when the flames would begin to pour in. Ziare smiled he liked the idea of this and knew that he could pull it off.\n<br><br>\nZiare poured large amounts of chakra from his reserves into the cupped portion of his hands, so much so that there seemed to be chakra leaking from his cupped hands like when you overfill somethign with water. It had gotten out of hand a bit and he knew he needed to reel it back.\n<br><br>\nHE had lost himself there, he forgot that this was a practice for control rather than just creating sheer power and fire. He learned a while ago that fire will eat whatever it can to burn extemely hot. He didn't need a lot of power when it came to fire jutsu, he just needed to be able to control himself.\n<br><br>\nZiare took a deep breath and began to flow chakra into his cupped hands once more. This time he flowed a lot less chakra into his palms as it would fill his hands, he would close his eyes and feel for the chakra now. When he felt it, it would be that moment that he changed the portion of his chakra and began to mix it with the element within him.\n<br><br>\nThe chakra would ignite like a small flame that he could hold in between his hands like a ball. He just held the fire there in front of him as he let it burn itself. He still had poor chakra control when it came to handling his fire and after a few moment the flame would die out from him not giving it enough chakra, as if he was sufocating his own flame.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Elmental Training Fire - Thu Nov 12 10:29:45 2015</b><font><hr><br>(*Ziare heald his hands out as he began to practice his fire style more now that he had a bit of free time and would be working on his fire jutsu from this point on. Ziare cupped his hands just like he would do any other time and would prepare for the chakra control training.\n<br><br>\nZiare instantly began to pour his own chakra into his cupped hands as he continued to train with everything that he had. He had to make sure he was payign close attention to the amount of chakra that he was using this entire time. He couldn't go too far.\n<br><br>\nWith that said he couldn't go not far enough if he was going to improve his fire using ability. Hehad to make sure he was giving it everything he had but wasn't trying to drown the flame. Once he felt that he had a good enough flow of chakra running into the cupped portion of his hands he yelled out to the world. \"Burn it up.\"\n<br><br>\nIt would be more than just a little bit anticlimactic as he just formed a small burning flame in between his hands and nothing more. He sat there and watched it for a bit making sure he didn't give too much flame to the chakra, but making sure he was feeding the flame as well.\n<br><br>\nAfter a while the exercise had gotten boring, he had already gotten the style down for using everything he needed for this. That meant he could start the last part of his fire training which would be learning to truely burn things and max out the power of the Fire Style. He smiled a bit to himself.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Elemental Training Fire 1 - Sat Nov 14 06:48:44 2015</b><font><hr><br>Ziare would be finishing up the last little bit of his elemental training. He would finally be able to control the flame for the most part. He heald out his hand and ignited the flame by pouring an equal amount of chakra into his palms, he made sure not to pour too much chakra or he would drown the flame in his palm.\n<br><br>\nZiare would then change the way the chakra flowed suddenly and aggressively. The chakra in his palm would then ignite into a soft orange flame that would flicker in his palm. It was nearly effortless for him at this point. The flame tickled his palm just before he let it sift away.\n<br><br>\nZiare would be on the last leg of things, he knew that by now he could perform fire jutsus with a lot more speed and power than he ever could before. He wanted to practice on a nearby tree that was near him, this would be the perfect oportunity for him to test his abiltiies.\n<br><br>\nZiare would be performing the Fire Run technique like he always had. He had this technique's seals down to memory finishing them in a couple of seconds before moving on. The chakra in his stomach would begin to morph and change, it went from regular chakra to a blaze in his stomach.\n<br><br>\nZiare would take a deep breath allowing oxygen to flow into his stomach and then would exhale. The chakra would be mould into a ring that he would spit out towards the trees. The fire would wrap around the trees before burning out, it was a lot easier to perform the jutsu than ever before.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Transitionist - Mon Nov 16 02:19:05 2015</b><font><hr><br>Ziare would have to begin his training on the path of learning how to transition and chain his jutsu in ways that they could be constantly connected and used one after another. He had timed himself earlier and found that he had a 3 second cooldown between each technique.\n<br><br>\nZiare noted his innate weakness and already knew how he was going to close the gap from his weakness to how he was now. Ziare cracked his knuckles and righ tthen and there he would begin working on closing that gap between his jutsu.\n<br><br>\nTo begin Ziare needed to increase his control. He would sit cross legged on the floor of the apartment that he had rented from Ortho. He had a scroll on top of his head and he just hummed low and even as he thought about the world and let his chara flow so freely.\n<br><br>\nAs his own chakra would flow Ziare would begin to play with it, he had done this long before when he was learning how to utulize the Genjutsu Release technique. This time he would just be cycling his chakra through his body trying to get it to points where he could easily use the chakra like a quickdraw type of system.\n<br><br>\nZiare had circulated the chakra through his system once again, this time he tried to speed up the chaka in his chakra pathway system. Once he had sped it up he could easily feel it pulsing through his entire system. HE let out a suprised \"Woah\" to himself but knew that he would need and would require more if he was going to improve his quickdraw.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Transitionalist - Tue Nov 17 03:18:24 2015</b><font><hr><br>Ziare had gotten back up to work on his transitioning between his jutsu once again. He would take a deep breath just before he began so that he could get his body and his mindphysically ready before he would start and pulse a large amount of chakra through his body.\n<br><br>\nOnce he had pulsed that chakra through his body, it would be the equivalent of using a jutsu, but without the seals. It took a bit of a toll on his body to do it, his body had become tired after just that one impule of chakra and he missed his direct follow up opotunity.\n<br><br>\nZiare sighed to himself and knew that he needed to pick himself back up and try again, he had a new goal in mind this time. This next time around he would try to just get another jutsu out, he wouldn't even go for lowing the amount of time in between each one of his jutsu casts.\n<br><br>\nZiare let out a violent exhale and pulsed his chakra, a large amount of his own reserves, into the area. His chakra would lash for a moment and he would be left with his delay. He grit his teeth know that he would not be able to use another jutsu for a while, or would he?\n<br><br>\nIn 5 seconds he felt that his body would allow him to use another jutsu with less chakra than the first. He pulsed his chakra again, not as violently the second time which would mean it was possible for him to use 2 jutsu, but the tim in between each jutsu cast was ridiculous. He let out an exhale and sat back down.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Transitionalist - Wed Nov 18 01:16:48 2015</b><font><hr><br>Ziare formed the only handseal that he would need to form and created an armor out of his own chadow that would be endowed with physical properties that he could use and abuse to his own liking. Now he just let the small shadow creep around the ground and grab at things.\n<br><br>\nZiare calculated his recovery and downtime after using the one jutsu and when he was satisfied with what it was he had gotten, he was slowly becoming more and morequick on his updraw even if it was by only about a second or 2. The gap was beggining to close between him and Ortho and soon enoug he would be fighting on equal grounds.\n<br><br>\nZiare would see if he couldn't crete 2 shadow arms that would travel at his opponent back to back to grab and hold them down. Ziare went back to the seals and created them all. Although he was still fairly new to the jutsu, the seals portion was something that was pretty easy for him to get down.\n<br><br>\nZiare had finished the seals and shot a single arm that would reel out looking to grab at anything it came into contact with. It came into contact with a small little porcelain cup that was on the ground, but there was another next to it. Ziare faught against his limits and continued to let his chakra flow.\n<br><br>\nAs his chakra flowed another hand would reel up right after the first and pick up the second porcelain cup right next to the first. He was slowly begginign to make some ral progress, the time between each jutsu was getting shaven off pretty routinely, but he still had a long way to go.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Transitionalist - Thu Nov 19 01:18:56 2015</b><font><hr><br>Ziare got right back to work when he wooke u the very next morning. As usual he stretched and let out a yawn before he would begin to time himself. Like it was part of his daily routine he created 3 handseals and formed a hand that had physical powers that would creep across he wood floor. He timed his fatugue.\n<br><br>\nThe first part of the exercise was no big deal, he could do it easily and it nenver truely stopped him. The tough part at this point was closing the gap even further when it came to using multiple jutsu many times back to back. He would form another hand from a shadow, and then move in to create another one.\n<br><br>\nHe timed the amount of time it took for him to create the following 2 shadows and he was astonished to see how his time had began to plummet the way it did. He let out a cool sigh and would once again get back to work when it cam to practicing the same types of transitions.\n<br><br>\nZiare would make all of his shadow hands dissapear before created 3 handseals once again ad lettin them drag across the ground freely. He would then suddenly create a couple more, the gap in time had closed a bit once again, but now was the hard part. He once again created another set of Shadow hands.\n<br><br>\nZiare fell to a kneel from the strain that it put on his body. He was beggining to get used to using just 2 jutsu back to back with no problems, but using anymore than 2 jutsu back to back required too much of him. He was breathing extremely heavy now and deemed himself done with the transitioning training for the day.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Transitionist - Fri Nov 20 23:24:35 2015</b><font><hr><br>Ziare would once again get back down to business as he played with the shadows that he loved to manipulate and wield as his primary weapon. Ziare would create a single handseal for the shadow immitation technique. The shadow would reel out rapidly like it normally did looking for a target like a shark searched for it's prey.\n<br><br>\nZiare let out a deep sigh that would contrast with the stark sound of the shadow whipping by. The shadow would burst to life and arms would pop from the shadow. Ziare was not only incresing his skill with the jutsu, but he was also taking it a step further and increasing his downtime.\n<br><br>\nZiare's shadow hands would all grip at physical objects around him. They would grapple and pull and mess with things pulling on Ziare's on reserves. After another lightning fast series of handseals, there would be more shadows that would pop out from the depths of the existing shadows around the shadows that he had created.\n<br><br>\nNow he had plenty of shadow hands that would interact with the entire environment, each and every one of them fully capable of doing something new and different on their own. But Ziare stopped the flow of chakra briefly and cancelled everything that he had gone and created. He let out a sigh and moved on.\n<br><br>\nZiare would create his signiture handseal once again and create a long shadow that would reel out to touch onto antyhing it could. Then he used his chakra to create another and then another and then anorther. There would be multiple shadows shooting from his source and he was sweating. He needed to stop the  traiing or he would wear himself out.<br>"
+exptunarank = 21
+PerC2Nxt = 42
+Branks = 1
+Cranks = 1
+Medici = 1
+JConst = 884
+captarget = object(".0")
+	.0
+		type = /obj/items/Citem/tools/Backpouch
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		contents = list(object(".0"),object(".1"))
+			.0
+				type = /obj/items/Clothing/Natsu_Top
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				suffix = null /*unrecognized data*/
+				mouse_drag_pointer = appearance(null /*invalid data*/)
+			.1
+				type = /obj/items/Clothing/Natsu_Bottoms
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				suffix = null /*unrecognized data*/
+				mouse_drag_pointer = appearance(null /*invalid data*/)
+dir = 1

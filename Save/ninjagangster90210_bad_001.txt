@@ -1,0 +1,552 @@
+
+x = 117
+y = 191
+z = 10
+Exp = 1
+exp = 3287.30615234375
+leeching = 1
+B1 = list()
+B2 = list()
+B3 = list()
+B4 = list()
+B5 = list()
+B6 = list()
+B7 = list()
+B8 = list()
+B9 = list()
+F1 = list()
+F2 = list()
+G1 = list()
+G2 = list()
+G3 = list()
+M1 = list()
+M2 = list()
+M3 = list()
+M4 = list()
+M5 = list()
+M6 = list()
+Class = "Chuunin"
+Village = "Sunagakure"
+Trait = "Genius"
+srank = "C"
+PrimaryElement = "Wind"
+RPP = 500
+Yen = 3006717.25
+displaykey = "Ninjagangster90210"
+stat = 1
+Age = 16
+StaminaGain = 2.2999999523162841796875
+Calories = 720
+lx = 117
+ly = 191
+lz = 10
+WHO = list()
+ChakraGain = 2.099999904632568359375
+StrengthGain = 2.2000000476837158203125
+AgilityGain = 2.099999904632568359375
+OffenceGain = 2.2000000476837158203125
+ControlGain = 1.10000002384185791015625
+ResistanceGain = 1
+TaijutsuGain = 2
+MaxNinjutsu = 1.00100004673004150390625
+NinjutsuGain = 2.2000000476837158203125
+MaxGenjutsu = 1.004000186920166015625
+GenjutsuGain = 1.89999997615814208984375
+OOCFont = "#3333cc"
+SayFont = "#cc3300"
+OSayFont = "#cc3300"
+hair = null /*invalid data*/
+Dead = 1
+Tan = 1
+Salary = 3279
+grabberSTR = 1
+profile = "<html><head><title>The Healing Hand of God</title></head><body>\n</b></div></body></b></table></body></div><b><table align=\"center\" cellpadding=\"0\" border=\"0\" cellspacing=\"0\"><tr><td><table align=\"center\" cellspacing=\"5\" cellpadding=\"0\" bgcolor=\"#111\" style=\"filter:alpha(opacity=70)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=70\"><tr><td bgcolor=\"#333\" background=\"<a href=<a href=\"<a href=\"http://s82.photobucket.com/user/SatoshiSaotome/media/priest2.jpg.html\" target=\"_blank\"><img src=\"http://i82.photobucket.com/albums/j247/SatoshiSaotome/priest2.jpg\" border=\"0\" alt=\" photo priest2.jpg\"/></a>\"\n\n<body background=\"https://orangemushroom.files.wordpress.com/2011/06/legendary-spear-effect.gif\" bgproperties=\"fixed\" text=\"#FFFFFF\" style=\"background-position:top; background-repeat\">\n\n<div style=\"margin-top:400px;background:#111;padding:0px;font-family:constantia;letter-spacing:-3px;text-transform:uppercase;font-size:28px;color:#777;text-align:center;\">\n\n<font color=#FFFFFF>Lyan Bryson\n\n<div style=\"margin-top:-5px;font-family:constantia;letter-spacing:2px;text-transform:uppercase;font-size:12px;color:#555;\">\n\n<font color=#008080>Holy Healer<font color=#FFFFFF>\n</div></div></td></tr></table></td></tr></table></td><td>\n</td><td><table align=\"center\" cellpadding=\"2\" border=\"0\" cellspacing=\"0\" bgcolor=\"white\" style=\"filter:alpha(opacity=40)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=40\"><tr><td>\n\n<table align=\"left\"><table align=\"left\" cellspacing=\"3\" cellpadding=\"0\"><tr><td align=\"top\" bgcolor=\"#000000\" height=\"276\" width=\"550\" border=\"0\" style=\"filter:alpha(opacity=90)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=90\"><div style=\"padding:float:left;6px;font-family:constantia;letter-spacing:-1px;font-size:20px;color:black;margin-bottom:400px;\">\n\n</div><div style=\"padding:3px;background:#000000;width:93%;margin:0 auto;\"></div><div style=\"padding-left:6px;padding-right:6px;line-height:175%;font-family:constantia;color:black>;font-size:11px;\">\n\n<div style=\"border-bottom:3px solid #000000\"><b>\n\n<font color=#FCF52D>\n\n<font color=#FFFFFF>Bryson Lyan\n</font>\n\n<font color=#FFFFFF>\n\n</b></div><div style=\"border-bottom:2px solid #FFFFFF\"><b><font color=#CDCDCD>Debut</font></b> <font color=#FFFFFF>???</div>\n<div style=\"border-bottom:1px solid#FFFFFF;text-align:right\"><b>Info</b></div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Status</font></b> <font color=#FFFFFF> Devoted his life to follow god and bring out the good in people</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Build</font></b> <font color=#FFFFFF> Toned and Muscular</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Age</font></b> <font color=#FFFFFF> 20 </div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><font color=#CDCDCD> Height</font></b> <font color=#FFFFFF> 6'2''</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Hair Color</font></b> <font color=#FFFFFF>Black</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Eye Color</font></b> <font color=#FFFFFF>Blue </div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Sex</font></b> <font color=#FFFFFF> Male</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Noticeable people<br></font></b> <font color=#FFFFFF>Muhhamed Hassan\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Blood Type</font></b> <font color=#FFFFFF> AB+ </div>\n<div style=\"border-bottom:4px solid #FFFFFF\"><b><font color=#CDCDCD>Rank</font></b> <font color=#FFFFFF> Chuunin</div>\n\n<div style=\"text-align:right\"><b>Background</b></div><div style=\"border-bottom:0px solid #FFFFFF;font-size:9px;line-height:160%;text-align:justify;padding-top:5px;height:200px;overflow-y:auto\">\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Personality</font></b> He had a intelligent nature. He thought logically and followed the path of God  </div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Interests</font></b> God, helping people, and medicine </div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Goals</font></b> Heal the world with light...</div>\n<font color=#CDCDCD>Backstory</font> </b>\"Ezekiel 25:17. The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness, for he is truly his brother's keeper and the finder of lost children.\" -Jules Winnfield\n\n</div></body></font></table>\n\nhttps://youtu.be/sJeg-KcHYyI"
+Oicon = filedata("name=Base_Tan.dmi;length=5163;crc32=0xbc8c3f2d;encoding=base64",{"
+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
+"})
+Oname = "Lyan, Bryson"
+Oprofile = "<html><head><title>The Healing Hand of God</title></head><body>\n</b></div></body></b></table></body></div><b><table align=\"center\" cellpadding=\"0\" border=\"0\" cellspacing=\"0\"><tr><td><table align=\"center\" cellspacing=\"5\" cellpadding=\"0\" bgcolor=\"#111\" style=\"filter:alpha(opacity=70)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=70\"><tr><td bgcolor=\"#333\" background=\"<a href=<a href=\"http://s95.photobucket.com/user/Jarrod_Hunter/media/Nicholas_D_Wolfwood_zpsomehxqgs.png.html\" target=\"_blank\"><img src=\"http://i95.photobucket.com/albums/l132/Jarrod_Hunter/Nicholas_D_Wolfwood_zpsomehxqgs.png\" border=\"0\" alt=\" photo Nicholas_D_Wolfwood_zpsomehxqgs.png\"/></a>/></a>/></a>\n\n<body background=\"https://orangemushroom.files.wordpress.com/2011/06/legendary-spear-effect.gif\" bgproperties=\"fixed\" text=\"#FFFFFF\" style=\"background-position:top; background-repeat\">\n\n<div style=\"margin-top:400px;background:#111;padding:0px;font-family:constantia;letter-spacing:-3px;text-transform:uppercase;font-size:28px;color:#777;text-align:center;\">\n\n<font color=#FFFFFF>Lyan Bryson\n\n<div style=\"margin-top:-5px;font-family:constantia;letter-spacing:2px;text-transform:uppercase;font-size:12px;color:#555;\">\n\n<font color=#008080>Holy Healer<font color=#FFFFFF>\n</div></div></td></tr></table></td></tr></table></td><td>\n</td><td><table align=\"center\" cellpadding=\"2\" border=\"0\" cellspacing=\"0\" bgcolor=\"white\" style=\"filter:alpha(opacity=40)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=40\"><tr><td>\n\n<table align=\"left\"><table align=\"left\" cellspacing=\"3\" cellpadding=\"0\"><tr><td align=\"top\" bgcolor=\"#000000\" height=\"276\" width=\"550\" border=\"0\" style=\"filter:alpha(opacity=90)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=90\"><div style=\"padding:float:left;6px;font-family:constantia;letter-spacing:-1px;font-size:20px;color:black;margin-bottom:400px;\">\n\n</div><div style=\"padding:3px;background:#000000;width:93%;margin:0 auto;\"></div><div style=\"padding-left:6px;padding-right:6px;line-height:175%;font-family:constantia;color:black>;font-size:11px;\">\n\n<div style=\"border-bottom:3px solid #000000\"><b>\n\n<font color=#FCF52D>\n\n<font color=#FFFFFF>Lyan, Bryson\n</font>\n\n<font color=#FFFFFF>\n\n</b></div><div style=\"border-bottom:2px solid #FFFFFF\"><b><font color=#CDCDCD>Debut</font></b> <font color=#FFFFFF>???</div>\n<div style=\"border-bottom:1px solid#FFFFFF;text-align:right\"><b>Info</b></div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Status</font></b> <font color=#FFFFFF> Devoted his life to follow god and bring out the good in people</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Build</font></b> <font color=#FFFFFF> Toned and Muscular</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Age</font></b> <font color=#FFFFFF> 16 </div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><font color=#CDCDCD> Height</font></b> <font color=#FFFFFF> 6'2''</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Hair Color</font></b> <font color=#FFFFFF>Black</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Eye Color</font></b> <font color=#FFFFFF>Blue </div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Sex</font></b> <font color=#FFFFFF> Male</div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Noticeable people<br></font></b> <font color=#FFFFFF>Muhhamed Hassan\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Blood Type</font></b> <font color=#FFFFFF> AB+ </div>\n<div style=\"border-bottom:4px solid #FFFFFF\"><b><font color=#CDCDCD>Rank</font></b> <font color=#FFFFFF> Genin</div>\n\n<div style=\"text-align:right\"><b>Background</b></div><div style=\"border-bottom:0px solid #FFFFFF;font-size:9px;line-height:160%;text-align:justify;padding-top:5px;height:200px;overflow-y:auto\">\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Personality</font></b> He had a intelligent nature. He thought logically and followed the path of God  </div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Interests</font></b> God, helping people, and medicine </div>\n<div style=\"border-bottom:1px solid #FFFFFF\"><b><font color=#CDCDCD>Goals</font></b> Heal the world with light...</div>\n<font color=#CDCDCD>Backstory</font> </b>\"Ezekiel 25:17. The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness, for he is truly his brother's keeper and the finder of lost children.\" -Jules Winnfield\n\n</div></body></font></table>\n\nhttps://youtu.be/sJeg-KcHYyI"
+kawarimiskill = 2
+Dranks = 2
+Cranks = 4
+Branks = 3
+Aranks = 1
+JConst = 962
+Jchakra = 1500
+maxJchakra = 1500
+Jstam = 3450
+maxJstam = 3450
+Jnin = 7
+Jgen = 8.55000019073486328125
+Jtai = 14.25
+Jcon = 7.5
+Jint = 14
+Jref = 11
+Jspd = 9.19999980926513671875
+Jstr = 7
+Jdef = 11.30000019073486328125
+Jdur = 11.5
+Jatkspd = 5
+Jgenres = 12.80000019073486328125
+exptunarank = 33
+PerC2Nxt = 66
+uprank = 50
+InitialSet = 1
+HPPerc = 96
+RPLOG = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Anatomy - Fri Oct  2 16:15:47 2015</b><font><hr><br>would begin his shadowing of Zenaki, how ironic the words are... the Angel shadows the devil... but it was a nessecary. Under normal circumstances he would most likely go corrupt but he was strong in faith and even though he didnt like what she was doing he had to respect it. He would talk to her side, his tall physique overshadowing Fuji and Zenaki only by a a couple of inches.\n\nAs he went to her side she could see his bible was strapped to him.. it was a belt like strap that was wrapped around his waist. He is bible was in a hoilster on his side as he was reading  his medical book. He was initionally reading up on hte several organ systems of the body. He quickly read the about the circulatory system, digestive system, endocrine system, nervous system, immune system, lymphatic system, and the reproductive system. He was a natural born genius with photographic memory so he only needed to read it once before understand and compredending that they were for<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Anatomy - Fri Oct  2 17:08:41 2015</b><font><hr><br>Bryson watched as he began her...brutal style of teaching was... unsettling to put it lightly. As he cut him open and told him to check the goings on in his body he would hear her warning... \"I wont heal him if thats what you wish\" he said forming a cross in the air and reciting \"My the Lord have mercy on your soul...\"\n\nFrorm this stand point he would use the knowledge from the book and the body in his view to have confirmations. \"So this  is the chest cavity of a living human, most complicated but easy to remember. the heart and lungs, covered by the rib cage, the bones of skeletal system; the heart of the circulatiry system; all working in a fast manner becasue of the pain...\" he said examinating the body. He would lightly graze the bones and organs getting a feel for the density and strength of the organs. \"You know you could have induceda coma to prevent all of this suffering\" he said looking at her to see the reaction of him screaming in agonizing pain... 'Does it get her off or something?' he would think to hisself\n\nHis hands were red brom blood but he didnt mind, He was a man of god but he was also fearless, \"Ok we can continue... go right ahead\" he uttered standing over the man.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Anatomy - Fri Oct  2 18:02:27 2015</b><font><hr><br>//To say this woman was sick and depraved with -STILL- be a understatement. If anyone loved blood and gory and pain as much as she did then they would be a perfect couple . Bryson was in affected by the bloodfy and torturing scene. As medical christan he had seen scenes to horrible to repeat and this was just another page in that book. He would look over to see what she was doing to the other guy, restraining him and injecting him with needles in him. Was she into BDSM was another question out of hundreds he had. The red eyed beauty of a devil urged him to explore the terratory of the human body.\n\nHe would look back at the screaming human, 'this screaming is so annoyign but if she likes i will have to deal with it...' As she explained in minor detail about her fetish, he would nod his head in responce, \"Very well you are giving me the honor of being my teacher so I can be picky...\" he said in his deep booming voice. He would get a closer look at the body doing a full examination of the inner workings of the human body. He would notice the lagre and small intestine moving them around ever so slightly to get a feel for them and look around them. passing his eyes over to his stomach and liver... feeling his kidneys, even feeling the inside and outside of his skin for thickness and shape.\n\nAs he stopped for a second he rose and looked her up and down gazing at her womanly features, \"Zenaki, I have come to realize you didnt bring any female bandits with you. Female bodies are slightly different than male bodies so wouldnt I need to examine them too?\" he questioned.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Anatomy - Fri Oct  2 18:44:16 2015</b><font><hr><br>After the body of the first died, he would get more messy with his search. He pushed organs around and removed them from the body until there was nothign left. The gall blatter, the colon, the spleen, the pancreus, and the brain... All were removed from the body. He removed all organs and cut his body completely open... exposing all layers of skin and bone... She asked him a question and he would turn around with blood soaked hands, \"What?\"\n\nWas given a choice... his first choice... was she testing him? Was she bored with her toy... or was she just curious. As the last man died slowly and painfully; he assumed the other should suffer as well? \"Well I have learned alot so far and I still need to work on the female body, so why dont we... break his bones and examine him...\" he would say and look at her and see her reaction. He was still over dicecting the other body clean.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>anatomy - Mon Oct 12 17:12:57 2015</b><font><hr><br>would start my moving up her legs slowly uding different forms of pressure on her legs and moving to her thigh, he used boths hands on each leg coving most of the area . He checked her mucles and veins while feeling her... as well as the structure on her bones. He would recite some words under his breath while feeling and gripping her legs, \"Fibula... tibia... patella...femur; along this side would be the Tibial venis, the popliteal vein, the femoral vein...\"\n\nHe would notice amy abnormalities on her body... if he did not sense anthing hw would feel sliky soft skin and well toned muscle, \"Quardriceps femris, iliopsas, sartorius... hamstrings and i ha- i might to avoid the gluteus maximus and the vaginal area for now... I dont wanna over step my boundries\" he said just loud enough for anyone close to hear. He would repeat the same thing with the other leg before moving to feel her hips and pelvis on their sides. If allowed to do all of this he would  say back in his normal tone, \"Ok now I will move to your upper body but im avoiding your chest is that alright?\" <br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Anatomy - Mon Oct 12 18:01:36 2015</b><font><hr><br>expected this much to happen, he made sure to avoid her sensitive areas,\" I can feel your responses... dont worry your in good hands... I would never do anything to make you uncomfortable, you have grown on me in the past days...Im almost done... with your front side at least..\" he said while continuing the examination. He stared to do the same with her torse moving slowly up her ribcage. As he got to the bottom of her chest he would move to her arms... first the right arm then her left arm.\n\nUpon in expection on her stomach, he would either feel the definition of her abs or the toned muscle of them. He would been inspected her rib cage, pushing against any bones he felt and moving down and away when she got nervous as he got near her chest... \"I wont go there so dont tense up... also your sternum is there so we will just leave that untoucŒƒ…\" he would have said; he couldnt check her sternum so he would ignore it for now. Her arms were like the rest of her body toned and such as he began the examination of her arms.\n\n\"Humerus... radius... Ulna...shoulder blade\" she mubbled checking her wrists and her hands to the tips of her fingers. \"Biceps, tricepts, deltoid\" he said going up her other arm. Then he went to her neck and her head he would make sure not to use too much pressure on her skull and move her hair around to finish the exam.\n\nHe would stand straight back and say, \"Ok all I need is o check your back and we are done...unless you are uncomfortable...\" he wait for her response.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Anatomy - Wed Oct 21 07:39:05 2015</b><font><hr><br>went to the top floor of his office. He closes the door and walks to his desk sitting down and opening his book on his desk. It was a book on the homan body. on the side of the book rested a lazer pointer becasue Sunagakure was rich as fuck like that. He stared att he empty desk make for Zenaki but she never came to it... He would sigh deeply, he had not seen Zenaki in a while and when he did see her she was with beth or Fuji. He felt like his anatomy training was incomplete and he had to finish it himself.\n\nHe then thought about all he did so far. He examined a live human body in Paine but not fully. He examined male cadavers and live males that dead from Zenaki's hands but never from a complete viewing of both genders. He would have to relay on his skills reading wise to finish his skills. He would look at the book then use the lazer pointer to match what he learned to the spot on the body model. It was a simple process and simple learning so it wasnt hard.\n\nHe mapped out the circulatory system, the digestive system, the endocrine system, the lyphastic system, the nervous system, muscular system, the reproductive system, the skeletal system, the urinary system, and the integumentary system. each system was important to the body as a whole. He also remembered the main organs in the human body. The brain, heart, kidneys, the iver and the lungs. He point out the the parts of the body and rest f the day. He would make his way back to the squard becasue he was bored and lazy... H didnt want to do much<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>anatomy - Thu Oct 22 05:07:37 2015</b><font><hr><br>Bryson started to read from his anatomy book. He read up on the vital parts of the human body. He read the passage, \"Humans have five vital organs that are essential for survival. These are the brain, heart, kidneys, liver, and lungs. The human brain is the body's control center, receiving and sending signals to other organs through the nervous system and through secreted hormones. It is responsible for our thoughts, feelings, memory storage and general perception of the world. The human heart is a responsible for pumping blood throughout our body.\" he said reading his book aloud.\nHe continued to read out loud, \"The job of the kidneys is to remove waste and extra fluid from the blood. The kidneys take urea out of the blood and combine it with water and other substances to make urine. The liver has many functions, including detoxifying of harmful chemicals, breakdown of drugs, filtering of blood, secretion of bile and production of blood-clotting proteins.The lungs are responsible for removing oxygen from the air we breathe and transferring it to our blood where it can be sent to our cells. The lungs also remove carbon dioxide, which we exhale.\" he stopped to exhale a bit. \"All this information helps me out since i mostly did all the physical trials.\"<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Anatomy - Fri Oct 23 01:42:24 2015</b><font><hr><br>Would look through all his information. He mostly went over all the body systems to get a detailed description of them . The circulatory system moves blood, nutrients, oxygen, carbon dioxide, and hormones, around the body. It consists of the heart, blood, blood vessels, arteries and veins. \"My clensing jutsu only works in this system.\" he commented.\n\nNext was the digestive system which consisted of a series of connected organs that together, allow the body to break down and absorb food, and remove waste. It includes the mouth, esophagus, stomach, small intestine, large intestine, rectum, and anus. The liver and pancreas also play a role in the digestive system because they produce digestive juices. \"I have to focus in the tongue to watch this area.\" he said\n\nThe endocrine system is next and it consisted of eight major glands that secrete hormones into the blood. These hormones, in turn, travel to different tissues and regulate various bodily functions, such as metabolism, growth and sexual function. \"I dont really need this one but its good to know.\" Bryson commented.\n<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Anatomy - Fri Oct 23 01:43:15 2015</b><font><hr><br>\nThe immune system is the body's defense against bacteria, viruses and other pathogens that may be harmful. But this was just something Bryson knew didnt need his help with. As a doctor you should be aware of every function of the body. As if something happens then he would continue to read.\n\nLymphatic system played a role in the body's defenses. Its main job is to make is to make and move lymph, a clear fluid that contains white blood cells, which help the body fight infection. The lymphatic system also removes excess lymph fluid from bodily tissues, and returns it to the blood. This was another system that was optional but needed.\n\nThe nervous system controls both voluntary action (like conscious movement) and involuntary actions (like breathing), and sends signals to different parts of the body. The central nervous system includes the brain and spinal cord. The peripheral nervous system consists of nerves that connect every other part of the body to the central nervous system. He thought <The most important of the body... the most protected... I need to really watch this if I check a patient>\n<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Anatomy - Fri Oct 23 01:45:48 2015</b><font><hr><br>\nThe body's muscular system consists of about 650 muscles that aid in movement, blood flow and other bodily functions. There are three types of muscle: skeletal muscle which is connected to bone and helps with voluntary movement, smooth muscle which is found inside organs and helps to move substances through organs, and cardiac muscle which is found in the heart and helps pump blood. He circled this area and thought, <Jutsu, Jutsu... >\n\nThe reproductive system allows humans to reproduce. The male reproductive system includes the penis and the testes, which produce sperm. The female reproductive system consists of the vagina, the uterus and the ovaries, which produce eggs. ... \"Pregnancies is something that I will have to deal with... I need to deliver the babiies\"\n\nOur bodies are supported by the skeletal system, which consists of 206 bones that are connected by tendons, ligaments and cartilage. The skeleton not only helps us move, but it's also involved in the production of blood cells and the storage of calcium. The teeth are also part of the skeletal system, but they aren't considered bones. He circled this definition in the book as he had a jutsu idea for it he had to work on.\n<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Anatomy - Fri Oct 23 01:46:40 2015</b><font><hr><br>The urinary system helps eliminate a waste product called urea from the body, which is produced when certain foods are broken down. The whole system includes two kidneys, two ureters, the bladder, two sphincter muscles and the urethra. Urine produced by the kidneys travels down the ureters to the bladder, and exits the body through the urethra. \"I hope no one get problems with this...\" he said going down the list.\n\nIntegumentary system is the body's largest organ. It was the skin on your body, most people didnt know it was a organ. It protects us from the outside world, and is our first defense against bacteria, viruses and other pathogens. Our skin also helps regulate body temperature and eliminate waste through perspiration. Hair and nails were also part of this system.<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Flexibility - Fri Nov 27 09:49:13 2015</b><font><hr><br>Lyan, Bryson decided that he would work on his flexability when it came to fighting. He wasnt a speed demon like Katsune or Sanoke but with hard work and training he could speed blitz like them. He would start his training by working around learning to defend against different fightning. He would need to fight Sanoke, Makoto, Paine, and the close range Hassan family girl to train with. He would slowly get his skills up and be the fastest medic on and off the field<br>"
+ClanSubmit = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Clan Name:</b>Lee<br><b>Clan Village:</b>Amegakagure</align><b>Clan History:</b><br><hr><br>The Mineral Lees are a group of honed warriers. They specialize taijutsu with an elemental affinity enfused within it. The worshipped family and fighting above all else. They were particularly skilled fighting with one another... alone they were good fighters but as a family they were almost unstoppable... They prided themselves as tag specialists; helping one another with continuous attacks, providing their family with open attacks to the targets or just boosting their power with combination attacks and such. They resided in amegakure as they have roots there and theit family dojo.<br><br><b>Clan Kekkei Genkai:</b>Perk: Lee Family Tag Specialist- The Mineral Lees have a trait of special \"rivalry\" among each other. Whenever they fight with or near each other their taijutsu skills and other associated skills are boosted. Near 1 member Taijutsu, strength, attack speed, and reflex and are +2, near 2 members; +4; near 3 members +6 and so on...\n\n(we can negociate the boost...)\n\nEach Lee specialises in a single elemental affinity boosted with their taijutsu. When there are more Lee's than basic elements the older Lees have the potential to unlock a kekki genkai or toka with their main element so it will be different from the other Lees<br><br><b>Example Jutsu:</b>Lee Inferno Fist/Feet\nLee Shocking Fist/Feet\nLee Stone Fist/Feet\nLee Whirlwind Fist/Feet\nLee Soaking Fist/Feet<br><hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Clan Name:</b>Jurra<br><b>Clan Village:</b>Kumogakure</align><b>Clan History:</b><br><hr><br>The clan was not akin to the new world and lives in the mountains of Kumogakure un touched by the new way of the world.<br><br><b>Clan Kekkei Genkai:</b>Every member of the clan  has a special link to a ancient dinosaur and they passive have the traits of said reptile.\nThe have the ability to use a partial form of their dinosaur or transform fully into it.<br><br><b>Example Jutsu:</b>Partial transformation technique, the user can manupilate a feature of theirs to enhance it and form it to their linked dinosaur.\n\nPrimal fighting stance, the fighter fights using pure instincts; similar to inazuka clan but deadlier and more ferocious.\n\nFull transformation, the user fully transforms into their linked dinosaur but the become animals in this reguard. The lose their sense of self if they get too serous and the rely on pure instincts<br><hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Clan Name:</b>Trijurcre<br><b>Clan Village:</b>null</align><b>Clan History:</b><br><hr><br>null<br><br><b>Clan Kekkei Genkai:</b>Every member of the clan  has a special link to a ancient dinosaur and they passive have the traits of said reptile.\nThe have the ability to use a partial form of their dinosaur or transform fully into it.<br><br><b>Example Jutsu:</b>null<br><hr><br>"
+JutsuSubmit = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Gods Light<br><b>Jutsu Rank:</b>Buff</align><b>Jutsu Type:</b><br><hr><br>Buff<br><br><b>Jutsu Element:</b>Light<br><br><b>Jutsu Drain:</b>500 a turn<br><br>Jutsu Description: This aura is exclusive to light bringers of the christian faith. They are bathed in white shining light that blinds anyone close and heals his injuries internally and externally. It also boosts his speed and strength nearly doubling it , but this light is heavily taxing on the body. It requires a high amount of chakra and stamina to maintain.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Cleric Surgery<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Medical<br><br><b>Jutsu Element:</b>light<br><br><b>Jutsu Drain:</b>500<br><br>Jutsu Description: The user utilized the power of christ and his abilitiy to preform miriacles to mend broken bones together. The user touches the target and the broken bone is covered in bright white light as it is set into place and mended. However, the bone's strength is dramatically reduced for a short time. It has a side effect of destroying the bones of the wicked, shattering it with light chakra<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Bible Smack!<br><b>Jutsu Rank:</b>D</align><b>Jutsu Type:</b><br><hr><br>taijutsu<br><br><b>Jutsu Element:</b>Taijutsu/Light<br><br><b>Jutsu Drain:</b>50<br><br>Jutsu Description: Bryson uses his bible to bring the smacketh down on his opponent. + 5 damage is added when he hits any one of evil nature or necromancers. + 3 damage is added to Lycans. Damage is added to the end of calculation<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>null<br><b>Jutsu Rank:</b>null</align><b>Jutsu Type:</b><br><hr><br>null<br><br><b>Jutsu Element:</b>null<br><br><b>Jutsu Drain:</b>null<br><br>Jutsu Description: Bryson uses his bible to bring the smacketh down on his opponent. + 5 damage is added when he hits any one of evil nature or necromancers. + 3 damage is added to Lycans. Damage is added to the end of calculation<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Holy Cleanse<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Light<br><br><b>Jutsu Drain:</b>250<br><br>Jutsu Description: Bryson overcharges his light chakra into the body of the target. This healing chakra cleanses the body of all impurities which includes, but is not limited to poisons, parasites, and pollution harmful to the body. <hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Bibical Protection<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br><br><br><b>Jutsu Element:</b>Light<br><br><b>Jutsu Drain:</b><br><br>Jutsu Description: Bryson channels his light chakra to his bible, then a frontal shield of light chakra that resembles his bible but in a bigger transparent form is made to protect him from physical and chakra based attacks<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>null<br><b>Jutsu Rank:</b>null</align><b>Jutsu Type:</b><br><hr><br>ninjutsu<br><br><b>Jutsu Element:</b>null<br><br><b>Jutsu Drain:</b>250<br><br>Jutsu Description: Bryson channels his light chakra to his bible, then a frontal shield of light chakra that resembles his bible but in a bigger transparent form is made to protect him from physical and chakra based attacks<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Angel Eyes<br><b>Jutsu Rank:</b>D</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Light<br><br><b>Jutsu Drain:</b>150<br><br>Jutsu Description: The user moves his light mana into his eyes temporarily to see the inside of the body. With  this they are able to see the injures inside of the human body.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Lights that shine through you<br><b>Jutsu Rank:</b>D</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Light<br><br><b>Jutsu Drain:</b>250<br><br>Jutsu Description: Bryson flows his light throughout the body of the target. The targets body will glow one by one for a minute each. This enables Bryson to see the problem inside of the body without opening it.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Angels Embrace<br><b>Jutsu Rank:</b>B</align><b>Jutsu Type:</b><br><hr><br>Medical<br><br><b>Jutsu Element:</b>Light<br><br><b>Jutsu Drain:</b>850<br><br>Jutsu Description: This technique is a stronger version of  the Angel Hands technique. A priest heals the interior of your body by regenerating the cells of any damaged organs as long as the organ is intact and still fuctionable. This technique is also able to heal fractures in bones, but I cant heal bones that are broken or compact fractures<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Light Detonation Seal<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Light<br><br><b>Jutsu Drain:</b>500<br><br>Jutsu Description: The user touches the target on any part of their body and leaves a trace of light chakra on them. The user can then detonate the \"seal\" in a light explosion, this technique does a static damage of 15; it doubles if the target is evil or a necromancer. This light seal can be stacked up to three times to a max of 45 damage (90 if the target is evil or a necromancer). This technique requires physical contact to activate.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Light Pentagram<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Light<br><br><b>Jutsu Drain:</b>500<br><br>Jutsu Description: The user draws a shape in the air or on the ground. Once the shape is complete the user touches a part of the trail and the seal glows in a white light. Anyone inside of the seal would be be trapped inside of the area with no escape but above or underground.<hr><br>"
+name = "Lyan, Bryson"
+icon = object("//Oicon",0)
+icon_state = ""
+overlays = list(appearance(filedata("name=SunaNeck.dmi;length=544;crc32=0xc491547d;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAMAAAACgBAMAAACoBn5uAAAAElBMVEXAwMAA3wAsLCyorrP////h
+4eFuf4L9AAAAAXRSTlMAQObYZgAAAKh6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/Y0lJYnI2dlOQlLnlJ5cWI1QZYlfl7U9QSXhqYkF+Hnb7
+jFBczcWZk59fAFairODq5wIOHgAa8U+wUBRhhwAAAQhJREFUaIHt29sNwjAMheFkg2aEwgRIbEAX
+QIj9V+HyFlvk1DJ9gP6feEmVkpSL5FO5pQDAz2irDg1M79fncWutG9fngcj717m12bxBP+G89Ass
+l+GG7Lge77dugdJv+HUJo7HcoPsISi0ReoNZyQ0CAABgP2R+UBPS+UFMSOcHNSGbH/QEynMAAADs
+RjY/ZAOGzQ8+TyQDhs0PLk+kA4a9QpcnCBgAAAD7Fev+iauHWPOKKt9dvV9PofNVfe/K+1Kvo/N9
++S/qe1/emwVWlP/j+r5NtrzvFtig/DffwfdFf0VxW/8PAAAA/lT2+QLdXyT6g9L9Rer2fbq/SD1f
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggg==
+"})),appearance(filedata("name=;ext=.dmi;length=1023;crc32=0xfb36d1b;encoding=base64",{"
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3kfnuCCYwa7cL
+"})),appearance(null /*invalid data*/),appearance(filedata("name=;ext=.dmi;length=1430;crc32=0x5d391d53;encoding=base64",{"
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PbyLntqjj27+20FS3C/fuCCYwa7cLAAAA
+kO8vErg=
+"})),appearance(filedata("name=;ext=.dmi;length=1211;crc32=0x5c700848;encoding=base64",{"
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3qfbuCCYwa7cLAAAA
+kO8vErj9DwB/7gGZJiI=
+"})),appearance(object("//hair",0)))
+gender = "male"
+contents = list(
+		object(".0"),
+		object(".1"),
+		object(".2"),
+		object(".3"),
+		object(".4"),
+		object(".5"),
+		object(".6"),
+		object(".7"),
+		object(".8"),
+		object(".9"),
+		object(".10"),
+		object(".11"),
+		object(".12"),
+		object(".13"),
+		object(".14"),
+		object(".15"),
+		object(".16"),
+		object(".17"),
+		object(".18"),
+		object(".19"),
+		object(".20"),
+		object(".21"),
+		object(".22"),
+		object(".23"),
+		object(".24"),
+		object(".25"),
+		object(".26"),
+		object(".27"),
+		object(".28"),
+		object(".29"),
+		object(".30"),
+		object(".31"),
+		object(".32"),
+		object(".33"),
+		object(".34"),
+		object(".35"),
+		object(".36"),
+		object(".37"))
+	.0
+		type = /obj/items/Clothing/SandHeadband
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",8)
+	.1
+		type = /obj/Genjutsu/Bunshin
+	.2
+		type = /obj/Ninjutsu/Kawarimi
+	.3
+		type = /obj/Genjutsu/Henge
+	.4
+		type = /obj/Custom/Med/Meditate
+		RPPSpent = 10
+		idran = "Chakra"
+	.5
+		type = /obj/Perk/Shinobi_Info_Card
+	.6
+		type = /obj/Perk/Light_Bringer
+		canttier2 = 0
+	.7
+		type = /obj/Perk/Medic
+		canttier2 = 0
+	.8
+		type = /obj/items/Clothing/Boots
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",578)
+	.9
+		type = /obj/items/Clothing/Pants
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",1615)
+	.10
+		type = /obj/items/Clothing/Shirt
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",3625)
+	.11
+		type = /obj/items/Clothing/Coat
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=1167;crc32=0x181ce1f3;encoding=base64",{"
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+PrcIL+gJmwQAAAgv6Ak6AAAAIfbuCAAAAAAAAAAA
+AEcDAAB44Nu/BFNYC5CemQkIL+gJeODbv96+
+"})
+	.12
+		type = /obj/Perk/Speed
+		description = "This character's speed is beyond amazing. They are able to outrun some of the quickest shinobi, though, they suffer from tunnel vision at high speeds."
+		tier = 2
+		name = "Enhanced Speed"
+		icon_state = "spd2"
+	.13
+		type = /obj/Perk/Reflex
+		description = "This character's reflexes are even more impressive than that of a character with the reflex perk. They are capable of dodging projectiles at medium range, and are capable of trading blows and blocking effectively with fast characters."
+		tier = 2
+		name = "Heightened Reflex"
+		icon_state = "rfx2"
+	.14
+		type = /obj/Perk/Blank_Perk
+		description = "This user has a customized bible from Tenryuujoutei. The cover is forged out of gold and the back cover is forged out of lycanthropy-damaging silver. The bible can be used as a melee offensive weapon against lycanthropes, but its primary purpose is to recite the lines of God's word. The bible is capable of enhancing the user's Light abilities and amplifies their holy presence.<br><br>\[Adds +3 Damage in Taijutsu Calculation vs Lycanthropes.\]<br>\[Adds +3 in Damage Calculation for any Light-Based Technique.\]"
+		tier = 2
+		name = "Holy Bible"
+	.15
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "Walked out of the village, showing the guards his bible as everyone knew his job. He walked to another outpost, going to do the work of the Lord and Hassan. His white cloat swayed in the wind as his hooded figure walked the long path. It took him an hour or two as he drank his bottle of water every now and again to keep his self hydraded. \n<br>\nHe saw the outpost in the distance and wasnt suprised that no one greeted him. \"Well I guess it would be pretty wierd if someone were to greet me and they are all dead...\" he said with a somber tone. He would roll up his sleeves and plot out all the graves. Each grave would be inside of the outpost, he would mark the place as a graveyard and condem it. The graves would be about 6 inches away from each other... not too close and not too far.\n<br>\nAfter he would mark the grave spots he would count out the number of graves to the number of people, it was exhausting work but someone had to do it. After he got the head count of 120 people he would then grab his shovel and start digging. It took him quite a while to dig all the holes by his self as this task would take hours to do. He finished half of the graves before he took a break; he ate his packed sandwich, an apple and a bottle of water to stay energized and ready to finish digging the holes. He looked on to see his progress and saw that he marked the grave locations and put crosses on the graves as a blessing.\n<br>\nBryson would start to bury the bodies now, he moved and dragged the first few bodies to their graves and buried them. He wiped his sweat off his forehead and dug the shovel to the ground, \"Man this is tiring...but again someone has to do it...\" he sad as he moves the next few bodies. Hours would fly by as Bryson would finish half of the graves and preceed to my last break. Bryson took off his shirt revealing a toned body as he was exhausted from the manual labor.\n<br>\n\"Almsot done...\"he said finishind his last break and burying the rest of the bodies. It took him a day to complete, he would look at his work and clap his hands together and prayed. \"Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever. Amen.\"\n<br>\nHe prayed over the bodies and began his trekk home. As he arrived hime he would flash his bible again and be let through the gates. \"Sir Hassan, the task is complete\" he said as he was still shirt less and sweating alot. I will go change and get ready for the day after I go to sleep for the night."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=382;crc32=0x5127ff91;encoding=base64",{"
+AEcDAAB44Nu/3EhYC5CemQkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAAVvbuCAAAAAAAAAAA
+AEcDAAB44Nu/3EhYC5CemQkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAAVvbuCAAAAAAAAAAA
+AEcDAAB44Nu/3EhYC5CemQkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAAVvbuCAAAAAAAAAAA
+AEcDAAB44Nu/3EhYC5CemQkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAAVvbuCAAAAAAAAAAA
+AEcDAAB44Nu/3EhYC5CemQkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAAVvbuCAAAAAAAAAAA
+AEcDAAB44Nu/3EhYC5CemQkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAAVvbuCAAAAAAAAAAA
+AEcDAAB44Nu/3EhYC5CemQkIL+gJeODbv96+PrcIL+gJigEAAAgv6A==
+"})
+		icon_state = ""
+	.16
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 162
+		ele = "Light"
+		Kekkei = 1
+		description = "Bryson overcharges his light chakra into the body of the target. This healing chakra cleanses the body of all impurities which includes poisons, parasites, and pollution harmful to the body. However, this is limited to those available readily in the bloodstream. Hidden poisons in the organs and whatnot are much more difficult to extract even with holy energies."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 189.84375
+		idran = "Chakra"
+		name = "Holy Cleanse"
+	.17
+		type = /obj/Perk/Mind
+	.18
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 83
+		ele = "Elementless"
+		description = "A technique wherein the user exerts chakra into their body, increasing their metabolic rate, allowing them to cover a distance in a short period. This technique has a delay and causes the user to become dizzy and disoriented for a short period after use until mastered."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 3.808265209197998046875
+		idran = "Chakra"
+		name = "Shunshin no Jutsu"
+	.19
+		type = /obj/Perk/Anatomy
+	.20
+		type = /obj/Perk/Studious_1
+	.21
+		type = /obj/items/Medicine/Healing_Pill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.22
+		type = /obj/Student
+	.23
+		type = /obj/Teacher
+	.24
+		type = /obj/items/Clothing/Cloak
+		saved_x = 0
+		saved_y = 0
+		saved_z = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.25
+		type = /obj/items/Clothing/Coat
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",5069)
+	.26
+		type = /obj/items/Clothing/Long_Sleeved_Shirt
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Uchiha Weed Blunt"
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.27
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 47
+		ele = "Light"
+		description = "Bryson channels his light chakra to his bible, then a frontal shield of light chakra that resembles his bible but in a bigger transparent form is made to protect him from physical and chakra based attacks"
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 94.921875
+		idran = "Chakra"
+		name = "Biblical Protection"
+	.28
+		type = /obj/Perk/Body
+		description = "This character's body is rock solid. Their muscles are strong enough to resist the stun of blows, or the after-effects of a strike.The skin of this particular character is also slightly hardened, making it impossible to cut this character's skin without actually putting effort into a strike. "
+		tier = 2
+		name = "Enhanced Body"
+		icon_state = "bdy2"
+	.29
+		type = /obj/Perk/Blank_Perk
+		description = "This character is dressed in a formal attire that a priest or reverend may wear. It is indicative by the black and white, as well as an accompaniment of a white scarf. There are holy crosses on the shoulders though, acting as miniature pauldrons, despite being etched into the fabric itself.<br><br>\[Durability: 4\]<br>\[Add +5 to all Light Oriented Attacks.\]"
+		tier = 2
+		name = "Traditional Christian Priest Robes"
+	.30
+		type = /obj/items/Clothing/Suna_Chuunin
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.31
+		type = /obj/Perk/Strength
+	.32
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 1281
+		ele = "Light"
+		description = "This technique is a stronger version of the Angel Hands technique. A priest heals the interior of your body by regenerating the cells of any damaged organs as long as the organ is intact and still fuctionable. This technique is also able to heal fractures in bones, but it cant heal bones that are broken or compact fractures"
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 850
+		idran = "Chakra"
+		name = "Angels Embrace"
+	.33
+		type = /obj/Perk/Stamina
+	.34
+		type = /obj/Perk/Blank_Perk
+		description = "This character is good, they are to the point that they will commit acts that might be considered wrongful in order to achieve what they believe to be truly good and the best outcome for the world and people around them. "
+		tier = 1
+		name = "Chaotic Good"
+	.35
+		type = /obj/items/Scrolls/Mission_Scroll/DRankMission/DRank1
+		completer = "Ninjagangster90210"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.36
+		type = /obj/items/Scrolls/Mission_Scroll/DRankMission/DRank4
+		completer = "Ninjagangster90210"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.37
+		type = /obj/items/Food/Small_Fish
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+key = "Ninjagangster90210"
+dir = 1

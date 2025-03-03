@@ -1,0 +1,901 @@
+<br><font color=teal>*Katsune(Shimizu3598) says: There is one thing I forgot to train. - Fri Sep 25 18:15:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'll be back...soon. - Fri Sep 25 18:15:40 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) wanders off.* - Fri Sep 25 18:15:40 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Should I visit Kumogakure to keep our relations going? - Fri Sep 25 20:03:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmmm. - Fri Sep 25 20:05:45 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You want to visit? - Fri Sep 25 20:05:45 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Don't be afraid to tell me you want a vacation. - Fri Sep 25 20:06:36 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It's you, so of course I'll let you have nice things. - Fri Sep 25 20:06:36 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: It's not a vacation. - Fri Sep 25 20:06:36 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: It's business. - Fri Sep 25 20:06:36 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm. - Fri Sep 25 20:07:28 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You think it'll help? - Fri Sep 25 20:07:28 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: They might get suspicious, and think you're spying. - Fri Sep 25 20:07:28 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . It will keep our relations going . . . We'll become more friendly to each other. - Fri Sep 25 20:08:19 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm. - Fri Sep 25 20:08:19 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Before you leave.... - Fri Sep 25 20:09:10 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You did let people know you burried Amai, right? - Fri Sep 25 20:09:10 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Yeah? - Fri Sep 25 20:09:10 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: She should have a grave marker so people can visit it. - Fri Sep 25 20:09:10 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Over there? - Fri Sep 25 20:09:10 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Yes, in Kumogakure... - Fri Sep 25 20:09:10 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Yeah, I buried her with a tombstone. - Fri Sep 25 20:09:10 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Alright. - Fri Sep 25 20:09:10 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hm. - Fri Sep 25 20:10:01 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hanabi got arrested over there. - Fri Sep 25 20:10:01 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I wonder if she disturbed the grave. - Fri Sep 25 20:10:01 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Unsure. - Fri Sep 25 20:10:01 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Might find out. - Fri Sep 25 20:10:01 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: If you do...please be very subtle. - Fri Sep 25 20:10:01 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Okay. - Fri Sep 25 20:10:01 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: We can't have people thinking you have suspicious reasons for asking. The reason is actually very innocent. - Fri Sep 25 20:10:01 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I don't want Hanabi getting in trouble either. - Fri Sep 25 20:10:52 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Alright - Fri Sep 25 20:10:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: In fact...just visit the grave. Make sure everything looks right. - Fri Sep 25 20:10:52 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Okay. - Fri Sep 25 20:10:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Don't ask about it. - Fri Sep 25 20:10:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: -- If you want to anyway. - Fri Sep 25 20:11:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You can go. - Fri Sep 25 20:12:35 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Okay, Thanks. - Fri Sep 25 20:12:35 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Mhm. . . - Fri Sep 25 20:13:26 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) makes her way east of the hokage mansion yet again. While she'd been away, Kat had assigned one of Konoha's genin a mission. She'd paid them to come here and place rods all along the mountain for the stretch of an entire mile. They're all metal and very sturdy. They also...are fairly short. 
+
+Just enough for two feet to rest on. Using Suimen, Kat slowly and lazily scales the mountain wall. She passes many of these rods along the way, but doesn't stop upon reaching the closest one available. She goes all the way to the top. Eventually, the teen is two-hundred feet above-ground.
+
+Once there, she places herself on one of these rods and faces the east. A slow, shakey, and deep breath is taken. The kage's right leg rises slowly behind her, and her right hand finds it. For a long moment, she stretches the leg. The other leg follows, and then each arm.
+
+Wouldn't want cramps to ruin her day and be responsible for her death. She cracks her neck on both sides. Eventually Kat's done telling herself she's not just hesitating. Arms rise and hands meet to form the tiger seal. Abruptly, she shoves chakra throughout her body.
+
+All nerves are set on fire, and they very strongly compel Kat to sprint forwards. Naturally she does so. The woman moves as a blur to some of the best eyes, and instantaneously to most. Feet ram roughly into each and every rod in her path. She's forced to leap from one to another at the dazzling speed.
+
+Eventually, she's come to a stop. An eyebrow twitches, and both feet are pressed side-by-side on one of the rods she'd had prepared. The teen's chest rise and falls fairly quickly, and she sways to and fro just a bit from how dizzy the technique makes her. Having just used the shunshin jutsu, she struggles to use Suimen. It's not impossible as it's not even a jutsu, but it's difficult.* - Fri Sep 25 20:42:27 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I'm back. - Fri Sep 25 21:17:26 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I see. - Fri Sep 25 21:17:26 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) is balancing on a metal rod on the side of the mountain at the moment. Her hands are holding the tiger seal.* - Fri Sep 25 21:17:26 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Well, You're in a tight spot. - Fri Sep 25 21:18:17 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Anyway. - Fri Sep 25 21:18:17 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Niza has agreed to continue developing relations with us. - Fri Sep 25 21:18:17 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I see. - Fri Sep 25 21:19:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: That's a weird way to put it. - Fri Sep 25 21:19:08 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Regarding Hanabi, From what i've saw . . . She's fine. - Fri Sep 25 21:20:00 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Also . . . Before I left the village . . . Misa came. - Fri Sep 25 21:20:51 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Did she? - Fri Sep 25 21:20:51 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: She asked if we restored the illegal village. - Fri Sep 25 21:20:51 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) lifts an eyebrow. Eyes wander.* - Fri Sep 25 21:20:51 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Those were the words she used? - Fri Sep 25 21:20:51 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: The exact words? - Fri Sep 25 21:21:42 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Yeah. - Fri Sep 25 21:21:42 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Not a single word off? - Fri Sep 25 21:21:42 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It's important to be specific when talking about something someone said. - Fri Sep 25 21:21:42 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Well . . . More precisely . . . She asked if we rebuilt Konohagakure into an illegal village once more. - Fri Sep 25 21:22:33 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: -- Much better. Never give me mixed words again. - Fri Sep 25 21:22:33 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Sorry. - Fri Sep 25 21:22:33 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What did you tell her? - Fri Sep 25 21:22:33 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Well . . . I think the first words I said were nonsense . . . Since I wasn't 100 percent sure. - Fri Sep 25 21:24:16 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Whether or not we were such a village. - Fri Sep 25 21:24:16 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Specifics, Kilm. . . - Fri Sep 25 21:24:16 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I said it won't stay an illegal village. - Fri Sep 25 21:24:16 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Before I take away that vest. - Fri Sep 25 21:24:16 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: That's it. - Fri Sep 25 21:25:58 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You specifically said...it won't stay an illegal village? - Fri Sep 25 21:25:58 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I want facts rather than you attempting to impress me. - Fri Sep 25 21:26:49 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Every single word you say.... - Fri Sep 25 21:26:49 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I did say it specifically. - Fri Sep 25 21:26:49 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Carries enormous consequences. - Fri Sep 25 21:26:49 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: She then replied good luck having the hokage pass the exams to make it legal. - Fri Sep 25 21:26:49 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Is Kumogakure still illegal? - Fri Sep 25 21:27:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: And Sunagakure? - Fri Sep 25 21:27:40 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Kumogakure isn't . . . I'm pretty sure . . . - Fri Sep 25 21:27:40 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Sunagakure unsure. - Fri Sep 25 21:27:40 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I didn't ask Niza if he was private or sergeant. - Fri Sep 25 21:27:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Kumogakure used to be illegal. - Fri Sep 25 21:27:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Recently. - Fri Sep 25 21:27:40 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Niklaus wasn't gezo at all. - Fri Sep 25 21:27:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmph. - Fri Sep 25 21:28:32 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I wonder. . . - Fri Sep 25 21:28:32 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: If Erebus became a seargent.... - Fri Sep 25 21:28:32 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Would he be able to legalize us? - Fri Sep 25 21:28:32 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Maybe. - Fri Sep 25 21:28:32 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Or would it have to be me? - Fri Sep 25 21:28:32 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: He'd probably have to take up the hokage role. - Fri Sep 25 21:28:32 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: How do -I-...pass exams that even Orakuru couldn't? - Fri Sep 25 21:28:32 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: It'd most likely have to be you. - Fri Sep 25 21:28:32 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I wonder. - Fri Sep 25 21:29:23 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Well . . . You are really good at making plans and thinking. - Fri Sep 25 21:29:23 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Can I just be a private...? - Fri Sep 25 21:29:23 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: A private just signifies you being a true jounin. - Fri Sep 25 21:29:23 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Sergeant signifies you being a true kage. - Fri Sep 25 21:29:23 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: That so? - Fri Sep 25 21:29:23 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I should read up on the Gezo.... - Fri Sep 25 21:30:14 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: For a kage I have no idea how these village things work. - Fri Sep 25 21:30:14 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I also saw Seisuke in Kumogakure. - Fri Sep 25 21:31:56 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Seisuke goes wherever he wants. . . - Fri Sep 25 21:33:39 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: He's a prince - Fri Sep 25 21:33:39 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Not surprising. - Fri Sep 25 21:33:39 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Mhm. - Fri Sep 25 21:33:39 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: It seemed he knew Hanabi. - Fri Sep 25 21:33:39 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: He was whispering to her. - Fri Sep 25 21:33:39 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I guess that's it for my report. - Fri Sep 25 21:35:21 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Noriko. . . - Fri Sep 25 21:36:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I believe she was a private at best. She mentioned being unable to pass one of the written exams.... - Fri Sep 25 21:36:12 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Hm . . . Could've been. - Fri Sep 25 21:37:04 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I might be wrong on sergeant being a neccesity as a kage. - Fri Sep 25 21:37:04 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Atleast you're trying to get stronger right now. - Fri Sep 25 21:41:20 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Yes. - Fri Sep 25 21:42:11 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I intend to work as hard as I can until I'm considered qualified for the jounin rank at the least. - Fri Sep 25 21:42:11 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Sounds good. - Fri Sep 25 21:43:02 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Erebus can't always be at my side.... - Fri Sep 25 21:43:02 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: And he claimed to be my sword, shield, and armor. That's the only reason I was brave enough to accept this position. - Fri Sep 25 21:43:02 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I can, though . . . Usually . . . At mornings . . . - Fri Sep 25 21:43:02 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Killing me would be pointless but. . . - Fri Sep 25 21:43:53 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: People don't realize that because Erebus tries to keep his involvement a secret. - Fri Sep 25 21:43:53 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: If I died, Erebus would just assign someone else. - Fri Sep 25 21:43:53 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I really want him to stop getting involved with Konohagakure . . . - Fri Sep 25 21:45:36 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: He told Seisuke he intends to destroy the world. - Fri Sep 25 21:46:27 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Such a stupid thing to say. . .in public. - Fri Sep 25 21:46:27 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: To a Gezo -prince-. - Fri Sep 25 21:46:27 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: We've got so much hate on us now. - Fri Sep 25 21:46:27 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I've been so careful to choose every single word...so carefully.... - Fri Sep 25 21:46:27 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: And he makes that effort worthless. - Fri Sep 25 21:47:18 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: He put us in a really bad spot . . . Perhaps worse than before. - Fri Sep 25 21:48:09 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) turns around from her perch on the mentioned metal bar. Eyes lock onto Kilm and an eyebrow rises. She's wearinf a very faint frown. Briefly she looks him up and down.
+
+"You're acting weird. . ." she says, a bit quietly.* - Fri Sep 25 21:49:00 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: How so? - Fri Sep 25 21:49:00 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Different than usual. - Fri Sep 25 21:49:00 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I feel normal. - Fri Sep 25 21:49:00 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: We have hate on us....? Since when? - Fri Sep 25 21:49:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: "So much" hate? - Fri Sep 25 21:49:52 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: We must have hate on us . . . Don't we? - Fri Sep 25 21:49:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Either you...have been very irresponsible..... - Fri Sep 25 21:49:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Or you're acting weird. - Fri Sep 25 21:49:52 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: We are seen as a potential threat by Kiri and now Seisuke probably doesn't like us. - Fri Sep 25 21:49:52 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Also, I dunno. - Fri Sep 25 21:50:43 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: . . . - Fri Sep 25 21:51:34 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Explain the hate thing. - Fri Sep 25 21:52:25 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What makes you think this? - Fri Sep 25 21:52:25 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Elaborate. - Fri Sep 25 21:52:25 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Are you hiding something from me....? - Fri Sep 25 21:52:25 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Something you learned in Kumogakure? - Fri Sep 25 21:52:25 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Well, Erebus pissed Seisuke off . . . Because of that, I think Seisuke hates not only him but us too . . . - Fri Sep 25 21:53:16 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: And Kiri labeled us as a threat, Which means they are weary of us. - Fri Sep 25 21:53:16 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Well . . . A potential one anyway. - Fri Sep 25 21:53:16 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) gently pushes herself off of the bar she's on. The teen's feet land with a soft pat on the grass, and she stares up at the teen that's much taller than she is. Eye contact is maintained, and her frown remains.* - Fri Sep 25 21:54:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Are you sleepy right now? - Fri Sep 25 21:55:50 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Slightly. - Fri Sep 25 21:55:50 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Have you been stressed? - Fri Sep 25 21:55:50 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Not realy. - Fri Sep 25 21:55:50 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Kilm.... - Fri Sep 25 21:55:50 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I -need- you to get better at your social skills. - Fri Sep 25 21:56:41 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Okay. - Fri Sep 25 21:56:41 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) reaches up with her right hand to place her palm on Kilm's vest. The teen tightens her grip on it a bit, and gently tugs at it a few times. Eye contact is maintained all the while.
+
+"This vest. . ." she says, with a stern look in her eyes.
+"Means that you have great analytical skills and always think before acting. That means you think before speaking, too."
+
+Kat takes her hand back. Her head tilts just a tiny bit.
+
+"Right now, you're proving to me that you definitely have neither of those things. That worries me."* - Fri Sep 25 21:57:32 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Okay . . . I might've not thought before saying anything then. - Fri Sep 25 21:58:24 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I was just speaking what first came to mind . . . I'm sorry. - Fri Sep 25 21:58:24 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You're speaking to a kage. Someone that takes any information you give her. . . - Fri Sep 25 21:58:24 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: And uses it to protect the village. And yet you give me such poor information...out of context. Choosing very poor words.... - Fri Sep 25 21:59:15 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Do you know how important it is that I have clear information? Clear and -complete- information? - Fri Sep 25 21:59:15 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I'll answer to your questions more specifically and not speak anything that is unrelated then. - Fri Sep 25 21:59:15 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Or is bad information. - Fri Sep 25 22:00:06 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Not what I want to hear, Kilm. - Fri Sep 25 22:00:06 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) shakes her head. Both arms rise and her hands find the teen's vest. Gently and carefully, she begins unfastening his vest.
+
+"I'm sorry but I have to take this away." she says.
+
+"I can't put genins' lives in your hands right now."
+
+Kat would begin circling the teen to more easily remove the garment.
+
+"That happened to me once, and I almost died. I can't let it happen to anyone else."* - Fri Sep 25 22:00:57 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Okay. - Fri Sep 25 22:01:48 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) holds the vest in both arms and makes her way back to the front of him. Once there, she averts her eyes.
+
+"I shouldn't have given it to you without being sure..." she says.
+"Probably makes you feel bad."* - Fri Sep 25 22:02:40 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: No . . . It's okay. - Fri Sep 25 22:02:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You'll get it back eventually.... - Fri Sep 25 22:02:40 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Alright. - Fri Sep 25 22:03:31 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I just have to test you more and give you more missions. - Fri Sep 25 22:03:31 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: For now...I need you to practice speaking. Attention to details, things like that, alright? - Fri Sep 25 22:03:31 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I feel slightly embarrased though now. - Fri Sep 25 22:03:31 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: That I couldn't hold my rank for a while. - Fri Sep 25 22:03:31 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'm the one that should be embarassed. Erebus put me on the spot in the mansion. He asked me to give you a position. - Fri Sep 25 22:03:31 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I felt like it'd be an insult if I said you stay genin. - Fri Sep 25 22:04:22 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I wanted to reward you because you're my very best friend. - Fri Sep 25 22:04:22 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I'm happy to hear that. - Fri Sep 25 22:04:22 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: -- . . . I still . . . - Fri Sep 25 22:04:22 2015
+<br><br><font color=teal>*Kilm(Vysasi) thinks: Probably shouldn't say it, Will make her feel uncomfortable again - Fri Sep 25 22:05:13 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You shouldn't. - Fri Sep 25 22:05:13 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I don't share those feelings. - Fri Sep 25 22:05:13 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Why not? - Fri Sep 25 22:06:04 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You're not my type. - Fri Sep 25 22:06:04 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: That won't sway me though. - Fri Sep 25 22:06:04 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: And you know that best. - Fri Sep 25 22:07:47 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It 'should' sway you. That behavior won't help you. - Fri Sep 25 22:08:38 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . - Fri Sep 25 22:09:29 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You get jealous. - Fri Sep 25 22:09:29 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It gets in the way. - Fri Sep 25 22:09:29 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . - Fri Sep 25 22:10:20 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: With Seisuke? When I needed to talk to him? Just minutes before we'd agreed I should talk him into giving us more shinobi. And then.... - Fri Sep 25 22:10:20 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You didn't realize that's what I was doing? - Fri Sep 25 22:10:20 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . I didn't . . . You're right . . . It gets in the way. - Fri Sep 25 22:11:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Your feelings for me kept you from thinking clearly. - Fri Sep 25 22:11:12 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I can't let them influence me anymore. - Fri Sep 25 22:11:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: . . . - Fri Sep 25 22:12:03 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Or atleast not as much. - Fri Sep 25 22:12:03 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'll think about giving this vest back. I hope you take my advice more seriously in the future. - Fri Sep 25 22:14:36 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Alright. - Fri Sep 25 22:14:36 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I don't nag. I do my duty as hokage. - Fri Sep 25 22:14:36 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I have to do mine. - Fri Sep 25 22:14:36 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Don't leave the village today. I'm having people watch for you for the next few weeks. - Fri Sep 25 22:15:28 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . - Fri Sep 25 22:15:28 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You'll be tailed. - Fri Sep 25 22:16:19 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You'll have privacy but you'll be followed, from a distance. - Fri Sep 25 22:16:19 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Is this for the best? - Fri Sep 25 22:16:19 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You're saying very shady things. - Fri Sep 25 22:17:10 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I wasn't thinking. - Fri Sep 25 22:17:10 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I need to make sure you're not doing anything rash before you calm down. - Fri Sep 25 22:17:10 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . If I don't think, I say bad things . . . If I think I get someone in trouble . . . - Fri Sep 25 22:17:10 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: So that's it. - Fri Sep 25 22:19:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You're still trying to impress me. I hurt your feelings a long time ago when I said certain things about the new you. - Fri Sep 25 22:20:35 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Kilm I don't need a lover right now. - Fri Sep 25 22:20:35 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I need a chuunin. - Fri Sep 25 22:20:35 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: My feelings have only caused you to reject me numerous times. - Fri Sep 25 22:20:35 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: No. - Fri Sep 25 22:21:26 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: What you need is a Jounin. - Fri Sep 25 22:21:26 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: That's right. I need several jounin. - Fri Sep 25 22:21:26 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I need ANBU too. I need the best. - Fri Sep 25 22:21:26 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Konoha needs them. - Fri Sep 25 22:21:26 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . I'll try my best again. - Fri Sep 25 22:22:17 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Alright. - Fri Sep 25 22:25:42 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . My feelings will remain . . . It's just that i'll not show them . . . That only gets me in trouble. - Fri Sep 25 22:25:42 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Or ends up doing something bad. - Fri Sep 25 22:25:42 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) holds the vest up in her right hand. With her left, she taps it a few times while maintaining eye contact.
+
+"Earn this vest, and I'll give you a date." she says.
+
+"Sound fair?"* - Fri Sep 25 22:26:33 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Yes. - Fri Sep 25 22:26:33 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Forget what I said about you being tailed. - Fri Sep 25 22:26:33 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You'll be free to wander. I'll tell the guards to make sure they don't let you leave without a missive from me though. - Fri Sep 25 22:27:24 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: I'll make sure I speak to him every day too. - Fri Sep 25 22:27:24 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Do I retain my internations officer rank? I have told Niza i'll be working with him with improving relations between the villages. - Fri Sep 25 22:27:24 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: No one can get to any other village from here in a single day aside from maybe Kenshin, if even he can. - Fri Sep 25 22:28:16 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmmm. - Fri Sep 25 22:29:07 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Fine. You're free to come and go as often as you need. - Fri Sep 25 22:29:07 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I won't let myself be Zetsumo. - Fri Sep 25 22:29:58 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I'll report in anything that could help us. - Fri Sep 25 22:29:58 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Alright. Use that to practice your analytical skills. - Fri Sep 25 22:30:49 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I don't need you to be charismatic or anything so long as you can be very specific when reporting to me. - Fri Sep 25 22:30:49 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Okay. - Fri Sep 25 22:30:49 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I still remember something from earlier. - Fri Sep 25 22:31:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What's that...? - Fri Sep 25 22:31:40 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Kumogakure sees Tetsujin as an ally for now . . . Though they've talked about him being able to become a potential enemy. - Fri Sep 25 22:31:40 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: They've discussed what he could be weak against. - Fri Sep 25 22:32:32 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What's he weak against? - Fri Sep 25 22:32:32 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: They theorised that he's weak against Ninjutsu. - Fri Sep 25 22:33:23 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: No proof but they've begun asking each other who specializes in it. - Fri Sep 25 22:33:23 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What makes them think that? - Fri Sep 25 22:33:23 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: They think that because he focused on his body durability for taijutsu attacks that he has a weakness in Ninjutsu . . . - Fri Sep 25 22:34:14 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I believe that he might also have a weakness to genjutsu for focusing on that. - Fri Sep 25 22:34:14 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: They didn't discuss about genjutsu though. - Fri Sep 25 22:34:14 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Do you or they know how he fights when he's attacking people? - Fri Sep 25 22:34:14 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: They didn't mention anything how he fights . . . Nor do I know. - Fri Sep 25 22:34:14 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I see. - Fri Sep 25 22:35:05 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: People mentioned he might come here, too. - Fri Sep 25 22:35:05 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: We have to be careful with him. - Fri Sep 25 22:35:05 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: He could easily kill us. - Fri Sep 25 22:35:56 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Ushinawa said he's on Zetsumo's level. - Fri Sep 25 22:35:56 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Zetsumo was a nightmare. - Fri Sep 25 22:35:56 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Exactly . . . He said that there as well. - Fri Sep 25 22:35:56 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: When I was around in Kumogakure, That is. - Fri Sep 25 22:35:56 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Even with all of Kenryoku fighting with me, we wouldn't be able to handle Zetsumo. - Fri Sep 25 22:36:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Impossible. - Fri Sep 25 22:36:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hopefully that changes soon. We'll see. - Fri Sep 25 22:36:48 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Mhm. - Fri Sep 25 22:36:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'm gonna start trying harder to make people stronger. - Fri Sep 25 22:37:39 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: All of Konoha. - Fri Sep 25 22:37:39 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: We need as many capable people as we can get. - Fri Sep 25 22:37:39 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I may share jutsu with some to help them progress . . . Even if in turn, I'll get weaker. - Fri Sep 25 22:38:30 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Or at least...the loyal people. All of the former Kenryoku. - Fri Sep 25 22:38:30 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm. - Fri Sep 25 22:38:30 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I dunno about that. Sharing jutsus. - Fri Sep 25 22:38:30 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Keep those. These people may be our enemies some day. - Fri Sep 25 22:38:30 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Alright. - Fri Sep 25 22:38:30 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'll hand out an awful lot of missions, and insist people do them. - Fri Sep 25 22:39:21 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: That's how we'll improve Konoha. - Fri Sep 25 22:39:21 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Remember that we have Erebus. - Fri Sep 25 22:39:21 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I will need some as well. - Fri Sep 25 22:39:21 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'll give them to you. As many as you want. - Fri Sep 25 22:39:21 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Back-to-back if you like. - Fri Sep 25 22:39:21 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: You'll be pushing my stamina and chakra levels to their limits . . . I'll be taking short breaks probably. - Fri Sep 25 22:40:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: -- If you can go along with other people on missions. . . - Fri Sep 25 22:40:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Show them how it's done.... - Fri Sep 25 22:40:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: That'd help too. - Fri Sep 25 22:40:12 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Okay. - Fri Sep 25 22:40:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'd prefer it, but it's your choice. - Fri Sep 25 22:40:12 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: If they learn what they see from me showing it . . . Then I'll do it. - Fri Sep 25 22:41:04 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: No...don' - Fri Sep 25 22:50:27 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Don't do that Kilm. - Fri Sep 25 22:50:27 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'm very serious. - Fri Sep 25 22:50:27 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Listen... - Fri Sep 25 22:50:27 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) wanders up to where she's in front of him again and peers up at him from there. With her challenged height, it probably makes her look much -less- intimidating if anything.
+
+"People pass on techniques when they're old and unbelievably skilled, and strong. Because at that point, they know people aren't catching up for ages anyway. Do -not- teach people without a -very- good reason. You're not there yet. You're a genin. Like me, we're still young. We should -be- someone's student. Not the teacher."* - Fri Sep 25 22:51:18 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . By showing it . . . I mean showing them how it's done on missions. - Fri Sep 25 22:52:09 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Not the jutsu. - Fri Sep 25 22:52:09 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Alright. - Fri Sep 25 22:52:09 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Sounds good. - Fri Sep 25 22:52:09 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Will you uphold your promise though? - Fri Sep 25 22:53:00 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) 's arms cross. She turns on her heel and paces for a bit, with eyes wandering.
+
+"Mhmm..." she says.
+"You'll get a date if you earn the vest."* - Fri Sep 25 22:53:00 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Guess that just motivatesm e. - Fri Sep 25 22:53:52 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) nods.* - Fri Sep 25 22:55:34 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: If you're a proper chuunin...a proven one. - Fri Sep 25 22:55:34 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Then strength is all you're really gonna need to become a jounin. - Fri Sep 25 22:55:34 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Keep that in mind. - Fri Sep 25 22:55:34 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I need to learn how to talk better. - Fri Sep 25 22:56:25 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Yeah. - Fri Sep 25 22:56:25 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Being articulare is extremely important. Orders, plans, things like that...you have to be extremely clear. - Fri Sep 25 22:57:16 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Like earlier when I made sure you all knew who talked about painting the world red. - Fri Sep 25 22:57:16 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: The details are everything. - Fri Sep 25 22:57:16 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I'll try to be more clear and tell you everything that you need to know. - Fri Sep 25 22:58:08 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Which is most likely everything. - Fri Sep 25 22:58:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It is, yeah. - Fri Sep 25 22:58:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Every single thing you tell me that I didn't know before will make me a lot more capable. - Fri Sep 25 22:58:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I have to know 'everything.' - Fri Sep 25 22:58:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: We're not strong enough for it to be any other way. - Fri Sep 25 22:58:59 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Alright. - Fri Sep 25 22:58:59 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: No breathing room. - Fri Sep 25 22:58:59 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I guess so. - Fri Sep 25 22:58:59 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Are you sure you're fine with giving me a date if I earn the vest back? - Fri Sep 25 23:00:41 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Mhmmm. - Fri Sep 25 23:00:41 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It's just a date. Not a contract. - Fri Sep 25 23:00:41 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: You sure you're not telling me date as in a time? - Fri Sep 25 23:01:32 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Dating doesn't mean we'll kiss. - Fri Sep 25 23:05:48 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I know that. - Fri Sep 25 23:05:48 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: But we will have a good time. - Fri Sep 25 23:05:48 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I'm just not sure if you'll enjoy it. - Fri Sep 25 23:05:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: We'll see. - Fri Sep 25 23:09:13 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I am feeling even more tired now. - Fri Sep 25 23:09:13 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I'll go to sleep. - Fri Sep 25 23:09:13 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: See you tomorrow. - Fri Sep 25 23:09:13 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Good night. - Fri Sep 25 23:09:13 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) has her chin resting in a palm at the moment, and her elbow on her desk. Briefly she looks Maloth up and down.
+
+"How strong are you?" she asks.* - Sat Sep 26 00:06:24 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Did Paine beat you the other day? - Sat Sep 26 00:06:24 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm. - Sat Sep 26 00:09:48 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) reaches into her desk and pulls out a leaf headband.
+
+"Tell you what..." she says, glancing down at the accessory.
+
+"Wear this headband and I'll give you things to do."* - Sat Sep 26 00:20:03 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: ...This is horribly inhumane. - Sat Sep 26 00:20:03 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmmm. - Sat Sep 26 00:23:28 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) pulls open her desk drawer and begins digging through scrolls, looking to find something appropriate for such a brute.* - Sat Sep 26 00:23:28 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Mm.... - Sat Sep 26 00:27:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: I can't send him to Kumogakure. He'll bother people there and hurt our relationship with them. - Sat Sep 26 00:29:26 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) passes Maloth a scroll. "I need you to deliver some things to Tea Village." she says.
+
+"You look strong enough for heavy lifting. Don't die along the way."* - Sat Sep 26 00:31:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Do you wanna go with him, Paine? - Sat Sep 26 00:32:51 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: He may not make it alone. - Sat Sep 26 00:32:51 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: And you can take a third person if you're not feeling confident. - Sat Sep 26 00:33:42 2015
+<br><br><font color=teal>***Concealed Figure**(TheSecretary) says: u-umm...sure - Sat Sep 26 00:33:42 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: If you take a third, tell me who it was when you get back so I can pay them. - Sat Sep 26 00:33:42 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm. The scroll is just mission details in case you forget. It tells you where to go, and.... - Sat Sep 26 00:37:58 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: The fastest, safest path.... - Sat Sep 26 00:37:58 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It also lets the client know you're one of us for sure. - Sat Sep 26 00:37:58 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You'll be carrying a basket full of iron bars. - Sat Sep 26 00:38:49 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It's gonna be heavy. - Sat Sep 26 00:38:49 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You look like you can manage, though. - Sat Sep 26 00:38:49 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Iron and some other things. . . - Sat Sep 26 00:38:49 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: Everything you need to make black steel, in fact. - Sat Sep 26 00:38:49 2015
+<br><br><font color=teal>*Maloth(Gtgoku88) says: . . Hrm. <*Turns to Paine*> Be ready? - Sat Sep 26 00:39:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm. - Sat Sep 26 00:56:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Not thirsty for missions, Taiga? - Sat Sep 26 00:56:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I hope you're not afraid to ask. - Sat Sep 26 00:57:36 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hi Seisuke. - Sat Sep 26 01:00:09 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Hey~ - Sat Sep 26 01:00:09 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: You're looking as nice as ever, How've you been? - Sat Sep 26 01:01:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Kinda bored. Getting used to this job though. - Sat Sep 26 01:02:43 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Maybe I can add some excitement? - Sat Sep 26 01:03:34 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Maybe. - Sat Sep 26 01:03:34 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I believe it's tuesday as well. - Sat Sep 26 01:03:34 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Alright. - Sat Sep 26 01:04:25 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: We can go get something to drink. - Sat Sep 26 01:04:25 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) gently pulls herself away from her desk and rises to her feet. As she makes her way to another drawer behind said dask, she pulls off her robes and puts them away.
+
+The girl only wears them so people can identify her as the person they need to talk to for missions. If she's not willing to do hokage duties at some time, then she doesn't need them.
+
+Kat turns to face Seisuke afterwords. For the brief moment, her arms are crossed. She motions towards the front door with her head.* - Sat Sep 26 01:06:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm. - Sat Sep 26 01:10:24 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) stays standing for a long moment, as if hesitant. A glance is sent Seisuke's way. A slightly cold one, as if to suggest suspicion. Eventually though she sits down and faces him.
+
+Eyes rest on the table. Arms cross, and one leg crosses over the other.* - Sat Sep 26 01:12:06 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: It's unfortunate Taiga's useless ass was sleeping. I wanted a guard. - Sat Sep 26 01:12:57 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'll take whatever as long as you're willing to taste it yourself first. - Sat Sep 26 01:14:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'll take whatever as long as you're willing to taste it first. - Sat Sep 26 01:16:22 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) briefly glances up at him. "How so?"* - Sat Sep 26 01:18:56 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: .... - Sat Sep 26 01:21:29 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What's the game? - Sat Sep 26 01:22:20 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I told you. - Sat Sep 26 01:22:20 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: It'll change from day to day. - Sat Sep 26 01:22:20 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: But since we have the wine out already. - Sat Sep 26 01:22:20 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Why not rock Paper Scissors? - Sat Sep 26 01:22:20 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: We'll play three Games, If you win Two out of the Three, I'll supply you with Two Hundred and Fifty Soldiers. - Sat Sep 26 01:23:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I dunno that I should get drunk without a guard handy. Maybe if you found me before Erebus lost his mind and started ranting at you about destroying the shinobi world. - Sat Sep 26 01:23:12 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Hm. - Sat Sep 26 01:24:03 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Then how about this. - Sat Sep 26 01:24:03 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: It's equally as unbenficial to me. - Sat Sep 26 01:24:03 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: If you were to get hurt. - Sat Sep 26 01:24:03 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Therefore it isn't in my interest to hurt you. - Sat Sep 26 01:24:03 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: How would it be bad for you if I got hurt? - Sat Sep 26 01:24:54 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Like I said. - Sat Sep 26 01:24:54 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I like to think of this world as a game. - Sat Sep 26 01:24:54 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: And it's people as it's pieces. - Sat Sep 26 01:24:54 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It 'is' true that killing me would be pointless. You realized that when Erebus sent you that scroll. - Sat Sep 26 01:24:54 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: If I lose a Queen, I've lost an irreplaceable piece. - Sat Sep 26 01:24:54 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Honestly? - Sat Sep 26 01:25:45 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I care not for what was in the scroll. - Sat Sep 26 01:25:45 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: There is only one thing that would make me kill you. - Sat Sep 26 01:25:45 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: And that is? - Sat Sep 26 01:25:45 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: If you overstep a boundary. - Sat Sep 26 01:25:45 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I have no problem, helping you. - Sat Sep 26 01:26:36 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: But when you begin feeling entitled. - Sat Sep 26 01:26:36 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: You are no longer fun. - Sat Sep 26 01:26:36 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: So as long as you treat this as what it is. - Sat Sep 26 01:26:36 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: A game. - Sat Sep 26 01:26:36 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: You're fine. - Sat Sep 26 01:26:36 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) plants her right elbow on the table. Her chin finds her palm, and she stares blankly at Seisuke.
+
+Not coldly. Not in a rude manner. Blankly. Her expression suggests nothing. It suggests she may even be in a good mood.* - Sat Sep 26 01:27:28 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I've never won a game of this type. - Sat Sep 26 01:30:01 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Not one single time. - Sat Sep 26 01:30:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I play them very often too. - Sat Sep 26 01:30:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It usually ends with me poor or embarassed. - Sat Sep 26 01:30:52 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: You embarrassed? - Sat Sep 26 01:30:52 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Isn't that a sight I'd like to see, But at the same token, I don't enjoy the bad embarrassment. - Sat Sep 26 01:31:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'm not a robot. I hide my thoughts from strangers as part of my duty as hokage. - Sat Sep 26 01:31:44 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: May I call you Katsune? - Sat Sep 26 01:31:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Yes. - Sat Sep 26 01:31:44 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I'd like to instate a rule then Katsune. - Sat Sep 26 01:31:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What rule? - Sat Sep 26 01:32:35 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: If at any point, you feel to embarrassed throughout any part of the game, I will allow you to reject the turn at no penalty---Afterall, A game in which one is made uncomfortable in a bad way. Isn't much fun at all...Is it? - Sat Sep 26 01:33:26 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: At the same token, I will not exercise this rule for myself. - Sat Sep 26 01:33:26 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Alright. - Sat Sep 26 01:34:17 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Fine. - Sat Sep 26 01:34:17 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'll play some games. - Sat Sep 26 01:35:08 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) stares at the hand for a long moment. Without going for it, she shifts her attention back to Seisuke's eyes and only stares.* - Sat Sep 26 01:36:00 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) motions towards the glass with her head, to show that he can pour it.* - Sat Sep 26 01:39:24 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It 'is' weird playing this sort of game with a stranger. - Sat Sep 26 01:43:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: During my time with Kenryoku I played with friends. - Sat Sep 26 01:43:40 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: A stranger is only a stranger until you get to know them. - Sat Sep 26 01:44:32 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: And I do recall you calling me a friend. - Sat Sep 26 01:44:32 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You did say to not tell anyone that we met. - Sat Sep 26 01:45:23 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: That was for them -- I wasn't lying to you. Only doing what you asked me to. - Sat Sep 26 01:45:23 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I appreciate it then. - Sat Sep 26 01:47:05 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: We can do without the drinks then. - Sat Sep 26 01:47:05 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) shakes her head.
+
+"We can play." she says.* - Sat Sep 26 01:47:05 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Like you said. It's no fun if I'm entitled. - Sat Sep 26 01:47:56 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Well then, Let the first round begin? - Sat Sep 26 01:49:39 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) nods. She extends her left hand, clenched into a closed fist, and lets it hover near Seisuke's own hand.
+
+"It's good we're not using dice." she says, maintaining eye contact.
+
+"I'm pretty sure Zetsumo used trick dice."
+
+The teen plays along, and eventually throws out her own handsign.
+
+Abruptly she pauses at the sight of Seisuke's sign and frowns a bit.* - Sat Sep 26 01:56:28 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Yes, and yes. - Sat Sep 26 01:59:53 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I worked 'for' Zetsumo. Not with him. - Sat Sep 26 01:59:53 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I was a slave. - Sat Sep 26 01:59:53 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Hm. - Sat Sep 26 01:59:53 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I see. - Sat Sep 26 01:59:53 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Planned on escaping but. . . - Sat Sep 26 02:00:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: He interrogated us every week and I was indecisive. I knew that if I thought too much about it.... - Sat Sep 26 02:00:44 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Fair enough. - Sat Sep 26 02:00:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'd have to say no to loyalty when the genjutsu check came around. - Sat Sep 26 02:00:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: That jutsu was too strong for me. - Sat Sep 26 02:01:36 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I see. - Sat Sep 26 02:01:36 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I applaud you though. - Sat Sep 26 02:01:36 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: For....? - Sat Sep 26 02:01:36 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) simply waits for round two, or whatever, while they chat.* - Sat Sep 26 02:02:27 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: . . . - Sat Sep 26 02:04:09 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) says nothing. There's a bit of delay, but she follows Seisuke's motions to throw out her own sign.* - Sat Sep 26 02:04:09 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: It's funny. My name means victory but I never win. - Sat Sep 26 02:05:00 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Mm.... - Sat Sep 26 02:06:43 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Sure. . . - Sat Sep 26 02:06:43 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) eyes Seisuke's throat, trying to determine for sure whether or not he swallows.* - Sat Sep 26 02:07:34 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) 's hand closes into a fist again in the mean time.* - Sat Sep 26 02:08:25 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) mimics him.* - Sat Sep 26 02:08:25 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) eyes her cup for a long moment. Eventually though she shrugs and brings it up to her mouth. Eyes wander, and she sniffs at it. Eventually, though, she tilts the glass up. Very slowly, she sips. Eyes lock onto Seisuke in the mean time. Only half of the glass is downed for now.
+
+Eye contact is maintained, and she pauses for a moment afterwords.
+
+She wants to see if her body reacts to it in any unexpected ways. As someone who used to be bored out of her mind for twenty-four hours a day in Kenryoku, Kat's become very, very used to getting drunk.* - Sat Sep 26 02:10:59 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) turns her attention down to the liquid to stare at it for a long while. With her exceptional eyes, she looks for anything suspicious. Any unusual scents have of course already been looked for.
+
+Eventually though she shrugs, and reaches up to pour the rest of the liquid into her mouth. Eyes wander off and she goes through the motions again for this game.* - Sat Sep 26 02:15:15 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: Lost....as always. - Sat Sep 26 02:19:31 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) shrugs. Eyes wander off, and she holds her glass up to let him fill it or her.* - Sat Sep 26 02:21:13 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) puts the glass down. Arms cross afterwords and she leans back a bit. Eyes remain averted.* - Sat Sep 26 02:22:56 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I simply want you to, Shake my hand. - Sat Sep 26 02:25:29 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmph. - Sat Sep 26 02:28:03 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: For the record. - Sat Sep 26 02:28:03 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) eyes the hand.* - Sat Sep 26 02:28:03 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I have a technique that can blow your hand off. - Sat Sep 26 02:28:03 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: With a handshake. - Sat Sep 26 02:28:03 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) shrugs. "Just letting you know how stupid I am for doing this." she says.
+
+The girl waits for several more long seconds. Eventually though, she reaches out to gently take Seisuke's hand in her own and begin shaking it up and down.
+
+Gently, because she's prepared to take it back at a moment's notice.* - Sat Sep 26 02:31:28 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) takes her hand back.
+
+The girl takes a moment to eye it afterwords. She stares.
+
+Any weird markings on her gauntlet now?* - Sat Sep 26 02:35:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Just been worried. - Sat Sep 26 02:37:26 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) crosses her arms. Eyes wander off.
+
+"Erebus has vowed to be my sword, shield, and armor. That means nothing though if people aren't aware of that fact."* - Sat Sep 26 02:38:17 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It's technically a secret. - Sat Sep 26 02:38:17 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You 'are' his ally though. - Sat Sep 26 02:38:17 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I've been wondering when a self-righteous idiot will come along and try to trap me in genjutsu. - Sat Sep 26 02:39:08 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I see. - Sat Sep 26 02:39:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Or someone looking to get rid of Konoha for some reason or another. - Sat Sep 26 02:39:08 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I won't make a foolish promise, and say "I will protect you". - Sat Sep 26 02:39:08 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: .."I'll keep you safe." - Sat Sep 26 02:39:08 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: We both know that's a lie, But I'll say, I do what I can If I can. - Sat Sep 26 02:40:00 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Fair enough? - Sat Sep 26 02:40:00 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Like I said your death isn't beneficial to me, so I'd rather keep you alive. - Sat Sep 26 02:40:00 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: At the same token, you need to lighten up. You've been stiff this entire game. - Sat Sep 26 02:40:51 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It'd be appreciated. - Sat Sep 26 02:40:51 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: More than fair, of course. I haven't offered to give you much. - Sat Sep 26 02:40:51 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: You gaveme a momentary way to sate my boredom. - Sat Sep 26 02:40:51 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I hope you'll continue to partake. - Sat Sep 26 02:41:42 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: We'll see. - Sat Sep 26 02:41:42 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It 'was' part of the original deal. - Sat Sep 26 02:41:42 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I won't keep you binded to an idea you don't somewhat enjoy. - Sat Sep 26 02:43:24 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Oh yes, Hanabi told me to look at your butt while I was here. - Sat Sep 26 02:43:24 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: I don't quite understand the reasoning behind it. - Sat Sep 26 02:44:16 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: . . . - Sat Sep 26 02:44:16 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) 's cheeks turn a bit pink. Eyes wander off.
+
+She reaches up to scratch at her cheek.* - Sat Sep 26 02:44:16 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) slides out of her chair. Arms rest behind her back for a moment, with one hand holding the opposite arm. She has no pockets.
+
+Eyes are averted when she says "I should sleep. It's late, and that wine isn't helping to keep me awake."* - Sat Sep 26 02:47:40 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) shakes her head. "Wanted a guard for genjutsu." she says.
+
+"So I could relax and make eye contact."* - Sat Sep 26 02:49:23 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'm not afraid of you in normal circumstances. - Sat Sep 26 02:50:14 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Anyway. Good night. - Sat Sep 26 02:51:56 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) turns to wander off on that note.* - Sat Sep 26 02:51:56 2015
+<br><br><font color=teal>*Yukimura, Seisuke(Jjking218) says: Good night. Safe travels home. - Sat Sep 26 02:51:56 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Mhmmm. - Sat Sep 26 02:51:56 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: What's your name? - Sat Sep 26 04:01:04 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: Excuse me.. Miss. - Sat Sep 26 04:07:53 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) 's arms are crossed and one leg is crossed over the other. She watches Arnitanu a bit blankly.
+
+"Hmm...?" she inquires, turning to and fro in her chair as she speaks to him and lifting an eyebrow.* - Sat Sep 26 04:09:36 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm. - Sat Sep 26 04:10:27 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) looks him up and down. After a brief pause she nods and turns to her desk to open the drawer and dig through its contents. She looks for a scroll.
+
+Eventually she aquires one that's marked as D rank and sets it on the table for him.
+
+Eyes are on him again when she says "It's D ranked. You did say you're fresh out of the academy."* - Sat Sep 26 04:13:00 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Or, if you'd prefer something more challenging....you're free to come back with a squad. - Sat Sep 26 04:13:00 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: Mmmm. - Sat Sep 26 04:13:00 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: I'll do this misson first. - Sat Sep 26 04:13:52 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: Thank you Miss. - Sat Sep 26 04:13:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Mhmm. - Sat Sep 26 04:13:52 2015
+<br><br><font color=teal>*Reinup, Flexus(VantetheGreat) says: Hey miss do you have any work for me. - Sat Sep 26 04:13:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm. - Sat Sep 26 04:13:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Alright. - Sat Sep 26 04:13:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What's your record with missions so far? - Sat Sep 26 04:14:43 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I just need to know how many you've completed of each rank. - Sat Sep 26 04:15:34 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: For any village. - Sat Sep 26 04:18:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: So I have a good idea of what rank mission I should give you. - Sat Sep 26 04:18:59 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You're not a konoha shinobi so I have no idea what you're capable of. - Sat Sep 26 04:18:59 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'd rather not send you on a suicide mission. - Sat Sep 26 04:18:59 2015
+<br><br><font color=teal>*Reinup, Flexus(VantetheGreat) says: I have achomplished ! a rank 3 b ranks 4 c ranks and 2 D ranks. - Sat Sep 26 04:22:24 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmmm. - Sat Sep 26 04:24:06 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: Hey, you. - Sat Sep 26 04:25:48 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: I told Fuji about the situation. He wants you to stop the search. - Sat Sep 26 04:27:31 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: Dravae. - Sat Sep 26 04:28:22 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) thinks: I'm not fucking Dravae.. - Sat Sep 26 04:28:22 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) thinks: Jesus Christ.. - Sat Sep 26 04:28:22 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) thinks: I'm about to headbutt this man. - Sat Sep 26 04:28:22 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) is now convinced he's Dravae.* - Sat Sep 26 04:28:22 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: --- - Sat Sep 26 04:28:22 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: ......... - Sat Sep 26 04:30:04 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: I'm not. - Sat Sep 26 04:30:04 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: Fucking. - Sat Sep 26 04:30:04 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: Dravave. - Sat Sep 26 04:30:04 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) says: Fuji wants you back, though. - Sat Sep 26 04:30:56 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: Definitely Dravae. - Sat Sep 26 04:30:56 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) thinks: I'm going to headbutt Katsune first. - Sat Sep 26 04:30:56 2015
+<br><br><font color=teal>*Arnitanu(Brosis55) thinks: omit - Sat Sep 26 04:30:56 2015
+<br><br><font color=teal>*Reinup, Flexus(VantetheGreat) says: Hmm he will have to wait to I do this job for miss Hokage. - Sat Sep 26 04:34:20 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm. - Sat Sep 26 04:36:03 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Are you searching for someone in my village, Flexus? - Sat Sep 26 04:36:54 2015
+<br><br><font color=teal>*Reinup, Flexus(VantetheGreat) says: Remeber I tod you Im serching for the four great Warriors of Suna Tetsu, Amu and Dravae ...Mster Fuji is the 4th and I know where he is. - Sat Sep 26 04:37:45 2015
+<br><br><font color=teal>*Reinup, Flexus(VantetheGreat) says: The other three where last sited here from what I was told.. - Sat Sep 26 04:38:36 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Weird. - Sat Sep 26 04:40:19 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Why would they be in Konoha....? - Sat Sep 26 04:40:19 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I hope they join us. We could use "great warriors." - Sat Sep 26 04:40:19 2015
+<br><br><font color=teal>*Reinup, Flexus(VantetheGreat) says: That is a very good question. - Sat Sep 26 04:40:19 2015
+<br><br><font color=teal>*Reinup, Flexus(VantetheGreat) says: I just need them to help take Suna back after that they can do as they please from what I was told it's not like anyone can stopr them. - Sat Sep 26 04:41:10 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: . . . - Sat Sep 26 04:41:10 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: That explains it. - Sat Sep 26 04:42:01 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I see. - Sat Sep 26 04:42:01 2015
+<br><br><font color=teal>*Reinup, Flexus(VantetheGreat) says: Yeah bow you see my problem. - Sat Sep 26 04:42:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Well.... - Sat Sep 26 04:45:26 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'm sleepy now. - Sat Sep 26 04:45:26 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: However..... - Sat Sep 26 04:45:26 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) passess Flexus a scroll.
+
+"If you'd like to take this mission to satisfy yourself until I'm asleep, you can."* - Sat Sep 26 04:46:17 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) nods. With that she then rises to her feet and begins walking away. "Good night." she says.* - Sat Sep 26 04:52:16 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) blackscreen rewards her genin before going to bed.* - Sat Sep 26 04:54:49 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Morning. - Sat Sep 26 12:42:27 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Greetings. - Sat Sep 26 12:44:09 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: 'Morning. - Sat Sep 26 12:44:09 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I'd like an update on Konohagakure; if you don't mind. - Sat Sep 26 12:45:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Lemme think. I just woke up.... - Sat Sep 26 12:45:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Right -- Someone came by and asked if we were "rebuilding Konoha into an illegal village." By someone I mean a girl named "Misa." Used to work for Zetsumo, now works with Ushinawa. - Sat Sep 26 12:46:43 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: They spoke to Kilm. Not me. - Sat Sep 26 12:46:43 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'd like to know that myself. Are we gonna be annoying the Gezo? - Sat Sep 26 12:47:34 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I fail to see what my business has to do with Ushinawa or any of his followers. - Sat Sep 26 12:47:34 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I'll be sure to eradicate that problem. - Sat Sep 26 12:48:25 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Next..? - Sat Sep 26 12:48:25 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmmm. - Sat Sep 26 12:48:25 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Seisuke's planning on maybe supplying shinobi once a week. - Sat Sep 26 12:50:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It's complicated. - Sat Sep 26 12:50:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: One-hundred-twenty-five or so per week on average. - Sat Sep 26 12:50:59 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: I am not telling Erebus that bar games decide whether or not we get shinobi. - Sat Sep 26 12:50:59 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: That's all that comes to mind. We have two-million-seven-hundred-thousand saved up. - Sat Sep 26 12:51:50 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hanabi...... - Sat Sep 26 12:52:41 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: It seems as though I'm misunderstanding something.. - Sat Sep 26 12:52:41 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmm....? - Sat Sep 26 12:52:41 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: How did you two go from child-play agreements to such a deal where he's willing to donate shinobi per week? - Sat Sep 26 12:53:32 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) averts her eyes. A faint, cheeky smile is produced, and she shrugs.
+
+"I'm persuasive." she lies.* - Sat Sep 26 12:54:24 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Right, right. - Sat Sep 26 12:55:15 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Seems as though details won't be supplied by you so I'll take it upon myself to ask him myself. - Sat Sep 26 12:55:15 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: What is it you were saying about Hanabi? - Sat Sep 26 12:56:06 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) thinks: She don't seem to understand that details are required so I know how to mold my plans around the decisions she make.. - Sat Sep 26 12:56:06 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: According to her, she and her group will always be willing to help us if we ever need it. That group includes Misa...and Ushinawa. - Sat Sep 26 12:56:57 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: So I think it might be best if you don't go and rough Misa up. - Sat Sep 26 12:56:57 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: -- But, that's what Hanabi says. Always best to take whatever she says with a grain of salt. - Sat Sep 26 12:57:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Even so, they were outside the mansion talking about protecting Konoha. - Sat Sep 26 12:57:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: So I believe her. - Sat Sep 26 12:57:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Ushinawa and Hideki were. Hanabi wasn't around. - Sat Sep 26 12:58:40 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: You allowed your trust to be casted on Hanabi's words..? - Sat Sep 26 12:59:31 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Very well. If you see it fit to do so, I'll follow your lead --- on that. - Sat Sep 26 12:59:31 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: What details do you have on Ushinawa's group as a whole. - Sat Sep 26 12:59:31 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: I'm not sure that sand girl should hear this. . . - Sat Sep 26 13:01:13 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: A lot of them are former Kenryoku. Ushinawa used to work for Zetsumo but. . . - Sat Sep 26 13:01:13 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I suspect he was just a spy the whole time. It's never been clear. - Sat Sep 26 13:02:04 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Beth's genjutsu said he was loyal to Zetsumo. - Sat Sep 26 13:02:04 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: ....Then again, I remember him giving careful half-answers. - Sat Sep 26 13:02:04 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: The reason he was with Zetsumo was because I invited him. - Sat Sep 26 13:02:04 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: He did show up out of the blue without your invite. - Sat Sep 26 13:02:56 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I remember that. - Sat Sep 26 13:02:56 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Yeah. - Sat Sep 26 13:02:56 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Then he left. - Sat Sep 26 13:02:56 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: So many faults in this Beth, it's pitiful that someone like Zetsumo placed his complete trust in her abilities. - Sat Sep 26 13:02:56 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: And I then invited him later to work for Zetsumo against Kirigakure. - Sat Sep 26 13:02:56 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Question: what are Konohagakure's standings with Kumogakure as a whole? - Sat Sep 26 13:03:47 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I'm under the impression we're still allies. Kilm went to visit them recently. - Sat Sep 26 13:03:47 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Why do you ask. . .? - Sat Sep 26 13:03:47 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: If Kumogakure's being shady I should know. I might know why. - Sat Sep 26 13:06:20 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: It was a simple question, I haven't heard much from them. - Sat Sep 26 13:07:12 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I do, however, plan on advancing forth there. - Sat Sep 26 13:07:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Advancing? - Sat Sep 26 13:07:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: We have no army.... - Sat Sep 26 13:08:54 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) thinks: But we have a hulk. - Sat Sep 26 13:09:45 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Correct. Me, myself and I. - Sat Sep 26 13:14:52 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) says: Damn man. - Sat Sep 26 13:16:35 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) says: That's alot of people. - Sat Sep 26 13:17:26 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Maybe we should've had this conversation in private. - Sat Sep 26 13:17:26 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I hadn't suggested it because I know how you feel about hiding information from genin. . . - Sat Sep 26 13:17:26 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I used to work for Zetsumo. . . - Sat Sep 26 13:20:00 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) is staring, blankly.* - Sat Sep 26 13:20:00 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: He was immortal so he was way too confident. - Sat Sep 26 13:20:00 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: He's dead now. - Sat Sep 26 13:20:00 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Thousands died with him. - Sat Sep 26 13:20:00 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: There is a reason why I want everyone here to listen in. - Sat Sep 26 13:21:42 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I wan't arrival in Kumogakure to be expected. - Sat Sep 26 13:21:42 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: We have no army. We can't deal with any retaliation, to say nothing of my personal feelings at all. - Sat Sep 26 13:22:33 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Can 'you' wipe out an army in a few seconds like Kenshin? - Sat Sep 26 13:23:24 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Thousands at the gates? How would we deal with them? I'm pretty confident I could run away, but I'd rather not. - Sat Sep 26 13:24:16 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Wait until we have any army and then somehow magically convince me this is for a good cause and maybe I'll be more warm to the idea. - Sat Sep 26 13:26:49 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: And let me tell you something else. . . - Sat Sep 26 13:27:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Did it ever cross your mind that....maybe. - Sat Sep 26 13:27:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Just maybe..... - Sat Sep 26 13:27:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Some people here have friends in Kumogakure? - Sat Sep 26 13:27:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Maybe they might send birds? - Sat Sep 26 13:27:40 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: You don't seem to realize how I move. - Sat Sep 26 13:28:32 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Have I yet to lift a finger in battle when it comes to international affairs..? - Sat Sep 26 13:28:32 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Intimidation is greater than physical power. - Sat Sep 26 13:28:32 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Once you establish intimidation, you have people bend to you whim. - Sat Sep 26 13:28:32 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: If I were them and you had no army...I wouldn't be intimidated. - Sat Sep 26 13:29:23 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: My advance to Kumogakure is not to war, but to allow them to see that a single man is able to step form- - Sat Sep 26 13:29:23 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Hahahaha. - Sat Sep 26 13:29:23 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Zetsumo had the upperhand with six against two. - Sat Sep 26 13:30:14 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: What happened? - Sat Sep 26 13:30:14 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Are you implying. . . - Sat Sep 26 13:30:14 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You're on Kenshin's level? I have yet to see anything like that. - Sat Sep 26 13:30:14 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) thinks: There is something that you all must know. - Sat Sep 26 13:30:14 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I haven't tested you but I have no idea how capable you are, or aren't. - Sat Sep 26 13:30:14 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Tell me, Katsune.. - Sat Sep 26 13:30:14 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Have you ever experienced the feeling of being near death..? - Sat Sep 26 13:31:05 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I've come close to dying several times. No one's ever mortally wounded me. - Sat Sep 26 13:31:05 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I've been wounded once and it was in the palm. - Sat Sep 26 13:31:56 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Let me show you something. - Sat Sep 26 13:31:56 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: True immortality isn't granted by using another being of this Shinobi World... - Sat Sep 26 13:40:28 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: True immortality comes from dedication and fulfillment. - Sat Sep 26 13:41:20 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: That, Katsune, is what I harbor. - Sat Sep 26 13:41:20 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . You . . . didn't die? - Sat Sep 26 13:41:20 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: That, Katsune, is why I.. am who I am.. - Sat Sep 26 13:41:20 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: . . . - Sat Sep 26 13:41:20 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I THRIVE to find that near-death experience.. - Sat Sep 26 13:41:20 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) slowly takes in a deep breath, staring. For the most part, though, she remains composed.
+
+She's been forced to slaughter innocent little girls after torturing them for hours for Zetsumo's amusement, so she has a strong stomache.* - Sat Sep 26 13:42:11 2015
+<br><br><font color=teal>*Kilm(Vysasi) thinks: Even if I had damaged him . . . It wouldn't have mattered then . . . - Sat Sep 26 13:43:02 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: Knew he acted similar. Wasn't expecting this. - Sat Sep 26 13:43:53 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Zetsumo used his false-immortality for self gain.. - Sat Sep 26 13:43:53 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I'm using mine to avenge the different.. - Sat Sep 26 13:44:44 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: The misunderstood... - Sat Sep 26 13:44:44 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: The judged.. - Sat Sep 26 13:44:44 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: For I.. I experienced that long before I managed to become immortal.. - Sat Sep 26 13:44:44 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Why I want to solo Kumogakure..? - Sat Sep 26 13:44:44 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Because the affairs of Konohagakure has nothing to do with i.. - Sat Sep 26 13:45:36 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Nor do my affairs have anything to do with Konohagakure.. - Sat Sep 26 13:45:36 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: This, Hokage, is why I entrusted youj with the spot.. - Sat Sep 26 13:46:27 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: My ideals are something I must fulfill alone. - Sat Sep 26 13:46:27 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: In the end of it all, Katsune, I stand alone. - Sat Sep 26 13:46:27 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I was worried people may assume you're on the pay roll when you're not.  I assume you won't be bothered if I let people come after you in Konoha, to ensure any enemies you make that we aren't protecting or helping you in any way? - Sat Sep 26 13:48:09 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) thinks: Come after me..? I see, someone here wishes me dead.. - Sat Sep 26 13:49:00 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: So be i. - Sat Sep 26 13:49:00 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Who exactly do you have in mind..? - Sat Sep 26 13:49:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Kumogakure shinobi of course. - Sat Sep 26 13:49:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Coming to Konoha. It's what I was worried about. - Sat Sep 26 13:50:43 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Without an army we can't fight them. It'd have to be you, by yourself. - Sat Sep 26 13:50:43 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You may be immortal but we aren't. - Sat Sep 26 13:50:43 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: 'We' can't afford to act like this or be tied to someone who does. - Sat Sep 26 13:50:43 2015
+<br><br><font color=teal>***Concealed Figure**(TheSecretary) says: o-oh.. - Sat Sep 26 13:51:34 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Zetsumo thought openly attacking Sunagakure was a good idea. He threw away the hundreds of years of shinobi wisdom and decided to just hamfist his way in. . . - Sat Sep 26 13:54:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: No tact. No stealth. - Sat Sep 26 13:54:08 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What happened? Three different factions came to him at once in the end. - Sat Sep 26 13:54:08 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I've made it my personal priority to remain in the shadows when it comes to my place in Konohagakure. Unless one of you made it known that Erebus is allied where, you have nothing to worry about.. - Sat Sep 26 13:54:59 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: A boy came to me asking if you were on the payroll so I assumed people were guessing. - Sat Sep 26 13:55:50 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Must've been the Kirigakure business. - Sat Sep 26 13:57:32 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Did you not catch a name? - Sat Sep 26 14:00:06 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I was protecting him. - Sat Sep 26 14:00:57 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: His name was...... - Sat Sep 26 14:00:57 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) 's eyes wander.* - Sat Sep 26 14:00:57 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: ...... - Sat Sep 26 14:01:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It was Flexus's friend. - Sat Sep 26 14:01:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I only spoke to him once. - Sat Sep 26 14:01:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Yellow hair.... - Sat Sep 26 14:01:48 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Yan../ - Sat Sep 26 14:01:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Said some self-righteous nonsense about you being the root of all evil. - Sat Sep 26 14:01:48 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: ?* - Sat Sep 26 14:01:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Yes, Yan. - Sat Sep 26 14:01:48 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I see. - Sat Sep 26 14:01:48 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: He is of no concern to me. - Sat Sep 26 14:02:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I thought so. - Sat Sep 26 14:02:40 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: See how easy it is just let me know what's going on..? - Sat Sep 26 14:02:40 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) says: Root of all evil? - Sat Sep 26 14:02:40 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) says: Really? - Sat Sep 26 14:02:40 2015
+<br><br><font color=teal>*Shin(Yaori) says: Hmmm? What have I walked into? - Sat Sep 26 14:02:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: It's true. I need to keep you more informed from now on. - Sat Sep 26 14:02:40 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Admittedly I try to avoid it because I get the feeling private conversations aren't okay with you. - Sat Sep 26 14:03:31 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I thought I may have earned your trust, seems as though I am wrong.. - Sat Sep 26 14:03:31 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: For the most part, from this point forward, I'll make it my priority to keep my distance. - Sat Sep 26 14:03:31 2015
+<br><br><font color=teal>*Shin(Yaori) says: . . . - Sat Sep 26 14:04:22 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Keep your trust with those who you find friendship with. - Sat Sep 26 14:04:22 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: . . . - Sat Sep 26 14:04:22 2015
+<br><br><font color=teal>*Shin(Yaori) says: well, what's going on? - Sat Sep 26 14:05:13 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . - Sat Sep 26 14:05:13 2015
+<br><br><font color=teal>*Shin(Yaori) says: Anyone? - Sat Sep 26 14:06:56 2015
+<br><br><font color=teal>*Shin(Yaori) says: Anyone at all? - Sat Sep 26 14:06:56 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) 's eyes are on Erebus. There's a pool of blood on the floor. Erebus's chest is probably still split wide open with his guts revealed.
+
+Naturally she's not speaking.* - Sat Sep 26 14:07:47 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) thinks: I'm so happy that I'm not standing infront of him. - Sat Sep 26 14:09:29 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: Gonna have to introduce a new policy. No outsides inside the mansion without an appointment, - Sat Sep 26 14:12:54 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: outsiders* - Sat Sep 26 14:12:54 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: This, Shin.. - Sat Sep 26 14:17:10 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Is a mere demostration. - Sat Sep 26 14:17:10 2015
+<br><br><font color=teal>*Shin(Yaori) says: A demonstration?  - Sat Sep 26 14:18:52 2015
+<br><br><font color=teal>*Shin(Yaori) says: Of what? - Sat Sep 26 14:18:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Shin, Erebus.... - Sat Sep 26 14:18:52 2015
+<br><br><font color=teal>*Shin(Yaori) says: How the wor-0 - Sat Sep 26 14:18:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Is allied to Ushinawa, Misa, and friends more than Konoha. - Sat Sep 26 14:18:52 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You keep that in mind. - Sat Sep 26 14:18:52 2015
+<br><br><font color=teal>*Shin(Yaori) says: Yes Lady Katsune? - Sat Sep 26 14:18:52 2015
+<br><br><font color=teal>*Shin(Yaori) says: . . . Yes Lady Katsune - Sat Sep 26 14:19:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: I was talking to Erebus. - Sat Sep 26 14:19:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: There are a lot of things I'd like to say to you right now. - Sat Sep 26 14:19:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Saying any of them here would be stupid. - Sat Sep 26 14:20:35 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Is that so..? - Sat Sep 26 14:20:35 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: This is why I don't keep you informed. - Sat Sep 26 14:20:35 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: You're allied with Ushinawa? - Sat Sep 26 14:20:35 2015
+<br><br><font color=teal>*Shin(Yaori) says: Yes - Sat Sep 26 14:20:35 2015
+<br><br><font color=teal>*Shin(Yaori) says: For now? - Sat Sep 26 14:20:35 2015
+<br><br><font color=teal>*Shin(Yaori) says: I amunsure - Sat Sep 26 14:21:26 2015
+<br><br><font color=teal>*Shin(Yaori) says: Where my allegiance lies. - Sat Sep 26 14:21:26 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I see. - Sat Sep 26 14:24:00 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: Very well. - Sat Sep 26 14:24:00 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: . . . - Sat Sep 26 14:24:00 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) says nothing.* - Sat Sep 26 14:25:42 2015
+<br><br><font color=teal>*Shin(Yaori) thinks: I can't read Erebus . . . is he disappointed? - Sat Sep 26 14:25:42 2015
+<br><br><font color=teal>*Shin(Yaori) says: Becareful Erebus. I don't know how long anyone can survive that condition . . . - Sat Sep 26 14:26:33 2015
+<br><br><font color=teal>*Erebus(DhatBoiNick) says: I'll be sure to do my best to stay alive. - Sat Sep 26 14:28:16 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . - Sat Sep 26 14:29:07 2015
+<br><br><font color=teal>*Shin(Yaori) says: To be honest, I don't know how he's alive right now . . . - Sat Sep 26 14:29:07 2015
+<br><br><font color=teal>*Shin(Yaori) says: What happened with you guys? - Sat Sep 26 14:29:07 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: I am dumbstruck. - Sat Sep 26 14:29:07 2015
+<br><br><font color=teal>*Shin(Yaori) says: By? - Sat Sep 26 14:29:58 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . What he did . . . - Sat Sep 26 14:30:49 2015
+<br><br><font color=teal>*Shin(Yaori) says: What -did- he do? - Sat Sep 26 14:31:40 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: . . . - Sat Sep 26 14:31:40 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) says: He stabbed himself. . . - Sat Sep 26 14:32:32 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) says: And walked it off. - Sat Sep 26 14:32:32 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) says: How is that possible?! - Sat Sep 26 14:32:32 2015
+<br><br><font color=teal>*Shin(Yaori) says: So he - Sat Sep 26 14:33:23 2015
+<br><br><font color=teal>*Shin(Yaori) says: Impaled himself? - Sat Sep 26 14:33:23 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) says: He did. - Sat Sep 26 14:33:23 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) says: A normal person would be dead. - Sat Sep 26 14:33:23 2015
+<br><br><font color=teal>*Shin(Yaori) thinks: That's a thorough wound to be self inflicted. And it was consistant from the front to the back? His heart wasn't hesitating and there was no indicating discrepancies in the beats. And yet he pushed clean through to the other side? How is that possible? - Sat Sep 26 14:34:14 2015
+<br><br><font color=teal>*Shin(Yaori) says: What makes Erebus "immortal" - Sat Sep 26 14:35:56 2015
+<br><br><font color=teal>*Shin(Yaori) says: There was a man in the Mist Village that called Erebus "The Immortal One" - Sat Sep 26 14:35:56 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Just woke up and already I think I need a nap. - Sat Sep 26 14:35:56 2015
+<br><br><font color=teal>*Shin(Yaori) says: I thought it meant he couldn't be touched - Sat Sep 26 14:35:56 2015
+<br><br><font color=teal>*Shin(Yaori) says: Or he was so durable that he couldn't be wounded - Sat Sep 26 14:36:48 2015
+<br><br><font color=teal>*Shin(Yaori) says: But such damage . . . and still he survives? - Sat Sep 26 14:36:48 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hmph. - Sat Sep 26 14:39:21 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: For the record he's cut ties with Konoha, officially. - Sat Sep 26 14:39:21 2015
+<br><br><font color=teal>*Shin(Yaori) says: Anything you need done Lady Katsune? - Sat Sep 26 14:40:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: He's not on the pay roll. - Sat Sep 26 14:40:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: Or at least, that's what the public needs to believe. - Sat Sep 26 14:40:12 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: You looking for a mission, Shin? - Sat Sep 26 14:41:04 2015
+<br><br><font color=teal>*Shin(Yaori) says: Not necissarily. It doesn't have to be one, but . . . - Sat Sep 26 14:41:04 2015
+<br><br><font color=teal>*Harada, Taiga(Dopespruit) thinks: I'm still feeling sick. - Sat Sep 26 14:41:04 2015
+<br><br><font color=teal>*Shin(Yaori) says: What do you mean he's cut ties with us? - Sat Sep 26 14:41:04 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: He's an associate. Nothing more. - Sat Sep 26 14:41:55 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What he does is his own business. - Sat Sep 26 14:41:55 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: If he murders, we're not responsible. - Sat Sep 26 14:41:55 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Definitely need to discuss some things now . . . Ugh. - Sat Sep 26 14:43:37 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Let me check on Shin first. - Sat Sep 26 14:43:37 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Okay. - Sat Sep 26 14:43:37 2015
+<br><br><font color=teal>*Shin(Yaori) says: So is there aything you need taken care of? - Sat Sep 26 14:46:11 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Lemme think. . . - Sat Sep 26 14:47:53 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: Hm. If we had jounin I'd 'definitely' have some very important missions for them. - Sat Sep 26 14:48:44 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) says: What I have isn't something I can trust a genin with unless I don't want to see them come back alive. - Sat Sep 26 14:48:44 2015
+<br><br><font color=teal>*Shin(Yaori) says: Do you know who I am? - Sat Sep 26 14:49:36 2015
+<br><br><font color=yellow>*Katsune(Shimizu3598) keeps her eyes on Shin, but speaks to Kilm.
+
+"Kilm, how well does Shin do against you in sparring sessions?"* - Sat Sep 26 14:50:27 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: He can't hurt me or put me under a genjutsu. - Sat Sep 26 14:50:27 2015
+<br><br><font color=teal>*Kilm(Vysasi) says: Or rather . . . Can't keep me in one. - Sat Sep 26 14:50:27 2015
+<br><br><font color=teal>*Katsune(Shimizu3598) thinks: Genin-level still, then. - Sat Sep 26 14:51:18 2015

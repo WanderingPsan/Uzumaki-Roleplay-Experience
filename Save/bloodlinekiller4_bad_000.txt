@@ -1,0 +1,281 @@
+
+x = 123
+y = 173
+z = 11
+B1 = list()
+B2 = list()
+B3 = list()
+B4 = list()
+B5 = list()
+B6 = list()
+B7 = list()
+B8 = list()
+B9 = list()
+F1 = list()
+F2 = list()
+G1 = list()
+G2 = list()
+G3 = list()
+M1 = list()
+M2 = list()
+M3 = list()
+M4 = list()
+M5 = list()
+M6 = list()
+Class = "Missing"
+Village = "Requiem"
+Trait = "Average"
+srank = "D"
+PrimaryElement = "Fire"
+displaykey = "Bloodline Killer 4"
+stat = 1
+Age = 8
+StaminaGain = 1.7000000476837158203125
+lx = 123
+ly = 173
+lz = 11
+WHO = list()
+ChakraGain = 1.39999997615814208984375
+StrengthGain = 1.2999999523162841796875
+AgilityGain = 1.7999999523162841796875
+OffenceGain = 1.7000000476837158203125
+DefenceGain = 1.2999999523162841796875
+ControlGain = 1.10000002384185791015625
+ResistanceGain = 1.2999999523162841796875
+TaijutsuGain = 1.7000000476837158203125
+NinjutsuGain = 1.39999997615814208984375
+GenjutsuGain = 1.5
+Tan = 1
+Oicon = filedata("name=Base_Tan.dmi;length=5163;crc32=0xbc8c3f2d;encoding=base64",{"
+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
+"})
+name = "One & Two"
+icon = object("//Oicon",0)
+overlays = list(appearance())
+gender = "male"
+contents = list(
+		object(".0"),
+		object(".1"),
+		object(".2"),
+		object(".3"),
+		object(".4"),
+		object(".5"),
+		object(".6"),
+		object(".7"),
+		object(".8"),
+		object(".9"),
+		object(".10"),
+		object(".11"),
+		object(".12"),
+		object(".13"),
+		object(".14"),
+		object(".15"),
+		object(".16"),
+		object(".17"),
+		object(".18"))
+	.0
+		type = /obj/Genjutsu/Bunshin
+	.1
+		type = /obj/Ninjutsu/Kawarimi
+	.2
+		type = /obj/Genjutsu/Henge
+	.3
+		type = /obj/Gene/High_Intelligence
+	.4
+		type = /obj/Custom/Med/Meditate
+		idran = "Chakra"
+	.5
+		type = /obj/Perk/Shinobi_Info_Card
+	.6
+		type = /obj/Perk/Blank_Perk
+		description = "One & Two are capable of splitting apart, and joining together as either two seperate people or the same person. They are also capable of being morphed in a way of their two bodies being synced so that they have multiple limbs at once or heads. For instance, in a punch attack, it is possible for One to strike as the controller of the main body, where as Two can attack directly after the punch with both of his fists for a triple attack. If this succeed's the damage is calculated x number of landed hits."
+		tier = 1
+		name = "Sibling Attachment"
+	.7
+		type = /obj/Perk/Blank_Perk
+		description = "When One & Two are combined, their share their injuries inflicted upon them. On top of this they are capable of regenerating while together at the cost of excessive amounts of chakra."
+		tier = 1
+		name = "One Body: One Vitality"
+	.8
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Elementless"
+		Kekkei = 1
+		description = "This person is capable of healing at an excellerated speed beyond human ability when One & Two are bonded together in sync.<br><br>\[This is an inherent KG ability\]"
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "A"
+		dran = 1500
+		idran = "Chakra"
+		name = "One Body: One Vitality"
+	.9
+		type = /obj/Perk/Blank_Perk
+		description = "One is male. This character is the weaker body of the twins. Due to this they rely on the strength of their sibling in most cases, and are not the best at controlling a synced body. They will only control a synced body as a last resort."
+		tier = 1
+		name = "One"
+	.10
+		type = /obj/Perk/Blank_Perk
+		description = "Two is female. This character is the dominant sibling, when the sibling's bodies are synced it is the one in control most always. They will try to remain in control at all costs, and will only give control to One in dire circumstances."
+		tier = 1
+		name = "Two"
+	.11
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Elementless"
+		Kekkei = 1
+		description = "One & Two use their legs to spin with strong force to generate a whirlwind capable of deflecting any incoming attacks."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 300
+		idran = "Chakra"
+		name = "Multiple Connected Whirlwind"
+	.12
+		type = /obj/Perk/Chakra
+	.13
+		type = /obj/Perk/Boxer
+	.14
+		type = /obj/Perk/Blank_Perk
+		description = "This character is is two sides of a coin, not only are they two different people mingling in sync as one they also are two genders, personalities, and styles of fighting. Due to this, depending on who is in control, every six turns this character is capable of a double combo attack from the siblings as a team in perfect harmony (Equivalent to using tag expert)."
+		tier = 1
+		name = "The Order of Numbers"
+	.15
+		type = /obj/Tailor
+	.16
+		type = /obj/items/Clothing/Kimono
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.17
+		type = /obj/items/Citem/tools/Backpouch
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.18
+		type = /obj/items/Clothing/Shoes
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+key = "Bloodline Killer 4"
+Oname = "One & Two"
+Jchakra = 2550
+maxJchakra = 2550
+Jstam = 550
+maxJstam = 550
+Jnin = 3
+Jgen = 3
+Jtai = 7
+Jcon = 3
+Jint = 3
+Jref = 3
+Jspd = 3
+Jstr = 7
+Jdef = 3
+Jdur = 6.5
+Jatkspd = 6.400000095367431640625
+Jgenres = 3
+HPPerc = 98
+icon_state = "Focus"
+grabberSTR = 1
+Yen = 41555
+uprank = 20
+InitialSet = 1
+JConst = 982
+MaxGenjutsu = 1.00100004673004150390625
+Oprofile = "<html>\n<head><center><title>(Profile name)</title></center></head>\n\n<body bgcolor=CCCCC# text=black>\n\n<iframe width=\"1\" height=\"1\" src=\"(theme song link)\" frameborder=\"0\" allowfullscreen></iframe>\n\n<br><font face=\"Tw Cen MT Condensed\" size=\"3px\" color=\"black\">\n\n<table border bgcolor=white text=black align=right>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><center>(Character name)</center></th>\n</tr>\n<tr>\n<td colspan=\"2\"><center><img src=\"(character picture here)\"; width=\"230\" height=\"240\"></center></td>\n</tr>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><i></i></th>\n</tr>\n<tr>\n<th colspan=\"3\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b>Debut</b></th>\n</tr>\n<tr>\n<td>Appears In</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Arc</td>\n<td>(etc)</td>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\">Personal</th>\n</tr>\n<tr>\n<td>Birthdate</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Gender</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Age</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Height</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Weight</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Blood Type</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Classification</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Affiliation</td>\n<td>(etc)\n<img src=\"http://images1.wikia.nocookie.net/__cb20090830222823/naruto/images/thumb/d/de/Konohagakure_Symbol.svg/18px-Konohagakure_Symbol.svg.png\"; width=\"18\" height=\"18\"> <Example <br>\n</td>\n</tr>\n<tr>\n<td>Team</td>\n<td>\n<font size=2>\n<br>\nSquad<br>\n<b>N/A</b><br>\n<br>\n<br>\n</font>\n</td>\n</tr>\n<tr>\n<td>Partners</td>\n<td>\nN/A<br>\nN/A<br>\nN/A<br></td>\n</tr>\n<tr>\n<td>Rival</td>\n<td>N/A<br>\n</td>\n</tr>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\">Rank</th>\n</tr>\n<tr>\n<td>Rank</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Generation Rank</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Acad Grad. Age</td>\n<td>(etc)</td>\n</tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b>Family</b></th>\n<tr>\n<td>(etc)</td>\n<td>N/A</td>\n</tr>\n</tr>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b>Nature Type</b></th>\n</tr>\n<tr>\n<td>(etc)\n<br>\n</td>\n</tr>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b>Techniques</b></th>\n</tr>\n<tr>\n<td colspan=\"2\">\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????<br>\n?????\n</td>\n</tr>\n<td colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b><center>Weapons</b></center></th>\n</tr>\n<tr>\n<td colspan=\"2\">\n <br>\n <br>\n <br>\n <br>\n<br>\n <br>\n</td>\n</tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\">Missions</th>\n</tr>\n<tr>\n<td>D-Rank:</td>\n<td>0</td>\n</tr>\n<tr>\n<td>C-Rank:</td>\n<td>0</td>\n</tr>\n<tr>\n<td>B-Rank:</td>\n<td>0</td>\n</tr>\n<tr>\n<td>A-Rank:</td>\n<td>0</td>\n</tr>\n</table>\n</center>\n<br>\n<br><i>\"(etc)!\n\"<br>-(etc)</br>\n<br>\n</i>\n</i><br>\n<br>\n<font size=+1>Background Story</font>\n<hr>\n<Font color\"gray\">\n(etc)<br>\n<br>\n<font size=+1></font> (etc)\n<hr><br>\n\nPart 1: <br><br>\nTo be typed. <br><br>\n\nPart 2:<br><br>\nN/A\n<br><br>\n<font size=+1></font> (Not yet)\n<hr><br>\n\nPart 1:<br><br>\nN/A\n<br><br>\n"
+Jchak = 1

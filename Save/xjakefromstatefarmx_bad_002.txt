@@ -1,0 +1,1773 @@
+
+x = 141
+y = 147
+z = 3
+B1 = list()
+B2 = list()
+B3 = list()
+B4 = list()
+B5 = list()
+B6 = list()
+B7 = list()
+B8 = list()
+B9 = list()
+F1 = list()
+F2 = list()
+G1 = list()
+G2 = list()
+G3 = list()
+M1 = list()
+M2 = list()
+M3 = list()
+M4 = list()
+M5 = list()
+M6 = list()
+Village = "Kumogakure"
+Trait = "Strategist"
+PrimaryElement = "Water"
+displaykey = "X_Jake From State Farm_X"
+stat = 1
+Age = 17
+StaminaGain = 1.5
+lx = 141
+ly = 147
+lz = 3
+WHO = list()
+StrengthGain = 0.699999988079071044921875
+AgilityGain = 1.2000000476837158203125
+OffenceGain = 2
+DefenceGain = 1.10000002384185791015625
+ControlGain = 2.099999904632568359375
+ResistanceGain = 1.39999997615814208984375
+TaijutsuGain = 1.39999997615814208984375
+NinjutsuGain = 1.7000000476837158203125
+GenjutsuGain = 1.5
+Pale = 1
+Oicon = filedata("name=Base_FemalePale.dmi;length=4435;crc32=0xa4ac68eb;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAAM1BMVEXAwMCAWjm+k2vRtJjYwKnG
+ooLLq40AAAD///9NTU0sLCwWFhbgwHDoyIDo2Hjw4HjAwMA7V5hhAAAAAXRSTlMAQObYZgAAAM96
+VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgz
+UjPTM0ognOKSxJJUIFPJJT8lPVWJizMls6gYyDfk4kwrSsxNBbGNgaKpOYmVIGEdIERoQqg3QVJv
+glBvpAOGXJy5+WWpual5JWCj4fodS0oSk7Oxm4KkzC0/ubQYu9uQVHn7E1QSnppYkJ+H3T4jFFcT
+8iNSmJgYgAIF6E2UoAnOyMzLKi0l6CQjMsNQWcHVzwUc0wAPE4Uon/70GQAAD/NJREFUeJztXYti
+ozgMjMGPFtLe///tSTIhBCyJxnFEu2h3u21tI3n8wHjG5HI57bTT3mYO7fl0p5XfkcPUXNf7vuPj
+cyH6GNh0F3ofAp+OOULwvXAFHZ4kJ1eZ66L3PrIIYAU9H39OFuun5NAaAK0tAFRBAQACiAcg108C
+INefyaE1AFljAKAFRABgCEgAAALOSQA4h/VnAZAbgKwOALG0g7ZzPVTAM/H5PqL1XDoU7fuPJAGQ
+PnoYAMw41xqA4m8JQIgfyacProkd1B0tRg4gHCIfnxIAnx84hsoIOh+pASID8KU1ABfXf3z6z4+e
+HQITAMIckCc5LkNO5eYArQEurwFAuEAOkI1fA+A2C7LlswN2DoTrUwPwHaB+BlQQdDQLC+sAHKJ8
+/XAW6IX65wvwd3qtAe7BPwNEmr4kqTwgINR/qoCUvmslyKcqDdAaAJdgGg/wlYvPJUhPQg0gXQQI
+EIQLCMlCAyTm+722BK9c3nWp60IHX9m7VIIWStJCIUEOaQhAcf42CdB3cHGmAd4AQEwJAEiJu831
+PgUfkjBLhjiklAYuBkrkF1JdGrquG5gG0Csgmw6g82lIAf6xCyGX0BzbxngnH4aBDS9BIn+bhwaA
+yieuAZoDANFDgPi3HCIsBB31AMctBfE+iRgJQQB8/DrCZ/8MwLtmccXESdTBUwgMUAixK4boYHj2
+MAn2MFAFALRJkAUAFprg3yeui7wFgC7E0AkABDQBABgC0hxIw4gbAghA5zvPuJ8jr1kMKc9CEADU
+r2NCxPQMgDCKcQiIEUhDgKYYsf4vAIAvjj1gGMdxEHpAgvTE9wBYIoz8FEg5hhHqyUYAl5eeharX
+wsqjAAQA0/QYuadV6AB4nwj8WjaMwsNwzpFGfh0Q4S6q9oAaUx8FIt6EpIedkKRNP1gHCNshOYfj
+H/ZwFrjIi+n6/SAFAJe/MOlYd6cAID5LwNUlADrZ/0tMBMBTAMI6BwY/vwqoBwAb33XKrmilHRoA
+8i/OAfXWHIAgxY+1r5oDmpqjHWncm+YehnpK5594YX6IGnUUpTnEXaQGaG15s4LfstDSdxE7+pZJ
+4yFweDs0d3jaaX/dDq8PaBzA4fUBjQM4vD6gdQCH1we0D+Dg+oDGARxeH7A3AAHBTgrg8PoAPYC4
+LwD+aefg+gA1gG5fAB3XxNb6AE8NwD8MqQF03Z4A+C2Xw+sDGgdwObw+oHEAx9YH5AC62IkBJD0A
+lro5uD4gB08BCFtSUD05AICI1ygdWh+QA+h8xweAK0U3CPw0+nfsUvIA+gBoAfDP8+dTAOxKCPwn
+LQCWfj6APsBl//ymrKMewAMAbdujD84/RtdzG9fW+oDcfjBGOW4IAehhkug5AKj+vRQCuu85BKz1
+ARSAhxZmyTG8y+PzDgsAuIeloGMnSUyBhYTA/5vqA6Y+mITb3BQAU0PoAXmKkADAHHwPMNYHAMTg
+QBKIjMOI0xgTAHSRNHxKALr0CcVZ4sNcHwAQDxI7DC0Af3ohgJA+5Rb4TPyembk+gJgnEQDs4yK3
+FqSFJprYgNb6gOxf2M8ghBQARP+5EtI6xpQex+dU8WGFAhC6cJCiu1+Dfx43BoDYaYEdpvldBiDI
+6xC8RmgLQI0+QJ8D3EUDIHiZOfGBBcBcH0ANcFEJdgkA7ALcpi55wOd9dlfaWh8gzX+PV5AuLk4i
+WgZbO25kp532j1g1vV6rD6jcVa4NoJper9UHqMfn2+oDaun1F9DzKj3eVB9QS6+/gp5X6fGW+oBq
+ev0F+gD5+HxrfUAlv19d3iP3H1nyur0+oJrfrywfsX0c/zjVXKBQze/XlUcEgg/C42RzfUAtv19b
+XqPH2+sDKun16vIaPY60hqgfqNYHzMukhwUT8+sG5RV9wrv0AWCkN5pyuqwrwl13UUDwsvJ89O/R
+B8TYdXFxO6L7E/1OFBC8rDxPj+v6gKDrA4R3mMz6gNW+ye1nWUBQXR7apgMUkjCJK/oAXCoOskBh
+wJUkdxud9AHCGJEEBNXleywL/zjiy/eKQIGGnhskAEifwC7EJn2AILAQBATV5UPv8N0Bg+OeVfys
+D2DIUWjaCBdh6w8IDEjOlhfLsz5AXMryAoLq8rhEp5UgK+Wd9QEsAAER4NxTnj46Zl8cKwDLMJn7
+oww8ADXliRii9wdwIi0EgPQB3G0Am1a7j0LvY+YA0geQCc8SOZ0bAlXlaQjDXY6vHmo7grjhsbcH
+lJNu+gBRY8QLCGrLX0hf4AT5QI8KqHEYef6X1BUyPe54FdNdH8CVlgUEteUhHSo3jMI6qCd9gNQD
+UIfGJpOLYXhaH6BleEF5hEcoH0gfIAGwR6Wl8fNiBaQM7cuTQEFazFcCoLDDWob25QkAnp7GDSGZ
+IMfa9/yu6i8BQJIKex0AYVv5VwAg8OdYeVoosBloQ5Tdllf0AVqG6vJxSpZFSoJRD1CpK56XoKLC
+BZQMzcur/Lm6HbI702mnnfY7TRvgezZ19WlGWIq29q+Y9fn/5v4Vsz7/39y/Zvbn/xv71+wA5//b
++lfM+vx/a//6DG19/r+R/xutGCeCbfnLVU7b8/+t/Lv8gIMbpjDL0hxL3WyLgfn5/zb+M2keiXAj
+Zgi3BGIobT8bn/9v5N8R0xrHoeuQVurwJRsfHwhCEQHL8/9t/OcBkIaRDq11Hc4Un3h+dttXjM//
+N/WPAEQ6tDYNNPyymiyMz/+38r+7B5if/2/kf/ccYH7+v5H/vXcB6/P/zfzvXQdYn/9v5n/vStD6
+/H9z/+pui/H5/7f4l8z6/P9b/Itmff7/Hf5lMz//396/bAc5/9/Sv2zmx9/b+5ftBMD6/H9z/7JZ
+n/9/g3/ZNH59H/+uuH+e/n+N/9NOO+3fNmt+3ty/MT9v79+Wn7f2b87Pv8M/T59TFlt+XvVPx98b
+6gNs+fld/n2tf+VIjAU//wP/+fh7O/82/Pxh/F+M+Pnj+L/Y8PMH8q8vpf6iPmB1BSt+/iD+Lfj5
+A/m34eeP49+Inz+OfyN+/kD+Lyb8/JH8m/LzR/Bvzs9b+zfn5639m/Pz1v7N+Xlr/+b8vLV/c3ra
+2r95APb+bfl5a//m/Ly1/4u4ZXDqA0477bQ/b+b8fJ3/arPn5+s+H6DWrPn52s8HqDbil3+vPqDe
+3qEPkAQKdIGKzweoNgpRfD0+ChTq+HlNIPG8PuEFpvLzJFCo4+e1l6I+r0+oN52fJ4HCYfUB9WbN
+z9d+PkDKxiXvMGt+XvJ/vV4n/9druTS9dTqJ1JdOjx9UH/B1vX59IQIAwzd+97XNgy/2RhPe/b1j
+KWrNz5f9X7+h1t8xIgzx+kUQbDINaVopcgC4aYhI7809qD7g6xtrfYU/8N83ft12AefmlSJzG6XP
+hs8fEM/4t+bnef9Y+y/q+tfv/+D/7+0QgDv0baXI3EYTXH8ck/CCfmt+nvePvR6bHScAAqNwbT+v
+FMu9DGqPDgb4T3hB/3H1ATMG8LXofrFSLAMwjHkKkPhBa35e8I9WavpbyQ5XiqMfcaVYmoWw66f8
+7nPhMxqs+XnBv2wwA7p5pYjfb3JQvWEl70UArPl5wb9suMaaV4rFxRR2fnwxhg/SatGanxf8y+Zo
+6ssrRVhrFN4BhZ8ZnQGgT4fmrnNgfYBsUO3pZSiuuGVAT9EYGZIn/KaMNT8v+hfNdfPAc6WVyHIN
+LJFHR9YHiLa4+RYB2HsZc3r6aQDutZZCUC/ziwGYB/5iNPz4KofWB8i2GNZVJ+SPqw94j1nz8yeF
+/6uN2u4fbkCaH7VPI/vLdgJwAnACcALwTwNAOy2V5NyvthvxcgJgHYiV/SEA1iyqzqqimQPwqqW4
+Wwv6bvI97UkOJUZVH+SzCGG9h7ejXkSJMbzYz7yv5Hp7P6DHUfUrPsdnvtBjC+zEf6a/5Q0HPnUE
+y1ivBH13+R4Z5itfHUVAvMLlsr8pHxDf/QFJxHyLh6NF/7jnnzxRO6sX7tzlg5jq0UcRAZcR4gNV
+5gimBfbif5kVIsz1ZYEEMcdDmj57G1/4M94BGKfX+yAKU8aSg0mhIbHviW8iaoHgNy3wgL8PLP6a
+QkQRSCSkvcYBRS7rF+7c5YOogJnylTwoWt67QKGcmlvA05v+Fy1wxz9GL+A/zP5ZAASBBLLm+Mnd
+2AQrQd9CvocNMFLGUj9WtLyKQGFuAQDgoQXu+Mco4T/M/ssAyP4HlA0gAFD1sBL0zfI9mIt7BACl
+BgUnipZXFiiwLbAb/2H2zwAg+cfegfWCaZBG26Ogb5Lv0cikTEOpHytaXpqgEv0tzcRzCwS/aoEF
+/hkADn/ZvyyQIOUAsd/Erq4/XZd+9Kh0dkSQk85gE8BdoVEEgEgBIpkLd0oXaY7CFohx1QIz/jAH
+IP44ixWeuRX/VG9kLksAIGphnj2R3Flx/Ej+zwGB/7BlmN1CoVHUD8SJVp2/WQHQ98PUAo6gXq0E
+8+8Q/wG+LQFw918GQBBIIAD3hQb2OfcwlBGPhUgXP4J6C8BSoVEC4Fal0hDA+qN8hL6FC2zYJfpV
+Fo8kylpCQNIS4wCaBRLr4ElYtZBNQO0fRRbwQ98t6o8X21xkqdAohSAYVg26Rco1pQoWsvTTlRPm
+3WZBYpX8lwUsIb+KML+VcAPAY58juFdzwKJRph65vkgeqa7QfKphqSls+rZUBTyOcAvKxcI4czEv
+FRkAMm9HT4ubLrjplNtOWsqx7gFTvZ+h5xfSKKook2eRqdBHcrKg4GhrdQAsuh/7uKJlunUPo03Z
+eeg/MQf8CfvnAbgs+qdpHKeddtppp5122mmnnXbaaU/bU/R0K/fvD+BJevoFLzAouf9BAK+yZvT0
+M+5/EECNzxvxnDR6Os0k9voaO15gINn4E30CQ5A/bY5ef0PscUACh6GnI7Lj2Mb0vpw1AuoLDMSx
+PGZ2nC7M6hMwNfPjL0bA0dtviDqdiKkiPY3kFBGs9MKcLTFyo6fZk6P8JEH1z/qAFTv+wI+HGz/+
+YgQcvf6FiGfEmKOnsX2InqbsBQAmepoBQBJIjMONHfeR1yeQPoDylTUST9c/GwGLIgSeno6RmsoV
++jIBkOnpMgDpLlDYIjAOP9MnvBgAatGe6Gl/Q6BET0Ma0dN9oQu4BT3NACAIFMAz1mpMfu3+MQCf
+poxPTbQsAPQOsEjIBpwEGHoa06ilcv71GJDpaVmgMOZ60TTI6xOyRIQAaDEEMLZxQUWX6GmHfTiV
+hoBGT1+WAoVNYh4A+/QJeRC8purT9R9+6Hl6eiUaWGWZ6WkeAGjbUAaAXh+S55wys0Jxufw/NtWe
+ij1jyC2W6FniLEXe0d3ocYYaJIUCAVCYA6iDUb01ADBDS/KJumCZnu6l94xlgQB1Ve5obZ4dt+w8
+JUK3z/oqqF+RHkYCmXoAns2tOCCvGlP/CQGpYK65CEDOVwSg83nc43qn4IjCmtKdZ9/S8QLbRU8X
+k6sAUAnyVYYj8o8aP39LOGTwp5122r9p/wOcY9HrLVuktgAAAABJRU5ErkJggg==
+"})
+name = "Rymei"
+icon = object("//Oicon",0)
+gender = "male"
+key = "X_Jake From State Farm_X"
+ChakraGain = 1.2999999523162841796875
+Female = 1
+contents = list(
+		object(".0"),
+		object(".1"),
+		object(".2"),
+		object(".3"),
+		object(".4"),
+		object(".5"),
+		object(".6"),
+		object(".7"),
+		object(".8"),
+		object(".9"),
+		object(".10"),
+		object(".11"),
+		object(".12"),
+		object(".13"),
+		object(".14"),
+		object(".15"),
+		object(".16"),
+		object(".17"),
+		object(".18"),
+		object(".19"),
+		object(".20"),
+		object(".21"),
+		object(".22"),
+		object(".23"),
+		object(".24"),
+		object(".25"),
+		object(".26"),
+		object(".27"),
+		object(".28"),
+		object(".29"),
+		object(".30"),
+		object(".31"),
+		object(".32"),
+		object(".33"),
+		object(".34"),
+		object(".35"),
+		object(".36"),
+		object(".37"),
+		object(".38"),
+		object(".39"),
+		object(".40"),
+		object(".41"),
+		object(".42"),
+		object(".43"),
+		object(".44"),
+		object(".45"),
+		object(".46"),
+		object(".47"),
+		object(".48"),
+		object(".49"),
+		object(".50"),
+		object(".51"),
+		object(".52"),
+		object(".53"),
+		object(".54"),
+		object(".55"),
+		object(".56"),
+		object(".57"),
+		object(".58"),
+		object(".59"),
+		object(".60"),
+		object(".61"),
+		object(".62"),
+		object(".63"),
+		object(".64"),
+		object(".65"),
+		object(".66"),
+		object(".67"),
+		object(".68"),
+		object(".69"),
+		object(".70"),
+		object(".71"),
+		object(".72"),
+		object(".73"),
+		object(".74"),
+		object(".75"),
+		object(".76"),
+		object(".77"),
+		object(".78"),
+		object(".79"),
+		object(".80"),
+		object(".81"),
+		object(".82"),
+		object(".83"),
+		object(".84"),
+		object(".85"),
+		object(".86"),
+		object(".87"),
+		object(".88"),
+		object(".89"),
+		object(".90"),
+		object(".91"),
+		object(".92"),
+		object(".93"),
+		object(".94"),
+		object(".95"),
+		object(".96"),
+		object(".97"),
+		object(".98"),
+		object(".99"),
+		object(".100"),
+		object(".101"),
+		object(".102"),
+		object(".103"),
+		object(".104"),
+		object(".105"),
+		object(".106"),
+		object(".107"),
+		object(".108"),
+		object(".109"),
+		object(".110"),
+		object(".111"),
+		object(".112"),
+		object(".113"),
+		object(".114"),
+		object(".115"),
+		object(".116"),
+		object(".117"),
+		object(".118"),
+		object(".119"),
+		object(".120"),
+		object(".121"),
+		object(".122"),
+		object(".123"),
+		object(".124"),
+		object(".125"),
+		object(".126"),
+		object(".127"),
+		object(".128"))
+	.0
+		type = /obj/Perk/Strategem_of_Wind
+		canttier2 = 0
+		RPPSpent = 98
+	.1
+		type = /obj/Custom/Med/Meditate
+		RPPSpent = 561
+		idran = "Chakra"
+	.2
+		type = /obj/Perk/Shinobi_Info_Card
+	.3
+		type = /obj/items/Drink/Purple_Drank
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.4
+		type = /obj/items/Clothing/Long_Shoes
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",8)
+	.5
+		type = /obj/items/Weapon/Tanto
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.6
+		type = /obj/items/Clothing/SandHeadband
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.7
+		type = /obj/Perk/Mind
+		description = "This character's mind is further fortified. They are capable of resisting low leveled genjutsu so long as they're aware of what the genjutsu is.Low level techniques used by this character grant further freedom by allowing them to change the property of the genjutsu's effect(Ex: Burning to shocking)."
+		tier = 2
+		name = "Mind 2"
+	.8
+		type = /obj/Perk/Katana_Proficiency
+		RPPSpent = 9
+		description = "This character's ability with a Katana is frightening. They are capable of fending off multiple targets with ease and striking them down with a single blow if unimpeded."
+		tier = 4
+		name = "Katana Proficiency 4"
+	.9
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 108
+		ele = "Elementless"
+		Kekkei = 1
+		description = "The user waves their sword back and forth, which when seen by the target locks them in a genjutsu which causes them to hallucinate multiple waving arms. The movement resembles that of a willow tree blowing in the wind. With the enemy off guard, the user is free to cut them down."
+		skil = "Expert"
+		jut = "Genjutsu"
+		ran = "C"
+		dran = 140.625
+		idran = "Chakra"
+		name = "Leaf-Style Willow"
+	.10
+		type = /obj/Student
+	.11
+		type = /obj/Genjutsu/Henge
+	.12
+		type = /obj/items/Clothing/Jacket
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=1115;crc32=0x9803488a;encoding=base64",{"
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkAJZwQAALhuQAk6AAAAYJy2CQAAAAAAAAAA
+AAEAAABI4Nu/pJTHCUjSRgm4bkAJeODbv96+Pre4bkA=
+"})
+	.13
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 23
+		ele = "Elementless"
+		Kekkei = 1
+		description = "This technique is named after a Shogi technique. The user dives into the opponent's center of gravity and slams against their chin using an upwards palm thrust. By striking the chin, one disrupts the balance of the target temporarily."
+		skil = "-Expert"
+		jut = "Taijutsu"
+		ran = "E"
+		dran = 20.913753509521484375
+		idran = "Stamina"
+		name = "Climbing Silver"
+	.14
+		type = /obj/Perk/Reflex
+		description = "This character's reflexes are even more impressive than that of a character with the reflex perk. They are capable of dodging projectiles at medium range, and are capable of trading blows and blocking effectively with fast characters."
+		tier = 2
+		name = "Heightened Reflex"
+		icon_state = "rfx2"
+	.15
+		type = /obj/Teacher
+	.16
+		type = /obj/items/Clothing/Kumo_Chunin
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.17
+		type = /obj/items/Weapon/Log
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.18
+		type = /obj/Custom/Genjutsu/Brank/Genjutsu_Shibari
+		RPPSpent = 82
+		description = "As the name suggests, the user binds the opponent in a genjutsu, rendering them incapable of movement. This genjutsu can be used on more than one target at the same time. Once the target is bound, the user or an ally can rush up to the enemy and deliver a devastating killing blow.<br><br>\[Trigger, seeing the Seal of Confrontation formed by the user.\]"
+		skil = "Mastered"
+		dran = 307.20001220703125
+	.19
+		type = /obj/Perk/Studious_1
+		tier = 2
+		name = "Studious 2"
+	.20
+		type = /obj/items/Clothing/CloudHeadband
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+		icon = filedata("name=KumoKakashi.dmi;length=795;crc32=0xa8dcbe8d;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAMAAAACgBAMAAACoBn5uAAAAGFBMVEXAwMD//5UsLCzGysmMjIxN
+TU3h4eGwsLGOpb84AAAAAXRSTlMAQObYZgAAALB6VFh0RGVzY3JpcHRpb24AAHichZBRC4IwFIWf
+t18x9FUiy9ceCi0ksseeh7u1kW6y3ZT+fXNCEgi9nQPfxz3cmB2KU1mx/FLSHqxTRrMdy1ZrSgYl
+UPqy3VAiQT0kTsUhR/Ax2iPy+hlRIpR1o0XJ3fIWxpzO2NHULzdT6TJ1vv5FbsA7o5fv+Y0CGv4e
+Y+JLY0wXkK+97GU/XhJcC4PSYtrRmh5a0BhazIoqD6/6AHZAUvqUasryAAAB9UlEQVRoge2bS07D
+QBBEp29AJhFZY+UArGAd+wKAOEJugLg/UiSkdLc1ZavGC0K9ZXpqPrHjVNGklDvBdlwdUoc9Vd+h
+Dezq6Zmo2zA8gBVsmNyEcTyo1893sECpp7eb6V7O6+r29Q2P4Ca4pCOD+uEVHcGc5DA8ravblM4c
+qbcTzFw1UD/Ci2B+uvwetesWj4yWA/ddrs+Nt5nXfqngrkB1OKi1+JL6dQz8+JEcP7ZdwKZx2wXw
+h49jweODY8EDkMPSI1kIIcTG0Pkg+3v/MF+fD7w+O0Hz5nN1Pgj6/PVWw4CQD+JbhvXhCzpvyeWD
+sr/4MtYHixE3EPJBeRxDHeudv59x794G2hgGQL339/ESXTcVbqswAuqdv59zrd7tpimg3vn7BWmi
+xiHr9NgytefoYblk24QQQoi/COv/oZ71/0hP+3/Uf+jg/9v6wvv/tr508P9tPe//gb7w/h/oef8P
+9HlDnP/P+rQh0v/3yCDb6oUQQghxl6CAgfIDGzBgfqADBswPbMCA+YEOGDA/sAED5wc2YMD8wAYM
+nB/YgAHzQ9eAAb17j4DBooAhhBBCbAD9/0MI+Pd/ANwg/P0B26AA9rxDgwLY8w4NirY979GgaNtz
+vkEB7HmHBgWw53yDIo7fukGR7HnvBkXbnis/CCGE+G/8AJZpVZCRSk1kAAAAAElFTkSuQmCC
+"})
+	.21
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 376
+		ele = "Elementless"
+		description = "The ninja needs to stop the flow of chakra in their body, and then apply an even stronger power to disrupt the flow of the caster's chakra; this is called Genjutsu Dissipation (???, Genjutsu Kai). This can also be done by an unaffected ninja by applying a sudden surge of chakra into the affected person."
+		skil = "Expert"
+		jut = "Genjutsu"
+		ran = "D"
+		dran = 66.1775665283203125
+		idran = "Chakra"
+		name = "Genjutsu: Kai"
+	.22
+		type = /obj/Perk/Blank_Perk
+		description = "This character is chaotic."
+		tier = 1
+		name = "Chaotic"
+		icon_state = "perk"
+	.23
+		type = /obj/items/Food/Chocolate_Bar
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.24
+		type = /obj/items/Weapon/Shuriken
+		shuriken = 27
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "You current have 27 in this stack"
+	.25
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><title>Gentle Style </title></head><body>\n\n\n<body background=\"http://4.bp.blogspot.com/-G0uVBLbgoMA/T4LpfZx-BlI/AAAAAAAACuY/NoNL3m3Cvz4/s1600/86831345.jpg\" style=\"background-position:middle; background-repeat:no-repeat;\"> <body background color=black>\n\n<table align=\"center\" cellpadding=\"0\" border=\"0\" cellspacing=\"0\"><tr><td><table align=\"center\" cellspacing=\"5\" cellpadding=\"0\" bgcolor=\"#111\" style=\"filter:alpha(opacity=70)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=70\"><tr><td bgcolor=\"#333\" background=\"http://s1.zerochan.net/Zhen.Ji.600.1459986.jpg\" style=\"filter:alpha(opacity=40)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=40\" width=\"400\" height=\"500\" border=\"200\">\n\n<div style=\"margin-top:180px;background:#111;padding:0px;font-family:cambria;letter-spacing:-3px;text-transform:uppercase;font-size:28px;color:#777;text-align:center;\">\n\n<font color=pink>\n\n<div style=\"margin-top:-5px;font-family:cambria;letter-spacing:2px;text-transform:uppercase;font-size:12px;color:#555;\">\n\n<font color=pink>Rymei</font> <font color=silver>of the Clouds</font> <font color=silver></font>\n\n</div></div></td></tr></table></td></tr></table></td><td>\n\n</td><td><table align=\"center\" cellpadding=\"2\" border=\"0\" cellspacing=\"0\" bgcolor=\"white\" style=\"filter:alpha(opacity=40)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=40\"><tr><td>\n\n<table align=\"left\"><table align=\"left\" cellspacing=\"3\" cellpadding=\"0\"><tr><td align=\"top\" bgcolor=\"#000000\" height=\"270\" width=\"350\" border=\"0\" style=\"filter:alpha(opacity=90)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=90\"><div style=\"padding:float:left;6px;font-family:cambria;letter-spacing:-1px;font-size:20px;color:black;margin-bottom:400px;\">\n\n</div><div style=\"padding:3px;background:#000000;width:93%;margin:0 auto;\"></div><div style=\"padding-left:6px;padding-right:6px;line-height:175%;font-family:cambria;color:black>;font-size:11px;\">\n\n<div style=\"border-bottom:1px solid #000000\"><b>\n\n<font color=#F6CEE3\n\n>\n\nDatacard\n</font>\n\n<font color=#F6CEE3><p>\nRymei just activated DD-Cups: This character has large knockers that can sit a grown-man down. A Tier 2 perk.<p>\n\n<div style=\"border-bottom:1px solid#F6CEE3;text-align:right\"><b>Info</b></div>\n\n<div style=\"border-bottom:1px solid #F6CEE3\"><b><font color=#F6CEE3>Age:</font></b> 22</div>\n\n<div style=\"border-bottom:1px solid #F6CEE3\"><b><font color=#F6CEE3> Village:</font></b>Kumogakure</div>\n\n<div style=\"border-bottom:1px solid #F6CEE3\"><b><font color=#F6CEE3>Hair Color:</font></b> Black</div>\n\n<div style=\"border-bottom:1px solid #F6CEE3\"><b><font color=#F6CEE3>Eye Color:</font></b> Blue</div>\n\n<div style=\"border-bottom:1px solid #F6CEE3\"><b><font color=#F6CEE3> Gender:</font></b> Female</div>\n\n<br>\n\n<div style=\"text-align:right\"><b>About Rymei</b></div><div style=\"border-bottom:0px solid #808080;font-size:9px;line-height:160%;text-align:justify;padding-top:5px;height:200px;overflow-y:auto\">\n\n<div style=\"border-bottom:1px solid #F6CEE3\"><b><font color=#F6CEE3\n\n>Personality:</font></b> IC </div>\n\n<div style=\"border-bottom:1px solid #F6CEE3\"><b><font color=#F6CEE3>Interests:</font></b> <center>-Strategies-<br>-Women<br>-Training</center></div>\n\n<b><font color=#F6CEE3>Rymei's Story</font></b> <hr>\n\n<i>\n</center>\n\n</div>\n <iframe width=\"0\" height=\"0\" src=\"https://www.youtube.com/embed/lyieFu7BnHE?rel=0&amp;autoplay=1&#34; frameborder=\"0\" allowfullscreen></iframe>\n\n"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=382;crc32=0x5127ff91;encoding=base64",{"
+AAEAAABI4Nu/HHLHCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/HHLHCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/HHLHCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/HHLHCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/HHLHCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/HHLHCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/HHLHCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQA==
+"})
+		icon_state = ""
+	.26
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.27
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.28
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.29
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.30
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.31
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.32
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.33
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.34
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.35
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.36
+		type = /obj/Ninjutsu/Suimen_Hokou_no_Waza
+	.37
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Elementless"
+		lrncost = 5
+		nan = "Misdirect"
+		Kekkei = 1
+		IsStored = 1
+		description = "The art of Tai Chi is the full utilization of the arms and the legs. The Misdirect is a counter to basic Gouken-style attacks, by redirecting the vector in which their attack hits. In simplicity, it requires good eyesight and reflexes to use. The user lifts their right hand and pushes the opponent's arm away while closing in on them, enabling them a free shot should they have enough reflexes to execute the maneuver."
+		skil = "New"
+		jut = "Taijutsu"
+		ran = "E"
+		dran = 18.0618743896484375
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Misdirect"
+	.38
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 146
+		ele = "Elementless"
+		Kekkei = 1
+		description = "The art of Tai Chi is the full utilization of the arms and the legs. The Misdirect is a counter to basic Gouken-style attacks, by redirecting the vector in which their attack hits. In simplicity, it requires good eyesight and reflexes to use. The user lifts their right hand and pushes the opponent's arm away while closing in on them, enabling them a free shot should they have enough reflexes to execute the maneuver."
+		skil = "New"
+		jut = "Taijutsu"
+		ran = "E"
+		dran = 40.639217376708984375
+		idran = "Stamina"
+		name = "Misdirect"
+	.39
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<body bgcolor=\"black\">\n<font color=\"pink\">\n<i>Dearest Tethys, <br>\nBefore leaving on a caravan, I caught wind that you had proposed to the woman you love....I guess the mizukage is a lucky gal.<br>\nI guess that mean's there's no room for us...Although..I wish there was...<br>I thought we had grown closer lately, it might have just been me and my urges, and I'm sorry if I came on too strong...Anyways...<p>\nGood luck,<br>\n-Rymei <3<br>\n<br>\n<font color=\"silver\">\n<b>Dear Rymei,<br>\nNoriko and I have been together for quite some time. I can not lie, though; I did and do have lust and a strong attraction to you. You did nothing wrong, however. I actually thought you wanted nothing to do with me. So please don't blame yourself for anything.<br><br>\n-Tethys</b>\n<br><br>\n<font color=\"pink\">\nDearest Tethys, <br>\nI do blame myself. I've only ever been attracted to women, they were much simpler.....but...you changed that. I did...no...I do have a strong attraction to you....I just, never knew how to show or express it to you...I know I'm going to regret this for years to come..but....There's...There's no changing your mind? <br>\n-Rymei<br>\n<br> \n<font color=\"silver\"><br>\n<b>Dear Rymei, <br>\nThere is no reason to blame yourself for anything, Rymei. I find myself being stuck in a dilema, though. I'm not saying I don't want anything to do with you.. but I don't want you to think I am suggesting that you're some \"hoe\" or something..<br>\n-Tethys</b>\n<p>\n<font color=\"pink\">\nDearest Tethys, <br>\nI don't know what your intentions were with that last message, but it seemed to contradict what you have said earlier...If you don't want me...if...If you don't like me...You can tell me. I can...I can move on...Just..Tell me.\n<br>\n-Rymei<br>\n\n<font color=\"silver\"><br>\n<b>Dear Rymei, <br>\nThat's the thing Rymei.. I -do- like you.. I -do- want to be with you.. That's why I said I'm in a dilema.. I have feelings you and Noriko both..<br>\n-Tethys</b> <p>\n<font color=\"pink\">\n Tethys, <br>\nI'm not asking you to choose between us, but if you want to be with someone...bet with them....If you want to be with me...be with me...I doubt Noriko minds, she let you kiss that kunoichi at the festival, and she was cozying up with the Raikage the last I've heard.<br>\nI don't know.....I.....Don't know...\n<br>\n-Rymei<br>\n\n<font color=\"silver\"><br>\n<b>Dear Rymei, <br>\nAre you saying that you don't mind if I'm engaged to Noriko?<br>\n-Tethys</b><p>\n<font color=\"pink\">\n Tethys, <br>\nAs long as you lo-....as long as you like me...and want to be with me....As much as it hurts...me...I won't mind.\n<br>\n-Rymei<br>\n\n<font color=\"silver\"><br>\n<b>Rymei, <br>\nRymei. Love is always a factor between you an I. Fuck that \"like\" stuff. What Noriko and I have has been months in a making, and I think you and I can be the same if you are completely fine with it. If it hurts you in -any- way, I won't be able to live with myself.<br>\n-Tethys</b>\n<p>\n<font color=\"pink\">\n Tethys, <br>\nThen. I'm all in.\n<br>\n-Rymei<br>\n\n<font color=\"silver\"><br>\n<b>Rymei, <br>\nAre you sure..? I mean if you feel any type of way about this, let me know..<br>\n-Tethys</b>\n<p>\n<font color=\"pink\">\n Tethys, <br>\nLike I said. I'm all in.\n<br>\n-Rymei<br>\n\n<font color=\"silver\"><br>\n<b>Rymei, <br>\nHow soon would you like to come see you then?<br>\n-Tethys</b>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=266;crc32=0x9575dd56;encoding=base64",{"
+AAEAAABI4Nu/9E3HCUjSRgm4bkAJeODbv96+Pre4bkAJFgEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/9E3HCUjSRgm4bkAJeODbv96+Pre4bkAJFgEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/9E3HCUjSRgm4bkAJeODbv96+Pre4bkAJFgEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/9E3HCUjSRgm4bkAJeODbv96+Pre4bkAJFgEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/9E3HCUjSRgm4bkAJeODbv96+Pre4bkAJFgEAALg=
+"})
+		icon_state = ""
+	.40
+		type = /obj/Custom/Genjutsu/Drank/Interrogation_Jutsu
+		RPPSpent = 167
+		skil = "Veteran"
+		dran = 157.779998779296875
+	.41
+		type = /obj/items/Clothing/CloudHeadband
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+		icon = filedata("name=KumoWaist.dmi;length=642;crc32=0x34f7d770;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACgBAMAAAB54XoeAAAAG1BMVEXAwMBNTU3//5WwsLGMjIwq
+KirGysk7OzfAwMDNRP5dAAAAAXRSTlMAQObYZgAAAKp6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX3
+9FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSe
+izOtKDE3FcpOSc1JrAQyjXTAkIszN78sNTc1D2SAIUK/W35yaTHCEEMkQ4DsotTyzLwUVB3e/riU
+w5U4lpQkJmdjdxqSsuCMzLys0lJcxikruPq5gAMFAPLHTcUj4nkSAAABX0lEQVRoge2ZMW7DMAxF
+ZQ3tWrkXUHWCGvEFjADe0zP0AN1y/aqdRFIQLYhIguC/KbLIL9JB4G/GOQAAALclGOtNb2P5PiWy
+DiEwxdRa5vTICloXGk8j8ud3mpDDfSF4WT+Z4L7RI+mBviZYhPjLTrdFy55uxxxAr+QGygpZuiQq
++wAAAAAAptzZYKruSBhMnsDW3E8KEreg4UQDTvSWcD8pYAZTFeQt83RpMGuHtgriF6oKHYgORxHf
+wSjyNWSU0RclifUvDQAAAHgc1Kdccz74bw3IWnkOR2U+6Ny6fJH6mFPg52vzQedeNiLIvEz6EBW2
+54PCEPKBJRfshvvJ60/LPR4gjqUDAAAAVvgQjQXP1oLf1oLmFVrfwxvgqV/03D7+of3/SpjWZS4F
+Q2WeOPcoTvtGBSvzxDkWAVGpWG85vl4HHR4AAAAAwMNwxO91ccTv9Qke8HtdmLcMwHPxC1yGHM58
+rQygAAAAAElFTkSuQmCC
+"})
+	.42
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.43
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.44
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.45
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.46
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.47
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.48
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.49
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.50
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.51
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.52
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.53
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.54
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.55
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.56
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.57
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.58
+		type = /obj/items/Citem/tools/Messenger_Bird
+		saved_x = 0
+		saved_y = 0
+		saved_z = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=2078;crc32=0x8593ebe5;encoding=base64",{"
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv96+Pre4bkAJKggAALhuQAk6AAAAJ5m2CQAAAAAAAAAA
+AAEAAABI4Nu/xD75CEjSRgm4bkAJeODbv94=
+"})
+	.59
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Elementless"
+		lrncost = 20
+		nan = "Twister"
+		Kekkei = 0
+		IsStored = 1
+		description = "The user spins their sword in front of them at a rapid pace, giving them the ability to deflect projectiles. It is a practical and simple sword jutsu that is used mainly to deflect projectiles. When done by a highly-skilled swordsman, it can even reflect ranged jutsus such as the Water Style - Raging Waves."
+		skil = "New"
+		jut = "Kenjutsu"
+		ran = "C"
+		dran = 62.5
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Twister"
+	.60
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 19
+		ele = "Elementless"
+		description = "The user spins their sword in front of them at a rapid pace, giving them the ability to deflect projectiles. It is a practical and simple sword jutsu that is used mainly to deflect projectiles. When done by a highly-skilled swordsman, it can even reflect ranged jutsus such as the Water Style - Raging Waves."
+		skil = "Mastered"
+		jut = "Kenjutsu"
+		ran = "C"
+		dran = 44.49462890625
+		idran = "Chakra"
+		name = "Twister"
+	.61
+		type = /obj/items/Police_Badge
+		Password = "Hiru"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon_state = "Key"
+	.62
+		type = /obj/items/Police_Badge
+		Password = "Hiru"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon_state = "Key"
+	.63
+		type = /obj/items/Citem/tools/Lockpick
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.64
+		type = /obj/items/Citem/tools/Lockpick
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.65
+		type = /obj/items/Citem/tools/Lockpick
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.66
+		type = /obj/items/Citem/tools/Lockpick
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.67
+		type = /obj/items/Citem/tools/Lockpick
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.68
+		type = /obj/items/Police_Badge
+		Password = ""
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon_state = "Key"
+	.69
+		type = /obj/items/Police_Badge
+		Password = ""
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon_state = "Key"
+	.70
+		type = /obj/items/Drink/Milk
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.71
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<img src=\"http://i57.tinypic.com/25iuq8w.png\">"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Kazuto's picture"
+		icon = object("../../.109/icon",0)
+		icon_state = ""
+	.72
+		type = /obj/items/Drink/Milk
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.73
+		type = /obj/items/Citem/tools/Backpouch
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+		contents = list(object(".0"))
+			.0
+				type = /obj/items/Scrolls/Jutsu_Scroll
+				ele = "Elementless"
+				lrncost = 30
+				nan = "Chakra Enhanced Strength"
+				Kekkei = 0
+				IsStored = 1
+				description = "This is a technique where the user focuses chakra into their hands and feet using precise chakra control and releases it with pinpoint timing.Giving the user enough strength to easily make gigantic craters or kill opponents with a single strike."
+				skil = "New"
+				jut = "Ninjutsu"
+				ran = "B"
+				dran = 204.8000030517578125
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "CES"
+	.74
+		type = /obj/Custom/Genjutsu/Arank/Nehan_Shoja
+		RPPSpent = 174
+		description = "It is a powerful genjutsu that generates a fluttering rain of sleep-inducing, illusory white feathers. Whomever sees them as they fall, piling up and covering the whole target area, will experience Eden-like bliss and fall into a state of tranquil slumber. No matter how much one resists the hypnotic spell, the desire to sleep is instinctive, and there's no fighting it. However, an experienced shinobi will be able to dispel the genjutsu before it takes effect.<br><br>\[At New - Covers 7 x 7 Tiles\]<br>\[Novice - 9 x 9\]<br>\[Expert - 11 x 11\]<br>\[Veteran - 13 x 13\]<br>\[Mastered - 15 x 15\]"
+		skil = "Veteran"
+		dran = 491.29998779296875
+	.75
+		type = /obj/items/Drink/Soda
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.76
+		type = /obj/Perk/Blank_Perk
+		description = "This character has Double D breasts, enough to make a grown man swoon."
+		tier = 1
+		name = "Double D"
+		icon_state = "perk"
+	.77
+		type = /obj/items/Food/Bacon_Cheeseburger
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.78
+		type = /obj/Perk/Blank_Perk
+		description = "This character has been sealed by the GEZO to obey all the orders of their master. The GEZO determines the master and gives them a small seal to give them the power over Rymei. Rymei is unable to do anything harmful to her master, nor is she allowed to think negative thoughts concerning her master."
+		tier = 2
+		name = "ROOT Sealed"
+		icon_state = "perk"
+	.79
+		type = /obj/items/Clothing/Backwards_Scarf
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=1280;crc32=0x605c5521;encoding=base64",{"
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv96+Pre4bkAJDAUAALhuQAk6AAAAZJy2CQAAAAAAAAAA
+AKjj27944Nu/LP74CEjSRgm4bkAJeODbv94=
+"})
+	.80
+		type = /obj/Perk/Blank_Perk
+		description = "This is a slim katana with a non-reflective surface. The blade looks to be extraordinarily lightweight despite having an extremely sharp edge to it. Its design is similar to a normal katana's. This blade descends from Huevo Del Diablo and it is indicated by the fact that the blade channels chakra well through its ruby gem in its base. <br><br>\[Durability: 16\]<br>\[Add +3 in Damage Calculation\]"
+		tier = 2
+		name = "El Equivoco"
+		icon_state = "perk"
+	.81
+		type = /obj/items/Drink/Water
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.82
+		type = /obj/items/Drink/Water
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.83
+		type = /obj/items/Medicine/Cold_And_Flu
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.84
+		type = /obj/items/Medicine/Cold_And_Flu
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.85
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 75
+		ele = "Elementless"
+		Kekkei = 1
+		description = "The Summoning Technique is a space–time ninjutsu that allows the summoner to transport animals or people across long distances instantly and uses blood as a sacrifice. This character summons cheetahs. These small cheetahs can be used for reconaissance. They can also bite their targets but it's not very effective due to their small size, as they are not mature adults yet."
+		skil = "Mastered"
+		jut = "Fuuinjutsu"
+		ran = "C"
+		dran = 79.1015625
+		idran = "Chakra"
+		name = "Kuchiyose no Jutsu"
+	.86
+		type = /obj/items/Weapon/Giant_Shuriken
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.87
+		type = /obj/items/Food/Honey_Bun
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.88
+		type = /obj/items/Medicine/Healing_Pill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.89
+		type = /obj/items/Medicine/Healing_Pill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.90
+		type = /obj/items/Medicine/Healing_Pill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.91
+		type = /obj/items/Clothing/Arm_Tattoo
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = object("",0)
+		icon = filedata("name=blueadoptedkaguya.dmi;length=2226;crc32=0xa8692f3b;encoding=base64",{"
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEAAABI4Nu/fCdGCUjSRgm4bkAJeODbv96+Pre4bkAJ0wgAALhuQAk6AAAAw5q2CQAAAAAAAAAA
+AAEA
+"})
+	.92
+		type = /obj/items/Clothing/Anbu_Mask_Blue
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.93
+		type = /obj/items/Clothing/Arm_Tattoo
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "White Kimono"
+		suffix = "**Equipped**"
+		icon = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(filedata("name=;ext=.dmi;length=1380;crc32=0x95d0df55;encoding=base64",{"
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hUt6jj2796AgAAhgIAAPTf7ba4bkAJfyLntqjj27+20FS3e5u2CSYwa7cLAAAA
+AACAKbYAEAAAt/hU
+"}))
+	.94
+		type = /obj/items/Clothing/Demon_Brother_Cloak
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.95
+		type = /obj/items/Clothing/Suna_Cloak
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = filedata("name=hoodie.dmi;length=15052;crc32=0x65c87fc9;encoding=base64",{"
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAABI4Nu/tBtGCUjSRgm4bkAJeODbv96+Pre4bkAJ4joAALhuQAk6AAAAjpu2CQAAAAAAAAAA
+AAEAAA==
+"})
+	.96
+		type = /obj/items/Clothing/Shorts
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Pillow"
+		suffix = ""
+		icon = object("../../.116/icon",0)
+	.97
+		type = /obj/items/Clothing/Cloak
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(filedata("name=;ext=.dmi;length=1397;crc32=0xaa450e4a;encoding=base64",{"
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7ba4bkAJfyLntqjj27+20FS3u5i2CSYwa7cLAAAA
+AACAKbYAEAAAqOPbv+jf278DAAAA2N/bv/Tf7bY=
+"}))
+	.98
+		type = /obj/Perk/Attack_Speed
+		description = "This character's ability to attack quickly makes their attacks even harder to follow. They are able to change the direction of their attacks and even change which appendage they are attacking with."
+		tier = 2
+		name = "Attack Speed 2"
+		icon_state = "str2"
+	.99
+		type = /obj/items/Medicine/Cold_And_Flu
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.100
+		type = /obj/items/Medicine/Cold_And_Flu
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.101
+		type = /obj/items/Weapon/Samurai_Sword
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+	.102
+		type = /obj/Perk/Strength
+		description = "This Character has a great deal of body power. Their physical power is more than just impressive. Their strikes are capable of rattling bones, and an unguarded strike can break bones. This character has enough strength to take on medium sized beasts such as those who are summoned via contract on equal grounds."
+		tier = 2
+		name = "Enhanced Strength"
+		icon_state = "str2"
+	.103
+		type = /obj/items/herblore/Gathering_Scissors
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.104
+		type = /obj/items/Weapon/Custom_Katana
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Acostumbrar"
+		suffix = null /*unrecognized data*/
+		icon = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(filedata("name=;ext=.dmi;length=672;crc32=0x3c2f0c0c;encoding=base64",{"
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS39Ji2CSYwa7cLAAAA
+CtsDAADY39u/t/hUt6jj27/bAwAA5gMAAAAAAAAAAAAAfyLntqjj27+20FS3
+"}))
+	.105
+		type = /obj/items/Clothing/Holster
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",1847)
+	.106
+		type = /obj/items/Clothing/Gloves
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+	.107
+		type = /obj/Perk/Speed
+		description = "This character's speed is beyond amazing. They are able to outrun some of the quickest shinobi, though, they suffer from tunnel vision at high speeds."
+		tier = 2
+		name = "Enhanced Speed"
+		icon_state = "spd2"
+	.108
+		type = /obj/items/herb/grass/Health_Herb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.109
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "I have told Master Edge of your arrival and desire to speak with him. He would like to speak with you when you can. Although, he insists you come alone, he doesn't want anyone that isn't the immediate two parties, that being you and him, to be around. I await your response..<p>\nRymei\n\n<p>\n<p>\n<i>*Note*: This message was flewn to you via Hawk.\n<br>\n<br>\n<br>\nI'll be there shortly then. I'll meet at the villages gate then.\n<br>\n<br>\n<br>\n<i><b>-Hideki"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=382;crc32=0x5127ff91;encoding=base64",{"
+AAEAAABI4Nu/3P5FCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/3P5FCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/3P5FCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/3P5FCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/3P5FCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/3P5FCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQAk6AAAADpm2CQAAAAAAAAAA
+AAEAAABI4Nu/3P5FCUjSRgm4bkAJeODbv96+Pre4bkAJigEAALhuQA==
+"})
+		icon_state = ""
+	.110
+		type = /obj/items/Drink/Orange_Juice
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.111
+		type = /obj/items/Drink/Orange_Juice
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.112
+		type = /obj/Custom/Blank_Buff
+		BOOST = 20
+		GChak = 70
+		GStam = -75
+		Gnin = 2
+		Ggen = 2
+		Gtai = 2
+		Sharingan = 1
+		description = "The user activates their Sharingan. It swirls around with one tomoe."
+		jut = "Doujutsu"
+		idran = "Chakra"
+		name = "Sharingan"
+		icon_state = "Sharingan1"
+	.113
+		type = /obj/items/Drink/Milk
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.114
+		type = /obj/items/Drink/Orange_Juice
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.115
+		type = /obj/items/Clothing/Slash
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = filedata("name=SSO+-+Table.dmi;length=290;crc32=0x424a95c6;encoding=base64",{"
+AAEAAABI4Nu/VPZFCUjSRgm4bkAJeODbv96+Pre4bkAJPQEAALhuQAk6AAAANJq2CQAAAAAAAAAA
+AAEAAABI4Nu/VPZFCUjSRgm4bkAJeODbv96+Pre4bkAJPQEAALhuQAk6AAAANJq2CQAAAAAAAAAA
+AAEAAABI4Nu/VPZFCUjSRgm4bkAJeODbv96+Pre4bkAJPQEAALhuQAk6AAAANJq2CQAAAAAAAAAA
+AAEAAABI4Nu/VPZFCUjSRgm4bkAJeODbv96+Pre4bkAJPQEAALhuQAk6AAAANJq2CQAAAAAAAAAA
+AAEAAABI4Nu/VPZFCUjSRgm4bkAJeODbv96+Pre4bkAJPQEAALhuQAk6AAAANJq2CQAAAAAAAAAA
+AAEAAAA=
+"})
+	.116
+		type = /obj/items/Clothing/Belt
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Pillow"
+		suffix = null /*unrecognized data*/
+		icon = filedata("name=SSO+-+Pillow.dmi;length=341;crc32=0x6d652486;encoding=base64",{"
+AAEAAABI4Nu/rFVNC0jSRgm4bkAJeODbv96+Pre4bkAJcQEAALhuQAk6AAAApJy2CQAAAAAAAAAA
+AAEAAABI4Nu/rFVNC0jSRgm4bkAJeODbv96+Pre4bkAJcQEAALhuQAk6AAAApJy2CQAAAAAAAAAA
+AAEAAABI4Nu/rFVNC0jSRgm4bkAJeODbv96+Pre4bkAJcQEAALhuQAk6AAAApJy2CQAAAAAAAAAA
+AAEAAABI4Nu/rFVNC0jSRgm4bkAJeODbv96+Pre4bkAJcQEAALhuQAk6AAAApJy2CQAAAAAAAAAA
+AAEAAABI4Nu/rFVNC0jSRgm4bkAJeODbv96+Pre4bkAJcQEAALhuQAk6AAAApJy2CQAAAAAAAAAA
+AAEAAABI4Nu/rFVNC0jSRgm4bkAJeODbv96+Pre4bkAJcQEAALhuQAk6AAAApJy2CQAAAAAAAAA=
+"})
+	.117
+		type = /obj/Perk/Mahiru_Katana_Proficiency
+	.118
+		type = /obj/items/Citem/tools/Lockpick
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.119
+		type = /obj/items/Drink/Water
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.120
+		type = /obj/items/Drink/Water
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.121
+		type = /obj/items/Drink/Water
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.122
+		type = /obj/items/Drink/Water
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.123
+		type = /obj/items/Drink/Water
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.124
+		type = /obj/Perk/Blank_Perk
+		description = "This badge indicates this character is a private."
+		tier = 1
+		name = "Private Badge"
+		icon_state = "perk"
+	.125
+		type = /obj/items/Scrolls/Scroll
+		saved_x = 0
+		saved_y = 0
+		saved_z = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=334;crc32=0x71a71760;encoding=base64",{"
+AAEAAABI4Nu/PPBFCUjSRgm4bkAJeODbv96+Pre4bkAJWgEAALhuQAk6AAAAZpm2CQAAAAAAAAAA
+AAEAAABI4Nu/PPBFCUjSRgm4bkAJeODbv96+Pre4bkAJWgEAALhuQAk6AAAAZpm2CQAAAAAAAAAA
+AAEAAABI4Nu/PPBFCUjSRgm4bkAJeODbv96+Pre4bkAJWgEAALhuQAk6AAAAZpm2CQAAAAAAAAAA
+AAEAAABI4Nu/PPBFCUjSRgm4bkAJeODbv96+Pre4bkAJWgEAALhuQAk6AAAAZpm2CQAAAAAAAAAA
+AAEAAABI4Nu/PPBFCUjSRgm4bkAJeODbv96+Pre4bkAJWgEAALhuQAk6AAAAZpm2CQAAAAAAAAAA
+AAEAAABI4Nu/PPBFCUjSRgm4bkAJeODbv96+Pre4bkAJWgEAALhuQAk6AAAAZpm2CQ==
+"})
+	.126
+		type = /obj/items/Food/Small_Fish
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.127
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Elementless"
+		description = "Unique to Samurai, this technique employs the concept of chakra flow in a similar manner to the Flying Swallow and Sword of Kusanagi: Chidori Katana techniques. Through the use of chakra flow, the user channels their chakra through their swords, extending both the reach and cutting ability of the blade, while allowing the user to fire crescents of chakra whenever the blade is swung. This released chakra is capable of great destruction, as shown from how these projectiles completely penetrated a considerable stone pillar, before continuing to damage the immediate surroundings.<br><br>The samurai have also shown the ability to use shape transformation during the implementation of this technique, sculpting their respective chakra blades into various rudimentary weapons that extend beyond the natural dimensions of their original swords; such as broadswords, spiked shafts and even axes. This capability allows them to rely on smaller swords reminiscent of wakizashi, while attaining greater reach, damage and the possibility of conducting surprise attacks as necessary.<br><br>This transformational quality also appears to extend to even the crescents of chakra launched from the blade, forming a diverse range of projectiles that includes giant buzzsaws and shafts of chakra, the shape of which are seemingly dependent on the structure of the previously formed weapon.<br><br>\[(Nin + Con)/2 + (Str + Tai) + 10 static stat (+5 added with shape training)\]<br>\[Requires shape training perk to form alternate weapon shapes with chakra & for projectiles\]"
+		skil = "New"
+		jut = "Kenjutsu"
+		ran = "B"
+		dran = 800
+		idran = "Chakra"
+		name = "Samurai Sabre Technique"
+	.128
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Elementless"
+		description = "This character attacks with their sword, stabs it into the ground, balances themself on it and kicks their opponent away."
+		skil = "New"
+		jut = "Kenjutsu"
+		ran = "D"
+		dran = 50
+		idran = "Stamina"
+		name = "Moonlight"
+ShurikenSkill = 2
+Exp = 27
+exp = 5244.41796875
+leeching = 1
+LockPickSkill = 106
+Class = "Chuunin"
+srank = "B-"
+RPP = 5931
+Yen = 12131260
+Stamina = 8.3140125274658203125
+MaxStamina = 8.3140125274658203125
+Calories = 3370
+Agility = 1.39999997615814208984375
+MaxGenjutsu = 1.05300247669219970703125
+OOCFont = "#336699"
+SayFont = "#ffffcc"
+OSayFont = "#ffffcc"
+hair = null /*invalid data*/
+grabberSTR = 1
+profile = "<html><head><title>Demon Rising </title></head><body>\n\n\n<body background=\"http://media.giphy.com/media/BJ7HNoh62K5nG/giphy.gif\" style=\"background-position:middle; background-repeat:yes-repeat;\"> <body background color=black>\n\n<table align=\"center\" cellpadding=\"0\" border=\"0\" cellspacing=\"0\"><tr><td><table align=\"center\" cellspacing=\"5\" cellpadding=\"0\" bgcolor=\"#111\" style=\"filter:alpha(opacity=70)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=20\"><tr><td bgcolor=\"#333\" background=\" https://i.gyazo.com/b7aff75c3e2a1650f496a375effeb212.png\" style=\"filter:alpha(opacity=40)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=40\" width=\"700\" height=\"500\" border=\"200\">\n\n<div style=\"margin-top:180px;background:#111;padding:0px;font-family:cambria;letter-spacing:-3px;text-transform:uppercase;font-size:28px;color:#777;text-align:center;\">\n\n<font color=pink>\n\n<div style=\"margin-top:-5px;font-family:cambria;letter-spacing:2px;text-transform:uppercase;font-size:12px;color:#555;\">\n\n<font color=pink>Rymei</font> <font color=silver>the Demon's Sword</font> <font color=silver></font>\n\n</div></div></td></tr></table></td></tr>\n<font color=\"pink\">Rymei just activated DD-Cups: This character has large knockers that can sit a grown-man down. A Tier 2 perk</font></table></td>\n\n"
+Weapon = 1
+BaconStore = 1
+PattyStore = 2
+Oname = "Rymei"
+Oprofile = "<html><head><title>Demon Rising </title></head><body>\n\n\n<body background=\"http://media.giphy.com/media/BJ7HNoh62K5nG/giphy.gif\" style=\"background-position:middle; background-repeat:yes-repeat;\"> <body background color=black>\n\n<table align=\"center\" cellpadding=\"0\" border=\"0\" cellspacing=\"0\"><tr><td><table align=\"center\" cellspacing=\"5\" cellpadding=\"0\" bgcolor=\"#111\" style=\"filter:alpha(opacity=70)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=20\"><tr><td bgcolor=\"#333\" background=\" https://i.gyazo.com/b7aff75c3e2a1650f496a375effeb212.png\" style=\"filter:alpha(opacity=40)\" onMouseover=\"this.filters.alpha.opacity=100\" onMouseout=\"this.filters.alpha.opacity=40\" width=\"700\" height=\"500\" border=\"200\">\n\n<div style=\"margin-top:180px;background:#111;padding:0px;font-family:cambria;letter-spacing:-3px;text-transform:uppercase;font-size:28px;color:#777;text-align:center;\">\n\n<font color=pink>\n\n<div style=\"margin-top:-5px;font-family:cambria;letter-spacing:2px;text-transform:uppercase;font-size:12px;color:#555;\">\n\n<font color=pink>Rymei</font> <font color=silver>the Demon's Sword</font> <font color=silver></font>\n\n</div></div></td></tr></table></td></tr>\n<font color=\"pink\">Rymei just activated DD-Cups: This character has large knockers that can sit a grown-man down. A Tier 2 perk</font></table></td>\n\n"
+Dranks = 4
+JConst = 964
+Jchakra = 2800
+maxJchakra = 2800
+Jstam = 3000
+maxJstam = 3000
+Jnin = 11.96000003814697265625
+Jgen = 12.05000019073486328125
+Jtai = 23.770000457763671875
+Jcon = 6.5
+Jint = 17.5
+Jref = 12.81999969482421875
+Jspd = 10.69999980926513671875
+Jstr = 23.299999237060546875
+Jdef = 10.22000026702880859375
+Jdur = 6.5
+Jatkspd = 21.5
+Jgenres = 16.549999237060546875
+exptunarank = 34.5
+PerC2Nxt = 49
+uprank = 70
+InitialSet = 1
+HPPerc = 96
+RPLOG = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>This RP isn't titled, therefore it doesn't count towards anything. - Wed Dec  2 04:17:42 2015</b><font><hr><br>(*Rymei shook slightly in her sleep, her mouths releasing soft mumbles to the open room. \"Edge...\" she muttered, before waking up, her upper body lifting upright almost instantly. She had been sweating, an element produced by the nightmare that woke her. She looked around, her eyes tracing the contents of the room. \"E-Edge..\" she called out to the vacant building, hoping her master would step out from the shadows. Her legs, a strong pain still present regardless of the time elapsed. Her hands gently followed the path of each leg, feeling the scabs that were forming, making sure not to disrupt any healing. \"Edge...where are you...\" she spoke softly, eventually hearing a door close in the distance.\n\nShe quickly looked around, searching for her weapons, realizing she had lost them all in the attack. *No..* she thought, unable to defend herself. She pulled the sheets up to her chest, as if this act would surely stop anyone from attacking. As the room of the door slowly opened, she could feel her life was at its end. \n\nA modest looking woman passed through the doorway, wearing a pastel colored scrub. \"Oh..You're finally awake, that's good. You have been healing on schedule, possibly even better.\" she said, her voice soft and welcoming. \"I found you in my herb fields...I..I saw your wounds and couldn't just leave you there.\" she stated, eventually revealing to Rymei what had happened; that she had been in a slight coma for what seemed like months but was actually weeks. \n\nNot wanting to reveal who she really was, or who she was associated with, she didn't mention anything about Edge. \"Thank you..For everything..You're too...too kind.\" she said, sliding her body across the bed, as if trying to get up. \n\n\"Woah woah..wait. You still need rest..You shouldn't be getting up..Not like this.\" she said, her voice filled with concern. Rymei paid no attention to her caring words, still moving to get off the bed. \"Please...If...If you're going to get up and move around..At least stay in the home. What is mine is yours...for the time being.\"\n\n\"Thank you...I...I will remember to repay you.\" she said, still softspoken.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>It did have a title, dafuq u trippin fam - Wed Dec  2 04:17:42 2015</b><font><hr><br>(*Rymei shook slightly in her sleep, her mouths releasing soft mumbles to the open room. \"Edge...\" she muttered, before waking up, her upper body lifting upright almost instantly. She had been sweating, an element produced by the nightmare that woke her. She looked around, her eyes tracing the contents of the room. \"E-Edge..\" she called out to the vacant building, hoping her master would step out from the shadows. Her legs, a strong pain still present regardless of the time elapsed. Her hands gently followed the path of each leg, feeling the scabs that were forming, making sure not to disrupt any healing. \"Edge...where are you...\" she spoke softly, eventually hearing a door close in the distance.\n\nShe quickly looked around, searching for her weapons, realizing she had lost them all in the attack. *No..* she thought, unable to defend herself. She pulled the sheets up to her chest, as if this act would surely stop anyone from attacking. As the room of the door slowly opened, she could feel her life was at its end. \n\nA modest looking woman passed through the doorway, wearing a pastel colored scrub. \"Oh..You're finally awake, that's good. You have been healing on schedule, possibly even better.\" she said, her voice soft and welcoming. \"I found you in my herb fields...I..I saw your wounds and couldn't just leave you there.\" she stated, eventually revealing to Rymei what had happened; that she had been in a slight coma for what seemed like months but was actually weeks. \n\nNot wanting to reveal who she really was, or who she was associated with, she didn't mention anything about Edge. \"Thank you..For everything..You're too...too kind.\" she said, sliding her body across the bed, as if trying to get up. \n\n\"Woah woah..wait. You still need rest..You shouldn't be getting up..Not like this.\" she said, her voice filled with concern. Rymei paid no attention to her caring words, still moving to get off the bed. \"Please...If...If you're going to get up and move around..At least stay in the home. What is mine is yours...for the time being.\"\n\n\"Thank you...I...I will remember to repay you.\" she said, still softspoken.*) <br>"
+JutsuSubmit = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Chakra Dash<br><b>Jutsu Rank:</b>D</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Elementless<br><br><b>Jutsu Drain:</b>150<br><br>Jutsu Description: By releasing a small burst of chakra from the bottom of their feet, the user is able to propel themselves a few inches to a few feet in any direction. The more mastered the technique, the easier it is to use in succession and with less fatigue.<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Seduction Art: Sweet Scent<br><b>Jutsu Rank:</b>D</align><b>Jutsu Type:</b><br><hr><br>Genjutsu<br><br><b>Jutsu Element:</b>Elementless<br><br><b>Jutsu Drain:</b>150<br><br>Jutsu Description: Rymei is able to release an aromatic scent from her body that can cover up to a medium sized area rather quickly. Once inhaled, via mouth or nose, the victim is placed under a genjutsu in which they begin to invision Rymei as a very attractive and desireable person; becoming very irresistable to all genders. They become more open to persuassion and unable to concentrate or focus leaving them vulnerable to attacks. Because it is a widespread scent, it is able to affect multiple people at a time, regardless of sexual preference.\n\nSeal(s) required: Seal of Confrontation.<hr><br>"
+icon_state = ""
+overlays = list(appearance(filedata("name=;ext=.dmi;length=1141;crc32=0xc4fb80ef;encoding=base64",{"
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tgBwAQAAAAAA5qXathQAAAAAcAEAuG5ACQAQAAAAgCm2fyLntqjj27+20FS32pi2CSYwa7cLAAAA
+tg==
+"})),appearance(filedata("name=Clothing_Gloves.dmi;length=651;crc32=0xd76c6b10;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAuAAAAAgBAMAAAChh9CnAAAAD1BMVEXAwMA9PT2Xl5czMzONjY0z
+zFNiAAAAAXRSTlMAQObYZgAAAKp6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7M
+z1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpOSc1J
+rAQyjXTAkIszN78sNTc1D2SAIUK/W35yaTHCEEMkQ4DsotTyzLwUVB3e/riUw5U4lpQkJmdjdxqS
+suCMzLys0lJcxikruPq5gAMFAPLHTcUj4nkSAAABdElEQVRoge2YYZKCMAyFE9gDlOUE6gVAL6D3
+v5Qtzu6miRC6jNYZ3vfDmRDsS9OmphIBAAAAAAAAANgf3NWOYGeEU+0IdkYYakewM26hdgRg4nG2
+d7PL4flBIe0x5pKPsweO5welDCmh7f/9oJDuSvS10DN6fvAL1w6gCFanVlMlilHZRVEE+Uv3AV0K
+mxDkE1YXBb68V3+iPShbL8Di+J08CF7ehz926DhrE32bkgtifkxx9r2yJalTyo62Lrs/b9WnNo4f
+1CvSdvSj0chv65umruA/0XV+A59Swg7CJrVjWjthmY8U/yVkNjXihZQvWbTMWcasfm5HY1m/H7Mt
+z2fK22FHP7UWUkD/lzLFo+FzWOu3Psp3CFNcsiELwS1pbtQDmbD+2YTFjtb6/POxUl8VgEmAo0/O
+bcVUrHro+S2pnbmpHWrnuIgZX5Y0PytpqbdRXx0nJhZP3yPFp5Htn+d/CXr8wgXbhNZCKwwAAAAA
+AD6bO5RoFRMORw7AAAAAAElFTkSuQmCC
+"})),appearance(filedata("name=Rymei+Outfit.dmi;length=2134;crc32=0xc06f6e48;encoding=base64",{"
+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
+AD6bO5RoFRMORw7AAAAAAElFTkSuQmCCqQ==
+"})),appearance(null /*invalid data*/),appearance(object("//hair",0)),appearance(filedata("name=Samurai+Sword.dmi;length=2483;crc32=0x68253b2d;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAABiAAAAAgCAMAAACsEUCFAAAAQlBMVEXAwMBXPiabb0axgVQAAAAW
+FhYsLCy0diNNTU2XWxqNZD+jdEl+WTgVFRUxMTFdXV1paWmMjIyhoaH////AwMDS0tLfuXenAAAA
+AXRSTlMAQObYZgAAAMF6VFh0RGVzY3JpcHRpb24AAHicjZExD4IwEIXn9lc0sBojxdVBAxpixNG5
+oac0AkdoxfjvBWpATRPNLe+S7727Xn22iXdJyqJDQltotMKKrdhyvqDkrqTJuybklOSgLrmxjTbC
+QCc9jxKpGt3zlJwbUcJLSyjEo5N8ZiuwRUmJLZRQ9UHBlLM2RmRXd9obtsXspicqcFP740/kBKLG
+yj2Pf2xPSYFYD8jojlBewD0jnMz2waOJ/3urrxv5LE6j4XOeGe9wHnnNsfgAAAhSSURBVHic7Z0J
+m6K8EoVNgoxN7MXxu///r96qCjtVAUWFsc95emyFbJXW82YB53CAIAj6B+Rc8wBBEARBnZwP7uCC
+ByEgCIKggQAICIIgSBUAAUEQBKkCICAIglao2LoBTxQAAUEQtEIABARBEKTqnQFRkNIDBEEQdLPW
+mee+rbdotHVDIGhT4RMA3aMCgICgt1dx3LoF0D8pAAKC3l9FuXULdqk/Wzdg93oEIHIFPMyfnch+
+na1+O0A87qs+hgEvC/+Buq//oZ2oPG3dgj3qz8fWLdi9VjtnHhBFWZI704OdZJHPOFfFUFVVZ5D0
+IsRqLisni/189+sug3ZBrqIKq+sfdcDC8B8G6Hv7H9qJTphBKPrADGJOxej3zXlrQOj5y6IUIy3t
+Ge4yp2V/IsXOIIevM/kEEVsZtKsNOpNu2UB8GPDS8BnQpfybr+GG6m9oALQPldiDUIQZxKyeDQh3
+jiGenQWIxkANBz2SEkGq5EidQSV/qtJZTqeXT/lizM0glk4FnmXQZv1tYMW0A4bhF203jctYAOic
+jrf0Pxxoz9rJJvXn17f8/v763CT/SB8/jyjlbVUYz2/NbwKCrOPsyUj82fBgJ+YpD9r5I5/gcXsl
+S0WBfKo1KOdCrE9UgUtQPwEuOZht5DN7FIZDLuXToTVoo3wbkM6TonQPReiHHdCF7+lBOjBy+nEp
+s4DOAvIo/V9JwWb/89lK+n8fFgSp2gcgLl8/f9mT6fHrskH+sb7/fj+glLfV8wER2J8CO5S+Ck/G
+VdD4lxxOAwTbDjsUeRM7dIzXY2dQx2vkJR7HLlUn1CqoDdICRAco9XRyyDAh1IBPoTL5NGfQGUA6
+mvl4L3GRA1fDDujCJ3Z4CZ9oEqMbl9ECenyq7QAbkMKHFL+3+9/X8YMQu9YuAHH5e7nUM4ALPX95
+/om+MIPIadbgF+YfP2/Em7PnSAbJgFAJQXQQc6FfSgFFyUNzcihyIjKpEK6nzqBOVzK+KvAmQ5NO
+a0JjkFYILaD0s7VDem8ZtPchw6eyrd8EhAVIBkSMEhiP0Ycd0AufTkr4klwBRA1oAxA5QB7Lpv+D
+t/tf4pd0WOaGsrr8dzFfvSL/VJ9fq4t4Zz0fEOQrNMYnbw36FIKsJQ1gNXvno+xRPISVvQRZ1kkG
+mZ7zGg8PYGWsqzKmNUgjgiygOkJ5bxm0rK+YfCrb+nVA2PWnlR8nHcAQGnTAIHzvJXynrBUJIBKg
+dUAUHaCmzT+Wt/X/EwGRXQj4BasEbxH/5X+X7Otn599QW//97qx/fpN5XrlNbnemAe71GI5XGgFr
+Hi3GVDheiFccqmRssEGRNVX1HkDjc+JQyZ9iZINi1Cgm3Bqk0focoGxCLeZT2dZvAMKsP00gonRA
+aAgxNOiGD0HCj8oUwvUAbQAiA0iqmV3/WIRx9cMGhKJOaO5z3PMRoLfEqUxrX7zw/PFHuySRDn7w
+erSkTxnuqGpOs82fS/CPx88yQ1gc29TPb3P4tflXaOu/31b1PxkQjqDg4vUUTtcoz7UgioK8K2iA
+4EPsj2WRVvuprNAZoLxwaWdAEpXaOlHPILXGp2uA5EfbqG0JVQXboBMgLD7l688AUjZ/ZQ/iWFa8
+CTHsgC58Oicj/ZR+vMbUAVqrPw/IY/J9mUDZ/Z+mUAIIbQZhvAV7b19d1KJTWW/+f3596+/vVHy6
+okVmcZRlWuTTPl5NA3If8R3EL7rjqp/ZPsjE3s+bjmhu3h6bFLE2/8O09d9v6/pX30qdvwMuprE2
+eUnUHJitiQe3ZLLTYIUcrkyXEUXeIJ7eyUuD83QRUemEM5Mm5A2S/Y3L5K3WaQrnZQ+ZCTVxyJ4/
+Cp94l1n5TvGZ+oULVIhTAJHE3p0uo5JIRzfq1cd4jajQlpgOPUBr9R/6gJqcTNOnZf2fJlFaFepb
+sP/2fabuHWEv/Hg1VeQ+YpvG3+lnuNo+azCL+sCMfZBXjlwu2mi/OTouYm3+aTD6JqOF07kYX/j3
+27r+BwDCvIRTtqZlk5atbLrMQ9YYXAIE/Yw8lE9U7dU/ZMjuPFxAcbz13Rwif+YyJv7YGaR6q0Ez
+5nbKJaIMiBjLmlAZgxZ3pKcaIPIGnQHkKNTotC1oOezMbFJ/DWgbEES+SgcEwyOmJbVxPb12ufSb
+UabWsakWj7DfXKPrOV8PqK2lE+KXvhtu0souyvGlHXeylSrbALLykkbwh4m788nuRjQ2Ojcog3nR
+rYnzrWsKIPozGK2BjeVrS0zMB0/GJ09tgxYsFJJUI0RTv1K73E3RAnLS+H5LuCkawbjS3H+G5BpA
+G9/1IYQSQCiDSeGftHwOEJxATwHtRD+//Z7hQoMBADGvZwLi3PqS0zxyPCIfnOMLn3rTCqLDcBJC
+L+K5xwc22wlk+jOYG4JKFXo2X+GDgGBaghxMJRecdpqEmJHqV11c4FADYkq3Xjp2X60EqtGYGzUJ
+QiK09WVQ9e61XjvP2hLYyf+V8FMfyQziTO0wKAjtQvjWIY0Q9nUVUKP1DM3MIPKAyInvOuiP62W4
+PloD7w3q62nKGBBpp8Apw//5BjjXmLI81Q3at41yXvFq5+sZlA4IztDMoHJGb/ChJkQuiESGLCBS
+OhUQ55CaxQEoFUmz6vMunAGIHQvfOnRQZsn4jttXyAZEbwUo3viFppNFH20HdppiPIOoG3Bz9Yc0
+PG6eenUALWl6iRQLTafz60ALmmLSI8uVtYDo81mtZ5QAgNivMIPQhO+4fYUygGjXhHqrTS/UOkDM
+2eOSRM30YivvnKu/OQFzf3OBD5pWf8sxtEB2J/dsZxMHarcesIMKQdBY2KT+3QIgIAgyBT78cvXW
+fzZtBwRBEARBh/8DEL9fsm6olkYAAAAASUVORK5CYII=
+"})))
+dir = 1

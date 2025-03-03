@@ -1,0 +1,537 @@
+<br><font color=teal>*Haruna(ZenoKuthric) says: ye - Mon Oct  5 01:10:49 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You sure do preach... - Mon Oct  5 03:11:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Preach a lot about Kenshin. - Mon Oct  5 03:11:08 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . Hey. - Mon Oct  5 03:11:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Ma-- - Mon Oct  5 03:11:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Ah? - Mon Oct  5 03:11:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Another recruit. - Mon Oct  5 03:11:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Welcome. - Mon Oct  5 03:12:00 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Yeah, I'm willing to do about anything for the price. - Mon Oct  5 03:12:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: For a price. - Mon Oct  5 03:12:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: So you're a mercenary. - Mon Oct  5 03:12:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I approve. - Mon Oct  5 03:12:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Does one million sound fine to you? - Mon Oct  5 03:12:00 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . Absolutely perfect. - Mon Oct  5 03:12:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I hope you're strong. - Mon Oct  5 03:12:00 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: ... - Mon Oct  5 03:12:00 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I'd think so. - Mon Oct  5 03:12:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'm glad. - Mon Oct  5 03:12:51 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I wouldn't care enough for you if you were weak. - Mon Oct  5 03:12:51 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: I'll test if he's weak. - Mon Oct  5 03:12:51 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: If you'd like. - Mon Oct  5 03:12:51 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: And maybe you could release the seal. - Mon Oct  5 03:12:51 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Go ahead and fight him. - Mon Oct  5 03:13:42 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'd like to see his ability firsthand. - Mon Oct  5 03:13:42 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You don't mind, do you? - Mon Oct  5 03:13:42 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . No problem. - Mon Oct  5 03:13:42 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: No holding back? - Mon Oct  5 03:13:42 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: If that's okay with your leader. - Mon Oct  5 03:14:33 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: HE. - Mon Oct  5 03:14:33 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: Is not my leader. - Mon Oct  5 03:14:33 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Go ahead. - Mon Oct  5 03:14:33 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: No holding back. - Mon Oct  5 03:14:33 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: If you lose to the man here. - Mon Oct  5 03:15:24 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You might not be useful enough to me. - Mon Oct  5 03:15:24 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: But if you win without taking a single hit. - Mon Oct  5 03:15:24 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll think about an extra pay. - Mon Oct  5 03:15:24 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Towards you, of course, new recruit. - Mon Oct  5 03:15:24 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Sin'ichi is my name. - Mon Oct  5 03:15:24 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: If I win, release the seal? - Mon Oct  5 03:15:24 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) thinks: They just keep fucking appearing. - Mon Oct  5 03:16:16 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) thinks: Just stop, Holy fuck. - Mon Oct  5 03:16:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sin'ichi. - Mon Oct  5 03:17:07 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: If you win, I'll release your seal. - Mon Oct  5 03:17:07 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: My seal? - Mon Oct  5 03:17:07 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sin'ichi, if you were to win, you'd receive extra pay. - Mon Oct  5 03:17:58 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Kohaku, if you were to win, you can get your seal released. - Mon Oct  5 03:17:58 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I think the bets are high for -both- of you. - Mon Oct  5 03:17:58 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: No reason for either of you to fall back. - Mon Oct  5 03:17:58 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: /// - Mon Oct  5 03:18:49 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Kohaku, Sin'ichi. - Mon Oct  5 03:19:40 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Go on and start your fight outside in the arena. - Mon Oct  5 03:19:40 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I have business to speak of with a new potential supporter. - Mon Oct  5 03:20:32 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Okay . . . - Mon Oct  5 03:20:32 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: Hmph. - Mon Oct  5 03:20:32 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) began a slow trot towards the exit, and if not met with an impediment, proceeded to the designated arena.* - Mon Oct  5 03:21:23 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: Alright guy. - Mon Oct  5 03:22:14 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: How strong are you? - Mon Oct  5 03:23:05 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Pretty strong, I guess. - Mon Oct  5 03:23:05 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: Right. - Mon Oct  5 03:23:05 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: What about you? - Mon Oct  5 03:23:05 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: I'm weak. - Mon Oct  5 03:23:05 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: But I'll have to beat you. - Mon Oct  5 03:23:05 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: To get this seal off my chest. - Mon Oct  5 03:23:56 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . If you pay me money, I can just say you won. - Mon Oct  5 03:23:56 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: How much? - Mon Oct  5 03:23:56 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: How much do you have on your person? - Mon Oct  5 03:23:56 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: Ninety-six thousand. - Mon Oct  5 03:23:56 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . Not enough. We'll just settle it the normal way, then. - Mon Oct  5 03:24:48 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: Right. - Mon Oct  5 03:24:48 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) assumed a callous stance, while withdrawing three scrolls in near simultaneuity, throwing one in the space above him, while holding two within his arms; small tinges of chakra were exonerated throughout theses vessels, encompassing his person with a plume of smoke within a moment's grasp.
+
+Sin'ichi could then be seen withdrawing himself from the smog, accompanied by three bodies, towards which his hands were extended. Chakra perceptive individuals might see threads of chakra extended from his tips. Attention still affixed to the female, he began his strikes.
+
+As the intentions of the female were apparent - to flank to his right side, one of the puppets suddenly moved forth in this direction. Should she proceed with her attacks, four of its arms would be raised in response; the rapid motion produced allowed for the short blades within its arms to function similarly to that of a buzzsaw - with obvious effects on the woman's leg, should she proceed witih her attack.
+
+While doing this, even if the woman hadn't proceeded with her attack, the puppet simply shifted its faces, and the mouth facing the attempted attacker was opened, shooting forth with it a violent flamethrower - packed with enough intensity to turn rocks to moltenize materials. During the middle of this, Sin'ichi moved some distance away from the direct central fray.
+
+Proceeding with this, the other two of his puppets attemptedly flanked either side of the woman - the macabre-esque puppet appearing to her left, while the one marked with a triablesque appearance was at her right. The puppet at her right launched forth a single one of its arms, armed with a sword in-hand, attempting to pierce her corresponding thigh - only if she moved out of the flamethrower's range.
+
+The other simply shot forth a black smog from its right hand towards her position, regardless of if she moved or not, attemptedly hindering her and thereby locking her into place.* - Mon Oct  5 03:46:08 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) eyed the woman, as she predictably veered around the puppet - with intention to appear at its rear; however, as she aimed a strike for the puppet's face, which it hadn't an intention to dodge, it simply produced a jet-forced pumping of water, tweened to such a pressure that it could cut through rocks. This force was attemptedly applied to the woman's ribcage, with possibly serious internally damaging consequences if connected. Should she bare through the water's force, and manage to hit the puppet, would be pushed backwards by the damage, bearing a light chip on one of its faces as a result.
+
+The other puppets quickly moved in unison to this action - the tiki-masked puppet readjusting its action, such that it released an adhesive substance towards the woman as well - its span being spread forth with the assistance of the water, attemptedly sprawling it across the woman's person. The other puppet simply retreated to its master, in case any further attempts at bolting directly towards him were made.
+* - Mon Oct  5 04:10:52 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: You don't have enough money. - Mon Oct  5 04:21:07 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: *Sigh* - Mon Oct  5 04:21:58 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: If you're not going to continue, I'll assume that's a forfeit. - Mon Oct  5 04:21:58 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: No. - Mon Oct  5 04:21:58 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: Fine. - Mon Oct  5 04:21:58 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) 's brigade suddenly moved forward, as the woman proceeded with her retreat. With immediation, lead by the tiki-masked puppet, whose disjointed arm quickly followed the woman as she proceeded with her retreat; as she stopped, its swing curved - instead of a stabbing wound, its intention was to initiate a direct cut at her Achilles' tendon, with intention to sever it.
+
+Shortly afterwards, the Reaper puppet began its encroach, again attempting to release a black smog around her position through its right arm. It was at this moment that the Asura puppet attemptedly flanked her at her rear, where its arms folded back, and wire-bound kunai were shot forth, aimed at various points along the woman's torso - though in nonlethal areas, they seemed intent on further slowing the female down.* - Mon Oct  5 04:35:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Anyone dead yet? - Mon Oct  5 04:50:59 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: Oh look. - Mon Oct  5 04:51:50 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: It's like playing battleship. - Mon Oct  5 04:51:50 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: Both people are fucking blind. - Mon Oct  5 04:51:50 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) 's assumption had been correct that the woman would minorly evade his attacks, much to his pleasure. As the arm passed her, and was assumedly disregarded, the the wire's tention suddenly stiffened, and the arm was swung backwards, this time aimed at the joint of her legs. Hopefully, in conjunction with the crippling pain she should have been feeling by -now-, he might do some damage - enough to slow her down such that the next attack took full-well effect. After doing so, it simply retracted its arm and lied in wait.
+
+
+The attacks proceeded in accordance, except for one which was stockpiled through the Reaper pupppet. As the smog stopped being produced, another attack was added - with suddenness, the marionette's arms produced extensions, through which a multitude of arms were created. The sheer number of arms produced seemed quite daunting, especially as they headed towards the woman's position.
+
+Their aimed was simple - crush in powerful numbers; his best efforts were made to ensure the safety of the head, and vital regions of the torso - but little more could be said for the rest of her body.
+
+(In the same turn as before, due to Stratagem of Wind Perk)* - Mon Oct  5 05:02:04 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: So I won. - Mon Oct  5 05:14:01 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: Remove the seal. - Mon Oct  5 05:14:01 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) 's Parasite puppet immediately came through towards the mass of arms; indeterminate of her position and current status, it quickly leaned its head forward, and from atop its head came five thick metal cables, shot forth with sufficient speed, such that they attemptedly skewered what was untouched of the female. 
+
+The Asura puppet proceeded with its six-kunai attack, as expected of it from before, while the Reaper puppet simply shot forth six of its own kunai - each aimed at positions along the woman's torso.* - Mon Oct  5 05:20:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: So many puppets. - Mon Oct  5 05:20:00 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: 9fun - Mon Oct  5 05:59:15 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: 9ype - Mon Oct  5 06:00:57 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: k - Mon Oct  5 06:00:57 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: k - Mon Oct  5 06:00:57 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: k - Mon Oct  5 06:00:57 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: k - Mon Oct  5 06:00:57 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: k - Mon Oct  5 06:00:57 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: kk - Mon Oct  5 06:00:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: . . . . . . . - Mon Oct  5 06:01:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: A fairly impressive display, Sin'ichi. - Mon Oct  5 06:01:48 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Thank you. - Mon Oct  5 06:01:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I am very impressed. - Mon Oct  5 06:02:40 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Also, I didn't get hit, so I think that's a bump in pay, yes? - Mon Oct  5 06:02:40 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I didn't think I'd see a puppeteer. - Mon Oct  5 06:02:40 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I don't normally go back on promises. - Mon Oct  5 06:02:40 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: So yes, that'd be a bump in pay. - Mon Oct  5 06:02:40 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: You're seeing -the- puppeteer. - Mon Oct  5 06:02:40 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: -The-. - Mon Oct  5 06:02:40 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll keep it in mind. - Mon Oct  5 06:02:40 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I think you'll have great potential. - Mon Oct  5 06:02:40 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Pandora would work nicely together with you, I'm sure. - Mon Oct  5 06:03:31 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: If not Hiro. - Mon Oct  5 06:03:31 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You can store your puppets in scrolls if you'd like--should you have the capacity to use Fuuinjutsu. - Mon Oct  5 06:03:31 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Hm. - Mon Oct  5 06:03:31 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And as for your puppets. Seems like they could use a mending. - Mon Oct  5 06:03:31 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I'd hope so. - Mon Oct  5 06:04:22 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll handle Kohaku in the meantime. - Mon Oct  5 06:04:22 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sin'ichi. - Mon Oct  5 06:04:22 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: If you want me to. - Mon Oct  5 06:04:22 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll work on your puppets. - Mon Oct  5 06:05:13 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I've created weapons of my own before. - Mon Oct  5 06:05:13 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: A puppet shan't be too different. - Mon Oct  5 06:05:13 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Good idea. - Mon Oct  5 06:05:13 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sin'ichi. - Mon Oct  5 06:20:35 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Yeah? - Mon Oct  5 06:20:35 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll work on what puppets you need me to work on. - Mon Oct  5 06:20:35 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Preferably just one at a time. - Mon Oct  5 06:20:35 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: That's uhm, fine. - Mon Oct  5 06:21:26 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I can work on it here or in there. - Mon Oct  5 06:21:26 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Doesn't matter to me. - Mon Oct  5 06:21:26 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Anywhere you want is fine. - Mon Oct  5 06:21:26 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) reached a hand out; within said hand was clutched a scroll, and had the label "Reaper" scrawled across its breadth.* - Mon Oct  5 06:22:17 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Alright. - Mon Oct  5 06:24:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll take it from you for now. - Mon Oct  5 06:24:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: When I'm done. - Mon Oct  5 06:32:32 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll return it to you. - Mon Oct  5 06:32:32 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: It's a lot of money though. - Mon Oct  5 06:32:32 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I expect you to do your job for me. - Mon Oct  5 06:33:23 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll have many missions for you all. - Mon Oct  5 06:33:23 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I will, fully. - Mon Oct  5 06:33:23 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Most of them aren't lighthearted enough to qualify as painting a wall or something Genin may do. - Mon Oct  5 06:33:23 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: That's fine by me - so long as they pay well. - Mon Oct  5 06:34:14 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Of course. - Mon Oct  5 06:35:05 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: The tougher it is, the more money it'll reel in. - Mon Oct  5 06:35:05 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: That's perfect. - Mon Oct  5 06:35:56 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Once I upgrade your puppet. - Mon Oct  5 06:36:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Try using it. - Mon Oct  5 06:36:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'm going to upgrade it with a lightweight alkaline-earth metal. - Mon Oct  5 06:36:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And I'll reinforce it with a gray primer. - Mon Oct  5 06:36:48 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: You seem to know a lot. - Mon Oct  5 06:36:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Probably edit some of your weapons if they seem outdated to me. - Mon Oct  5 06:36:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Well you see. - Mon Oct  5 06:36:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I make guns in my spare time. - Mon Oct  5 06:36:48 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . Interesting. - Mon Oct  5 06:37:39 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: So I'm fairly experienced with weaponry. - Mon Oct  5 06:37:39 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: At least the -designing-. - Mon Oct  5 06:37:39 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I can't actually create a customized weapon like some blacksmiths. - Mon Oct  5 06:37:39 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Like those swords of the mist. - Mon Oct  5 06:37:39 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) thinks: Curb your enthusiasm, Sin. - Mon Oct  5 06:37:39 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: You can't? - Mon Oct  5 06:37:39 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Not really. - Mon Oct  5 06:38:30 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: But I'll be able to buy some. - Mon Oct  5 06:38:30 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And incorporate them into your puppet. - Mon Oct  5 06:38:30 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I'm somewhat of a blacksmitih myself. - Mon Oct  5 06:38:30 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: That's a cheaper way. - Mon Oct  5 06:38:30 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You can create some weapons. - Mon Oct  5 06:38:30 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And I'll put them in after reinforcing it. - Mon Oct  5 06:38:30 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Your puppet's name is...."Reaper". - Mon Oct  5 06:38:30 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Perhaps you could create a scythe. - Mon Oct  5 06:38:30 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I have one on it. - Mon Oct  5 06:38:30 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I see. - Mon Oct  5 06:39:21 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll edit it and see what I can do for you. - Mon Oct  5 06:39:21 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Thank you. - Mon Oct  5 06:39:21 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Huh? - Mon Oct  5 23:47:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I've finished the remodeling. - Mon Oct  5 23:47:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Take it back. - Mon Oct  5 23:47:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And then test him out. - Mon Oct  5 23:47:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I installed a gun into its mouth. - Mon Oct  5 23:47:37 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) received the scroll, and passed a tinge of chakra through its being, producing the marionette contained within said scroll. * - Mon Oct  5 23:49:20 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . Incredible. - Mon Oct  5 23:49:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: It cost quite a bit.... - Mon Oct  5 23:50:11 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: How much do I owe you? - Mon Oct  5 23:50:11 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Two million. - Mon Oct  5 23:50:11 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: But I don't expect you to pay in money. - Mon Oct  5 23:50:11 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I expect you to pay in missions. - Mon Oct  5 23:50:11 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . Okay, you'll do the same with the others then? - Mon Oct  5 23:50:11 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Eventually. - Mon Oct  5 23:50:11 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I can't just keep spending money all on you, after all. - Mon Oct  5 23:51:02 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Be content with what I've done with your puppet. - Mon Oct  5 23:51:02 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I am. - Mon Oct  5 23:51:02 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Come to my office later. - Mon Oct  5 23:51:02 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I'm just . . . wondering. - Mon Oct  5 23:51:02 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll do it eventually. - Mon Oct  5 23:51:02 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'm sure. - Mon Oct  5 23:51:02 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Alright. - Mon Oct  5 23:51:02 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Ah, Sin'ichi. - Tue Oct  6 00:08:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I have a mission for you. - Tue Oct  6 00:08:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: It's a scouting reconaissance mission. - Tue Oct  6 00:09:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I want you to infiltrate Sunagakure no Sato. - Tue Oct  6 00:09:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Infiltrate the mansion and try and take documents regarding their village's army size. - Tue Oct  6 00:09:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sin'ichi, I'll have the details written for you in scroll. - Tue Oct  6 00:13:13 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Alright, that's fine. - Tue Oct  6 00:22:36 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Good luck. - Tue Oct  6 00:23:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You can depart when you are ready. - Tue Oct  6 00:23:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Do not be caught. - Tue Oct  6 00:23:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: If you are caught. - Tue Oct  6 00:23:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Try and dispatch the one who caught you. - Tue Oct  6 00:24:19 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) trekked to the border of the gates of Sunagakure, admiring the familiarity of the scenery. Regardless, he had a purpose to his commitment - one which involved payment, and thus brought forth his full attention moreso than anything else could have.
+
+Quietly, he skulked around the border of the village, using his familiarity with the area in attempts to pass through completely unnoticed; his observant eyes tracking any nearby personnel while he did so.* - Tue Oct  6 00:49:04 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) utiliized his familiarity with the Sunagakurian mansion - being that he had, at one point in his life, visited the mansion nigh every day for the purpose of a mission - for the purpose of infiltrating the infrastructure without drawing any suspicion or alarm to himself.
+
+Even so, he drew upon his keen eyesight to spot a particular area through which he could bring himself through with ease; that particular area being the roof. Likely, it was guarded, and thus posed difficulty to the male. Thus, he withdrew a scroll, sending his newly-enhanced marionette up to the roof, and scanned it from the rear.
+
+Finding two said people on the roof, facing opposing directions on the rooftop, the marionette quickly sprung into action;  it floated towards the roof, revealing itself to one of the guards - only momentarily, as a horizontal slash accompanied itself to its introduction.
+
+As the blood stained scythe crossed the neck of the first guard, who screamed  to alert the second before his larynx was cut through, the scythe quickly split into two - creating a second scythe which was launched towards the torso of the second guard, impaling him in the lung and shortly thereafter killing him.
+
+The marionette rescinded its scythes with their retractable chain, and they were formed into one, once more. After the problem of the guards was swiftly dealt with, the male quickly scaled the building through the application of chakra on his feet. 
+
+Shortly thereafter, he infiltrated the upper-level of Sunagakure's sanctum - accompanied by marionette. Noting two more guards in the viscinity, he allowed the puppet to lurch forward before he went within their full viewing; as it did so, it sprayed forth a number of senbon, at blitzing speeds, ripping through the guards, and the walls behind them.
+
+Thus, he gained access to the room filled with information. Cursory searching allowed him to gain access to the necessary information, and he concealed said information with the rest of his paraphernalia, and began a swift depart through the entrance he made.* - Tue Oct  6 01:21:29 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Two what? - Tue Oct  6 01:24:03 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Those swirly things? - Tue Oct  6 01:24:03 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Not like they seem to matter in the long-run. - Tue Oct  6 01:24:03 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sin'ichi, do you have your mission report? - Tue Oct  6 01:24:54 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Well, Kohaku, Ushinawa is dead.  - Tue Oct  6 01:24:54 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: So that certainly doesn't matter. - Tue Oct  6 01:24:54 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Who knows. - Tue Oct  6 01:24:54 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I don't have information on that. - Tue Oct  6 01:24:54 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: His body. - Tue Oct  6 01:24:54 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) brought forth a number of scrolls from his paraphernealia, reaching the hand clasping said scrolls towards Edge.* - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: Hm.. - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: By the way. - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You have a new sparring partner in the form of Hiro. - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: Oi, hiro..When did you get your eyes like that? - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Hm? - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Shinozuka, Hiro(Your Pocket Pikachu) says: Five years ago. - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: What did you see five years ago? - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Shinozuka, Hiro(Your Pocket Pikachu) says: Nothing. - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: ... - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Who? - Tue Oct  6 01:25:45 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: The teal-haired one. - Tue Oct  6 01:26:36 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: He's very quiet. - Tue Oct  6 01:26:36 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) thinks: Stubborn. - Tue Oct  6 01:26:36 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Passive really. - Tue Oct  6 01:26:36 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Spar him. - Tue Oct  6 01:26:36 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'd like to evaluate both of your skills. - Tue Oct  6 01:26:36 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Keep your Sharingan active, Hiro, I'm sure you'll need it for this fight. - Tue Oct  6 01:26:36 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Wait, now? - Tue Oct  6 01:26:36 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Are you tired? - Tue Oct  6 01:26:36 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . Kind of, yes. - Tue Oct  6 01:27:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Then we can postpone it until later. - Tue Oct  6 01:27:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sin'ichi. - Tue Oct  6 01:28:19 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Yeah? - Tue Oct  6 01:28:19 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Did you see anyone in Sunagakure? - Tue Oct  6 01:28:19 2015
+<br><br><font color=teal>*Shinozuka, Hiro(Your Pocket Pikachu) says: I'll be going inside, Edge-san. - Tue Oct  6 01:29:10 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Alright, Hiro. - Tue Oct  6 01:29:10 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I think someone saw me. - Tue Oct  6 01:29:10 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Who was it? - Tue Oct  6 01:29:10 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I couldn't confront them, since they went back to their group. - Tue Oct  6 01:29:10 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I see. - Tue Oct  6 01:29:10 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: That's fine. - Tue Oct  6 01:29:10 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I don't think you'll attract much suspicion. - Tue Oct  6 01:29:10 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Also, uhm, could I talk to you privately? - Tue Oct  6 01:30:01 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Certainly. - Tue Oct  6 01:30:01 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Come. - Tue Oct  6 01:30:01 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Kohaku. - Tue Oct  6 01:30:52 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Admire the scenery. - Tue Oct  6 01:30:52 2015
+<br><br><font color=teal>*Kohaku(JustCallMeGromp) says: ... - Tue Oct  6 01:30:52 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Go ahead and speak. - Tue Oct  6 01:30:52 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I wouldn't say I'm unappreciative of the upgrades that you've given me but . . . how much would it actually take for me to upgrarde my puppet once more? - Tue Oct  6 01:31:44 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: A lot more work I suppose. - Tue Oct  6 01:34:17 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: It costs. - Tue Oct  6 01:34:17 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: To upgrade your puppet. - Tue Oct  6 01:34:17 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I'd be willing to do that. - Tue Oct  6 01:34:17 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Fine. - Tue Oct  6 01:34:17 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: I can go on another mission if you want. - Tue Oct  6 01:34:17 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Pass me your puppet. - Tue Oct  6 01:35:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll handle it. - Tue Oct  6 01:35:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And then you owe me a job. - Tue Oct  6 01:35:08 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) revealed a scroll from his person, with the transcription "Reaper" across its breadth, and handed it to Edge.* - Tue Oct  6 01:36:00 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . If you could do that, I'd be in your debt for I don't know how long. - Tue Oct  6 01:37:42 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sure. - Tue Oct  6 01:37:42 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sin'ichi. - Tue Oct  6 23:48:03 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I have a mission for you. - Tue Oct  6 23:48:03 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You'll be coming with me. - Tue Oct  6 23:48:03 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Oh, alright. - Tue Oct  6 23:52:19 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We're going to Kirigakure. - Tue Oct  6 23:53:10 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I have details on a blade I want. - Tue Oct  6 23:53:10 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'm going to take it. - Tue Oct  6 23:53:10 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And you're going to help me. - Tue Oct  6 23:53:10 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Come. - Tue Oct  6 23:53:10 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Follow closely. - Tue Oct  6 23:54:01 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: I understand why the great Ares has drawn me to you our meeting is Fate. - Tue Oct  6 23:54:52 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Hello. - Tue Oct  6 23:54:52 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I seek....something. - Tue Oct  6 23:56:35 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: That this village possesses. - Tue Oct  6 23:56:35 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: ..... - Tue Oct  6 23:56:35 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: AHh..not from here a suvior of the desctrution of Kohonano so yeah........Do you belive in Gods? - Tue Oct  6 23:57:26 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: ...... - Tue Oct  6 23:59:08 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I am not a survivor.... - Tue Oct  6 23:59:08 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Of the destruction of such a village. - Wed Oct  7 00:00:00 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: And the only God I believe in.... - Wed Oct  7 00:00:00 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Is myself. - Wed Oct  7 00:00:00 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: Hmmm..I Feel  a strong pressecene of the great Ares in you my friend may i ask of what it is you seek? - Wed Oct  7 00:00:51 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I seek blades. - Wed Oct  7 00:00:51 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Two of them in particular. - Wed Oct  7 00:00:51 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Have you heard of their name? - Wed Oct  7 00:00:51 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: The Kiba.  - Wed Oct  7 00:00:51 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Blades...? - Wed Oct  7 00:01:42 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: The legendary Lord Akask had them. - Wed Oct  7 00:01:42 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . . - Wed Oct  7 00:01:42 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I see. - Wed Oct  7 00:01:42 2015
+<br><br><font color=teal>*Nakahara, Setsuko(TheOfficialMidknights) says: Those two blades are katana. - Wed Oct  7 00:01:42 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I'll inspect them -myself-. - Wed Oct  7 00:01:42 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Clear? - Wed Oct  7 00:02:33 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Okay! - Wed Oct  7 00:02:33 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Sin'ichi. - Wed Oct  7 00:02:33 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Prepare in the meantime. - Wed Oct  7 00:02:33 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Do what you think is necessary. - Wed Oct  7 00:02:33 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: Hmmmm...I really like the vibe i get from you people. - Wed Oct  7 00:03:24 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: Its as though My god is right here with me. - Wed Oct  7 00:04:16 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: If you refer to me. - Wed Oct  7 00:04:16 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: You'd be accurate. - Wed Oct  7 00:04:16 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: Would you mind if i were to accompany you my overall goal in life is to become closer with my god. - Wed Oct  7 00:04:16 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) withdrew three scrolls from his paraphernalia, holding each within his palms' grasp.
+
+"I'll wait and see what they do."* - Wed Oct  7 00:05:07 2015
+<br><br><font color=teal>*Tramerus(Simbasax) thinks: The persence of Ares is strong in this one almost as strong as is in that boy, - Wed Oct  7 00:05:07 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Oi, boy. - Wed Oct  7 00:05:07 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Come over here for a moment. - Wed Oct  7 00:05:07 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: Would you happen to mean me? - Wed Oct  7 00:06:49 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Not in reference to you... - Wed Oct  7 00:06:49 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: But.... - Wed Oct  7 00:06:49 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: You might be an interesting candidate for an ally. - Wed Oct  7 00:07:40 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: It would be an hornor so serve someone with such a Ares like presece. - Wed Oct  7 00:08:32 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Very well. - Wed Oct  7 00:08:32 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Come over here. - Wed Oct  7 00:08:32 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: And boy, come here too. - Wed Oct  7 00:08:32 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Uh...Okay! - Wed Oct  7 00:08:32 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: . . .  - Wed Oct  7 00:11:05 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: No. - Wed Oct  7 00:12:48 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: You'll be coming with me, that's all. - Wed Oct  7 00:12:48 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: You don't fit here in Kirigakure. - Wed Oct  7 00:12:48 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Oh... - Wed Oct  7 00:13:39 2015
+<br><br><font color=teal>*Nakahara, Setsuko(TheOfficialMidknights) says: Have you seen his mother? She's a violet-haired woman. - Wed Oct  7 00:13:39 2015
+<br><br><font color=teal>*Nakahara, Setsuko(TheOfficialMidknights) says: Her name's....Misa. - Wed Oct  7 00:13:39 2015
+<br><br><font color=teal>*Nakahara, Setsuko(TheOfficialMidknights) says: Or his father.. - Wed Oct  7 00:13:39 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: No I have not. - Wed Oct  7 00:14:30 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: ........... - Wed Oct  7 00:18:46 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: What do we do now? - Wed Oct  7 00:18:46 2015
+<br><br><font color=teal>*Nakahara, Setsuko(TheOfficialMidknights) says: Masked man? - Wed Oct  7 00:18:46 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: We'll be waiting here. - Wed Oct  7 00:19:37 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: For the blades. - Wed Oct  7 00:19:37 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Talkative blonde, over there. - Wed Oct  7 00:19:37 2015
+<br><br><font color=teal>*Nakahara, Setsuko(TheOfficialMidknights) says: The Kiba blades..? - Wed Oct  7 00:19:37 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I'm sure you know something. - Wed Oct  7 00:19:37 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Yes. - Wed Oct  7 00:19:37 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: .... - Wed Oct  7 00:20:28 2015
+<br><br><font color=teal>*Nakahara, Setsuko(TheOfficialMidknights) says: What do they look like? - Wed Oct  7 00:20:28 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Black steel blades. - Wed Oct  7 00:20:28 2015
+<br><br><font color=teal>*Nakahara, Setsuko(TheOfficialMidknights) says: No one here wields black-bladed weaponry. - Wed Oct  7 00:20:28 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I will be the judge of that. - Wed Oct  7 00:20:28 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I only hope I can have these blades peacefully. - Wed Oct  7 00:21:20 2015
+<br><br><font color=teal>*Nakahara, Setsuko(TheOfficialMidknights) thinks: Is this guy a pedophile? - Wed Oct  7 00:21:20 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I wonder how the local delicacies taste like. - Wed Oct  7 00:22:11 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: .... - Wed Oct  7 00:22:11 2015
+<br><br><font color=teal>*Nakahara, Setsuko(TheOfficialMidknights) says: The seafood is top notch. - Wed Oct  7 00:23:02 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I'm not talking about that kind of food. - Wed Oct  7 00:26:27 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Anywho... - Wed Oct  7 00:28:09 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Let's wait... - Wed Oct  7 00:28:09 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: It's almost like playing a game. - Wed Oct  7 00:28:09 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: You're the baby sheep. - Wed Oct  7 00:28:09 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: And I'm the shepherd. - Wed Oct  7 00:28:09 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I must be the shepherd. - Wed Oct  7 00:28:09 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: Huh... whats going on? - Wed Oct  7 00:28:09 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Nothing much. - Wed Oct  7 00:29:00 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: What about sheep... is someone a sheep summoner here? - Wed Oct  7 00:29:52 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: ...Sheep? - Wed Oct  7 00:29:52 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: No. - Wed Oct  7 00:29:52 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: Aww... - Wed Oct  7 00:30:43 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: .... - Wed Oct  7 00:31:34 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: He'd be fairly badass though. - Wed Oct  7 00:31:34 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I'm sure. - Wed Oct  7 00:31:34 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: What makes you think someone who summons sheep threatening? I just wanted to pet one. - Wed Oct  7 00:31:34 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Considering one who summons dinosaurs died the other day. - Wed Oct  7 00:33:16 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: To a man who summons rats. - Wed Oct  7 00:33:16 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I'm not sure. - Wed Oct  7 00:33:16 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: How...did he die to rats? - Wed Oct  7 00:34:08 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Who knows. - Wed Oct  7 00:34:08 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: It only goes to show. - Wed Oct  7 00:34:08 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Nurture surpasses nature. - Wed Oct  7 00:34:08 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: I don't think that what that shows. - Wed Oct  7 00:34:08 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: It's your perspective. - Wed Oct  7 00:34:59 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: I summon rats! - Wed Oct  7 00:36:41 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: But I didn't kill anyone... - Wed Oct  7 00:36:41 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Don't worry about it, child. - Wed Oct  7 00:41:48 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I don't reference you. - Wed Oct  7 00:41:48 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Oh. Ok. - Wed Oct  7 00:47:47 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: Hmmm. - Wed Oct  7 00:50:20 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: What's your name, Religious one? - Wed Oct  7 00:52:54 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: Tramerus you may call me Tram if you wish. - Wed Oct  7 00:53:45 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Tram. - Wed Oct  7 00:55:28 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I see. - Wed Oct  7 00:55:28 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Get familiar with Si'nichi there. - Wed Oct  7 00:55:28 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: Nice to meet you Si'nichi. - Wed Oct  7 00:56:19 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: Haven't seen any of you guys here in this village before.  - Wed Oct  7 00:58:01 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: We don't come here so frequent. - Wed Oct  7 01:06:33 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: That's why. - Wed Oct  7 01:06:33 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Koeki, was it? - Wed Oct  7 01:11:40 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: So why are you here? - Wed Oct  7 01:12:32 2015
+<br><br><font color=teal>*Tramerus(Simbasax) thinks: The great Ares brought him here... - Wed Oct  7 01:15:05 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Hm? - Wed Oct  7 01:16:48 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Yeah. - Wed Oct  7 01:16:48 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Who are you and what do you need? - Wed Oct  7 01:17:39 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I'll cut to the chase. - Wed Oct  7 01:20:12 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: My name is God D. Leader. - Wed Oct  7 01:20:12 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: And I'm in search of the Kiba Blades. - Wed Oct  7 01:20:12 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Well your search won't do you any good. - Wed Oct  7 01:21:04 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: You won't get them. - Wed Oct  7 01:21:04 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Property of kirigakure. - Wed Oct  7 01:21:04 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) thinks: God... D....Leader.... what the hell. - Wed Oct  7 01:21:55 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Kenshin's also property of Kirigakure. - Wed Oct  7 01:21:55 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: But he got killed. - Wed Oct  7 01:21:55 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Doubt it. - Wed Oct  7 01:21:55 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I don't see what the difference is. - Wed Oct  7 01:21:55 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Anywho... - Wed Oct  7 01:22:46 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Kenshins too quick for anyone. - Wed Oct  7 01:22:46 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Property of Kirigakure or not.... - Wed Oct  7 01:22:46 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: You are talking to the person that broke his jaw.... and probably his groin. - Wed Oct  7 01:22:46 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: I'd like to take them off of your hands. - Wed Oct  7 01:22:46 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Well, you can't. - Wed Oct  7 01:22:46 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: There's no offer you could make. - Wed Oct  7 01:22:46 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Ten million. - Wed Oct  7 01:22:46 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: No. - Wed Oct  7 01:22:46 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: A hundred million. - Wed Oct  7 01:23:37 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: There's too much history tied to those blades and Kirigakure. - Wed Oct  7 01:23:37 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: History you say? - Wed Oct  7 01:23:37 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Weapons are weapons. - Wed Oct  7 01:23:37 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: They're used to fight. - Wed Oct  7 01:23:37 2015
+<br><br><font color=teal>*Tramerus(Simbasax) thinks: I wonder if he could buy me an artifact of Ares.. - Wed Oct  7 01:24:28 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Indeed they are. - Wed Oct  7 01:24:28 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: Actually collectors just hang them up on wall. - Wed Oct  7 01:24:28 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: So they can be used to be look at, though their purpose is to fight. - Wed Oct  7 01:24:28 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: But like I said, i'm not giving them away or selling them. - Wed Oct  7 01:24:28 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: ...... - Wed Oct  7 01:25:20 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Very well then. - Wed Oct  7 01:25:20 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Come, Sin'ichi, Tram, Anguo. - Wed Oct  7 01:25:20 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: Then I must take them. Mwhahaha- Oh...dang... I was hoping to predict his next line. - Wed Oct  7 01:25:20 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Goodbye. - Wed Oct  7 01:25:20 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) says: Oh, huh? - Wed Oct  7 01:26:11 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) thinks: Wish a nigga would try to take them, gurl please. *Black girl voice* - Wed Oct  7 01:26:11 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) thinks: -omit- - Wed Oct  7 01:26:11 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) says: Though Sin'ichi. - Wed Oct  7 01:26:11 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: Should you put Koeki down. - Wed Oct  7 01:27:02 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: Two million is in it for you. - Wed Oct  7 01:27:02 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: I would cooperate if you choose to do do. - Wed Oct  7 01:27:02 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: (So*.) - Wed Oct  7 01:27:02 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: So would you, Tram. - Wed Oct  7 01:27:02 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) proceeds behind the masked individual.* - Wed Oct  7 01:27:02 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) whispers: Oh, wait. - Wed Oct  7 01:27:53 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) whispers: Who's she? - Wed Oct  7 01:27:53 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: The Kage. - Wed Oct  7 01:27:53 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: Nonofficial. - Wed Oct  7 01:27:53 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: So not a Sergeant. - Wed Oct  7 01:28:44 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) whispers: I'm not sure what that is, but she's the leader of the village? If you want me to, that's fine. - Wed Oct  7 01:28:44 2015
+<br><br><font color=teal>*Tramerus(Simbasax) whispers: Hmmm I I have an ace but I'll need a very big distraction. - Wed Oct  7 01:28:44 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Hey Violet, did you ever finish that mission? - Wed Oct  7 01:28:44 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: Go ahead and try. - Wed Oct  7 01:29:36 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: Anguo, behind me. - Wed Oct  7 01:29:36 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Hm, Guess she's daydreaming. - Wed Oct  7 01:29:36 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) whispers: (lemme check something first.) - Wed Oct  7 01:30:27 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Hey, Anguo. - Wed Oct  7 01:30:27 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Catch. - Wed Oct  7 01:30:27 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: No problem kid. - Wed Oct  7 01:32:09 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: So....are you guys just going to sit here and stare at me or what. - Wed Oct  7 01:34:43 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: Maybe he has become infactuated with you? - Wed Oct  7 01:35:34 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Hope not. - Wed Oct  7 01:36:25 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: If you two married, and you became Miss Leader. Would you give him the swords hes looking for? - Wed Oct  7 01:37:16 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) says: Calm yourself kid. - Wed Oct  7 01:37:16 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: *never acts exited all words should be stated in the most lifeless tone* - Wed Oct  7 01:38:08 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: Just a simple question... the only interesting thing that happened today. - Wed Oct  7 01:38:59 2015
+<br><br><font color=teal>*Jirun Lanzi(JoJoSpirals) says: Maybe, if I get a water bottle and spray them. They'll go away. - Wed Oct  7 01:38:59 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) whispers: (ok admins don't appear to be too active atm. but uh, both yall still here?) - Wed Oct  7 01:39:50 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: (Yes.) - Wed Oct  7 01:40:41 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) whispers: (i am - Wed Oct  7 01:40:41 2015
+<br><br><font color=teal>*Sin&#39;ichi(Ras Trent) whispers: (aii, fuck it then.) - Wed Oct  7 01:40:41 2015
+<br><br><font color=teal>*Tramerus(Simbasax) whispers: (yup) - Wed Oct  7 01:42:24 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) abruptly turned about, holding in his left hand two scrolls, and in his right a single scroll. Tinges of chakra were passed through each of these objects - the resultant being the appearance of wooden emissaries, under the bidding of Sin'ichi's fingertips.
+
+As the smoke cleared, a large scythe could be seen leaving the plume, headed directly for the female's position - directly at her torso. As quickly as the previous action transpired, two figures could be seen darting out from the smoke, attempting to flank at either side of the female.
+
+At this position, each of these marionettes went into action; at her right, one tilting its head forward and releasing five tendrills to her position, with intention to assault the corresponding side of her lower body, with two stray ones aimed at her thigh and knee.
+
+The other's arms simply folded backwards at the joints - six arms in total, thus six kunai were produced from these orifices, each aimed in similar positions to the tendrils of the previous assault. 
+
+During the assault, the smoke would clear to Sin'ichi standing behind another marionette.* - Wed Oct  7 01:53:29 2015
+<br><br><font color=teal>*ANBU Agent(X_Jake From State Farm_X) whispers: [catch a nigga up] - Wed Oct  7 02:06:17 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: (Ryme.) - Wed Oct  7 02:07:08 2015
+<br><br><font color=teal>*ANBU Agent(RuinousAnchor) whispers: (we need to gank this Koeki nigga.) - Wed Oct  7 02:07:08 2015
+<br><br><font color=teal>*ANBU Agent(X_Jake From State Farm_X) whispers: [right] - Wed Oct  7 02:08:00 2015
+<br><br><font color=teal>*ANBU Agent(X_Jake From State Farm_X) whispers: [ima be like *watched that hoe come down, and made her a popsicle with my katana goin in her booty*] - Wed Oct  7 02:09:42 2015
+<br><br><font color=teal>*ANBU Agent(X_Jake From State Farm_X) whispers: [legit] - Wed Oct  7 02:09:42 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) 's attacks seem for naught, as a powerful shroud of chakra, easily palpable to anyone with basic sensory abilities, as he possessed, could feel. Thereby, he aimed to alter his position, and that of his marionettes, such that the situation could be altered in his favour.
+
+Immediately, as the female's attack was set into initiation, his response was nigh as swift. Sin'ichi, and his puppet closest to him, retreated - scaling some distance as to escape her immediate attack range. A stream of black gas, streaming towards the woman, was released from its left arm - appearing some. Thereafter, the puppet at her left aimed to follow her from the rear, stopping at some medium distance. 
+
+As she elevated herself to such insane heights, its main face released a potent stream of flames - intense enough to cause metal materials to melt with little resistance - at her position, attempting to utilize the currents encompassing her form to his avail.
+
+Quickly after that, if the woman managed to land, his third marionette was positioned some distance from her rear.
+
+* - Wed Oct  7 02:26:46 2015
+<br><br><font color=teal>*Tramerus(Simbasax) says: oh go t damn - Wed Oct  7 02:31:53 2015
+<br><br><font color=yellow>*Sin&#39;ichi(Ras Trent) 's attack seemed to fail, and thus the female's devastating attack had connected with the earth - seeming to bury him in a pile of rubble, and eliminating him rather swiftly.* - Wed Oct  7 03:06:01 2015
+<br><br><font color=teal>*Koeki(ZuuZuu) thinks: These..these'll take way to long to heal with my limited mastery.... - Wed Oct  7 03:12:00 2015

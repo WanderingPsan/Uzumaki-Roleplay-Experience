@@ -1,0 +1,1622 @@
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "Password Scroll"
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'profile2' found on Thu Jul 30 05:53:58 2015
+profile2 = "Come to the lake behind the Mizukage's Mansion - Niza"
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'description' found on Thu Jul 30 05:53:58 2015
+description = "This character's mating parts have been re-defined. Any package less than ten inches is barely felt."
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "Carved Out"
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'icon_state' found on Thu Jul 30 05:53:58 2015
+icon_state = ""
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "E-Cup"
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Scrolls/Scroll
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=;ext=.dmi;length=1996;crc32=0x150cc57c;encoding=base64",{"
+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
+gg==
+"})
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Citem/tools/Lockpick
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Clothing/Belt
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'icon_state' found on Thu Jul 30 05:53:58 2015
+icon_state = "Key"
+//End of exported data.
+//Orphan savefile buffer 'RPPSpent' found on Thu Jul 30 05:53:58 2015
+RPPSpent = 7
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Clothing/Belt
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Food/Vegetable_Ramen
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/Perk/Blank_Perk
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/Perk/Blank_Perk
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'description' found on Thu Jul 30 05:53:58 2015
+description = "This character has E-Cup breasts. "
+//End of exported data.
+//Orphan savefile buffer 'icon_state' found on Thu Jul 30 05:53:58 2015
+icon_state = ""
+//End of exported data.
+//Orphan savefile buffer 'tier' found on Thu Jul 30 05:53:58 2015
+tier = 1
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "Bra"
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=;ext=.dmi;length=382;crc32=0xce86d02e;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgBAMAAABQs2O3AAAAJFBMVEX/wOHQKEL/8Ln/XGr/0LG/
+Gzf/5fn0TGj/j6f/utT/6f//7v/yZXPjAAAAAXRSTlMAQObYZgAAAGx6VFh0RGVzY3JpcHRpb24A
+AHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJ
+iYszJbOoGMg05OJMK0rMTYWw4QqKUhNTcClSVnD1cwFbCwD9iSJFw0e+8gAAAJBJREFUOI1jYBgF
+VAOMSoJQoCSAjU9YgSFCQBgbn7ACRpdQKHARwMYnrAADiKVBQSIOf4ullVeUl6WXl+FWkDYzrSNt
+5jScCjKnlacBIW4T0svSZrSlzcDthozOae1lQDNwm1BelpZentmG25Grd86cgc8NaTOnl6fNbMMX
+DmVpIIwnHAiFJAEFgnCAQwGVAQCDQ0Z2C1m/kAAAAABJRU5ErkJggg==
+"})
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=SSO+-+Blindfold.dmi;length=396;crc32=0x2d67c29c;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACAAgMAAADxDYqIAAAADFBMVEXAwMAAAAAnJyfAwMApxx/0
+AAAAAXRSTlMAQObYZgAAAIx6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1Ow
+VTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpOSc1JrAQy
+jXTAkIszN78sNTc1D2SAIUK/W35yaTHCEEMkQ5BUefvjUqKs4OrnAnY5AHHwM/4VxHNzAAAAlklE
+QVRYhe3XsQmAMBAF0FgYcAS3cQSbW8IpHME1zJQWMSH+cFxsIsJ/TYQcX6vP6Ry9M4rEB5EVL5by
+9OGMF1s4HoM+hL08MTEFuOG+SCdKASYtgIioK63ucu1pBYq9qRZo1ZvsPyL6grovInVfxCCrQHNQ
+/QZl8UTW4klE1Bf+HqtgXzQTi5obWz9m5mDfwal1kH7kAs61OUBufa4aAAAAAElFTkSuQmCC
+"})
+//End of exported data.
+//Orphan savefile buffer 'Password' found on Thu Jul 30 05:53:58 2015
+Password = ""
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "Heightened Reflex"
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Clothing/Bra
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/Perk/Blank_Perk
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Food/Vegetable_Ramen
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "Face Bandages"
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/Perk/Attack_Speed
+//End of exported data.
+//Orphan savefile buffer 'icon_state' found on Thu Jul 30 05:53:58 2015
+icon_state = "rfx2"
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'tier' found on Thu Jul 30 05:53:58 2015
+tier = 1
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Scrolls/Scroll
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Clothing/Nez_Blackshirt
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'description' found on Thu Jul 30 05:53:58 2015
+description = "This character wears Jordans. They are surprisingly stylish and protect the feet from caltraps. They don't really do anything else."
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'ele' found on Thu Jul 30 05:53:58 2015
+ele = "Earth"
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=;ext=.dmi;length=382;crc32=0x9ab112fa;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgBAMAAABQs2O3AAAAJFBMVEXA//8rqKH4//9j3Mnw//8a
+m5bn//9PzMeS//+9///s///x///xRLDwAAAAAXRSTlMAQObYZgAAAGx6VFh0RGVzY3JpcHRpb24A
+AHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJ
+iYszJbOoGMg05OJMK0rMTYWw4QqKUhNTcClSVnD1cwFbCwD9iSJFw0e+8gAAAJBJREFUOI1jYBgF
+VAOMSoJQoCSAjU9YgSFCQBgbn7ACRpdQKHARwMYnrAADiKVBQSIOf4ullVeUl6WXl+FWkDYzrSNt
+5jScCjKnlacBIW4T0svSZrSlzcDthozOae1lQDNwm1BelpZentmG25Grd86cgc8NaTOnl6fNbMMX
+DmVpIIwnHAiFJAEFgnCAQwGVAQCDQ0Z2C1m/kAAAAABJRU5ErkJggg==
+"})
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Clothing/Shoes
+//End of exported data.
+//Orphan savefile buffer 'worn' found on Thu Jul 30 05:53:58 2015
+worn = 1
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Citem/tools/Lockpick
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Clothing/Jacket
+//End of exported data.
+//Orphan savefile buffer 'RPPSpent' found on Thu Jul 30 05:53:58 2015
+RPPSpent = 16
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = object("//overlays",2734)
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "Pink & White Jordans"
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=;ext=.dmi;length=358;crc32=0xd8a73acc;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgBAMAAABQs2O3AAAAG1BMVEX///+Kh4D///fCu6j//+95
+enX///+uq6bx7uU/E4ggAAAAAXRSTlMAQObYZgAAAGx6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX3
+9FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGMg0
+5OJMK0rMTYWw4QqKUhNTcClSVnD1cwFbCwD9iSJFw0e+8gAAAIFJREFUOI1jYBgFVAOMSoJQoCSA
+jU9YgSFCQBgbn7ACRpdQKHARwMYnrAADiKVBQSIOf4ullVeUl6WXl+FWAAQdeE1IKwdB3Cakl6Vl
+tKVl4DYBKNteBjQDtwnlZWnp5WlteB2Zgc8NaSD9aW34wqEsDYTxWoE/JAkoEIQDHAqoDADHDUOG
+gkQ7EwAAAABJRU5ErkJggg==
+"})
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/Perk/Reflex
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=;ext=.dmi;length=1212;crc32=0xd576bc46;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAOAAAADgAQMAAAAg4/iiAAAABlBMVEUAHjwAHjw7ZJRtAAAAAXRS
+TlMAQObYZgAAALp6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+Di
+LM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpOSc1JrAQyjXTAkIsz
+N78sNTc1D2SAIUK/W35yaTHCEEMkQ5BUefsTVOKSn5Keil2VMcI1hjpAiNAUnppYkJ+H3Q9GKH7g
+4szJzy8AKyHgdyTjkX1GUvAoK7j6uYDjAwC2oG0IgGjmiwAAA55JREFUWIXtmM1u1DAQxyfr0ixS
+lVa9NIe29BH2GImqyqNE4gX2WIkeXMGBx+AxegwXngIh38qNvXFcPJ7xZ7xmWwRCKCNtnPHPiT8y
+/3iyALPNxjbuA3UpsJQh7PNQRHfQlRWWLcCJg4dJN0cAK10sjFMDDLo4x/NO/xqAtWspJCiuNy10
+Y+dDNVY4YNO6MY29r9sJHKDiLnRj7+seqYq70HMSzufxmmpfxb513EqAncNuS2c/22xlG/eBI4fh
+GII+gSp3S8kadTLDq9IoXYVOqtFT8qkm1aiw3aImd2iUJZPXKIttolFWGVWlGrXjdzNONYo2wH9q
+1Z+FBzn48vehzMBlETJ9/+GpUDKUERTwartVJbhxlbaRhdEVWWgHsvwlNMt05eGBZIiHIzysptAs
+o9OkhRDAa3vIQa/JGJqHrvBQQ7q9G+g1mYFekxnIClYTiMYKHrLQWxH+89aX4PBcWK0LUDw8F1Zf
+SnDE4yX/2G75B9/wcAcUvJy13QDFuInZaoNVyuZ79bHk6MALxKeROqBMUbwbOa5MuN7r00qa2+jA
+r+5H41F0LS6AQk0P4EwXD32QxS5v/dDxfpcnwXxuHsEEF076tYaPd8GV26/aWdByXeir327BRWL1
+44EGYOHFd+nyxerzhlYKH1Gj647fBPCF4lfsQOFff0TAveI9qwA6H3iKxuk5j3ZDnW0PW5RgMWHP
+QI6iJT3gxFpXYGgkdk5Fl4UNFWsKx51QTKF/zZ5NR+thN4X+7b0qwczrxm8KqgSNjTFV6LvX+uhL
+rBvQd4+rj+G6h8yzlCSNeAbJc+siP8lv2+h7bpLfygCm+a3/YDQzi/PbeGnS/HaYjDf9Bo0sl9/O
+Zs1rMvLJ2qjwJ+fuEIiDfejwxMuOsjL2YdPEsGu9X6lahrKDNQL2xSjGCKraw2N9bRgF9H3E8Xdp
+dtog3ZJ2WwOT812HwUU7MEfS2lzsIe3ADBX1rgwEu8myRrmDNXayIIirYjSKk8ThdtIuGEGj0YZv
+3dqlXgWFWckre8LnkGq0gchijaZ/wMT/1sgYRoKaqEuFTgoHmO0pdpKpc5psEz+oc7JrQ9jZ+sb7
+zozschq1ziaQndMomtqlUXZIoxxFCFXwT0Reo+yQRinEvEaB2uc1yg5plGUog39FBcQarcFp1GjS
+aXSESKPGcRpV4FbQrbCZ8Ua3trv7Kng2diWP7K56BVNrTjOV1g7LX3WyAHfsgGxF+DfsJwst8Mo+
+1ZpqAAAAAElFTkSuQmCC
+"})
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=;ext=.dmi;length=904;crc32=0x32f90c42;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACgBAMAAAB54XoeAAAAElBMVEX////tlLz/4///wOj/qtL/
+//9tcJG4AAAAAXRSTlMAQObYZgAAAKB6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/tz/CBEMkE5CUuOUnlxYTVOVYUpKYnI3dOUjKgjMy87JK
+S3EZp6zg6ucCDggARSNKe4jXT8gAAAJ4SURBVGiB7ZlRdqMwDEUNzAIwngU49gbA3kL2v6aKzDkT
+6ykH4ROaflS3/agMPIxD4VZ1zjAM43MMixs9q1NqazemyI8QA5xQ3Fjnpq7E3O5QV37EVLeDCe2B
+kxKIM2SBOCGXQsxLbOta29otCWeYbgcTou0xwxVVHuAKL/nuKbnMF3UqPKAzkCYUYeDdwIJLogZu
+vAy8rHA+NXCeMHAdmmqoMGNXM7/R6K5hdagYyO9DDKQB2KHyhFA9P8Lz/T1spgE2hLXDA+SI3MMw
+DMMwfgLVJ18IJmYwFzrhk90+qPkkHxjqhvIT2u2qTz4GmqscUhY2ldoZqD4pB1DfVtis2JoYQD/L
+EPDxwAC25aS+fW+g5pMiUBfMY590/u/9zo9nf3U87sy20nxS4D0GmlAahmEY5+jtD6p09gf1hmVn
+f1BvWGr9wXocOIj3uNYfzLG9qBEFc/ByyY/beU4RzAXj1EDFtqD7t3PcH6QlZIusBir9QUrIaFvs
+UxCBir7pgXB+rT+I9iUDcUJKf3AAu/tzv/vjwHcJ27X6iFdgGIbxY9yufB7tz8p85RM4rPsj+MpA
+egUV0Z57gyXXEtmI1DmqG/24+Yir3rpQKC9sj9vXrneNvGSyQVj1VjDpkmGGFJi5zlHdzrCWEV/k
+dZufuxNsDVNYoV8Y+YRCGTe+6mN6vglffMoTfbG6YCA2HGna/386cR9OBVtbMpAnKL8p/YEKbwfO
+j++eQGGcnFC4vkG7jwKL6EgeBcp+4YtAvupKoP7/Z2wQ+ksfL/9OaopnGIbxGznhe32c8L3OQN33
++jjhe52c8b3OQN2mLPAY3ff6OOF7nYG67xnGky8v9nLLnmEXPQAAAABJRU5ErkJggg==
+"})
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Citem/tools/Lockpick
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Scrolls/Scroll
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'Activo' found on Thu Jul 30 05:53:58 2015
+Activo = 1
+//End of exported data.
+//Orphan savefile buffer 'GChak' found on Thu Jul 30 05:53:58 2015
+GChak = 7
+//End of exported data.
+//Orphan savefile buffer 'Gsense' found on Thu Jul 30 05:53:58 2015
+Gsense = 50
+//End of exported data.
+//Orphan savefile buffer 'description' found on Thu Jul 30 05:53:58 2015
+description = "The user activates their Byakugan."
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "Byakugan"
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=;ext=.dmi;length=2395;crc32=0x4137c3c5;encoding=base64",{"
+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
+gg==
+"})
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=;ext=.dmi;length=689;crc32=0xfeb46c05;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACgBAMAAAB54XoeAAAAElBMVEXAwMA9PT0zMzOXl5eNjY3A
+wMDIK+QwAAAAAXRSTlMAQObYZgAAAKp6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/W35yaTHCEEMkQ4DsotTyzLwUVB3e/riUw5U4lpQkJmdj
+dxqSsuCMzLys0lJcxikruPq5gAMFAPLHTcUj4nkSAAABl0lEQVRoge2ZYW7DIAyFbbIDQHYB2p6g
+7QXa+1+qgWyaMQRCi6Zqe9+PSLbIw05o9eQQAQAA+Eew77/F1jJ8Ke5w2IyJPlkL2rO4nxb1WQpe
+QuIs4uVixB1kckG5n1vuOcqSww6WRbyU6KVGveUYTzLhbkR3kXBFjSqxqKG4wXoAAAAAeFOm0YJ8
+HC2ojY6zyqsEv/aTYB+uNT8Z1k4iEfyllX6PE4eZ+8k0XpGJuSQoKtJ+kr8vErEgesOsZekfbzv8
+ZKfBBAAAAACocVBx1VW2h2XptC7EeoOE+nyQTOq21gUizvxk9G9qvSxgPiQl8+lLRNZjk5YaLasG
+osHU9dge96bazSx05idb6AYwKwQAgDHw6D9Uqz+zvSzoBwvef2scsT5bN247c120+OqHCZIPgmac
+XhwIfew7U5nXeZXEqQx4y+xkI0+cQ6d+XzzJnvUvhYsbmO35YHh1ycdg9dwzOxeTp+35IDVOa/HT
+b5p0feO+cFw0O48PAAAA8B7A74EO2Jey5vnj0/Z7vYJtv9cJ/B74YzwAW54Ugy4EcqMAAAAASUVO
+RK5CYII=
+"})
+//End of exported data.
+//Orphan savefile buffer 'Gref' found on Thu Jul 30 05:53:58 2015
+Gref = 1.5
+//End of exported data.
+//Orphan savefile buffer 'Byakugan' found on Thu Jul 30 05:53:58 2015
+Byakugan = 1
+//End of exported data.
+//Orphan savefile buffer 'jut' found on Thu Jul 30 05:53:58 2015
+jut = "Doujutsu"
+//End of exported data.
+//Orphan savefile buffer 'icon_state' found on Thu Jul 30 05:53:58 2015
+icon_state = "Byakugan"
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'RPPSpent' found on Thu Jul 30 05:53:58 2015
+RPPSpent = 7
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'description' found on Thu Jul 30 05:53:58 2015
+description = "This character's reflexes are even more impressive than that of a character with the reflex perk. They are capable of dodging projectiles at medium range, and are capable of trading blows and blocking effectively with fast characters."
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:58 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'worn' found on Thu Jul 30 05:53:58 2015
+worn = 1
+//End of exported data.
+//Orphan savefile buffer 'description' found on Thu Jul 30 05:53:58 2015
+description = "This technique lets the user summon a river of mud. This technique can have water added to it to speed up the flow and increase its power."
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/items/Citem/tools/Bingo_Book
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:58 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:58 2015
+type = /obj/Custom/Blank_Buff
+//End of exported data.
+//Orphan savefile buffer 'BOOST' found on Thu Jul 30 05:53:58 2015
+BOOST = 20
+//End of exported data.
+//Orphan savefile buffer 'mouse_drag_pointer' found on Thu Jul 30 05:53:58 2015
+mouse_drag_pointer = appearance(filedata("name=Swaddle.dmi;length=358;crc32=0x799a5a4c;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJFBMVEXAwMCGYCZBQUGneUfZsIj+
+zJT29vYAAABSUlK+jEH////W1tb4s04yAAAAAXRSTlMAQObYZgAAAGR6VFh0RGVzY3JpcHRpb24A
+AHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJ
+iYszJbOoGMg05OJMK0rMTYWwlRVc/VzAJgIAmrcYC32rgUMAAACASURBVCiRY2AYVIBRUEgBRUDY
+1dkIRYFpeqsxshJG1wxT5wIkAcHQ4FDjQiQFE91L3YsrBRAi4kaqQcpIKhi4xErDExcgCXAvNHGW
+2oAssFpQcBeKwK5Vq1ajCKzavXsVqpZVq1C0MOxavWs1iud27VqNKsC9CsUIINi9m2FAAQA4LSNW
+Ey1cigAAAABJRU5ErkJggg==
+"}))
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:58 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:58 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "Robes"
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "Blindfold"
+//End of exported data.
+//Orphan savefile buffer 'tier' found on Thu Jul 30 05:53:58 2015
+tier = 2
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=Asuna+Alfeim+Online.dmi;length=930;crc32=0x5ebdc5a1;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACABAMAAAB+TX8oAAAAD1BMVEWN89z////AwMCZAACN89x7
+ybotAAAAAXRSTlMAQObYZgAAAIx6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7M
+z1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpOSc1J
+rAQyjXTAkIszN78sNTc1D2SAIUK/W35yaTHCEEMkQ5BUefvjUqKs4OrnAnY5AHHwM/4VxHNzAAAC
+qUlEQVRoge1ZC27bMAyVmAuY6gVE5QJLff+7lU6xjY9yxdoOBqzQCxCAMkVRH5vPzylNTExMTBhk
+/VlQa84DG7rLDiJvLNX4Z2aq1qPxmzUfDBGlVvAmlvUhxdiUKBfbowhmWMReZk0Ic77VO/hvUe2Y
+rRL4p0oQgNZ3xhyT63AYNR8M2Iam+E2SJjDAbV1xfCpg6zbYDIjZB2RcAiloN9+DYROEBS8TFy5g
+N9hFPXc+IJxE8VPWCUszKVHjggfNp4AJtJIgAVrK9jMNwu7kFryT0iJuUcmuES2ScrUBC05Zvbtz
+iIu8HVXjb/4/E2IuxTq4dJ4+tW/7EqKbAlPY6bzX9iX0YRM9TyYmJiYm/g/EfLLDkGDGfNKNoITR
+E0zLTWI+6UfQ+J5gNlt3Iz7Zj5D6wg5mRP86xpqqdzkWsAPBBPuGiE+m+7qCQy6eYMoCZsAnO4eA
+YIZ8smesY4IZ8sluhDHBjPkkEY6gZkcw7cGO+GTq1kj6c2j4Ysgn07YqsMg7pwzf5hCeT24ohwik
+w+STExMTE/8Qx/TBb8Qb6oMaX+uW64K2Z5CxPghcRItINraWYYGEQn0wre/g7hkrtU6fO4Inn/Rt
+3mmsD7oljLMJ9EHld7wjLg0Q0DcNiMzA80lZ3JQD+rZNWWyEkE8G+uCmzoG4FvLJQB/sxcKAT0b6
+YE/huaCo6xI6qg8qY13Q9u8xO51H9E6nDFf3+OQhNFpip4mJiSt4lr+r9ypge47l+sqImmJ+5cNg
+++B05VW1Q9EK+PCf2a4ga/m4v/T5pwXi9utiDKsPnsqw0weXv/rgqTV8aOGufyxle8+8fkc/scut
++NJrL545h4MMXn2nvOZersOcvxUhO/LjhaKjGOuDZwIO9cETGOuDJzDWB09grA+eC1lDl5+BD6lc
+RU/EDSiRAAAAAElFTkSuQmCC
+"})
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:58 2015
+icon = filedata("name=SSO+-+Editted+Tsunade.dmi;length=1011;crc32=0x3c6526f5;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACABAMAAAB+TX8oAAAAJ1BMVEXAwMAAAAAZGRkRERElJSUb
+GxsoKCgeHh4UFBQKCgotLS0MDAzAwMBKuh0YAAAAAXRSTlMAQObYZgAAAIx6VFh0RGVzY3JpcHRp
+b24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJU
+IFNJiYszJbOoGKSeizOtKDE3FcpOSc1JrAQyjXTAkIszN78sNTc1D2SAIUK/tz/CBEMkE5CUuOUn
+lxbjUqWs4OrnAnY5AFymM/5Za7f1AAAC4klEQVRoge2Zv0/bQBTHz1hIzearcZJmMqh/QCwPtTpG
+iKFTVTV0pkoZurExNvKAs6VTyVzE0In+h1hNaN69Z/z1U+iP4T6Q4ZzzN8/gsz55Z8y/wVoLDjCe
+Hx0548CdH+aZjdz343zckrf38nSW0gOD6QcaEJc2j+n7WW6LrKWgvdnJ7CMt4NXqG51fXA0unJLt
+4OKybCno4M2PT8dk3FtUiwXJL+aXpSWXGNrialhur4EXZPrfp2en5BrjqqrI/KD4Wnyhf7Mwf1a+
+IBN4QWY0Ts5GbYHzYuwGhiWtkBdkRm/3bVtglWUmpBWMTRxX2wm8INOPTNBvCSybAgsSyAoyB9H6
+tQ3MCxJobC5uY+cQL0gG5jV0LNeFteS+4uebJFq/HvhZ52V39OyAB0b0M0RgkBpzSMZ3NrYRCRxG
+MjCYP16QCeqBc1Gr5WpJhnNnIW/OGT5eUP15v363XC+vnUCZV5fdUpCABcZNc+hi5wUJVqZHA8Om
+OW2PL0Gv/vF4PB4PFkzgk2rBRD6pFkzkk2rBBD6pF0zgk3rBBD6pF0zgk3rBBD6pF0zkk2rBRD6p
+Fkzkk2rBDNJ2n1QLJvJJtWAin1QLpgAFQsHkMJ/cXTCFT3rB9Hg8fwd1fxCg7g+igtT9QeST6v4g
+8El1fxD5pLo/iHxS3R9EPqnuDyKfVPcHoU9q+4PQJ7X9QeiT2v4g9EltfxD6pLY/CH1S3R9EPqnu
+DyKfVOtbF59U0cUnVXif9Hg8/wtAMLnOQYBgCp2DcMHkgXy7F8IEkyO2exFcMDliuxcGMsHkiO1e
+HOgKpgjk270QJpgcsd3bKbBwz6i/Ofz+qiB2ZzvAFS9Ijj/fTtIdAq17H9pDm7w+2SiX2O7tQNSw
+9sKbyabclG/3dggMpNMlN+82gXC7t4FAtPP2p7cP6w1u9zYhAoPzc90CZoiHg7XvJ7sEuo+v+r9s
+k5N0l0CX9X34dHnrlfKUeR6P509yDylmCMIQ1i94AAAAAElFTkSuQmCC
+"})
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:58 2015
+name = "Face Bandages"
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'skil' found on Thu Jul 30 05:53:59 2015
+skil = "New"
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Clothing/Scarf
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:59 2015
+name = "Carved Out"
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:59 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Clothing/Pants
+//End of exported data.
+//Orphan savefile buffer 'mouse_drag_pointer' found on Thu Jul 30 05:53:59 2015
+mouse_drag_pointer = appearance(filedata("name=;ext=.dmi;length=537;crc32=0xe16d7d52;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAGAAAABABAMAAAAXGm89AAAAGFBMVEXAwMAAAAAZGRklJSUbGxso
+KCgtLS0RERFFLUMkAAAAAXRSTlMAQObYZgAAAIx6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw
+8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGMg05OJM
+K0rMTQWxTYCiqTmJlUCmkQ4YcnHm5pel5qbmlYCVwvV7+2M3AUmJW35yaTEuVcoKrn4uYJcDAFsm
+M/sJ6YV7AAABF0lEQVRIie2Vv26DMBjEP6NIWf0lhtnQNyAic5Q/D0ApfYEozdqpz99QyHIXmzC0
+S/kJD9ydjSUjn8gfsSqKSX7ycmp8JEB+0lTNaySAvqy3H2+bSAB9Sa/H+mTDAfQl+3R1ZsMB9CXb
+LTSLBNCX1IpJIwH0ZW37EQqgT8LYuzjbj1AAfTFeJI8sgL6Ym6mRBdAXsT9POAA+MxqYmZn5Rag/
+RgqF+wEFnID9QAJA/UACQP1AAsD9gAJOwH4gAbeE/UDCDaOqd2m0H7q827xfSv/8BM3VfVXDFU79
+QELP8lwOn/PYDygM65z3g4/XPxdGx+J4uR8/Xf8P+8C0bex/YVQP5YR0ruoq//yE/hymbKg76Sn5
+mf/ON9EwMhr38PyIAAAAAElFTkSuQmCC
+"}))
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Food/Small_Fish
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:59 2015
+suffix = "**Equipped**"
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/Custom/Blank_Jutsu
+//End of exported data.
+//Orphan savefile buffer 'dran' found on Thu Jul 30 05:53:59 2015
+dran = 162.0675048828125
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/Genjutsu/Henge
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:59 2015
+icon = filedata("name=;ext=.dmi;length=1996;crc32=0x150cc57c;encoding=base64",{"
+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
+gg==
+"})
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Food/Big_Fish
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Food/Miso_Ramen
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:59 2015
+icon = filedata("name=SSO+-+Blindfold.dmi;length=396;crc32=0x2d67c29c;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACAAgMAAADxDYqIAAAADFBMVEXAwMAAAAAnJyfAwMApxx/0
+AAAAAXRSTlMAQObYZgAAAIx6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1Ow
+VTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpOSc1JrAQy
+jXTAkIszN78sNTc1D2SAIUK/W35yaTHCEEMkQ5BUefvjUqKs4OrnAnY5AHHwM/4VxHNzAAAAlklE
+QVRYhe3XsQmAMBAF0FgYcAS3cQSbW8IpHME1zJQWMSH+cFxsIsJ/TYQcX6vP6Ry9M4rEB5EVL5by
+9OGMF1s4HoM+hL08MTEFuOG+SCdKASYtgIioK63ucu1pBYq9qRZo1ZvsPyL6grovInVfxCCrQHNQ
+/QZl8UTW4klE1Bf+HqtgXzQTi5obWz9m5mDfwal1kH7kAs61OUBufa4aAAAAAElFTkSuQmCC
+"})
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:59 2015
+icon = filedata("name=Ashy+ass+Bandages+for+face.dmi;length=611;crc32=0xcdee0ef0;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACAAgMAAADxDYqIAAAADFBMVEXAwMCEck+sn2zAwMBWnaU4
+AAAAAXRSTlMAQObYZgAAAIx6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1Ow
+VTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpOSc1JrAQy
+jXTAkIszN78sNTc1D2SAIUK/W35yaTHCEEMkQ5BUefvjUqKs4OrnAnY5AHHwM/4VxHNzAAABbUlE
+QVRYhe2XPW4CMRCFx4VXIj1RtAfIOZwbUODUabIFx+AEHIIGnzKJ/AN+4xeXUaT5mhHgfRiv+PRW
+5E/ZH/oZy/QRFp6u3XSpvF5T6AJcjN30ZUos0TXIpVs3lzLllC6PAdPEGiDL+SnkpFTmLn/wAYn+
+zYeSVKbPHxxyYg0Sd97BHnOySzmxBqk9uvsew2OQOsc211t/oboz+1CO49hfKC+Xfq7lfbn2AVNq
+gGEYv4P/TipQ/J8zgSpzzHTXtDcT6DQRvUkFit6kAkVvUoHSPaJA6TmiQPmdQYGiN6lADcMYQ/si
+QPui9ibpi+jNme5a0EygLYj1xUHiuC8qb7K+qLzJ+iJ6k/ZF5U3aF5VIWV9Ebypo8TQMo2P6EIZ9
+kQJ9kYOPxxR84J4ltsdjCvRFDvTFn2uG67AvfvN+JHvMX9nO0W2fw4XYF+U5bMPdYl+UV7JQ9cVl
+IwsRmoiwPSrYr9aQc9SM74zxv/kCne+1aQLyjH8AAAAASUVORK5CYII=
+"})
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:59 2015
+name = "Bushido"
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Clothing/Jacket
+//End of exported data.
+//Orphan savefile buffer 'ele' found on Thu Jul 30 05:53:59 2015
+ele = "Earth"
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:59 2015
+name = "Earth Style: Mud Silhouette"
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Clothing/Gloves
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Food/Small_Fish
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/Perk/Blank_Perk
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:59 2015
+icon = filedata("name=;ext=.dmi;length=1241;crc32=0xd1e9269;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAQAAAADgBAMAAAAeb6VjAAAAElBMVEXMzNwcHh9ubn44OEgMDBwi
+IjL1nAyYAAAAAXRSTlMAQObYZgAAALh6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/W35yaTHCEEMkQ5BUOZaUJCZnE1Tm7U9QiRGlDg4qzSNo
+hKEOGOIywqUyLzE3Mxm7MUjqgjMy87JKS3H5SVnB1c8FHGkA6Hh4t5eqlCoAAAOxSURBVHic7Zxh
+kqMgEIVpMwcAvYDxBEl5gfmRvcHu/a+yYY1INzTG0mh28r6amgQRbYQkvCdoDAAAAAAAAACA/wRy
+PO0sz2XJJP3E4a1zhbRxruVnrPj+RpTvRPk5bGVrE52h7uz9L9qhTqpszixAU5fS5Jwszzc4X2Or
+p42T15RkDS3xNA+grVuWb6tztbCV5pABiSZ1skmTKgEAAAAAAAAAeHfK/oCZ0YZPHH6lP+AsU8f3
+NJfr0rKQDsZaf4A6S7aUdqk839QfICMsmk6kW5JX1G7qD8x5RImdkanSvjhDh56fettcPzsA+TEH
+ABQ49hvLB0Dz+/zwAM7z+7w2gI//yjz8ChzfBw7/FBweQPpNOG46rHfQZXg9bFBF4tU0vf/fHzfK
+GwaY0zAzP+B84TB0GGCOw8zm2pvMTyiZfqeRcJNXPV4d7ROAKroyAu1tmPUHXo30B2T65cz6AwAA
+AMDb8fFW65ujjqV2GmRRr+X0+/Sb4wM4aTmXfQLQB5M7uS3NRcs5aR/df5Jls2Gw1QPQzA7yyrrZ
+qotYvQn2CaDQ0FqWaIJGK6814cYGBWmfFjopGdKgWBuAU75Jeq2bcoNiPY3SV+xeP4BaVd7YXwAA
+AAAAAAAAsDmUkaHNfuYw9U1635bMlVkov37r5bUMvQqDQxIOcMmsnr9vYv6EWFvOsjSDQ5+S5M2N
+yeBQ7vNzG43Ppo/nklN3zplBzkTz5aXZ79NLbgDcayxn00cXsLXUtbJI1Vma5rPX53Vmg5w9z5b7
+k0vzhyLTJbTnetUUMTmd3yTL/dMA2HR+svJxAQtJrx9vwWwf4En4PQAAAAAAABTQ7//vcvppokc4
+X4joZXONv27f4X0ddF31CMWFDd2rltzEWs6G99VQdTJt2O1xUb7+fG8cQaSTJs30kNM01XvMy4jP
+tVIr90C/x7acW1EUp85k+qs1XB7KeDN1KuHks+ei5f7UOb9cX3DPduEc5Jw838IApByPl/v7liPZ
+XfnGe4yJgF/ahLpF4x81kBgE3h6wVQjA2NXqXPcDhklBcn82UWjxIyQBAAAAAAAAO7OZQUEzx2Pc
+buO7yQ54lKSwYaGcqbz+oHC8MvWk28YCo5Sru/GAkQJj8wcUpVP558HZ6rkAgtSabvLWo0ERYosU
+nxSn2WP6KtRPyd5IbE8rUUa3KLrpHRkpqjgdgg4lx6OUw4jqU5pHMObJ+QOJFs14SYljoAXwDHNu
+Qu7efPl+/cL1kxmLZvZw2y7R/EE3//8Cquc7JNwmr+wAAAAASUVORK5CYII=
+"})
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:59 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Clothing/Nez_Pink_Hoodie
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:59 2015
+icon = filedata("name=;ext=.dmi;length=630;crc32=0xfccacbd8;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACgBAMAAAB54XoeAAAAElBMVEXAwMAAAAAsLCwWFhZNTU3A
+wMB/sn7RAAAAAXRSTlMAQObYZgAAAJ56VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/Y0lJYnI2dlOQlHn7I5QYYlfilp9cWkxQVXBGZl5WaSku
+dcoKrn4u4IAAAGCKSns3JgzzAAABaElEQVRoge2ZUW7DIBBEIbmA1/QAMdsDFHyC9v6HKulHlZ2t
+IJb5aKt5ys8CHrLYskbjEAghhJDfTRTp1iFIv8Tll7126+W62QvWt/i4v+4gqFlvvToVFEzlUTDD
+dFRJW6cOacMeVyOILUdZzBDW/ozciCy4ghBCCCHkrzD0kyIw4heYcuQnQ9JczEB9twte1JQjP9kM
+ZTWCyQsaPzjyk60jEHwFuxc/rMEc+MmAhyToH72LJ4QQQgiZRz8fvLuXQ3KDfDCE627cljjzAwzy
+QUwIY1U1grLY/Uf5ILqvWMtuBBMmkqN8EBpsggKC59yeu0Wuw5McfQYIIYQQ8q+IAtmWzwu7847L
+Xo19yz4v7M43xxnNFprVxnk+L+zON4OZj+SD4/wwSD6SDz6RH6JjPQ8tHiGEuATkNOttsmCqk1/W
+opMF42zB6f9w+hlOv8v8BHhn+fpNZC15qmB71NHvnRT84XsxId98AoG1If4ZmfOpAAAAAElFTkSu
+QmCC
+"})
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Baby
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Citem/tools/Messenger_Bird
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Clothing/Jacket
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Police_Badge
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:59 2015
+icon = filedata("name=;ext=.dmi;length=382;crc32=0x9ab112fa;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgBAMAAABQs2O3AAAAJFBMVEXA//8rqKH4//9j3Mnw//8a
+m5bn//9PzMeS//+9///s///x///xRLDwAAAAAXRSTlMAQObYZgAAAGx6VFh0RGVzY3JpcHRpb24A
+AHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJ
+iYszJbOoGMg05OJMK0rMTYWw4QqKUhNTcClSVnD1cwFbCwD9iSJFw0e+8gAAAJBJREFUOI1jYBgF
+VAOMSoJQoCSAjU9YgSFCQBgbn7ACRpdQKHARwMYnrAADiKVBQSIOf4ullVeUl6WXl+FWkDYzrSNt
+5jScCjKnlacBIW4T0svSZrSlzcDthozOae1lQDNwm1BelpZentmG25Grd86cgc8NaTOnl6fNbMMX
+DmVpIIwnHAiFJAEFgnCAQwGVAQCDQ0Z2C1m/kAAAAABJRU5ErkJggg==
+"})
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:59 2015
+icon = filedata("name=;ext=.dmi;length=1996;crc32=0xf02fcb43;encoding=base64",{"
+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
+gg==
+"})
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Thu Jul 30 05:53:59 2015
+icon = filedata("name=;ext=.dmi;length=1771;crc32=0xad05b7cf;encoding=base64",{"
+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
+rkJggg==
+"})
+//End of exported data.
+//Orphan savefile buffer 'jut' found on Thu Jul 30 05:53:59 2015
+jut = "Ninjutsu"
+//End of exported data.
+//Orphan savefile buffer 'Village' found on Thu Jul 30 05:53:59 2015
+Village = "Konohagakure"
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'name' found on Thu Jul 30 05:53:59 2015
+name = "Konohagakure Bingo Book"
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'Sensory' found on Thu Jul 30 05:53:59 2015
+Sensory = 1
+//End of exported data.
+//Orphan savefile buffer 'RPPSpent' found on Thu Jul 30 05:53:59 2015
+RPPSpent = 3
+//End of exported data.
+//Orphan savefile buffer 'idran' found on Thu Jul 30 05:53:59 2015
+idran = "Chakra"
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/Perk/Adrenaline_Focus
+//End of exported data.
+//Orphan savefile buffer 'RPPSpent' found on Thu Jul 30 05:53:59 2015
+RPPSpent = 11
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Citem/tools/Messenger_Bird
+//End of exported data.
+//Orphan savefile buffer 'description' found on Thu Jul 30 05:53:59 2015
+description = "This character's mating parts have been re-defined. Any package less than ten inches is barely felt."
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Clothing/Coat
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Clothing/Belt
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Clothing/Nez_Silver_Hoodie
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:59 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'tier' found on Thu Jul 30 05:53:59 2015
+tier = 1
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Thu Jul 30 05:53:59 2015
+type = /obj/items/Clothing/Shorts
+//End of exported data.
+//Orphan savefile buffer 'icon_state' found on Thu Jul 30 05:53:59 2015
+icon_state = "Key"
+//End of exported data.
+//Orphan savefile buffer 'dir' found on Thu Jul 30 05:53:59 2015
+dir = 4
+//End of exported data.
+//Orphan savefile buffer 'dir' found on Thu Jul 30 05:53:59 2015
+dir = 4
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:59 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Thu Jul 30 05:53:59 2015
+suffix = ""
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Thu Jul 30 05:53:59 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Thu Jul 30 05:53:59 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Thu Jul 30 05:53:59 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'icon_state' found on Thu Jul 30 05:53:59 2015
+icon_state = "rfx2"
+//End of exported data.
+//Orphan savefile buffer '.51' found on Thu Jul 30 17:01:54 2015
+.51
+	saved_x = 0
+//End of exported data.
+//Orphan savefile buffer '.58' found on Thu Jul 30 17:01:54 2015
+.58
+	saved_y = 0
+	saved_z = 0
+	icon_state = ""
+//End of exported data.
+//Orphan savefile buffer '.22' found on Thu Jul 30 17:01:54 2015
+.22
+	worn = 1
+	saved_y = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.86' found on Thu Jul 30 17:01:54 2015
+.86
+	profile2 = "Kisara, it's me Rymei. So, I'm at the lake above the Mizukage's mansion. Come over here and bring a blanket...We could have a picnic.\n\n\n-Kisses,\nRymei"
+	name = "Kisara <3"
+//End of exported data.
+//Orphan savefile buffer '.62' found on Thu Jul 30 17:01:54 2015
+.62
+	saved_x = 0
+	saved_y = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.47' found on Thu Jul 30 17:01:54 2015
+.47
+	suffix = ""
+//End of exported data.
+//Orphan savefile buffer '.85' found on Thu Jul 30 17:01:54 2015
+.85
+	type = /obj/items/Citem/tools/Messenger_Bird
+	saved_x = 0
+	saved_y = 0
+//End of exported data.
+//Orphan savefile buffer '.25' found on Thu Jul 30 17:01:54 2015
+.25
+	type = /obj/items/Food/Small_Fish
+	saved_x = 0
+//End of exported data.
+//Orphan savefile buffer '.61' found on Thu Jul 30 17:01:54 2015
+.61
+	type = /obj/items/Scrolls/Scroll
+	saved_x = 0
+	saved_y = 0
+	icon = filedata("name=;ext=.dmi;length=334;crc32=0x84f0e427;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgBAMAAABQs2O3AAAAElBMVEX////d2tP///////vMzcj/
+/vnKYfEsAAAAAXRSTlMAQObYZgAAAGx6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGMg05OJMK0rMTYWw
+4QqKUhNTcClSVnD1cwFbCwD9iSJFw0e+8gAAAHJJREFUOI1jYBgFVAOMSoJQoCSAjU9YgSFCQBgb
+n7ACRiUXKIBZgconrAADCClBgSIOfwsphQaFBqmGBuFWQNAEpVAQxG2CahBBE5SAakJxKwC6T0k1
+FL8JQIDXFyD9+MMBZAAhKwi6AbcCQTjAoYDKAADMiSXglXe6MwAAAABJRU5ErkJggg==
+"})
+//End of exported data.
+//Orphan savefile buffer '.56' found on Thu Jul 30 17:01:54 2015
+.56
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.71' found on Thu Jul 30 17:01:54 2015
+.71
+	type = /obj/items/Citem/tools/Lockpick
+	saved_y = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.31' found on Thu Jul 30 17:01:54 2015
+.31
+	saved_y = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.84' found on Thu Jul 30 17:01:54 2015
+.84
+	saved_y = 0
+	saved_z = 0
+	suffix = ""
+//End of exported data.
+//Orphan savefile buffer '.81' found on Thu Jul 30 17:01:54 2015
+.81
+	type = /obj/items/Baby
+	saved_y = 0
+	mouse_drag_pointer = appearance(filedata("name=Swaddle.dmi;length=358;crc32=0x799a5a4c;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJFBMVEXAwMCGYCZBQUGneUfZsIj+
+zJT29vYAAABSUlK+jEH////W1tb4s04yAAAAAXRSTlMAQObYZgAAAGR6VFh0RGVzY3JpcHRpb24A
+AHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJ
+iYszJbOoGMg05OJMK0rMTYWwlRVc/VzAJgIAmrcYC32rgUMAAACASURBVCiRY2AYVIBRUEgBRUDY
+1dkIRYFpeqsxshJG1wxT5wIkAcHQ4FDjQiQFE91L3YsrBRAi4kaqQcpIKhi4xErDExcgCXAvNHGW
+2oAssFpQcBeKwK5Vq1ajCKzavXsVqpZVq1C0MOxavWs1iud27VqNKsC9CsUIINi9m2FAAQA4LSNW
+Ey1cigAAAABJRU5ErkJggg==
+"}))
+//End of exported data.
+//Orphan savefile buffer '.20' found on Thu Jul 30 17:01:54 2015
+.20
+	type = /obj/Teacher
+//End of exported data.
+//Orphan savefile buffer '.12' found on Thu Jul 30 17:01:54 2015
+.12
+//End of exported data.
+//Orphan savefile buffer '.23' found on Thu Jul 30 17:01:54 2015
+.23
+	saved_x = 0
+//End of exported data.
+//Orphan savefile buffer '.87' found on Thu Jul 30 17:01:54 2015
+.87
+	suffix = ""
+//End of exported data.
+//Orphan savefile buffer '.63' found on Thu Jul 30 17:01:54 2015
+.63
+	type = /obj/items/Citem/tools/Messenger_Bird
+	saved_x = 0
+	saved_y = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.33' found on Thu Jul 30 17:01:54 2015
+.33
+	type = /obj/items/Food/Miso_Ramen
+//End of exported data.
+//Orphan savefile buffer '.73' found on Thu Jul 30 17:01:54 2015
+.73
+	type = /obj/items/Citem/tools/Lockpick
+	saved_y = 0
+//End of exported data.
+//Orphan savefile buffer '.70' found on Thu Jul 30 17:01:54 2015
+.70
+	type = /obj/items/Citem/tools/Lockpick
+	saved_y = 0
+//End of exported data.
+//Orphan savefile buffer '.40' found on Thu Jul 30 17:01:54 2015
+.40
+	saved_x = 0
+	suffix = ""
+//End of exported data.
+//Orphan savefile buffer '.59' found on Thu Jul 30 17:01:54 2015
+.59
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.37' found on Thu Jul 30 17:01:54 2015
+.37
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.26' found on Thu Jul 30 17:01:54 2015
+.26
+//End of exported data.
+//Orphan savefile buffer '.89' found on Thu Jul 30 17:01:54 2015
+.89
+	saved_x = 0
+	saved_y = 0
+//End of exported data.
+//Orphan savefile buffer '.82' found on Thu Jul 30 17:01:54 2015
+.82
+	type = /obj/items/Clothing/Nez_Silver_Hoodie
+//End of exported data.
+//Orphan savefile buffer '.77' found on Thu Jul 30 17:01:54 2015
+.77
+	saved_x = 0
+//End of exported data.
+//Orphan savefile buffer '.60' found on Thu Jul 30 17:01:54 2015
+.60
+	saved_x = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.50' found on Thu Jul 30 17:01:54 2015
+.50
+	type = /obj/items/Food/Small_Fish
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.44' found on Thu Jul 30 17:01:54 2015
+.44
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.68' found on Thu Jul 30 17:01:54 2015
+.68
+	type = /obj/items/Clothing/Jacket
+	saved_x = 0
+	name = "Shortie Shorts"
+	suffix = "**Equipped**"
+//End of exported data.
+//Orphan savefile buffer '.66' found on Thu Jul 30 17:01:54 2015
+.66
+	type = /obj/items/Clothing/Belt
+	saved_z = 0
+	suffix = ""
+//End of exported data.
+//Orphan savefile buffer '.38' found on Thu Jul 30 17:01:54 2015
+.38
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.74' found on Thu Jul 30 17:01:54 2015
+.74
+	type = /obj/items/Citem/tools/Lockpick
+	saved_y = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.9' found on Thu Jul 30 17:01:54 2015
+.9
+	type = /obj/items/Clothing/Kimono
+	saved_x = 0
+	saved_y = 0
+	suffix = ""
+	icon = filedata("name=;ext=.dmi;length=904;crc32=0x1e97658a;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACgBAMAAAB54XoeAAAAElBMVEX/9f9INViXhKd0YYReS27/
+9f9OneiwAAAAAXRSTlMAQObYZgAAAKB6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/tz/CBEMkE5CUuOUnlxYTVOVYUpKYnI3dOUjKgjMy87JK
+S3EZp6zg6ucCDggARSNKe4jXT8gAAAJ4SURBVGiB7ZlRdqMwDEUNzAIwngU49gbA3kL2v6aKzDkT
+6ykH4ROaflS3/agMPIxD4VZ1zjAM43MMixs9q1NqazemyI8QA5xQ3Fjnpq7E3O5QV37EVLeDCe2B
+kxKIM2SBOCGXQsxLbOta29otCWeYbgcTou0xwxVVHuAKL/nuKbnMF3UqPKAzkCYUYeDdwIJLogZu
+vAy8rHA+NXCeMHAdmmqoMGNXM7/R6K5hdagYyO9DDKQB2KHyhFA9P8Lz/T1spgE2hLXDA+SI3MMw
+DMMwfgLVJ18IJmYwFzrhk90+qPkkHxjqhvIT2u2qTz4GmqscUhY2ldoZqD4pB1DfVtis2JoYQD/L
+EPDxwAC25aS+fW+g5pMiUBfMY590/u/9zo9nf3U87sy20nxS4D0GmlAahmEY5+jtD6p09gf1hmVn
+f1BvWGr9wXocOIj3uNYfzLG9qBEFc/ByyY/beU4RzAXj1EDFtqD7t3PcH6QlZIusBir9QUrIaFvs
+UxCBir7pgXB+rT+I9iUDcUJKf3AAu/tzv/vjwHcJ27X6iFdgGIbxY9yufB7tz8p85RM4rPsj+MpA
+egUV0Z57gyXXEtmI1DmqG/24+Yir3rpQKC9sj9vXrneNvGSyQVj1VjDpkmGGFJi5zlHdzrCWEV/k
+dZufuxNsDVNYoV8Y+YRCGTe+6mN6vglffMoTfbG6YCA2HGna/386cR9OBVtbMpAnKL8p/YEKbwfO
+j++eQGGcnFC4vkG7jwKL6EgeBcp+4YtAvupKoP7/Z2wQ+ksfL/9OaopnGIbxGznhe32c8L3OQN33
++jjhe52c8b3OQN2mLPAY3ff6OOF7nYG67xnGky8v9nLLnmEXPQAAAABJRU5ErkJggg==
+"})
+//End of exported data.
+//Orphan savefile buffer '.8' found on Thu Jul 30 17:01:54 2015
+.8
+	type = /obj/Custom/Hyuuga/Crank/Rotations
+	skil = "Mastered"
+	dran = 118.65234375
+//End of exported data.
+//Orphan savefile buffer '.65' found on Thu Jul 30 17:01:54 2015
+.65
+	type = /obj/items/Citem/tools/Messenger_Bird
+	saved_x = 0
+	saved_y = 0
+//End of exported data.
+//Orphan savefile buffer '.62' found on Thu Jul 30 17:01:54 2015
+.62
+	type = /obj/items/Citem/tools/Messenger_Bird
+	saved_x = 0
+	saved_y = 0
+//End of exported data.
+//Orphan savefile buffer '.55' found on Thu Jul 30 17:01:54 2015
+.55
+	type = /obj/items/Clothing/Nez_Blackshirt
+	worn = 1
+	saved_x = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.39' found on Thu Jul 30 17:01:54 2015
+.39
+	description = "This character wears Jordans. They are surprisingly stylish and protect the feet from caltraps. They don't really do anything else."
+//End of exported data.
+//Orphan savefile buffer '.56' found on Thu Jul 30 17:01:54 2015
+.56
+	saved_x = 0
+	saved_y = 0
+//End of exported data.
+//Orphan savefile buffer '.23' found on Thu Jul 30 17:01:54 2015
+.23
+	type = /obj/items/Food/Small_Fish
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.10' found on Thu Jul 30 17:01:54 2015
+.10
+	type = /obj/items/Clothing/Belt
+	saved_x = 0
+	saved_y = 0
+	suffix = ""
+	icon = filedata("name=;ext=.dmi;length=533;crc32=0x44ed46ba;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACgBAMAAAB54XoeAAAAElBMVEX///j/6IXGmzj/1m//////
+//igs2ZsAAAAAXRSTlMAQObYZgAAAKp6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/W35yaTHCEEMkQ4DsotTyzLwUVB3e/riUw5U4lpQkJmdj
+dxqSsuCMzLys0lJcxikruPq5gAMFAPLHTcUj4nkSAAAA+0lEQVRoge3YWxKCMAyFYYguQFxBZQVo
+3P/aFH0hCdPS8Qrzf2+h5UDfzrRpAADr1h5ee1/63sxd17nEPjfeX092fadq94cdmhtFdcgHio2T
+ucDJFtGrXQ5HDsQfOdnVwusAAACrEvpkZcEs9snwwNcpNxf7ZHigvg/audAnZx4UAmsLoY9/hlRF
+AAAA/FL2fvBRz8xc7pPZ+8GxfV2mo++T/vul+8Gm2dtA1yflFH4wfz8YCqG/sIyBL9KB9ggA2AbR
+ROC/BX6B2L4ovj6Oqq7bWtsXRfUc9hzTBwPH+pf94/KR086XYAAAgNVa0veqLKlnvw18+5GBbbkB
+TngbF/g/aLgAAAAASUVORK5CYII=
+"})
+	mouse_drag_pointer = appearance(filedata("name=;ext=.dmi;length=382;crc32=0xb6453db;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAGAAAABgBAMAAAAQtmoLAAAAElBMVEX///jGmzj/1m////////j/
+6IUc0pWpAAAAAXRSTlMAQObYZgAAAKd6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGMg05OJMK0rMTQWx
+TYCiqTmJlUCmkQ4YcnHm5pel5qbmlYCVwvW75SeXFmM3BMguSi3PzEtB1eHtj0s5XIljSUlicjZB
+ZcEZmXlZpaW41CkruPq5gAMFAO92Tb9hBH9EAAAAZ0lEQVRYhe3VwQqAMAwD0Fbxvv7BjP//j3qd
+lEpARCXvNrJAd1nNROT9POJ0bFVuNgFDDvQqTwpbmWcjlbmIyL0c7frS3wqZYH9bYOUKM1sYF4Af
+j9RCEBF5mrP7YWH3A12gR5Kv2QFbJwYEChFOiQAAAABJRU5ErkJggg==
+"}))
+//End of exported data.
+//Orphan savefile buffer '.46' found on Thu Jul 30 17:01:54 2015
+.46
+	type = /obj/Perk/Attack_Speed
+//End of exported data.
+//Orphan savefile buffer '.20' found on Thu Jul 30 17:01:54 2015
+.20
+//End of exported data.
+//Orphan savefile buffer '.59' found on Thu Jul 30 17:01:54 2015
+.59
+	saved_x = 0
+//End of exported data.
+//Orphan savefile buffer '.36' found on Thu Jul 30 17:01:54 2015
+.36
+//End of exported data.
+//Orphan savefile buffer '.93' found on Thu Jul 30 17:01:54 2015
+.93
+	 = "Kumogakure"
+	RPPSpent = 30
+	idran = "Chakra"
+//End of exported data.
+//Orphan savefile buffer '.41' found on Thu Jul 30 17:01:54 2015
+.41
+	type = /obj/items/Clothing/Jacket
+	saved_x = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.35' found on Thu Jul 30 17:01:54 2015
+.35
+	type = /obj/items/Food/Vegetable_Ramen
+//End of exported data.
+//Orphan savefile buffer '.26' found on Thu Jul 30 17:01:54 2015
+.26
+	type = /obj/items/Food/Med_Fish
+	saved_x = 0
+//End of exported data.
+//Orphan savefile buffer '.11' found on Thu Jul 30 17:01:54 2015
+.11
+//End of exported data.
+//Orphan savefile buffer '.77' found on Thu Jul 30 17:01:54 2015
+.77
+	saved_x = 0
+	suffix = ""
+	icon = filedata("name=;ext=.dmi;length=1996;crc32=0x38fda92e;encoding=base64",{"
+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
+gg==
+"})
+//End of exported data.
+//Orphan savefile buffer '.92' found on Thu Jul 30 17:01:54 2015
+.92
+	type = /obj/Gene/High_Intelligence
+//End of exported data.
+//Orphan savefile buffer '.3' found on Thu Jul 30 17:01:54 2015
+.3
+	type = /obj/Perk/Shinobi_Info_Card
+//End of exported data.
+//Orphan savefile buffer '.33' found on Thu Jul 30 17:01:54 2015
+.33
+	type = /obj/items/Food/Miso_Ramen
+	saved_y = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.63' found on Thu Jul 30 17:01:54 2015
+.63
+	saved_x = 0
+	saved_y = 0
+//End of exported data.
+//Orphan savefile buffer '.58' found on Thu Jul 30 17:01:54 2015
+.58
+	type = /obj/items/Scrolls/Scroll
+	profile2 = "heh"
+	saved_x = 0
+	saved_y = 0
+	icon_state = ""
+//End of exported data.
+//Orphan savefile buffer '.27' found on Thu Jul 30 17:01:54 2015
+.27
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.4' found on Thu Jul 30 17:01:54 2015
+.4
+	type = /obj/Perk/Studious_1
+	RPPSpent = 4
+	tier = 3
+	name = "Studious 3"
+//End of exported data.
+//Orphan savefile buffer '.94' found on Thu Jul 30 17:01:54 2015
+.94
+	type = /obj/Perk/Shinobi_Info_Card
+//End of exported data.
+//Orphan savefile buffer '.61' found on Thu Jul 30 17:01:54 2015
+.61
+	saved_z = 0
+	icon = filedata("name=;ext=.dmi;length=334;crc32=0x84f0e427;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgBAMAAABQs2O3AAAAElBMVEX////d2tP///////vMzcj/
+/vnKYfEsAAAAAXRSTlMAQObYZgAAAGx6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGMg05OJMK0rMTYWw
+4QqKUhNTcClSVnD1cwFbCwD9iSJFw0e+8gAAAHJJREFUOI1jYBgFVAOMSoJQoCSAjU9YgSFCQBgb
+n7ACRiUXKIBZgconrAADCClBgSIOfwsphQaFBqmGBuFWQNAEpVAQxG2CahBBE5SAakJxKwC6T0k1
+FL8JQIDXFyD9+MMBZAAhKwi6AbcCQTjAoYDKAADMiSXglXe6MwAAAABJRU5ErkJggg==
+"})
+	icon_state = ""
+//End of exported data.
+//Orphan savefile buffer '.80' found on Thu Jul 30 17:01:54 2015
+.80
+	type = /obj/Perk/Blank_Perk
+	description = "This character has E-Cup breasts. "
+//End of exported data.
+//Orphan savefile buffer '.6' found on Thu Jul 30 17:01:54 2015
+.6
+	type = /obj/Custom/Blank_Buff/Gentle_Fist
+	Activo = 1
+	BOOST = 20
+	Gtai = 3
+	Gref = 1.5
+	Gstr = 0
+	Gdef = 0
+	Gdur = 0
+	idran = "Stamina"
+//End of exported data.
+//Orphan savefile buffer '.1' found on Thu Jul 30 17:01:54 2015
+.1
+	type = /obj/Gene/High_Intelligence
+//End of exported data.
+//Orphan savefile buffer '.42' found on Thu Jul 30 17:01:54 2015
+.42
+	type = /obj/items/Clothing/Belt
+	worn = 1
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.34' found on Thu Jul 30 17:01:54 2015
+.34
+	saved_y = 0
+//End of exported data.
+//Orphan savefile buffer '.68' found on Thu Jul 30 17:01:54 2015
+.68
+	saved_z = 0
+	name = "Shortie Shorts"
+	suffix = "**Equipped**"
+	icon = object("//overlays",2151)
+//End of exported data.
+//Orphan savefile buffer '.51' found on Thu Jul 30 17:01:54 2015
+.51
+	type = /obj/items/Food/Small_Fish
+	saved_x = 0
+	saved_z = 0
+//End of exported data.
+//Orphan savefile buffer '.60' found on Thu Jul 30 17:01:54 2015
+.60
+	type = /obj/items/Scrolls/Scroll
+	saved_y = 0
+	saved_z = 0
+	icon = object("../../.86/icon",0)
+//End of exported data.
+//Orphan savefile buffer '.57' found on Thu Jul 30 17:01:54 2015
+.57
+	type = /obj/items/Scrolls/Scroll
+	profile2 = "<font size=1><font face=Calibri>\nPassword to my house - \"TOMK is Gay\" no quotations"
+	saved_y = 0
+	icon_state = ""
+//End of exported data.
+//Orphan savefile buffer '.2' found on Thu Jul 30 17:01:54 2015
+.2
+	type = /obj/Custom/Med/Meditate
+	RPPSpent = 30
+	idran = "Chakra"
+//End of exported data.
+//Orphan savefile buffer '.50' found on Thu Jul 30 17:01:54 2015
+.50
+//End of exported data.
+//Orphan savefile buffer '.95' found on Thu Jul 30 17:01:54 2015
+.95
+	type = /obj/Perk/Studious_1
+	RPPSpent = 4
+	tier = 3
+	name = "Studious 3"
+//End of exported data.
+//Orphan savefile buffer '.86' found on Thu Jul 30 17:01:54 2015
+.86
+	profile2 = "Kisara, it's me Rymei. So, I'm at the lake above the Mizukage's mansion. Come over here and bring a blanket...We could have a picnic.\n\n\n-Kisses,\nRymei"
+	saved_y = 0
+	saved_z = 0
+	name = "Kisara <3"
+	icon = filedata("name=;ext=.dmi;length=382;crc32=0x4987ab08;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgBAMAAABQs2O3AAAAJFBMVEXAwMArKCH48JhjXEnw0JAa
+Gxbn5dhPTEeSj4a9urPs6eTx7umg5mT4AAAAAXRSTlMAQObYZgAAAGx6VFh0RGVzY3JpcHRpb24A
+AHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJ
+iYszJbOoGMg05OJMK0rMTYWw4QqKUhNTcClSVnD1cwFbCwD9iSJFw0e+8gAAAJBJREFUOI1jYBgF
+VAOMSoJQoCSAjU9YgSFCQBgbn7ACRpdQKHARwMYnrAADiKVBQSIOf4ullVeUl6WXl+FWkDYzrSNt
+5jScCjKnlacBIW4T0svSZrSlzcDthozOae1lQDNwm1BelpZentmG25Grd86cgc8NaTOnl6fNbMMX
+DmVpIIwnHAiFJAEFgnCAQwGVAQCDQ0Z2C1m/kAAAAABJRU5ErkJggg==
+"})
+//End of exported data.

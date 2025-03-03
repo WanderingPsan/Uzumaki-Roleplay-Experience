@@ -1,0 +1,822 @@
+
+x = 141
+y = 148
+z = 3
+B1 = list()
+B2 = list()
+B3 = list()
+B4 = list()
+B5 = list()
+B6 = list()
+B7 = list()
+B8 = list()
+B9 = list()
+F1 = list()
+F2 = list()
+G1 = list()
+G2 = list()
+G3 = list()
+M1 = list()
+M2 = list()
+M3 = list()
+M4 = list()
+M5 = list()
+M6 = list()
+Class = "Genin"
+Village = "Kirigakure"
+Trait = "Sadomasochist"
+srank = "C-"
+PrimaryElement = "Water"
+displaykey = "Shawn45"
+stat = 1
+Age = 10
+lx = 141
+ly = 148
+lz = 3
+WHO = list()
+hair = null /*invalid data*/
+Pale = 1
+Oicon = null /*invalid data*/
+name = "Higashi, Nori"
+icon = object("//Oicon",0)
+overlays = list(appearance(null /*invalid data*/),appearance(filedata("name=GreyHoodie.dmi;length=1196;crc32=0x7f34e16a;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAOAAAADABAMAAADvr3LkAAAAG1BMVEXAwMA1NTW2trbIyMjm5uaK
+iop0dHRfX19KSkoeeNhqAAAAAXRSTlMAQObYZgAAAK16VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX3
+9FNw8fXkKkstKs7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSe
+izOtKDE3FcpOSc1JrAQyjXTAkIszN78sNTc1D2SAISH9xgj9JgZg7XANbvnJpcUIXYZIupCM9fYn
+qCQ8NbEgPw+7/UYo7kfocSwpSUzOxq7HkEtZwdXPBRyKAE4yWZQx6CHfAAADhklEQVR4nO2bTU8b
+MRCGbfXSY0xC7Gt6gHOgEr1y4syl9yA1XFmCmBxZFYn92bVBFTNjyMY7XirUeRUp8trz4Y292iez
+a4xKpVKpPqsmz593ZZ1z9Eg8sMugT9alD2offD/BbXe4XlCLg/UlHlCa8OHV5GCNLA5jwDlquzkc
+E4f2FlbIRXHC86vmFpDH+ep0iRNwHs5owA00yGNxwn4DGxzQN98WuG1984MG/O0bnGBfwkATtpAC
+NqgNcU4NGuHbpSGaBtI9hY1HHoOLCaMBDqZAAyaDFrU9AGpHD+05DTgLqNu6KSy3E9T2znsU0G6n
+DU7QbmdwhzzYbQyIPcZdgFvPcyDLLgbs8BRYwqG9a7CDmFE8ie7ddjrEA9JdMOtmZABL2Dlo6b4N
+XbezTVd9ckG7HdtoPGHbsYT5hUN4IUkJkwiWX6lqi89YpVKpVCqV6r/Q+LxIDcbmxcxgbF7MDMbm
+xWcDQAZj82ICtCUKWIUXEe5YiLxI8cf75RMeIOPFeEbONpjGIPIiXdfBXxA+FPJiCoh/gWRPz6gL
+u/iwmBftY3jEATseMPFVTV60fFvnAXv4UPrHU8cTHllWCrgqlUqlUqlUn1JSXuT2fQZSXuT20f1P
+bvDLVeRFbt9rIOVFbp/V92rzIrc3tgFGIy2geqCUF7l9nGELfNFAwHwnrC8y+5Sh5/iFC4xSXuT2
+KWC+LXBAIS++Md6bTPiUi+uL2fjwYKnB5CtJWcqL2fi3rjQlDlUqlUqlUqlUA3iv1F7Ke8X1RSnv
+ldqLea/UXsx7pfZS3iuuL0p5r7i+KOW94vqilPfKn0cV816pvZj3tFynUqlUKtUn1If/O+vhg+8Y
+AtxffmQ85/z9atwpUt4Ld6cnix39mQbUD8mNZIDsQbvK9UPGezEgKZPUrx/Or24w72UzrF4/9NMb
+/Dpf9hvWrh9G/DJf0Ot7cZXCivRXrh9auDEG8Ot7ACucb/X6YXgwZov3xRP9k6N6/dBG92SZs0eW
+69cPezZ2/fphH99Vrx+qVCqVSqVSqeTaj/fsy6H0ZY0hj4319Q/iPedfbtbtU5OyyZ5H3dE/jPeu
+4eXm1nZwv17Yo8v9+4fx3t+znM4/HPuj1f795bwXaYgwsj+DZbN/fznvveXwNeO+/mG8Jwo4hPeo
+wws4f31jsq9/GO9Rh7H9uu77+s0g3msl7SG85yRtlUr1L/UHiJq5dg4Zil0AAAAASUVORK5CYII=
+"})),appearance(null /*invalid data*/),appearance(null /*invalid data*/),appearance(object("//hair",0)),appearance(null /*invalid data*/),appearance(null /*invalid data*/),appearance(filedata("name=Tanto.dmi;length=985;crc32=0x261f1cd9;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAyAAAAAgBAMAAAAYtgHGAAAAJFBMVEXAwMCoqKj39/fn5+fOz70A
+AABKSTlwcHCtrpyZzJn/zZ+MiohiOT8XAAAAAXRSTlMAQObYZgAAAIJ6VFh0RGVzY3JpcHRpb24A
+AHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+AqLkksSQWylZS4OFMyi4pBwlycaUWJualQdkpq
+TmIlkGmkA4ZcnLn5Zam5qXklQDFDhP7w1MSC/DzsphghTDHUQdLjmVeG0GCIpMGQS1nB1c8F7F4A
+ka0xqegmBfQAAALVSURBVGiB7Zq9btswEMdJqyGsZBGlF7DzBDb0AhryAFmCopuGDEH27Bo6dPTS
+xVOnAnrLkrbU8I5fkiVaRc0/gkDUnXS8+5GiKJiQqKioqKioqGuI86V7EKWKbvNs6T5EKcozul26
+D/+7aOZuA9tWMgnbn5sXHvKuKVAIGHQftj9ReMjbp8CZReGbIl8md+m2NXyKnFH4p0hltfCyvPw1
+7eXiK+fR1eLjIW+bAj0JZF9pjq+2SLwkxErEl+/dh8fBp4kFvV58PORtUyDpQNAdOJ09Ir+KVeYb
+CB5iH2Mh4s336/PnMat1u+ncqAD/TvzC03aLZhvQXr+SN6Oj5CH+W4io+ZL0AI2i/aLmw96Rg3D5
+Xbv7OaagC8enyITbHtF8A9o/KqPbmYeRCM6XpC1yaCEwhh0IOR5qcENnAF9Bw8fXr/cBHayVRuS7
+wYsWJZVLiFxEsnIPlyGcr0wPXn78+QEKQo44QEtqcENnAF9Bw8fHAdIWxJ8imss/VazRnYpdx+NE
+JEFEUL6GjCAwJgsA70DUgvgKqjuggIHjM5Km0OFwANdPkiQCF/bTrdfN5wle7HjPQxLhyR48ttIW
+lovgEYhWRFEQXFBYEE9BdQetgkHji+vvocMvMh8QQeSBb1A8sT98avo2L/cKjxORAiwkd9oTAGX0
+/A20makbtdpwF5SYCnrF+P7rp4lmiIhUw566Iy6WD5XHiUimEkH5SoEhK/IBbX9C7oIOUND4YYGs
+NvKLJH5zEpuRLqzkUZTQKqaMQgTnKwVeVMSET8cVxF3QAQoaPywQ+ZIliOD9/d/9uuSxQ0aSSCJ9
+A+eLpT1wBiTkLOhIzR4/8COrI4K0rnqzgceZSHc4apN+iebcpM8SP/gakj8adpNNZzTyUIl48536
+WW9qQZeOP16U4w9ais3MQxLpgAT/jHoz34kV2YkkFh4uS9R0OeZI1CKKPxCKioqKilpWfwDVdaKG
+pREDDQAAAABJRU5ErkJggg==
+"})))
+gender = "male"
+contents = list(
+		object(".0"),
+		object(".1"),
+		object(".2"),
+		object(".3"),
+		object(".4"),
+		object(".5"),
+		object(".6"),
+		object(".7"),
+		object(".8"),
+		object(".9"),
+		object(".10"),
+		object(".11"),
+		object(".12"),
+		object(".13"),
+		object(".14"),
+		object(".15"),
+		object(".16"),
+		object(".17"),
+		object(".18"),
+		object(".19"),
+		object(".20"),
+		object(".21"),
+		object(".22"),
+		object(".23"),
+		object(".24"),
+		object(".25"),
+		object(".26"),
+		object(".27"),
+		object(".28"),
+		object(".29"),
+		object(".30"),
+		object(".31"),
+		object(".32"),
+		object(".33"),
+		object(".34"),
+		object(".35"),
+		object(".36"),
+		object(".37"),
+		object(".38"),
+		object(".39"),
+		object(".40"),
+		object(".41"),
+		object(".42"),
+		object(".43"),
+		object(".44"),
+		object(".45"),
+		object(".46"),
+		object(".47"),
+		object(".48"),
+		object(".49"),
+		object(".50"),
+		object(".51"),
+		object(".52"),
+		object(".53"),
+		object(".54"),
+		object(".55"),
+		object(".56"),
+		object(".57"),
+		object(".58"),
+		object(".59"),
+		object(".60"),
+		object(".61"),
+		object(".62"),
+		object(".63"),
+		object(".64"),
+		object(".65"),
+		object(".66"),
+		object(".67"),
+		object(".68"),
+		object(".69"),
+		object(".70"),
+		object(".71"),
+		object(".72"),
+		object(".73"),
+		object(".74"),
+		object(".75"),
+		object(".76"),
+		object(".77"),
+		object(".78"),
+		object(".79"),
+		object(".80"),
+		object(".81"),
+		object(".82"),
+		object(".83"),
+		object(".84"),
+		object(".85"),
+		object(".86"),
+		object(".87"),
+		object(".88"),
+		object(".89"),
+		object(".90"),
+		object(".91"),
+		object(".92"),
+		object(".93"),
+		object(".94"))
+	.0
+		type = /obj/Genjutsu/Bunshin
+	.1
+		type = /obj/Ninjutsu/Kawarimi
+	.2
+		type = /obj/Genjutsu/Henge
+	.3
+		type = /obj/Custom/Med/Meditate
+		RPPSpent = 224
+		idran = "Chakra"
+	.4
+		type = /obj/Perk/Shinobi_Info_Card
+	.5
+		type = /obj/items/Clothing/Belt
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",8)
+	.6
+		type = /obj/items/Clothing/Kimono
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+		icon = filedata("name=;ext=.dmi;length=904;crc32=0x80a87a68;encoding=base64",{"
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCwAAAAAAAAAA
+ANhOXAsNBAAADM9hC7CCNgkIL+gJeODbv96+PrcIL+gJlAMAAAgv6Ak6AAAAR1JcCw==
+"})
+	.7
+		type = /obj/items/Clothing/Pants
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.8
+		type = /obj/Perk/Chakra
+	.9
+		type = /obj/Perk/Medic
+	.10
+		type = /obj/Custom/Ninjutsu/Crank/NoviceHealing
+		RPPSpent = 78
+		skil = "Mastered"
+		dran = 189.84375
+	.11
+		type = /obj/items/Clothing/Nez_Gray_Hoodie
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+	.12
+		type = /obj/items/Clothing/Pants
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",1779)
+	.13
+		type = /obj/items/Clothing/Shoes
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",5121)
+	.14
+		type = /obj/items/Clothing/Holster
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",3789)
+	.15
+		type = /obj/items/Food/Small_Fish
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.16
+		type = /obj/items/Citem/tools/Vending_Machine
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		mouse_drag_pointer = appearance(filedata("name=Vending.dmi;length=1699;crc32=0x21d8f83d;encoding=base64",{"
+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
+"}))
+	.17
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.18
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.19
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.20
+		type = /obj/items/Weapon/Tanto
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+	.21
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.22
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.23
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.24
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.25
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.26
+		type = /obj/items/Weapon/Windmill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.27
+		type = /obj/items/Weapon/Windmill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.28
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.29
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.30
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.31
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.32
+		type = /obj/items/Weapon/Windmill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.33
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.34
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.35
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.36
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.37
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.38
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.39
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.40
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.41
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.42
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.43
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.44
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.45
+		type = /obj/Perk/Chakra_Control
+		description = "This user's chakra control is on par with their skill rank. They are able to use jutsu at their skill level and below without wasting chakra, but anything above that is overly draining."
+		tier = 2
+		name = "Chakra Control Novice"
+	.46
+		type = /obj/Student
+	.47
+		type = /obj/Teacher
+	.48
+		type = /obj/items/Medicine/Healing_Pill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.49
+		type = /obj/items/Medicine/Cold_And_Flu
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.50
+		type = /obj/items/Medicine/Healing_Pill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.51
+		type = /obj/items/Medicine/Cold_And_Flu
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.52
+		type = /obj/items/Weapon/Windmill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.53
+		type = /obj/items/Weapon/Windmill
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.54
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.55
+		type = /obj/items/Weapon/Poison_Bomb
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.56
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.57
+		type = /obj/items/Food/Small_Fish
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.58
+		type = /obj/items/Citem/tools/Backpouch
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",4325)
+	.59
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html>\n<center>\n<b>D-Rank Mission (Cleaning out the trash) (8 rps)</b><br><br>\n<li>(*Higashi, Nori had first entered the tea shop, yawning rather faintly as she stuffed her hands into her pockets. Walking over towards the counter, she would explain to them that she was told to clean out the store. Upon doing that, she would merely nod her head once as she would begin to  do her work, slowly cleaning out the shop for the most part and placing the garbage she had found in  a black paper bag. She decided to only add this part before going back to the manor to do the real work as she got a bit confused as to what the Hokage really wanted.\n<br><br>\n\"I think he meant to throw the garbage out at his manor. .\" she mumbled, realizing it before she did more unneeded work.*)</li>\n<li>(*Higashi, Nori had ran back to the manor, quickly fumbling over and trying to pick up and drag the bags of garbage and what not that was near the side of the manor. She would hoist it over her back, slowly walking south and away from the area that she was around with a tired look plastered on her face. That was one of the many bags that were there.*)</li>\n<li>(*Higashi, Nori had continued to grab the garbage that she was being told to throw out, slowly pulling the black bags and dragging them over to the compaction heap to be destroyed and what not. She had to be careful to not use all of her weight while she threw the bag so she did not fall into it herself. Yes, she was that much of a light weight for her age, which said alot in some ways than one.*)</li>\n<li>(*Higashi, Nori //This was beginning to feel like a chore, which was probably a normal thing for it to feel at this point, arms slung the bag and walked it over a few miles away from the manor to the compaction heap, \"I thought this was a mission. . Not some exercise. .\" she mumbled to herself, lazilly throwing the black bag into the compaction heap, wincing only lightly.*)</li>\n<li>(*Higashi, Nori slowly would stagger a bit backwards, as she had seemed to have broken a sweat even after a short while of sifting back and forth. She decided to carry two bags instead, having only a short amount of garbage to throw out this time, she was only mentally happy that she was getting paid for this, which all in all was better to keep her mind going than anything else.*)</li>\n<li>(*Higashi, Nori was almost done with her session, already beginning to realize how much time had passed while she was doing this, she would decide to quickly finish up, throwing bag after bag, panting rigorously as she would throw the small bags into the trash compactor, panting as she would writhe in agony. So much garbage, so much smell!*)</li>\n<li>(*Higashi, Nori saw only two more bags in the small area which caused her to wince a bit. She thought that she had gotten all of the bags already, but it appeared she was wrong. Quickly swinging her bags into the compactor. .  . Well, bag. There was only one more left, of course.*)</li>\n<li>(*Higashi, Nori had merely inched her head to the side, feeling the aching area on her right arm, \"Okay. . Yeah. . Feel the burn. . Whoooo. . .\" she mumbled to herself, though at this point, she was practically almost done. She tried to rise the garbage bag onto the top of her head instead of her shoulder, trying to balance it out as she moved closer to the garbage compactor. upon throwing it, she would note all of the garbage bags were in the compactor before she forcefully pulled the lever down to watch the bags get crushed. She sighed, but felt a bit good to see all of those bags crushed.\n<br><br>\n\"Ahhh. . Blissfulness.\" she mumbled to herself.*)</li>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "D-Rank Mission (Getting rid of Garbage)"
+		icon = object("../../.85/icon",0)
+		icon_state = ""
+	.60
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html>\n<center>\n<b><u>C-Rank Mission (Escort the architect to the land of Rice) (16 rps)</b></u><br><br>\n<li>(*Higashi, Nori squints her eyes for a moment as it appeared that they were supposed to actually look for the guy they were to escort? She looked a bit around, though she pointed only to the man that seemed to be in his late thirties and was walking over towards the two, \"I gue--\" sure enough, she was right and she stoped her speech just to convey a light shrug of the shoulders.\n<br><br>\n\"Ready when you are.\" she said with a curt nod of approval.*)</li>\n<li>(*Higashi, Nori nods fo a moment, grasping onto the hilt of her tanto, \"Right.\" the older man looked at the young girl with a bit of suspicion, though Nori did not let it get to her as much as it might have been assumed. She just calmly unsheathed her blade and looked over to Takeda, \"Have you been to that country, Takeda?\" she asked with a tilt of the head, trying to convey a bit of conversation.\n<br><br>\n\"What about you?\" she asked the architect.*)</li>\n<li>(*Higashi, Nori inched her head to the side, \"I see. .\" she mumbled to herself, shrugging her shoulders as she would continue with their travel. She kept the blade close to herself, but just incase there was something to have gone down during this travel, she would merely take out a small piece of paper with a string on it, tying it on the pommel of the hilt of the tanto as they continued on their journey. While Nori was not known to fight, she could atleast use explosives. ..  A lot of them. . Boom, boom!*)</li>\n<li>(*Higashi, Nori 's ears quickly perked up as Hideyoshi called out her name. Eyes widening only for a short moment, she would nod, \"Yeah. . Just. . Not used to doing work that is outside the village before.\" she said, keeping a tight grip of the blade, \"I'll be alright. Really.\" she explained with a brief nod.*)</li>\n<li>(*Higashi, Nori had begun to walk a bit out of the path that Hideyoshi was going as she had forgotten a bit about them. . For just a second of course before she moved back behind the architect with a quiet few steps to make sure that no one noticed that she was away, \"It's not that far from here. . Right?\" she asked. For the most part, it did not seem like she had to do anything else, other than guard the guy. Everything seemed rather calm and relaxing to her, so maybe she could just lower her guard. . For just a moment. . And by just a moment, I mean letting go of the blade with her left hand. . Yeah, she was still on edge.*)</li>\n<li>(*Higashi, Nori sighed for a moment, yet nodded. The walk was not really something that she had mind, rather it was just patience which was her problem all in all. Arching a sharp brow for moment, she would look over towards Takeda as he spoke about something that was irrelevant to the mission, \"Oh! Well, it's been better. I tested a bit of the herbs on some injuries I had due to an experiment. . It actually healed pretty well, surprisingly. Though I do need to try and gather more herbs to experiment before I could actually say if they are good or not.\" she explained, seemingly a bit entranced on the herbs she had.\n<br><br>\n\"I also carried some for the trip incase there was any injuries or anything.\"*)</li>\n<li>(*Higashi, Nori had continued following behind the man with a brief yawn escaping her lips. She was slowly starting to get bored with the walking, but as soon as Hideyoshi said the were able to finally stop walking for the most part, an amount of relief washed over her face as she finally sat down. Her dead pan eyes looking around before she sat down with the architect, finally getting a bit of a break from walking.\n<br><br>\n\"Eh. . Is it about that err. .test?\" she asked, inching her head to the side, though of course she was still trying to tread carefully when speaking about something like that.*)</li>\n<li>(*Higashi, Nori shrugged her shoulders as she got up. That was a rather short break that had no real relaxation behind it. She sighed lightly, stretching for what it was worth before she followed, though this time it had appeared that she was to be leading them off the rest of the way, which to her seemed like a headache. Looking down for the most part with the same blank expression on her face, she would continue this, \"Uhh. . I think I see something now.\" she said to Takeda.*)</li>\n<li>(*Higashi, Nori nods a bit as they had finally reached their destination. She blinked a few times, inhaling deeply as she would just, \"This is really tiresome. . But! We finished, which is all that mattered really.\" she said with a nod as she was a bit surprised at the fact that Takeda had called up a caravan before hand, which made her sigh with some form of relief, \"That's. . actually good.\" she said, inching her head to the side as she would simply climb in the caravan, feeling more relaxed due to just hanging out with her feet resting.\n<br><br>\n\"Hmm. . Well, since he might not be here yet. . I guess we can get something to eat or whatever, if you like.\" she said, \"Though the village has been rather empty last time I went venturing around. . . But meh, kind of irrelevant.\" she said with a nod.*)</li>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "C Rank (Escort to Land of Rice)"
+		icon = object("../../.85/icon",0)
+		icon_state = ""
+	.61
+		type = /obj/Perk/Studious_1
+		RPPSpent = 850
+		tier = 2
+		name = "Studious 2"
+	.62
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>Scroll</title></center></head><body> Yumiko and I headed out to get some ramen. You're free to join if we're still there."
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Another note from Heiwa"
+		icon = object("../../.85/icon",0)
+		icon_state = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(filedata("name=;ext=.dmi;length=250;crc32=0x44af683d;encoding=base64",{"
+AA8AAADY39u/rLtAtwAAAABQHkC3DgAAAFXcVLeo49u/byLntqjj27+20FS3AHO1CSYwa7cLAAAA
+AA8AAADY39u/rLtAtwAAAABQHkC3DgAAAFXcVLeo49u/byLntqjj27+20FS3AHO1CSYwa7cLAAAA
+AA8AAADY39u/rLtAtwAAAABQHkC3DgAAAFXcVLeo49u/byLntqjj27+20FS3AHO1CSYwa7cLAAAA
+AA8AAADY39u/rLtAtwAAAABQHkC3DgAAAFXcVLeo49u/byLntqjj27+20FS3AHO1CSYwa7cLAAAA
+AA8AAADY39u/rLtAtwAAAABQHkC3Dg==
+"}))
+	.63
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Elementless"
+		description = "A technique wherein the user exerts chakra into their body, increasing their metabolic rate, allowing them to cover a distance in a short period. This technique has a delay and causes the user to become dizzy and disoriented for a short period after use until mastered."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 67.01580047607421875
+		idran = "Chakra"
+		name = "Shunshin no Jutsu"
+	.64
+		type = /obj/items/Food/Small_Fish
+		saved_x = 0
+		saved_y = 0
+		saved_z = null /*unrecognized data*/
+		mouse_drag_pointer = appearance(null /*invalid data*/)
+	.65
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.66
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.67
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.68
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.69
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.70
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.71
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Elementless"
+		lrncost = 20
+		nan = "Diagnose"
+		Kekkei = 0
+		IsStored = 1
+		description = "The user sends a quick burst of chakra through their target. This chakra works similarly to radar and returns with information regarding various internal damages an individual has suffered including illness."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 98.34999847412109375
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Diagnosis"
+	.72
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Elementless"
+		lrncost = 30
+		nan = "Healing Pulse"
+		Kekkei = 0
+		IsStored = 1
+		description = "The user extends their chakra outward towards their target via a burst of chakra. This healing chakra works similarly to healing hands and speeds of up healing. This is very taxing on the user as it requires a -great- deal of chakra control."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 285
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Healing Pulse"
+	.73
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 22
+		ele = "Elementless"
+		description = "The user sends a quick burst of chakra through their target. This chakra works similarly to radar and returns with information regarding various internal damages an individual has suffered including illness."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 70.01674652099609375
+		idran = "Chakra"
+		name = "Diagnose"
+	.74
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 128
+		ele = "Elementless"
+		description = "The user extends their chakra outward towards their target via a burst of chakra. This healing chakra works similarly to healing hands and speeds of up healing. This is very taxing on the user as it requires a -great- deal of chakra control."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 262.656005859375
+		idran = "Chakra"
+		name = "Healing Pulse"
+	.75
+		type = /obj/Perk/Reflex
+	.76
+		type = /obj/Perk/Speed
+	.77
+		type = /obj/items/Weapon/Shuriken
+		shuriken = 17
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "You current have 17 in this stack"
+	.78
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 325
+		ele = "Elementless"
+		description = "The user performs the required seals before placing their hands flat upon the ground. Iron chains are then spawned from the ground and shoot up around the individual whom they are targetting. These chains then wrap around and constrict the target. <br>\[Constriction Resistance: Str*2 vs Con + Nin\]"
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 78.557342529296875
+		idran = "Chakra"
+		name = "Chains of Absolution"
+	.79
+		type = /obj/Perk/Uzumaki_Clan
+	.80
+		type = /obj/Perk/Hand_Seal_Speed
+	.81
+		type = /obj/Squad_Member
+	.82
+		type = /obj/Squad_Member
+	.83
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.84
+		type = /obj/Gene/Child
+	.85
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<body background=\"http://40.media.tumblr.com/58193144cd5c95369e3fca630e9ca9a6/tumblr_mrpeph1q5y1rdxs13o1_1280.jpg\n\" bgproperties=\"fixed\" text=\"#FFFFFF\" style=\"background-position:top; background-repeat\">"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=382;crc32=0x5127ff91;encoding=base64",{"
+AAEAAABI4Nu/nHjGCrCCNgkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAA9nC1CQAAAAAAAAAA
+AAEAAABI4Nu/nHjGCrCCNgkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAA9nC1CQAAAAAAAAAA
+AAEAAABI4Nu/nHjGCrCCNgkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAA9nC1CQAAAAAAAAAA
+AAEAAABI4Nu/nHjGCrCCNgkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAA9nC1CQAAAAAAAAAA
+AAEAAABI4Nu/nHjGCrCCNgkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAA9nC1CQAAAAAAAAAA
+AAEAAABI4Nu/nHjGCrCCNgkIL+gJeODbv96+PrcIL+gJigEAAAgv6Ak6AAAA9nC1CQAAAAAAAAAA
+AAEAAABI4Nu/nHjGCrCCNgkIL+gJeODbv96+PrcIL+gJigEAAAgv6A==
+"})
+		icon_state = ""
+	.86
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 86
+		ele = "Elementless"
+		description = "The ninja needs to stop the flow of chakra in their body, and then apply an even stronger power to disrupt the flow of the caster's chakra; this is called Genjutsu Dissipation (???, Genjutsu Kai). This can also be done by an unaffected ninja by applying a sudden surge of chakra into the affected person."
+		skil = "Mastered"
+		jut = "Genjutsu"
+		ran = "D"
+		dran = 22.33860015869140625
+		idran = "Chakra"
+		name = "Genjutsu: Kai"
+	.87
+		type = /obj/Squad_Member
+	.88
+		type = /obj/items/Scrolls/Mission_Scroll/BRankMission/BRank1
+		completer = "Shawn45"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "C-Rank Mission 1: Spar a higher ranked shinobi!"
+	.89
+		type = /obj/items/Scrolls/Mission_Scroll/BRankMission/BRank2
+		completer = "Shawn45"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "C-Rank Mission 2: Give a Private Lesson!"
+	.90
+		type = /obj/items/Scrolls/Mission_Scroll/DRankMission/DRank4
+		completer = "Shawn45"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.91
+		type = /obj/items/Scrolls/Mission_Scroll/DRankMission/DRank1
+		completer = "Shawn45"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.92
+		type = /obj/items/Scrolls/Mission_Scroll/DRankMission/DRank4
+		completer = "Shawn45"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.93
+		type = /obj/items/Scrolls/Mission_Scroll/DRankMission/DRank5
+		completer = "Shawn45"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "C-Rank Mission 5: Take a message to a friendly village!"
+	.94
+		type = /obj/items/Scrolls/Mission_Scroll/BRankMission/BRank1
+		completer = "Shawn45"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+key = "Shawn45"
+Oname = "Higashi, Nori"
+Jchakra = 3300
+maxJchakra = 3300
+Jstam = 2500
+maxJstam = 2500
+Jnin = 11.36999988555908203125
+Jgen = 2.25
+Jtai = 3.650000095367431640625
+Jcon = 13.3500003814697265625
+Jint = 7.25
+Jref = 6.25
+Jspd = 4.44999980926513671875
+Jstr = 2.650000095367431640625
+Jdef = 2.650000095367431640625
+Jdur = 2.650000095367431640625
+Jatkspd = 2.25
+Jgenres = 8.5
+Yen = 1083815
+uprank = 40
+InitialSet = 1
+exp = 1744.197998046875
+HPPerc = 97
+icon_state = ""
+profile = "<title>Nori Higashi</title>\n<body bgcolor=gray>\n<center> (Post-TS Pic: . .A bit Androgynous)<img src=http://vignette3.wikia.nocookie.net/rokka-no-yuusha/images/c/cf/Adlethead.png/revision/latest?cb=20150720071739 height=100% border=3><br>\nHeight: 5'1 Tall<br>\nGender: What do you think. . . ?<br>\nAge: Twelve Years Old\n<iframe width=0 height=0 src=https://www.youtube.com/embed/IUKsMBN7dS4?autoplay=1&loop=1 frameborder=0 allowfullscreen></iframe>\n\n</body>"
+MaxGenjutsu = 1.00300014019012451171875
+Oprofile = "<title>Nori Higashi</title>\n<body bgcolor=gray>\n<center> <img src= http://pre12.deviantart.net/161f/th/pre/i/2012/345/4/8/sakaki_nekokayo_naruto_classic_by_thaisdelrey-d5nrkxn.png height=100% border=3><br>\nHeight: 4'3\" Tall<br>\nGender: What do you think. . . ?<br>\nAge: Ten Years Old. . But seriously, what the hell do you think?\n<iframe width=0 height=0 src=https://www.youtube.com/embed/IUKsMBN7dS4?autoplay=1&loop=1 frameborder=0 allowfullscreen></iframe>\n\n</body>"
+RPLOG = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b> - Mon Oct 12 07:13:04 2015</b><font><hr><br><br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra Control, Handseals - Tue Oct 13 01:00:35 2015</b><font><hr><br>(*Higashi, Nori risen his hand up, clasping it together as he would move through a few handseals. He managed to catch a fish and place it on the shore, allowing it to slowly slip away from unconsciousness. His hands placed ontop of the fish as chakra would begin to weave through the fish, trying to focus it onto the gills with the intent to try and revive it momentarilly.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>chakra control, handseals - Tue Oct 13 01:05:42 2015</b><font><hr><br>(*Higashi, Nori continued to pour through more chakra as he was doing such, inhaling deeply as the chakra was pumping through the fish's gills, \"Hrng. .\"*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Sun Nov  1 05:12:44 2015</b><font><hr><br>Higashi, Nori dropped to the ground as he would travel across the small fields of Konoha, particularly where most things like herbs, spices, fruits, and vegetables were being produced. There was not much people that were around the area, so it made things much easier to gather and place in his satchel for future notice. But what he was trying to gather was not the fruits and vegetables, but the gathering of herbs that were generally within the vicinity.\n\nA hand lightly interlocked around the knife as Nori walked up and close towards one of the small plants, analyzing each one he could see and could get his grubby hands on before inching his head to the side, trying to make sure he didn't pull on them too hard that he pulled them out by the root. That would surely be an untimely damper on the young medic's plans as he was not a herbalist, but them being here was all the more better for him as he slowly cut them from under, making sure each incision done was clean and would take a few steps after gathering them.\n\nHe leaned in and sniffed them, slowly drawing a finger on the top of them to see if there was any residue on them.\n\nFollowing herbs he gathered:\nWhite flower lily\nWeed herb\nCornflower\nCoca<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Sun Nov  1 15:02:24 2015</b><font><hr><br>(*Higashi, Nori had begun to sit down calmly in a small house, taking note of how empty and desolate the place had been for the past few weeks he had been gone, his optics looking down at the bag of herbs he had, studying their color pigmentation. He looked around the small room, trying to sift through the books he had in regards to the herbs he had gathered, but more importantly, he was trying to find where he could gather more intel such as this and deduce what he needed in order to further differentiate the plants and herbs from one another. A sigh escaped his lips, yet that did not hinder his progression, flipping through the book and looking over the cornflower bud he had gathered first wth his brows furrowed.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Sun Nov  1 15:03:15 2015</b><font><hr><br>(*Higashi, Nori gave himself a moment to analyze the bud, he would deliver a small puff of a sigh. It had no medicinal properties to it, which was furher disappointing, according to the book, so it was not meant to be of a bother to the young medic. Although, it did seem to have it's benefit as a good style, so for now, he grabbed the one that seemed promising, shifting it to the side and just looked over the to his right to the weed herb next with a boring facial expression as he analyzed the roots and grass, the color and texture to see what it was called.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Sun Nov  1 15:04:06 2015</b><font><hr><br>(*Higashi, Nori //Upon further investigation, his eyes narrowed as he would chuckle only a tad bit, turning the pages of the book and finding the name of it that best described what it was. A medicinal herb that was used to help with pain, but it did say it could get people dizzy and stuff which made Nori even more interested in the drug than the others for the most part. Quickly putting the amount of weed he had gathered in a neat patch, Nori's arm reached in to grab the next herb, a white lily herb.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Sun Nov  1 15:05:48 2015</b><font><hr><br>(*Higashi, Nori was beginning to find a pattern of uses here. It was good for things such as bleeding, the female reproductive system, burns, coughing, etc. Although it had some side effects to it like the weed herb which caught his attention as well. His eyes were beginning to burn as he looked at the time, it was already getting a tad bit late, which was not good for him. Quickly closing up the book and shoving what was left of the herbs he gathered, he would heave a light hearted sigh, running a hand through his hair before packing up.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Wed Nov  4 21:14:01 2015</b><font><hr><br>(*Higashi, Nori had entered into the hospital, getting ready to do a bit of work. She had been experimenting on the amount of herbs she had been given, sometimes on her wounds that she gave to herself and sometimes to just plain smoke. Gathering the herbs were one thing, but using them on herself for the most part was another.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Wed Nov  4 21:18:17 2015</b><font><hr><br>(*Higashi, Nori had begun to remove a small knife, lightly pressing it against the surface of her leg, \"Okay! Time for the annual blood take!\" she exclaimed with a bit of a chime, lightly digging the blade into her leg and slowly cutting into the leg. She winced for a moment, but then a faint shade of red covered her face. She looked from right to left before just placing the kunai to the side.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Wed Nov  4 21:22:33 2015</b><font><hr><br>(*Higashi, Nori first had removed the one of the small pasty remnants of the Coca plant and just slowly lattered it on the wound. She winced ever so lightly before only clasping her hands together, moving through the amount of handsigns and placing her hand hovering over above the wound as a light hue slowly shaded over and aimed to swallow up the wound and close it with the help of the plan speeding up it's effects.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Wed Nov  4 21:27:40 2015</b><font><hr><br>(*Higashi, Nori inched her head to the side before inhaling, \"Okay. . Did that. . Now what else. .\" she mumbled to herself, clasping her hands together and slowly sifting through the handseals, just practicing as she thought on what she could do other than roll up the weed she gathered. Looking into her bag, she would fumble into the bag.\n\nShe only had three weed herbs left and 2 coca. The other six were separate coca herbs and white lily and cornflower, two of each before sighing lightly.\n\n\"Okay. . I will save the rest for later.\" she thought as she exhaled a sigh, ruffling the back of her hair.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Wed Nov  4 21:38:46 2015</b><font><hr><br>(*Higashi, Nori removed small book, just writing her small findings, \"Okay, so it helps with the healing process on the outside, but what of the insides?\" she asked herself, inching her head to the side as she spoke to herself, tying her bag and placing it to the side, leaning a back against a wall, yawning.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Sun Nov  8 20:38:11 2015</b><font><hr><br>(*Higashi, Nori yawns as she pulled out the small book, tearing out seven herbs.\n\nEach listed the following with pictures:\n\nMarijuana\nSweet Marjoram\nRed Clover\nNavajo Tea\nSage\nSaffron\nHops Flower*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Thu Nov 12 04:11:44 2015</b><font><hr><br>(*Higashi, Nori was beginning to set up a bit of experimenting. . First thing's first, she had to take out a small notebook and a pen, placing it on the side. She also removed a kunai knife and placed the bag filled with herbs on the counter as well, \"I am going to stay here and do a bit of long needed studying. You two can go out.\" she said, cracking her fingers as she had to get to work.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Thu Nov 12 06:39:21 2015</b><font><hr><br>(*Higashi, Nori had placed the weed that she was given from Heiwa and Yumiko to the side, deciding to sift through the area for small plastic bags. Once she had founded them, the medic would place them into the bags. Upon doing this, however, she would quickly, yawn, only just placing the weed to the side and just testing the Hops flower first and foremost. She wanted to see what it can do with her psyche the most since it was told to be a sense of euphoria, but before she could test it, she placed it to the side.\n\nAnother plant was in her mind to test out that she had almost neglected to do so in the first place. The sage herb which was close to the area itself. She grabbed at one of them that were in the bag and had begun to open up a small book to see how to ingest the flower in a regular fashion, slowly grinding it with the small pot and what not she had obtained before ingesting it from the mouth. For the most part she felt nothing.\n\nThen suddenly, a light wincing was felt as she was only a tad bit woozy, grasping onto her stomach. It did not set right with her at all. . Then again, it was her first time testing the plant. So only time will tell, right?*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Thu Nov 12 06:44:28 2015</b><font><hr><br>(*Higashi, Nori groaned as she grabbed at her stomach, feeling the negative effects, \"O-Okay. . . Not by the mouth, got it.\" she mumbled to herself in a meek tone, grasping onto the side of the table and looking up. Reluctantly, her hand slipped by and grabbed onto another sage flower. This time, instead of grinding it, she decided to pound it to the point the squishy liquids of it spread outwards into decent piles. She inched her head lightly to the side, peaked with literal curious intent on what she was to do next after all of this.\n\nQuickly writing it back and forth, she would sniff the fragrance only to feel a bit. . better. . She wrote a brief note on that, and pushed it away. However, a tint of red was on her face as she still felt the pain from before.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Herbalist - Thu Nov 12 06:50:27 2015</b><font><hr><br>(*Higashi, Nori took the hops flower for a moment, just staring at the herb before shaking her head. She had wrote a bit of notes in regards to this plant, inching her head to the side as she was only trying to discern what she was trying to do next. At this point in time, the young medic was just aggrivated over a few things that were deemed rather noteworthy. Quickly, she would tear at the hops flower, chewing it and swallowing it. So far, there was not much to be said about the herb, to which she had wrote down in her notes.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Hebalist - Thu Nov 12 06:51:18 2015</b><font><hr><br>(*Higashi, Nori had suddenly begun to feel light headed, swaying left to right, \"The heck. . \" she mumbled to herself with a bit of fear in her voice as she took a step backwards, only to fall on her backside with a brief groan echoing  from her. She fell back, as the hops flower's sleep effects were starting to begin. . Before she knew it, the young medic had passed out from the flower itself. Atleast. . That was one thing that she could get from the flower.*)<br>"
+Calories = 9180
+grabberSTR = 1
+Dranks = 1
+Cranks = 3
+Stamina = 1.5
+RPP = 1250
+Squad = "Wantpark"
+SquadName = "Squad 1"
+SquadMember = 1
+SquadM = 1
+SayFont = "#6600ff"
+OSayFont = "#6600ff"
+Agility = 1.25
+Branks = 4
+JConst = 978
+exptunarank = 6
+PerC2Nxt = 15

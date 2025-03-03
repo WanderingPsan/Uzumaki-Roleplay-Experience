@@ -1,0 +1,290 @@
+
+x = 113
+y = 217
+z = 1
+B1 = list()
+B2 = list()
+B3 = list()
+B4 = list()
+B5 = list()
+B6 = list()
+B7 = list()
+B8 = list()
+B9 = list()
+F1 = list()
+F2 = list()
+G1 = list()
+G2 = list()
+G3 = list()
+M1 = list()
+M2 = list()
+M3 = list()
+M4 = list()
+M5 = list()
+M6 = list()
+Class = "Genin"
+Village = "Konohagakure"
+Trait = "Average"
+srank = "D"
+PrimaryElement = "Lightning"
+displaykey = "<font color=yellow>I.am.going.to.give.Riven.$10</font>"
+stat = 1
+Age = 15
+StaminaGain = 1.7999999523162841796875
+lx = 113
+ly = 217
+lz = 1
+WHO = list()
+StrengthGain = 1.7999999523162841796875
+AgilityGain = 1.2000000476837158203125
+OffenceGain = 1.5
+DefenceGain = 1.7999999523162841796875
+ControlGain = 1.60000002384185791015625
+ResistanceGain = 1.7999999523162841796875
+TaijutsuGain = 1.7000000476837158203125
+NinjutsuGain = 1.2000000476837158203125
+GenjutsuGain = 1.39999997615814208984375
+Pale = 1
+Oicon = filedata("name=Base_FemalePale.dmi;length=4435;crc32=0xa4ac68eb;encoding=base64",{"
+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
+"})
+name = "Yamato, Saika"
+icon = object("//Oicon",0)
+gender = "male"
+contents = list(
+		object(".0"),
+		object(".1"),
+		object(".2"),
+		object(".3"),
+		object(".4"),
+		object(".5"),
+		object(".6"),
+		object(".7"),
+		object(".8"),
+		object(".9"),
+		object(".10"),
+		object(".11"),
+		object(".12"),
+		object(".13"),
+		object(".14"),
+		object(".15"),
+		object(".16"),
+		object(".17"),
+		object(".18"),
+		object(".19"),
+		object(".20"))
+	.0
+		type = /obj/items/Clothing/LeafHeadband
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+		icon = filedata("name=KonoNeck.dmi;length=544;crc32=0xecdfe888;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAMAAAACgBAMAAACoBn5uAAAAElBMVEXAwMD/EREsLCyorrP////h
+4eES7Fm7AAAAAXRSTlMAQObYZgAAAKh6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/Y0lJYnI2dlOQlLnlJ5cWI1QZYlfl7U9QSXhqYkF+Hnb7
+jFBczcWZk59fAFairODq5wIOHgAa8U+wUBRhhwAAAQhJREFUaIHt29sNwjAMheFkg2aEwgRIbEAX
+QIj9V+HyFlvk1DJ9gP6feEmVkpSL5FO5pQDAz2irDg1M79fncWutG9fngcj717m12bxBP+G89Ass
+l+GG7Lge77dugdJv+HUJo7HcoPsISi0ReoNZyQ0CAABgP2R+UBPS+UFMSOcHNSGbH/QEynMAAADs
+RjY/ZAOGzQ8+TyQDhs0PLk+kA4a9QpcnCBgAAAD7Fev+iauHWPOKKt9dvV9PofNVfe/K+1Kvo/N9
++S/qe1/emwVWlP/j+r5NtrzvFtig/DffwfdFf0VxW/8PAAAA/lT2+QLdXyT6g9L9Rer2fbq/SD1f
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggg==
+"})
+	.1
+		type = /obj/Genjutsu/Bunshin
+	.2
+		type = /obj/Ninjutsu/Kawarimi
+	.3
+		type = /obj/Genjutsu/Henge
+	.4
+		type = /obj/Gene/Longevity
+	.5
+		type = /obj/Gene/High_Speed
+	.6
+		type = /obj/Custom/Med/Meditate
+		idran = "Chakra"
+	.7
+		type = /obj/Perk/Shinobi_Info_Card
+	.8
+		type = /obj/items/Clothing/Pants
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",8)
+	.9
+		type = /obj/items/Clothing/Shoes
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",2018)
+	.10
+		type = /obj/items/Clothing/Shirt
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",3273)
+	.11
+		type = /obj/items/Clothing/Female_Coat
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",4717)
+	.12
+		type = /obj/items/Clothing/Kimono
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",5677)
+	.13
+		type = /obj/Perk/Hyuuga_Clan
+	.14
+		type = /obj/Custom/Blank_Buff/Byakugan
+		GChak = 11
+		idran = "Chakra"
+	.15
+		type = /obj/Custom/Blank_Buff/Gentle_Fist
+		idran = "Stamina"
+	.16
+		type = /obj/Perk/Reflex
+	.17
+		type = /obj/Perk/Attack_Speed
+	.18
+		type = /obj/items/Food/Miso_Ramen
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.19
+		type = /obj/items/Food/Miso_Ramen
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.20
+		type = /obj/Ninjutsu/Suimen_Hokou_no_Waza
+key = "Chaos Commander2019"
+ChakraGain = 1.10000002384185791015625
+hair = null /*invalid data*/
+Female = 1
+overlays = list(appearance(null /*invalid data*/),appearance(null /*invalid data*/),appearance(null /*invalid data*/),appearance(null /*invalid data*/),appearance(null /*invalid data*/),appearance(object("//hair",0)))
+Oname = "Yamato, Saika"
+JConst = 1908
+maxJConst = 2000
+Jchakra = 550
+maxJchakra = 550
+Jstam = 550
+maxJstam = 550
+Jnin = 3
+Jgen = 3
+Jtai = 7.909999847412109375
+Jcon = 5.099999904632568359375
+Jint = 3
+Jref = 7.320000171661376953125
+Jspd = 3.400000095367431640625
+Jstr = 4.44999980926513671875
+Jdef = 4.5
+Jdur = 3
+Jatkspd = 6
+Jgenres = 3
+Yen = 17200
+uprank = 20
+InitialSet = 1
+OOCFont = "#ff9900"
+HPPerc = 95
+icon_state = ""
+SayFont = "#ff9900"
+OSayFont = "#ff9900"
+profile = "<body background=\"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAIQtchaGrFkf5b9fmvY6wjZuCaXQlMAXOJuxGV6tIYd2lI8pK\"><table width=\"700\" bgcolor=\"#ffffff\" cellspacing=\"0\" cellpadding=\"10\" align=\"center\"> \n\n\n<tr valign=\"top\"><td style=\"padding:0.0em;\" colspan=\"1\" width=\"300px\" align=\"center\"><img src=\"http://static.zerochan.net/Hyuuga.Hinata.full.1877865.jpg\"></td>\n\n\n<tr><td colspan=\"4\"></td></tr>\n\n<tr> <td bgcolor=\"#ffffff\" align=\"right\" style=\"padding:0.0em;\" colspan=\"5\"><span style=\"font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;\">…BASICS;</span></td></tr>\n\n<tr> <td bgcolor=\"#AC0339\" colspan=\"4\" style=\"border:1px #FFFFFF solid;\"><div align=\"justify\"><font face=\"arial, lucida, tahoma\" size=\"2\" color=\"#FFFFFF\">\n\nGiven Name: Saika<br>\nAlias: N/A<br>\nHeight/Weight: 5' 6 / Curvy <br>\nHair/Eyes: Black / Pale white <br>\nAge: 15 <br>\nAttire/Gear: Black dresses most of the time / Usual shinobi tools hidden under it. She also as a -very- noticable white flower always in her hair. Obviously it's special to her. Also wears an engagement ring.<br>\nBlood Type: B- <br>\nAlignment: Neutral<br>\n\n</div></td></tr> \n\n<tr><td colspan=\"4\"></td></tr>\n\n<tr> <td bgcolor=\"#ffffff\" align=\"right\" style=\"padding:0.0em;\" colspan=\"5\"><span style=\"font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;\">…PERSONALITY;</span></td></tr>\n\n<tr> <td bgcolor=\"#2B20A1\" colspan=\"4\" style=\"border:1px #FFFFFF solid;\"><div align=\"justify\"><font face=\"arial, lucida, tahoma\" size=\"2\" color=\"#FFFFFF\">Shy, yet off putting. Obviously doesn't want people around her.</div></td></tr> \n\n<tr><td colspan=\"4\"></td></tr>\n\n<tr> <td bgcolor=\"#ffffff\" align=\"right\" style=\"padding:0.0em;\" colspan=\"5\"><span style=\"font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;\">…HISTORY;</span></td></tr>\n\n<tr> <td bgcolor=\"#F79E09\" colspan=\"4\" style=\"border:1px #FFFFFF solid;\"><div align=\"justify\"><font face=\"arial, lucida, tahoma\" size=\"2\" color=\"#FFFFFF\">Find out IC.</div></td></tr>\n\n<tr><td colspan=\"4\"></td></tr>\n\n<td></td>\n</tr></table>\n"
+grabberSTR = 1
+RPP = 500
+MaxGenjutsu = 1.0020000934600830078125
+Oprofile = "<body background=\"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAIQtchaGrFkf5b9fmvY6wjZuCaXQlMAXOJuxGV6tIYd2lI8pK\"><table width=\"700\" bgcolor=\"#ffffff\" cellspacing=\"0\" cellpadding=\"10\" align=\"center\"> \n\n\n<tr valign=\"top\"><td style=\"padding:0.0em;\" colspan=\"1\" width=\"300px\" align=\"center\"><img src=\"http://static.zerochan.net/Hyuuga.Hinata.full.1877865.jpg\"></td>\n\n\n<tr><td colspan=\"4\"></td></tr>\n\n<tr> <td bgcolor=\"#ffffff\" align=\"right\" style=\"padding:0.0em;\" colspan=\"5\"><span style=\"font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;\">…BASICS;</span></td></tr>\n\n<tr> <td bgcolor=\"#AC0339\" colspan=\"4\" style=\"border:1px #FFFFFF solid;\"><div align=\"justify\"><font face=\"arial, lucida, tahoma\" size=\"2\" color=\"#FFFFFF\">\n\nGiven Name: Saika<br>\nAlias: N/A<br>\nHeight/Weight: 5' 6 / Curvy <br>\nHair/Eyes: Black / Pale white <br>\nAge: 15 <br>\nAttire/Gear: Black dresses most of the time / Usual shinobi tools hidden under it. She also as a -very- noticable white flower always in her hair. Obviously it's special to her.<br>\nBlood Type: B- <br>\nAlignment: Neutral<br>\n\n</div></td></tr> \n\n<tr><td colspan=\"4\"></td></tr>\n\n<tr> <td bgcolor=\"#ffffff\" align=\"right\" style=\"padding:0.0em;\" colspan=\"5\"><span style=\"font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;\">…PERSONALITY;</span></td></tr>\n\n<tr> <td bgcolor=\"#2B20A1\" colspan=\"4\" style=\"border:1px #FFFFFF solid;\"><div align=\"justify\"><font face=\"arial, lucida, tahoma\" size=\"2\" color=\"#FFFFFF\">Shy, yet off putting. Obviously doesn't want people around her.</div></td></tr> \n\n<tr><td colspan=\"4\"></td></tr>\n\n<tr> <td bgcolor=\"#ffffff\" align=\"right\" style=\"padding:0.0em;\" colspan=\"5\"><span style=\"font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;\">…HISTORY;</span></td></tr>\n\n<tr> <td bgcolor=\"#F79E09\" colspan=\"4\" style=\"border:1px #FFFFFF solid;\"><div align=\"justify\"><font face=\"arial, lucida, tahoma\" size=\"2\" color=\"#FFFFFF\">Find out IC.</div></td></tr>\n\n<tr><td colspan=\"4\"></td></tr>\n\n<td></td>\n</tr></table>\n"
+leeching = 1
+OOCon = 0
+dir = 4

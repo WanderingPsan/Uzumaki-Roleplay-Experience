@@ -1,0 +1,325 @@
+Fri Sep 18 11:54:50 2015
+BYOND Error: failed to certify EvolutionMe
+World opened on network port 3005.
+runtime error: Cannot create objects of type null.
+proc name: Give Perk (/mob/perkmaster/verb/Give_Perk)
+  usr: Erebus (/mob)
+  src: Erebus (/mob)
+  call stack:
+Erebus (/mob): Give Perk(Erebus (/mob))
+Fri Sep 18 13:05:15 2015
+runtime error: Cannot create objects of type null.
+proc name: Give Perk (/mob/perkmaster/verb/Give_Perk)
+  usr: Erebus (/mob)
+  src: Erebus (/mob)
+  call stack:
+Erebus (/mob): Give Perk(Erebus (/mob))
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+  usr: Kilm (/mob)
+  src: Kilm (/mob)
+  call stack:
+Kilm (/mob): Spend RPP()
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+  usr: Kilm (/mob)
+  src: Kilm (/mob)
+  call stack:
+Kilm (/mob): Spend RPP()
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+  usr: Kilm (/mob)
+  src: Kilm (/mob)
+  call stack:
+Kilm (/mob): Spend RPP()
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+  usr: Kilm (/mob)
+  src: Kilm (/mob)
+  call stack:
+Kilm (/mob): Spend RPP()
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+  usr: Kilm (/mob)
+  src: Kilm (/mob)
+  call stack:
+Kilm (/mob): Spend RPP()
+Fri Sep 18 15:06:15 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+  usr: null
+  src: Dragonfile (/client)
+  call stack:
+Dragonfile (/client): Del()
+Dragonfile (/client): Del()
+Fri Sep 18 17:54:49 2015
+runtime error: Cannot modify null.Village.
+proc name: Invite To Village (/obj/Raikage/verb/Invite_To_Village)
+  usr: Ushinawa (/mob)
+  src: Raikage (/obj/Raikage)
+  call stack:
+Raikage (/obj/Raikage): Invite To Village()
+Fri Sep 18 19:20:33 2015
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+  usr: Ikarus (/mob)
+  src: Ikarus (/mob)
+  call stack:
+Ikarus (/mob): Spend RPP()
+Fri Sep 18 20:39:51 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+  usr: null
+  src: Them Yams Salty Fam (/client)
+  call stack:
+Them Yams Salty Fam (/client): Del()
+Them Yams Salty Fam (/client): Del()
+Erebus (/mob): Boot(null)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+  usr: null
+  src: TheOfficialMidknights (/client)
+  call stack:
+TheOfficialMidknights (/client): Del()
+TheOfficialMidknights (/client): Del()
+Erebus (/mob): Boot(null)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+  usr: null
+  src: Get Jazzy (/client)
+  call stack:
+Get Jazzy (/client): Del()
+Get Jazzy (/client): Del()
+Erebus (/mob): Boot(null)
+Fri Sep 18 22:21:27 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+  usr: null
+  src: Enigmatic_Subsistence (/client)
+  call stack:
+Enigmatic_Subsistence (/client): Del()
+Enigmatic_Subsistence (/client): Del()
+Sat Sep 19 02:25:54 2015
+runtime error: Cannot modify null.selected.
+proc name: View Inventory (/mob/Admin1/verb/View_Inventory)
+  usr: Erebus (/mob)
+  src: Erebus (/mob)
+  call stack:
+Erebus (/mob): View Inventory(null)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+  usr: null
+  src: ZuuZuu (/client)
+  call stack:
+ZuuZuu (/client): Del()
+ZuuZuu (/client): Del()
+Erebus (/mob): Boot(null)
+Sat Sep 19 05:06:35 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+  usr: null
+  src: Xyndart (/client)
+  call stack:
+Xyndart (/client): Del()
+Xyndart (/client): Del()
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+  usr: Hogo, Ikaro (/mob)
+  src: Hogo, Ikaro (/mob)
+  call stack:
+Hogo, Ikaro (/mob): Spend RPP()
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+  usr: Hogo, Ikaro (/mob)
+  src: Hogo, Ikaro (/mob)
+  call stack:
+Hogo, Ikaro (/mob): Spend RPP()
+Sat Sep 19 06:27:55 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Sat Sep 19 07:44:34 2015
+runtime error: Cannot create objects of type null.
+proc name: Give Jutsu (/mob/Admin3/verb/Give_Jutsu)
+Sat Sep 19 13:24:08 2015
+runtime error: Cannot modify null.selected.
+proc name: View Inventory (/mob/Admin1/verb/View_Inventory)
+Sat Sep 19 14:29:25 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Sat Sep 19 16:42:57 2015
+runtime error: Cannot modify null.selected.
+proc name: View Inventory (/mob/Admin1/verb/View_Inventory)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Backpouch/proc/Take)
+Sat Sep 19 18:31:28 2015
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Backpouch/proc/Take)
+Sat Sep 19 20:43:20 2015
+runtime error: cannot append to list
+proc name: Attach Message (/obj/items/Citem/tools/Messenger_Bird/verb/Attach_Message)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Sat Sep 19 22:16:42 2015
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Backpouch/proc/Take)
+runtime error: cannot append to list
+proc name: Attach Message (/obj/items/Citem/tools/Messenger_Bird/verb/Attach_Message)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Sat Sep 19 23:31:44 2015
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Cabinet/verb/Take)
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Cabinet/verb/Take)
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Cabinet/verb/Take)
+runtime error: cannot append to list
+proc name: Store (/obj/items/Citem/tools/Cabinet/verb/Store)
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Cabinet/verb/Take)
+Sun Sep 20 01:19:50 2015
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Backpouch/proc/Take)
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Backpouch/proc/Take)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Backpouch/proc/Take)
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Backpouch/proc/Take)
+Sun Sep 20 04:10:21 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Sun Sep 20 05:21:52 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Sun Sep 20 10:01:02 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Sun Sep 20 13:03:58 2015
+runtime error: Cannot create objects of type null.
+proc name: Give Jutsu (/mob/Admin3/verb/Give_Jutsu)
+runtime error: cannot append to list
+proc name: Attach Message (/obj/items/Citem/tools/Messenger_Bird/verb/Attach_Message)
+runtime error: Cannot read "Cancel".x
+proc name: Send Message (/obj/items/Citem/tools/Messenger_Bird/verb/Send_Message)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Sun Sep 20 14:08:48 2015
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: Cannot read "Cancel".x
+proc name: Send Message (/obj/items/Citem/tools/Messenger_Bird/verb/Send_Message)
+Sun Sep 20 15:44:18 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Sun Sep 20 17:05:33 2015
+runtime error: cannot append to list
+proc name: Attach Message (/obj/items/Citem/tools/Messenger_Bird/verb/Attach_Message)
+Sun Sep 20 19:07:21 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: Cannot create objects of type null.
+proc name: Give Perk (/mob/perkmaster/verb/Give_Perk)
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Sun Sep 20 20:17:05 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read "Cancel".x
+proc name: Send Message (/obj/items/Citem/tools/Messenger_Bird/verb/Send_Message)
+Sun Sep 20 23:24:33 2015
+runtime error: Cannot read "Cancel".ele
+proc name: Seal Jutsu (/obj/items/Scrolls/Jutsu_Scroll/verb/Seal_Jutsu)
+Mon Sep 21 00:27:20 2015
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Backpouch/proc/Take)
+runtime error: cannot append to list
+proc name: Attach Message (/obj/items/Citem/tools/Messenger_Bird/verb/Attach_Message)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Mon Sep 21 11:47:20 2015
+runtime error: cannot append to list
+proc name: Attach Message (/obj/items/Citem/tools/Messenger_Bird/verb/Attach_Message)
+Mon Sep 21 13:13:33 2015
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: Cannot create objects of type null.
+proc name: Give Perk (/mob/perkmaster/verb/Give_Perk)
+Mon Sep 21 14:27:34 2015
+runtime error: cannot append to list
+proc name: Attach Message (/obj/items/Citem/tools/Messenger_Bird/verb/Attach_Message)
+Mon Sep 21 15:31:51 2015
+runtime error: cannot append to list
+proc name: Take (/obj/items/Citem/tools/Backpouch/proc/Take)
+runtime error: Cannot create objects of type null.
+proc name: Give Jutsu (/mob/Admin3/verb/Give_Jutsu)
+runtime error: Cannot create objects of type null.
+proc name: Give Jutsu (/mob/Admin3/verb/Give_Jutsu)
+Mon Sep 21 16:57:04 2015
+runtime error: Cannot create objects of type null.
+proc name: Give Jutsu (/mob/Admin3/verb/Give_Jutsu)
+runtime error: Cannot create objects of type null.
+proc name: Give Jutsu (/mob/Admin3/verb/Give_Jutsu)
+runtime error: Cannot modify null.selected.
+proc name: View Inventory (/mob/Admin1/verb/View_Inventory)
+runtime error: Cannot modify null.selected.
+proc name: View Inventory (/mob/Admin1/verb/View_Inventory)
+Mon Sep 21 19:45:47 2015
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+Mon Sep 21 23:32:10 2015
+runtime error: Cannot create objects of type null.
+proc name: Spend RPP (/mob/verb/Spend_RPP)
+runtime error: Cannot create objects of type null.
+proc name: Give Jutsu (/mob/Admin3/verb/Give_Jutsu)
+runtime error: Cannot read null.client
+proc name: Del (/client/Del)
+runtime error: undefined variable /obj/Perk/Blank_Perk/var/ckey
+proc name: View Player Log (/mob/Admin1/verb/View_Player_Log)
+Warning: further proc crash messages are being suppressed to prevent overload...

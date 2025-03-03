@@ -1,0 +1,584 @@
+
+x = 85
+y = 25
+z = 5
+B1 = list()
+B2 = list()
+B3 = list()
+B4 = list()
+B5 = list()
+B6 = list()
+B7 = list()
+B8 = list()
+B9 = list()
+F1 = list()
+F2 = list()
+G1 = list()
+G2 = list()
+G3 = list()
+M1 = list()
+M2 = list()
+M3 = list()
+M4 = list()
+M5 = list()
+M6 = list()
+Village = "Konohagakure"
+Trait = "Average"
+PrimaryElement = "Wind"
+displaykey = "Chaos Commander2015"
+stat = 1
+Age = 17
+lx = 85
+ly = 25
+lz = 5
+WHO = list()
+Pale = 1
+Oicon = filedata("name=Base_Pale.dmi;length=14941;crc32=0xb48e6182;encoding=base64",{"
+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
+RU5ErkJggg==
+"})
+name = "Kurina, Abraxas"
+icon = object("//Oicon",0)
+gender = "male"
+key = "Chaos Commander2015"
+contents = list(
+		object(".0"),
+		object(".1"),
+		object(".2"),
+		object(".3"),
+		object(".4"),
+		object(".5"),
+		object(".6"),
+		object(".7"),
+		object(".8"),
+		object(".9"),
+		object(".10"),
+		object(".11"),
+		object(".12"),
+		object(".13"),
+		object(".14"),
+		object(".15"),
+		object(".16"),
+		object(".17"),
+		object(".18"),
+		object(".19"),
+		object(".20"),
+		object(".21"),
+		object(".22"),
+		object(".23"),
+		object(".24"),
+		object(".25"),
+		object(".26"),
+		object(".27"),
+		object(".28"))
+	.0
+		type = /obj/items/Clothing/LeafHeadband
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+		icon = filedata("name=KonoNeck.dmi;length=544;crc32=0xecdfe888;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAMAAAACgBAMAAACoBn5uAAAAElBMVEXAwMD/EREsLCyorrP////h
+4eES7Fm7AAAAAXRSTlMAQObYZgAAAKh6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/Y0lJYnI2dlOQlLnlJ5cWI1QZYlfl7U9QSXhqYkF+Hnb7
+jFBczcWZk59fAFairODq5wIOHgAa8U+wUBRhhwAAAQhJREFUaIHt29sNwjAMheFkg2aEwgRIbEAX
+QIj9V+HyFlvk1DJ9gP6feEmVkpSL5FO5pQDAz2irDg1M79fncWutG9fngcj717m12bxBP+G89Ass
+l+GG7Lge77dugdJv+HUJo7HcoPsISi0ReoNZyQ0CAABgP2R+UBPS+UFMSOcHNSGbH/QEynMAAADs
+RjY/ZAOGzQ8+TyQDhs0PLk+kA4a9QpcnCBgAAAD7Fev+iauHWPOKKt9dvV9PofNVfe/K+1Kvo/N9
++S/qe1/emwVWlP/j+r5NtrzvFtig/DffwfdFf0VxW/8PAAAA/lT2+QLdXyT6g9L9Rer2fbq/SD1f
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggg==
+"})
+	.1
+		type = /obj/Genjutsu/Bunshin
+	.2
+		type = /obj/Ninjutsu/Kawarimi
+	.3
+		type = /obj/Genjutsu/Henge
+	.4
+		type = /obj/Custom/Med/Meditate
+		idran = "Chakra"
+	.5
+		type = /obj/Perk/Shinobi_Info_Card
+	.6
+		type = /obj/items/Clothing/Coat
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",3288)
+	.7
+		type = /obj/items/Clothing/Vest
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",4513)
+	.8
+		type = /obj/items/Clothing/Sleeveless_Jacket
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",5526)
+	.9
+		type = /obj/items/Clothing/Pants
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",23)
+	.10
+		type = /obj/items/Clothing/Shoes
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",2033)
+	.11
+		type = /obj/items/Clothing/Slash
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",6403)
+	.12
+		type = /obj/Gene/High_Speed
+	.13
+		type = /obj/Gene/High_Intelligence
+	.14
+		type = /obj/Perk/Elemental_Training_Earth
+		description = "This character has a novice's understanding of the Earth Element and is capable of performing C ranked Doton Techniques and creating D-ranked techniques"
+		tier = 2
+		name = "Elemental Training Earth 2"
+	.15
+		type = /obj/Perk/Elemental_Training_Wind
+		description = "This character has a novice's understanding of the Wind Element and is capable of performing C ranked Fuuton Techniques and creating D-ranked techniques."
+		tier = 2
+		name = "Elemental Training Wind 2"
+	.16
+		type = /obj/Perk/Elemental_Training_Crystal
+		description = "This character has a novice's understanding of the Crystal Element and is capable of performing C ranked Techniques and creating D-ranked techniques"
+		tier = 2
+		name = "Elemental Training Crystal 2"
+	.17
+		type = /obj/Perk/Hand_Seal_Speed
+	.18
+		type = /obj/Custom/Doton/Drank/Earth_Style_Mud_Silhouette
+		RPPSpent = 58
+		skil = "Mastered"
+		dran = 72.029998779296875
+	.19
+		type = /obj/Student
+	.20
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 78
+		ele = "Crystal"
+		Kekkei = 1
+		description = "The user crystallises a material in the area, and then turns it into a dragon. It can be used as a means to travel or to attack a target. Several dragons can also be made and manipulated at once.<br>1 use per dragon.<br>Damage = Nin+Control+15<br>Shatter Damage: Nin+Control-10 for a 3x3 area"
+		skil = "Novice"
+		jut = "Ninjutsu"
+		ran = "B"
+		dran = 480
+		idran = "Chakra"
+		name = "Crystal Release: Tearing Crystal Falling Dragon"
+	.21
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 107
+		ele = "Crystal"
+		Kekkei = 1
+		description = "With this technique, Guren can quickly form a blade made of crystal on her arm, and use it in a manner reminiscent of a tanto. Blades can be formed on both arms if needed."
+		skil = "Expert"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 125
+		idran = "Chakra"
+		name = "Crystal Release: Jade Crystal Blade"
+	.22
+		type = /obj/Teacher
+	.23
+		type = /obj/Perk/Chakra_Control
+		description = "This user's chakra control is on par with their skill rank. They are able to use jutsu at their skill level and below without wasting chakra, but anything above that is overly draining."
+		tier = 2
+		name = "Chakra Control Novice"
+	.24
+		type = /obj/Perk/Speed
+	.25
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Earth"
+		lrncost = 30
+		nan = "Earth Style: Subterranean Voyage"
+		Kekkei = 0
+		IsStored = 1
+		description = "A technique that transforms the earth surrounding the user into a fluid, allowing them to close in on the enemy with high speed by swimming underground. Since being under the ground is a blind spot, the target has no warning; allowing the user to launch a surprise attack. By using this technique in conjunction with a weapon, it also gains great effect as an assault ninjutsu."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 92.548828125
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Voyage"
+	.26
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 167
+		ele = "Earth"
+		description = "A technique that transforms the earth surrounding the user into a fluid, allowing them to close in on the enemy with high speed by swimming underground. Since being under the ground is a blind spot, the target has no warning; allowing the user to launch a surprise attack. By using this technique in conjunction with a weapon, it also gains great effect as an assault ninjutsu."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 208.23486328125
+		idran = "Chakra"
+		name = "Earth Style: Subterranean Voyage"
+	.27
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Earth"
+		lrncost = 20
+		nan = "Earth Style: Headhunter Jutsu"
+		Kekkei = 0
+		IsStored = 1
+		description = "This technique conceals the user underground and drags the object of their attack down into the earth, robbing them of their freedom. In addition, they can start another attack."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 60.02500152587890625
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Head hunter"
+	.28
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Earth"
+		description = "This technique conceals the user underground and drags the object of their attack down into the earth, robbing them of their freedom. In addition, they can start another attack."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 135.0562591552734375
+		idran = "Chakra"
+		name = "Earth Style: Headhunter Jutsu"
+Class = "Genin"
+srank = "C-"
+StaminaGain = 1.2999999523162841796875
+StrengthGain = 1.7000000476837158203125
+AgilityGain = 1.5
+OffenceGain = 1.7000000476837158203125
+DefenceGain = 1.60000002384185791015625
+ControlGain = 1.2999999523162841796875
+ResistanceGain = 1.5
+TaijutsuGain = 1.2999999523162841796875
+NinjutsuGain = 1.2999999523162841796875
+GenjutsuGain = 1.39999997615814208984375
+ChakraGain = 1.7999999523162841796875
+hair = null /*invalid data*/
+overlays = list(appearance(object("//hair",0)),appearance(null /*invalid data*/),appearance(null /*invalid data*/),appearance(null /*invalid data*/),appearance(null /*invalid data*/),appearance(null /*invalid data*/),appearance(null /*invalid data*/),object("",6),appearance(filedata("name=Rain.dmi;length=224;crc32=0x61f7db72;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEXAwMAAAAAr16GmAAAAAXRS
+TlMAQObYZgAAAGR6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkstKs7Mz1OwVTDRM+Di
+LM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGMg05OJMK0rMTYWwlRVc/VzAJgIAmrcY
+C32rgUMAAAAYSURBVAiZY/BbwMDAsOIAkHgDZoGIQQQACYsFK0tsXiEAAAAASUVORK5CYII=
+"})))
+Yen = 19440
+Oname = "Kurina, Abraxas"
+Jchakra = 1300
+maxJchakra = 1300
+Jstam = 1500
+maxJstam = 1500
+Jnin = 19.700000762939453125
+Jgen = 4.5
+Jtai = 5.19999980926513671875
+Jcon = 21.1000003814697265625
+Jint = 4.5
+Jref = 5.5
+Jspd = 8.5
+Jstr = 4.5
+Jdef = 4.900000095367431640625
+Jdur = 4.5
+Jatkspd = 4.5
+Jgenres = 4.5
+OOCFont = "#996633"
+SayFont = "#996633"
+OSayFont = "#996633"
+HPPerc = 97
+icon_state = "Focus"
+JutsuSubmit = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Crystal Release: Tearing Crystal Falling Dragon<br><b>Jutsu Rank:</b>B</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Crystal<br><br><b>Jutsu Drain:</b>600<br><br>Jutsu Description: The user crystallises a material in the area, and then turns it into a dragon. It can be used as a means to travel or to attack a target. Several dragons can also be made and manipulated at once.\n\n1 use per dragon.  \n\nDamage = Nin+Control+15. \n\nShatter Damage: Nin+Control-10 for a 3x3 area<hr><br><html><body><center><background color = \"black\"><font color =\"grey\" size = 2><align left)<b>Jutsu Name:</b>Crystal Release: Jade Crystal Blade<br><b>Jutsu Rank:</b>C</align><b>Jutsu Type:</b><br><hr><br>Ninjutsu<br><br><b>Jutsu Element:</b>Crystal<br><br><b>Jutsu Drain:</b>?<br><br>Jutsu Description: With this technique, Guren can quickly form a blade made of crystal on her arm, and use it in a manner reminiscent of a tanto. Blades can be formed on both arms if needed.<hr><br>"
+exp = 1141.2991943359375
+exptunarank = 13
+PerC2Nxt = 32
+uprank = 40
+InitialSet = 1
+grabberSTR = 1
+profile = "<body background=\"http://img00.deviantart.net/2012/i/2006/095/c/b/crystals_by_razorblade13.jpg\"><table width=\"650\" cellpadding=\"5\" align=\"center\"><tr valign=\"top\"><td colspan=\"2\"><div align=\"right\"><font style=\"font-size: 27pt; font-family: helvetica;font-weight: bold; letter-spacing: -5px; line-height: 22pt; text-shadow: #FFFFFF 1px 1px 1px;\"><font color=\"#FFFFFF\"> A b r a x a s</font>\n<font size=\"1\"></td></tr><tr colspan=\"top\"><td width=\"334\"><table width=\"334\"><tr valign=\"top\"><td width=\"200\" bgcolor=\"#E2A9F3\" style=\"border:20px #E2A9F3 solid\"><center><img src=\"http://static.zerochan.net/Giulio.Di.Bondone.full.1262955.jpg\" width=\"300\" height=\"400\"></td><td></table></td><td width=\"313\" bgcolor=\"#E2A9F3\" style=\"border-bottom-right-radius: 25px; border-top-left-radius: 25px;\"><font style=\"font-size: 12px; line-height: 16px; font-family: arial; color: #202020;\"><div align=\"right\"><font style=\"font-family:arial black; font-size: 21px; line-height: 20px; letter-spacing: -2px; text-transform: uppercase;\">THE BASICS<I></I>  </font></div>\n<b><small>FULL NAME</small></B>: Kurina, Abraxas<br>\n<small><B>NICKNAMES</small></B>: Abrax <br>\n<small><B>AGE & DOB</small></B>: Middle/Late Teens - November 13th<br>\n<small><b>HEIGHT/WEIGHT</small></B>: 5'11 / Fit<br>\n<small><B>HAIR/EYES</small></B>: Purple / Purple<br>\n<small><B>BLOOD TYPE</small></B>: A-<br>\n<small><B>ALIGNMENT</small></B>: Neutral <br>\n</td></tr><tr><td colspan=\"2\" bgcolor=\"#E2A9F3\"><div align=\"justify\"><font style=\"font-size: 12px; line-height: 16px; font-family: arial; color: #202020;\"><div align=\"right\"><font style=\"font-family:arial black; font-size: 21px; line-height: 20px; letter-spacing: -2px; text-transform: uppercase;\">APPEARANCE<I></I> </font>\n<font style=\"font-family:arial; font-size: 9px; line-height: 10px; letter-spacing: 0px; text-transform: uppercase;\"></font></div>\nAs the picture shows, no current injuries.\n\n\n\n\n\n\n</div></td></tr><tr><td colspan=\"2\" bgcolor=\"#E2A9F3\"><div align=\"justify\"><font style=\"font-size: 12px; line-height: 16px; font-family: arial; color: #202020;\"><font style=\"font-size: 12px; line-height: 16px; font-family: arial; color: #202020;\"><div align=\"right\"><font style=\"font-family:arial black; font-size: 21px; line-height: 20px; letter-spacing: -2px; text-transform: uppercase;\">PERSONALITY<I></I> </font>\n<font style=\"font-family:arial; font-size: 9px; line-height: 10px; letter-spacing: 0px; text-transform: uppercase;\"></font></div>\nProtective, though laid back most of the time.\n\n\n\n\n\n\n\n</div></td></tr><tr><td colspan=\"2\" bgcolor=\"#E2A9F3\" style=\"border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;\"><div align=\"justify\"><font style=\"font-size: 12px; line-height: 16px; font-family: arial; color: #202020;\"><font style=\"font-size: 12px; line-height: 16px; font-family: arial; color: #202020;\"><div align=\"right\"><font style=\"font-family:arial black; font-size: 21px; line-height: 20px; letter-spacing: -2px; text-transform: uppercase;\">BIOGRAPHY<I></I> </font>\n<font style=\"font-family:arial; font-size: 9px; line-height: 10px; letter-spacing: 0px; text-transform: uppercase;\"></font></div>\nFind out IC\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></td></tr></table>\n"
+RPP = 500
+SecondaryElement = "Earth"
+QuinaryElement = "Crystal"
+height = 50
+width = 50
+JConst = 974
+AFK = 1
+Jchak = 1

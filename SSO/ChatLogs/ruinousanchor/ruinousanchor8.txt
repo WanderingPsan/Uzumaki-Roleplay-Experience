@@ -1,0 +1,466 @@
+<br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Just never get robbed. - Sun Nov 22 01:19:21 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Good. - Sun Nov 22 01:20:12 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Take a break for today. - Sun Nov 22 01:21:04 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Compile a list of what you know. - Sun Nov 22 01:21:04 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And what techniques you can utilize. - Sun Nov 22 01:21:04 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll teach you what you don't know. - Sun Nov 22 01:21:04 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Alright. I can do that. - Sun Nov 22 01:21:04 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Good. - Sun Nov 22 01:21:55 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We'll go out and eat sometime, son. - Sun Nov 22 01:21:55 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Go out and eat? Where at? - Sun Nov 22 01:22:46 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: At a restaurant. - Sun Nov 22 01:23:37 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Oh. - Sun Nov 22 01:24:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Oh. - Sun Nov 22 02:36:09 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Hey, Rymei. - Sun Nov 22 02:36:09 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Hi. - Sun Nov 22 02:37:00 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: It's been a while... - Sun Nov 22 02:37:52 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: You left me in the woods....so I just came back here. - Sun Nov 22 02:37:52 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Broke into the home. It was empty. - Sun Nov 22 02:37:52 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: While you were gone I won a Gezo Tournament of Strength. Ten Million Yen. Was hoping I could use it to buy a new sword and a few techniques. - Sun Nov 22 02:38:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ...... - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Oh...right. - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: S-Sorry, Rymei. - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I didn't mean to just leave you. - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You're alright, yes? - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Mhm. - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'm glad. - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Wouldn't want anything to happen to my prized fighter, no? - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Obviously. - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Uh huh. - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Right. - Sun Nov 22 02:41:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I just beat down Ortho's crew. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: His entire army. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: His wife. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And his brothers and sisters. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: They're attacking Sunagakure for us now. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We'll have assistance. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Good. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We'll be attacking Sunagakure from the south and the east. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We will poison their oasis as well, to damage their water supply. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: However, we won't just poison it. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We will send Explosive Tag Balls through their water pipes. - Sun Nov 22 02:42:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sealed in small slips of paper. - Sun Nov 22 02:42:59 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Rolled up into glass bottles. - Sun Nov 22 02:42:59 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: I always did like your plans. - Sun Nov 22 02:43:50 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) blinks.
+
+"I am unsure if Hideki is even alive at this point. I didn't hear of him. I did find a settlement of the red-eyed though, Rymei, if that piques your curiousity."* - Sun Nov 22 03:06:01 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: It's merely a mile northwest of here. - Sun Nov 22 03:06:52 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: . . . - Sun Nov 22 03:06:52 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Can. - Sun Nov 22 03:06:52 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: I. - Sun Nov 22 03:06:52 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Go. - Sun Nov 22 03:06:52 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Hey...dad. - Sun Nov 22 03:17:58 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Yeah? - Sun Nov 22 03:21:23 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Ushinawa told me that I'd get red eyes too. - Sun Nov 22 03:23:05 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Before he died. - Sun Nov 22 03:23:05 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ...Before who died? - Sun Nov 22 03:35:53 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Ushinawa. - Sun Nov 22 03:36:44 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: What about Ushinawa? - Sun Nov 22 03:38:27 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: ... - Sun Nov 22 03:39:18 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: He told me I would get those red eyes! - Sun Nov 22 03:39:18 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ........................................ - Sun Nov 22 03:41:52 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Misa is a red-eye? - Sun Nov 22 03:41:52 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I was married to a Jew. - Sun Nov 22 03:41:52 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: That's what he told me. - Sun Nov 22 03:41:52 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I see. - Sun Nov 22 03:41:52 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: He said Fujitora was one too. - Sun Nov 22 03:41:52 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Horse shit. - Sun Nov 22 03:42:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ........ - Sun Nov 22 03:42:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Really now? - Sun Nov 22 03:42:43 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Yeah. - Sun Nov 22 03:43:34 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Thanks for the info. - Sun Nov 22 03:45:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: It'll come in handy, son. - Sun Nov 22 03:45:16 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: You're welcome! - Sun Nov 22 03:45:16 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: That was a waste of time... - Sun Nov 22 04:41:36 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: What happened? - Sun Nov 22 04:45:00 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: He apparently knows nothing about what these eyes do. - Sun Nov 22 04:53:32 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Promise me....Promise me that I can kill him once he is done helping us. - Sun Nov 22 04:54:24 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Sure. - Sun Nov 22 05:00:22 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Go for it. - Sun Nov 22 05:00:22 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I don't really care. - Sun Nov 22 05:00:22 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Good. - Sun Nov 22 05:00:22 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Have you been spending quality time with Anguo? - Sun Nov 22 05:03:47 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: In a way. - Sun Nov 22 05:03:47 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Can I ask.....Where have you been all this time? - Sun Nov 22 05:04:38 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: Sonic's the name..speed's my game. - Sun Nov 22 05:10:36 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: You're too slow!~ - Sun Nov 22 05:24:16 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I've been planning a great deal. - Sun Nov 22 05:35:21 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Granted. - Sun Nov 22 05:36:12 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I do want Ortho's group to weaken them first. - Sun Nov 22 05:36:12 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We will pretend to attack simultaneously. - Sun Nov 22 05:36:12 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: But we will not. - Sun Nov 22 05:36:12 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We'll leave Ortho's group to their own devices. - Sun Nov 22 05:36:12 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: They're going to be used as sacrificial lambs to weaken our prey. - Sun Nov 22 05:36:12 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: And if they don't survive we can pick them off...Right? - Sun Nov 22 05:40:28 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: And if they survive* - Sun Nov 22 05:40:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: 'Course. - Sun Nov 22 05:50:43 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: I see....It's...It's good to have you back. - Sun Nov 22 05:54:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Thank you. - Sun Nov 22 05:54:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Speaking of which. - Sun Nov 22 05:54:59 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Is holding your blade getting cumbersome? - Sun Nov 22 05:54:59 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I can seal them into small wristbands for you. - Sun Nov 22 05:54:59 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: For easy access. - Sun Nov 22 05:54:59 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Really? - Sun Nov 22 05:54:59 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: That would be great. - Sun Nov 22 05:54:59 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: How do I go about ordering new equipment and jutsu scrolls from the Gezo? - Sun Nov 22 05:55:50 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Just send them a message. - Sun Nov 22 05:56:41 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Need any money? - Sun Nov 22 05:56:41 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) tosses her two million.* - Sun Nov 22 05:56:41 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Buy what you may need. - Sun Nov 22 05:56:41 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Oh wow. Thank you. - Sun Nov 22 05:56:41 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: It's just some spare change. - Sun Nov 22 05:56:41 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Spare? - Sun Nov 22 05:57:32 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) thinks: This is a fortune... - Sun Nov 22 05:57:32 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: Phew.. - Sun Nov 22 05:58:24 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: Have you guys seen any emeralds around here? - Sun Nov 22 05:59:15 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: You guys are so slowwwwwww! - Sun Nov 22 06:00:06 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: Sonic's the name..speed's my game! - Sun Nov 22 06:00:57 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: Watch out for Doctor Eggbutt.. - Sun Nov 22 06:01:48 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: Chubby, and not so easy on the eyes.. - Sun Nov 22 06:01:48 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: Hahahahahahahahahahahahaahahahahahahahahahahahahaha! - Sun Nov 22 06:01:48 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: Hahahahahahahahahahahahahahahahahahahahahaha - Sun Nov 22 06:04:22 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: So.. - Sun Nov 22 06:04:22 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: Do you know where any chili dog stands are? - Sun Nov 22 06:04:22 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: You must be thinking.. - Sun Nov 22 06:05:13 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: I'll give you a nanosecond. - Sun Nov 22 06:05:13 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: Fine! - Sun Nov 22 06:07:47 2015
+<br><br><font color=teal>*Hejjihoggu za, Sonikku (Malamalajong) says: I'll go search for Eggssssman myself! - Sun Nov 22 06:07:47 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Rymei. - Tue Nov 24 19:29:04 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: The time ticks. - Tue Nov 24 19:29:55 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Ortho is done with his attack. - Tue Nov 24 19:29:55 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: The useless incompetent bastard couldn't even take out fifty times two.... - Tue Nov 24 19:29:55 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Rymei. - Tue Nov 24 20:47:34 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Let's go. - Tue Nov 24 20:47:34 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Anguo, stay here and be good. - Tue Nov 24 20:47:34 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) thinks: Speaking of the devil. - Tue Nov 24 20:51:50 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: So. - Tue Nov 24 20:51:50 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Information tells me your army got vaporized for the most part. - Tue Nov 24 20:51:50 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: With you taking out a meager amount. - Tue Nov 24 20:51:50 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) says: False. - Tue Nov 24 20:51:50 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: This true? - Tue Nov 24 20:51:50 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) says: A necessary move to assure future victory. - Tue Nov 24 20:52:41 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: A necessary move. - Tue Nov 24 20:52:41 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: At the very least, you gave me some information on their abilities. - Tue Nov 24 20:52:41 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Now then. - Tue Nov 24 20:52:41 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) says: If that's what you sought, you could've asked. They're people I've fought before. - Tue Nov 24 20:52:41 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Come here, Ortho. I have something to tell you. - Tue Nov 24 20:52:41 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ---Oh no. - Tue Nov 24 20:53:32 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I didn't seek just information. - Tue Nov 24 20:53:32 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I sought you to kill a good portion of their army. - Tue Nov 24 20:53:32 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: At least waste a .... - Tue Nov 24 20:53:32 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Let's say a sixth. - Tue Nov 24 20:53:32 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) says: Ahh. - Tue Nov 24 20:53:32 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) thinks: Ortho won't try shit until he knows the seal is off.... - Tue Nov 24 20:53:32 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) thinks: Unless he's lost it. - Tue Nov 24 20:53:32 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll give you an opportunity to redeem yourself. - Tue Nov 24 20:54:24 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Join my Five Tiger Generals. - Tue Nov 24 20:54:24 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: In the raid on Sunagakure. - Tue Nov 24 20:55:15 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) says: Consider it done. - Tue Nov 24 20:55:15 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I didn't know you were one to rush into things without reading the Terms & Conditions. - Tue Nov 24 20:55:15 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) says: Forgive me.. Protection of my family is still on my mind. - Tue Nov 24 20:55:15 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) says: Continue with what you were saying. - Tue Nov 24 20:55:15 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Your lady is soon to die less I fix that seal, eh? - Tue Nov 24 20:55:15 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And you are worried on her behalf.... - Tue Nov 24 20:56:06 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) says: My strength is drawn from her. - Tue Nov 24 20:56:06 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: As long as they do not encounter Fujitora on a personal level, they won't be able to decipher the code. - Tue Nov 24 20:56:06 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) says: He really does act foolish sometimes.... - Tue Nov 24 20:56:06 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: This is why I need them attacking Sunagakure, versus helping it. - Tue Nov 24 20:56:06 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: Otherwise they might find resources that I can't stop. - Tue Nov 24 20:56:06 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I see. - Tue Nov 24 20:56:06 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Noble. - Tue Nov 24 20:56:06 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: However, noble actions don't win wars. - Tue Nov 24 20:56:06 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) thinks: Might pull a Hideki and run into a kunai.. - Tue Nov 24 20:56:06 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Lie if you must. Cheat if you must. - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) thinks: This shit getting too depressing. - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Your goal is simple. - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Infiltrate Sunagakure no Sato as an assassin. - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Your army will be sent to distract their northern front. - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Retrieve Hassan's head for me. - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: If you do so. - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Your woman will be saved. - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Your village will be redeemed. - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) thinks: Shit... - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'll give you ten million yen to progress. - Tue Nov 24 20:56:57 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You won't ever hear from me again. - Tue Nov 24 20:57:48 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) thinks: Lies. - Tue Nov 24 20:57:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Should you fail. - Tue Nov 24 20:57:48 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) snaps his fingers.
+
+"You die."* - Tue Nov 24 20:57:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Should you not accept. - Tue Nov 24 20:57:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Your woman dies. - Tue Nov 24 20:57:48 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) says: I think you've overlooked something, Edge.. - Tue Nov 24 20:57:48 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) says: I stated that my strength is drawn from her. I am a man of my word and my word is my bond. Release the seal from her and you'll still have an ally out of Ortho. - Tue Nov 24 20:58:40 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) says: ... - Tue Nov 24 20:59:31 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) thinks: No don't threaten him, you idiot. - Tue Nov 24 20:59:31 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: A man of your word. - Tue Nov 24 21:05:29 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: A word of your bond. - Tue Nov 24 21:05:29 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I admire such noble words. - Tue Nov 24 21:06:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Very well. - Tue Nov 24 21:06:20 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) thinks: Is he just going to ignore the fuck out of me? - Tue Nov 24 21:06:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I shall free your woman. - Tue Nov 24 21:06:20 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) says: ..... - Tue Nov 24 21:06:20 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) completely ignores Eri.* - Tue Nov 24 21:06:20 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) offers Ortho a handshake.* - Tue Nov 24 21:06:20 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) thinks: God damn, no...Ortho...don't fucking do it. - Tue Nov 24 21:06:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We'll shake on it. - Tue Nov 24 21:06:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Call it a day. - Tue Nov 24 21:06:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And you'll fight for me. - Tue Nov 24 21:06:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Don't worry. - Tue Nov 24 21:07:12 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: No seal at all. - Tue Nov 24 21:07:12 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) thinks: ..Handshake..? - Tue Nov 24 21:07:12 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) whispers: Bind him... - Tue Nov 24 21:07:12 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) says: .... - Tue Nov 24 21:09:45 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) thinks: Don't unseal me you fuck, Ortho is going to ruin everything. - Tue Nov 24 21:10:36 2015
+<br><br><font color=teal>*Supaiku, Eri(-Assassin.R-) says: it isnt--- - Tue Nov 24 21:13:10 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) chuckels. He shook Ortho's hand quietly. 
+
+"Well, yes. You dabbling in Fuuinjutsu must be something of a pastime. I'd imagine everyone's got an idea of how to operate Fuuinjutsu. It's like writing. Everyone's done it at least once."
+
+Edge's left hand approaches Ortho's hand, to clasp his hand with the sense of friendliness endowing his hand's gentle grip over Ortho's backhand. 
+
+His index finger trails along Edge's hand. 
+
+Boom. It emerges from his wrist as a weapon. Lightning Flash Blade Creation. A blade had been emerged from the blue and out of nowhere, with Edge's grip still stagnant on Ortho's. Instead, a blade had been formed within Ortho's free hand, which suddenly brought Edge's hand in a swing across Ortho's neck-region, aiming to decapitate him on the spot with Dine Edge, a blade that instantaneously wraps around his forearm. The blade, should it etch into Ortho's neck, would cause the -EDGE- of the blade to dig deep into Ortho's jugular and into where his cervical branches were in terms of his spine.
+
+Should Edge carry out with his strike, he'd finish off by swinging clear of Ortho's neck, leaving him bleeding and unable to breath for the most part.
+
+Edge's left foot would raise itself and kick Ortho's body to the ground regardless of the situation, whether he die a short, painless death, or a painful, expressively long death by the hands of suffocation and bleeding out.
+
+"I deplore such noble traits in my subordinates though."* - Tue Nov 24 21:13:10 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) whispers: 17.5 int 12.05 gen] - Tue Nov 24 21:36:12 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | | Clever. Edge reacts promptly though. Upon his blade digging deep into Ortho's person, Edge's head rears back to avoid the chakra scalpel. Upon dodging the chakra scalpel, the hand gripping onto Ortho's hand digs into his hand. Chainmail accompanies his hand and he brings his knee down to bring Ortho's body downwards. Should Ortho's body be brought downward, Edge would manipulate the exchange of gravity so that his opposing hand could now be used. He'd dispatch the blade in an attempt to toss it towards Ortho's face. Ortho would probably be distracted by the blade: otherwise, he'd face a nasty surprsie in the face of his head.
+
+Regardless, Edge's hand then suddeny jets upwards to try and grab hold of Ortho's chest. It was the largest part of his body and it was a part of his body Ortho could not deny.
+
+"Judgment shall be cast."
+
+The King of Hell erupts behind Edge's body, as Ortho's tongue is yanked forcefully from his body from contact.* - Tue Nov 24 21:45:36 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) whispers: [yall should I attack Kana fam?] - Tue Nov 24 21:47:18 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) thinks: Did she.... - Tue Nov 24 21:51:34 2015
+<br><br><font color=teal>*Uchiha, Ortho(DhatBoiNick) whispers: ^ - Tue Nov 24 22:04:22 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | | Luckily, Rymei managed to slice through both of the snakes. Good. Edge quietly murmured words of insolence.
+
+"You imbecile. So, you believed that that would be enough to slay a god like myself? There is one thing you will learn."
+
+"I am Absolute. I am the Law. I am Order. I am Chaos. I am God. And I am your God. I determine who lives or dies. I determine if -YOU- live or die." 
+
+Edge comments, as his right hand releases his hand and suddenly grips on Ortho's neck with violent brute force. He'd clench tighter and deeper against his neck and keep on strangling him with the force of a violent forefather to a black boy who had failed to do his father proud.
+
+Edge's left hand removed itself from Ortho's chest and proceeded to reach for his gun, strapped away underneath his cloak.
+
+He'd lift the Senbon Gun to Ortho's face.
+
+And he'd fire the Senbon right into his forehead. 
+
+"Bye."* - Tue Nov 24 22:16:19 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | | Suddenly, Edge's chainmail intercepts the strike. Edge's right hand and left hand struggle to move to his chest. Edge was panting; his sweat proliferated on his forehead and dripped across his temple. He knew that Ortho literally had him on death's edge.
+
+Ortho would've killed him if his chainmail hadn't been in place. He releases his seal.
+
+A bullet-like magnet emerges from his chest in an attempt to break into Ortho's body and kill him on the spot by piercing through his chest.
+
+It didn't take much of a movement to activate the seal. Merely chakra had to be funneled into the seal to release it.
+
+"Magnet Repulse."
+
+He mutters quietly. * - Tue Nov 24 22:40:12 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) whispers: [nigga didn't even help me qq] - Tue Nov 24 22:41:04 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | | The kunai approached him. Edge had seen her from the corner of his eyesight and had difficulty dealing with her. He twists his neck around, craning it so that his shoulder could get in the way. He attempts to overpower the snake, but it was difficult. Now that Ortho was down though, Edge felt much more freedom.
+
+Ortho had been hindering his plans the entire time. Now, Edge could operate. His right sleeve and left sleeve both release Black Rods simultaneously. His left sleeve attempts to dig three Black Rods right into the snake's body and cause it to become paralyzed itself, without mobility and to make sure it lost its strength. Edge's right sleeve aims to intercept Eri's kunai with his shoulder.
+
+This is all done in one gallant, eloquent spin. Edge's right hand, three Black Rods in hand, attempts to swipe at Eri's chest and cause three large gashes to spawn across her person, before she could even contemplate an eye socket strike.* - Tue Nov 24 23:02:24 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: You two must want to be together that badly. - Tue Nov 24 23:14:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: Then let me join you two together. - Tue Nov 24 23:14:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: We'll call it a human centipede. - Tue Nov 24 23:14:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: I have six blades. - Tue Nov 24 23:14:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: Six rods. - Tue Nov 24 23:14:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: Let's see what six areas they want to be joined at. - Tue Nov 24 23:15:12 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | | Unveiling his six rods, Edge approaches Ortho and Eri. 
+
+"You two are such love birds. I remember when I had love like that."
+
+"However, I lost that love. I lost it and now you two are going to lose your love."
+
+"Know True Pain."
+
+Edge's right hand grapples hold of Eri's hand and yanks it over to Ortho's hand. He'd join their hands together, having them clasp their hands, before shoving his black rod through their hands to join them together. He'd shove a pole through Eri's lower back into Ortho's abdomen, so that they were joined at the stomach region as well. He proceeds to stuff them like porcupines, hand to hand, mouth to mouth.
+
+In finality, he'd join them heart to heart by shoving his black rod through their hearts.
+
+"Love each other. Heart. To. Heart."
+
+He'd let their blood seep from their bodies, wrapping, melding, and mixing on the ground as they were killed. * - Tue Nov 24 23:25:26 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ...... - Tue Nov 24 23:37:23 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: They almost killed me. - Tue Nov 24 23:37:23 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Rymei, are you alright? - Tue Nov 24 23:37:23 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: . . Wh - Tue Nov 24 23:38:14 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: -* - Tue Nov 24 23:38:14 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: I..I think I'll live... - Tue Nov 24 23:39:56 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Alright. - Tue Nov 24 23:41:39 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Let's go home. - Tue Nov 24 23:41:39 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ...... - Tue Nov 24 23:48:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ...Now then.... - Tue Nov 24 23:48:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ..... - Tue Nov 24 23:48:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I literally -kissed- death. - Tue Nov 24 23:48:28 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Huh? - Tue Nov 24 23:49:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ...Anguo. - Tue Nov 24 23:50:11 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I'm going to give you this. - Tue Nov 24 23:50:11 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Yes? - Tue Nov 24 23:50:11 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Read it. - Tue Nov 24 23:50:11 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Give it to no one. - Tue Nov 24 23:50:11 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Okay. - Tue Nov 24 23:50:11 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: . . . - Tue Nov 24 23:51:02 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) passes him a scroll.* - Tue Nov 24 23:51:02 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We'll soon be dead, Rymei. - Tue Nov 24 23:51:02 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You don't mind dying with me, do you? - Tue Nov 24 23:51:02 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: I don't. - Tue Nov 24 23:51:53 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Don't worry about it, Anguo. - Tue Nov 24 23:51:53 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: But...Alright... - Tue Nov 24 23:52:44 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: IAnguo. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Stay alive. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: And never tell anyone. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I am your father. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Carry on my legacy. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Strategies. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Strength. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Ambition. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: All three are things you msut have. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: I don't think anyone knows he exists. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Good. - Tue Nov 24 23:58:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Rymei. - Tue Nov 24 23:59:34 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We'll strike Sunagakure. - Tue Nov 24 23:59:34 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We'll have some reinforcements. - Tue Nov 24 23:59:34 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Three officers. - Tue Nov 24 23:59:34 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: .... - Tue Nov 24 23:59:34 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Three officers? - Wed Nov 25 00:01:16 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: While you request them, ask about the request I put in a week ago. - Wed Nov 25 00:02:08 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Right. - Wed Nov 25 00:02:08 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Edge. - Wed Nov 25 00:26:52 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: The girl who attacked me. - Wed Nov 25 00:27:44 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: She wasn't affected by my genjutsu at all. - Wed Nov 25 00:27:44 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I know. - Wed Nov 25 00:44:48 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: She is a Jinchuuriki. - Wed Nov 25 00:44:48 2015
+<br><br><font color=teal>*Kush, Anguo(Waterpark) says: Oh... - Wed Nov 25 00:49:55 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Rymei. - Wed Nov 25 19:30:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: It's time to go. - Wed Nov 25 19:31:12 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) lets his eyes run over the field.* - Wed Nov 25 20:00:12 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ...... - Wed Nov 25 20:00:12 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: They must think me an idiot. - Wed Nov 25 20:01:55 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I wouldn't scout my environment before I fight? - Wed Nov 25 20:01:55 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Foolish. - Wed Nov 25 20:01:55 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Truly. - Wed Nov 25 20:01:55 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Watch out. - Wed Nov 25 20:03:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: They will have rigged this place. - Wed Nov 25 20:03:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: It is their homeland. - Wed Nov 25 20:03:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Expect their walls and interior to be extremely fortified. - Wed Nov 25 20:03:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We will use our bandits to scout the interior. - Wed Nov 25 20:03:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Once we detail it, we will invade. - Wed Nov 25 20:03:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We will not make a move into the interior until the village has been thoroughly inspected. - Wed Nov 25 20:03:37 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I will not fall into the enemy's trap. - Wed Nov 25 20:03:37 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: Rodger. - Wed Nov 25 20:04:28 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I will be here. - Wed Nov 25 20:05:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: However. - Wed Nov 25 20:05:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I will be suppressing my chakra. - Wed Nov 25 20:05:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Henge'd into a rock. - Wed Nov 25 20:05:20 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) executes the handseals for the Henge.* - Wed Nov 25 20:05:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Catch them by surprise. - Wed Nov 25 20:05:20 2015
+<br><br><font color=teal>*Rymei(X_Jake From State Farm_X) says: What should I do? - Wed Nov 25 20:05:20 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) does that chakra suppression.* - Wed Nov 25 20:05:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Clump them all together. - Wed Nov 25 20:05:20 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: We will strike when they are not suspecting it. - Wed Nov 25 20:05:20 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | | With a swift motion of his body, Edge steps in to Aza, who was struggling to make a motion.
+
+"Begone, fool." He lunges out a black rod and attempts to dig straight through his throat. It was too bad that Aza would never have any chance to open up that pouch and actually save Ryomen, or even blow up Rymei. At the same token though, Edge's eyes have now shifted over to Marrisa, who had come in a downward motion. She had floated -off- of her fan, spread a line of blood, and was now coming downwards while blasting a Sickle Weasel. 
+
+Unfortunately, Edge wasn't going to let her off so easily. Five handseals are made with utmost haste, trying to intercept Marrisa's blast.
+
+Even if he could not intercept the Sickle Weasel, there was an eruption of an iron statue attempting to grab hold of Marrisa.
+
+He was aware she was attacking: he was a sensory-type and had the vision to see her in mid-air.
+
+"Bloody Mary."* - Wed Nov 25 23:40:22 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | | Incredible. That woman was flying through his Bloody Mary: a jutsu that no one had ever broken through before. Edge bit his lip. Marrisa was flying and escaping from the vicinity. Edge's body breaks out into a sprint. He dashes for Rymei's position, attempting to clutch hold of her by the waist of her robe.
+
+"You're not doing so well, are you?" He questioned. Nonetheless, Edge observes the situation at play. He attempts to jump backwards with Rymei in tow and build distance.* - Thu Nov 26 00:46:56 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | | Powerful.
+
+However, Edge does not need to budge an inch. His Rashomon erects to the side, blocking Marrisa's sickle weasel for the most part. Edge grabs hold of Rymei and continues to leap back, building distance from Marrisa.
+
+"For the meantime, I think that it's time that we execute perhaps.... a tactical retreat if I may say so myself."
+
+Edge mutters, not expecting Marrisa's ridiculous strength.* - Thu Nov 26 01:13:23 2015
+<br><br><font color=teal>*Sanoke(Gamuhz2) says: Already - Thu Nov 26 01:39:50 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | | Quite literally, Edge throws Rymei to the side. With five quick handseals behind the Rashomon, he'd conjure up his Iron Maiden. The Iron Maiden was to wrap around Rymei, capturing her, ensnaring her, and leaving her little option since she had no legs. Once it had wrapped around Rymei, he'd let it sink back into the ground. 
+
+Once it neared closing point, Edge merely smirked at her.
+
+"Rymei. I'll see you around sometime." 
+
+"This isn't good bye. This is simply a 'see you later'."
+
+Once it had rooted back into the ground, Sanoke's Lion Maw would grab hold of Edge, causing Edge to be crushed by its embrace. Edge remained stagnant in position, no longer able to move from his binding hair technique.* - Thu Nov 26 01:47:31 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: ....Well. - Thu Nov 26 01:50:04 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I must say. - Thu Nov 26 01:50:04 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: I did not expect your forces to be so strong. - Thu Nov 26 01:50:04 2015
+<br><br><font color=teal>*Shi(TenaciousDeeznuts) says: Who will become the next villain - Thu Nov 26 01:50:56 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | | An audible chuckle emerges from his vocals despite his ribs being penetrated by the black rod. Edge's eyes glazed over, setting their stony gaze on Sanoke. His mouth trickled blood along the edges of his lips; nay, he would not concede his ideology in the face of defeat for that was the man of principle that Edge was and dictated himself to be.
+
+"Intellect. Power. These are two components necessary to complete ambition."
+
+"My ambition was to bring Sunagakure to greatness. Do you not see it? The Land of Wind, united for its culture. A land destined for greatness; now, under the thumb of a Kirigakure-born leader and reigned over by a Kirigakure born military. Despicably unpleasant."
+
+He commented. He twists his neck, craning it upwards so that he could see the sky.
+
+"Your Master was not far from the truth. However, she also miscalculated one thing."
+
+"Negative and positive attract. Just as it is true that positive intent can lead to positive action, in negative intent, positive action can be born. Thus, in positive intent, negative action is born. The latter would be definitive of me."* - Thu Nov 26 02:08:51 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You cannot build without a foundation. To build, one must destroy. - Thu Nov 26 02:08:51 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: To destroy, one must have to have originally built. - Thu Nov 26 02:08:51 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: In order to build a proper world. . . .. - Thu Nov 26 02:09:42 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Destruction is necessary. - Thu Nov 26 02:09:42 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) | |
+
+"A flawed ideology, you say? Sanoke. You have never experienced what I have been through. Your life is probably wrought with pleasure and goodwill. You've never lost a loved one, I am sure, by the way you speak. Your utterly idyllic optimism will not ever be brought out to reality. It is no reality that there will be permanent peace."
+
+"You cannot converse in the ninja world. The people I converse with are tools: they are not people who can be reasoned with. Your people seized Sunagakure---a village that deserved to stand on its own by its people."
+
+He later goes on to his main directive though.
+
+"However, I am not of noble cause. Sanoke, I sought your eyes. With the completion of your eyes, I would be able to bring back the one I sought the most."
+
+He quietly analyzed. 
+
+"Selfish, may I be. To kill people for the sake of one person. Now. Kill me, Sanoke. Kill me, and remove the burden from this world that I have become. Become the savior. Become the hero. Become the idyllic God you want to be. I know the feeling in you. You want to seize my eyes. Take my eyes. Become God. And play it for the world."
+
+"I am all but certain that the world shall not be paved by the ambitious. But it will be paved by the idyllic."* - Thu Nov 26 02:37:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: I'll come see you again. - Thu Nov 26 02:37:00 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: Misa, I failed to bring you back to life. But at the very least, I'll be dying to go back to you. - Thu Nov 26 02:37:52 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: As for this generation though. - Thu Nov 26 02:38:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: Sanoke. . . I want to see what path you take when your loved one is stripped from you. When everything important is yanked from your grip. - Thu Nov 26 02:38:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) thinks: Callous, rough, and yearning they will be. - Thu Nov 26 02:38:43 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: . . . . - Thu Nov 26 02:47:15 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: When you take my eyes. . . . . - Thu Nov 26 02:47:15 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) wheezes out blood.* - Thu Nov 26 02:47:15 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: You will see the King of Hell. - Thu Nov 26 02:47:15 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: . . . . . - Thu Nov 26 02:47:15 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: When all six rings are active. . . . .  - Thu Nov 26 02:47:15 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: Call upon it. . . . . - Thu Nov 26 02:47:15 2015
+<br><br><font color=teal>*Taiga, Edge(RuinousAnchor) says: With the body of Misa before you. . . . . - Thu Nov 26 02:47:15 2015
+<br><br><font color=yellow>*Taiga, Edge(RuinousAnchor) is struck by each bullet. Edge's mouth opens to let loose a torrent of crimson which pours down his chin and onto the ground. Edge's eyes lost color momentarily, briefly as he felt the pain of death. Yet, there was also a relaxing sensation that came to shroud him from the feeling of death; conjured by bullets lining his body, Edge found himself caressed by death's embrace and found himself slowly succumbing to its effects. 
+
+His last thoughts were on Misa. How he failed to protect her. How he failed as a father. How he failed at everything but combat and warfare. Certainly, he had destroyed Kumogakure. Yet, all of that was meager. A step in his plans had not let to his plans succeeding.
+
+------
+
+Glass, everywhere. Edge's feet track up the staircase slowly, as if he were wondering where he was now. It was a never-ending spiral staircase that seemed to ascend past the horizons. As he finally reached the final step, he was faced with a door. It was a plain wooden door. Upon its title was family. 
+
+At the bottom were the bodies of the deceased that Edge had sacrificed to build the staircase up to family.
+
+When all was said and done though, Edge could not open the door to family. He hadn't the key to open it.
+
+That key had been in Sunagakure all along. And he had failed to retrieve it.
+
+". . . . A good run I suppose." The staircase collapses. * - Thu Nov 26 02:55:47 2015

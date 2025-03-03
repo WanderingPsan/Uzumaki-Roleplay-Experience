@@ -1,0 +1,362 @@
+<html><head><body bgcolor="#000000"><center><title>Jutsus</title></center></head>
+<center><font color=red font size=6>Jutsu Information</font></center><font color=white><br><br>
+<b>Jutsu Prices:</b><br>
+D: 200<br>
+C: 500<br>
+B: 1500<br>
+A: 2500<br>
+S: 5000<br><br>
+
+<b>Upgrade Prices:</b><br>
+D: 400<br>
+C: 800<br>
+B: 1500<br>
+A: 2000<br>
+S: 5000<br><br>
+
+<b>Buff Prices:</b><br>
+D: 500<br>
+C: 1000<br>
+B: 2500<br>
+A: 5000<br>
+S: 10,000<br><br>
+
+<b>Advanced Element Jutsu Prices:</b><br>
+D: 500<br>
+C: 800<br>
+B: 2000<br>
+A: 3500<br>
+S: 6000<br><br>
+
+<b>Jutsu Rulings:</b><br>
+Temporary Paralysis - Only works effectively if opponent is four skill ranks below you. Ex: C to D-Rank<br><br>
+
+Killing Intent - Works effectively if opponent is two skill ranks below you. Requires Will Breaker Perk and Evil.<br><br>
+
+Oukashou - Doesn’t work without CES Perk. Whenever used without at least T1 CES Perk, automatically fail the performance of the jutsu. Requires C- rank and T2 Chakra control.<br><br>
+
+Summoning Jutsu - Drains are based on the summoning of one animal. <br><br>
+
+Hiding like a Mole - Must have at least an open hole, line of sight to use a jutsu while under the ground.<br><br>
+
+<b>Five Seal Barrier:</b><br>
+T1 Fuuin/Mastered Jutsu – Able to cover a house/10 tiles.(Perk added for constant drain of 200 chakra)<br>
+T2 Fuuin/Mastered Jutsu – Able to cover a public building such as a mansion/20 tiles/Can create two 10 tile barriers.(Perk added for constant drain of 500 chakra)<br>
+T3 Fuuin/Mastered Jutsu/C- – Able to cover a portion of a wall/Full bridge/Gate/30 tiles/Can create three 10 tile barriers or two 20 tile barriers. (Perk added for constant drain of 900 chakra)<br>
+T4 Fuuin/Mastered Jutsu/B- – Able to cover a full sized village/50 tiles/Can create four 10 tile barriers, three 20 tile, or two 30 tile barriers. (Perk added for constant drain of 1200 chakra)<br>
+Only can be bury the tags if they are in a metal box which is sealed.<br><br>
+
+Kage Bunshin: 1800 RPP<br><br>
+
+<b>Summons Rulings:</b><br><br>
+
+Giving Process:<br>
+Must be C- rank.<br>
+Need C-Rank mastered before B-Rank summoning can be attained.<br>
+Need 2 B-Ranks mastered before A-Rank can be attained.<br>
+Need 2 A-Ranks mastered before Sage Mode can be trained for.<br>
+Then roll for imperfect / perfect sage mode.<br>
+1-3 = Imperfect<br>
+4-6 = Perfect<br><br>
+
+1) C-Rank summons generally range between 3-5 in terms of statistics. They are usually untrained animals and are unable to utilize chakra or jutsu. <br>
+B-Rank Summons generally range between 7-16 in terms of statistics. Larger ones will near 16, but will cost more chakra. B-Rank Summons are ultimately the most costly. Those with 16 in stats are usually in strength and durability, referencing their size and their mass.<br>
+A-Rank Summons are more talented summons that are skilled in their jutsus. <br><br>
+
+2) If provided icons, admin will put it into the game for you to summon for visual reference.<br><br>
+
+3) In personal summons, we take into consideration their jutsu as well as the general strength of the Kuchiyose in question. Personal Summons are highly customizable and therefore they may vary in terms of their strength and their statistics. <br><br>
+
+4) Kuchiyose does not have a default value of 250 mainly because of differences in Kuchiyose. While C-Rank does constitute mainly reconnaissance animals, animals such as elephants, rhinos, tigers, or larger-scale predators are not easily used as reconnaissance animals because they lack inconspicuity. Therefore, they cost a bit more as they are able to fight. <br><br>
+
+<b>Lycanthropes:</b><br>
+This is a substitute for Sage Mode. Once you select lycanthropy, you cannot go for Sage Mode.(If you choose lycanthropic on set up as a 'summoner spec' you receive lycanthropic for free with a buff as a C rank lycan)<br>
+This is basically a Sage Mode that starts off weak but has the same potential as Sage Mode.<br>
+However, Sage Mode will ultimately be stronger. Lyncathropes are forced to take on the quality of their animals.<br><br>
+
+EX: If a snake summoner went the lycanthropic route over the Sage Mode route, they would have to select a specific snake to imitate. Their body will resemble a snake far more than if using Sage Mode. This is similar to Sage Transformation in a way. Unlike Sage Mode, lycanthropic buffs will drain chakra at first. Once mastered though, it operates akin to Sage Transformation.<br><br>
+
+<b>Gates:</b><br>
+(100 x # of Gate) <br>
+1/4 Amount with Stamina T1<br>
+1/3 Amount with Stamina T2<br>
+1/2 Amount with Stamina T3<br><br>
+
+<b>Custom Doujutsu:</b><br>
+If you have a KG you are not allowed to have a custom doujutsu, if you roll custom doujutsu and would like to choose it over your KG you are able to but will be stripped of the KG you currently hold. [Not allowed this wipe]<br><br>
+
+<b>Restrictions on Clan Jutsu:</b><br> 
+All clans who have more than one member you will need to establish a clan head ICly so that you begin a hierarchy of how jutsu is learned. From now on if your superior knows a jutsu before you, you must learn it from them not by creating it yourself since it is already created.<br><br></font>
+
+<font face=Pristina><font color="orange"><font size=5><center>Fire Release<br><br>
+<font size=4>
+
+Fire Run: DRank <br>
+Fire Shot: D Rank<br>
+Fire Dragon Bullet: C Rank<br>
+Exploding Flame: C Rank<br>
+Fireball Jutsu: C Rank<br>
+Phoenix Flower Jutsu: C Rank<br>
+Misty Flames Dance Jutsu: C Rank<br>
+Dragon Fire: C Rank<br>
+Phoenix Flower Shuriken Jutsu: C Rank<br>
+Fire Clone: C Rank<br>
+Burning Ash: B Rank<br>
+Great Dragon Flame: B Rank<br>
+Dragon Flame Bomb: A Rank  <br>
+Giant Flame Bombs: A Rank<br>
+Shadow Fire Clone: A Rank<br><br>
+
+
+<font color="cerulean"><font size=5><center>Water Release<br><br>
+<font size=4>
+
+Hidden Mist Jutsu: D Rank <br>
+Water Gun: D Rank<br>
+Syrup Trap: C Rank<br>
+Raging Waves: C Rank<br>
+Water Clone: C Rank<br>
+Water Prison: C Rank<br>
+Water Trumpet: B Rank<br>
+Water Wall: B Rank  <br>
+Water Dragon: B Rank <br>
+Water Shockwave: B Rank  <br>
+Exploding Water Shock Wave: B Rank <br>
+Giant Vortex: A Rank  <br>
+Shadow Water Clone: A Rank<br>
+
+
+<font size=5><font color="robin"><center>Lightning Release<br><br>
+<font size=4>
+
+Raiton Flash: D Rank <br>
+Earth Flash: C Rank  <br>
+Lightning Ball: C Rank  <br>
+Lightning Clone: C Rank <br>
+Lightning Fangs: B Rank <br>
+Electric Needle Spark: B Rank  <br>
+Chidori: A Rank <br>
+Chidori Senbon: A Rank <br>
+Lightning Armor: A Rank  (Buff)<br>
+Nervous System Rupture: A Rank <br>
+Shadow Lightning Clone: A Rank<br>
+Lightning Blade: S Rank
+<br><br>
+
+<center><font size=5><font color="Brown"><center>Earth Release<br><br>
+<font size=4>
+
+Mud Silhouette: D Rank <br>
+Headhunter: D Rank  <br>
+Hidden Mole: C Rank  <br>
+Subterranian Voyage: C Rank <br>
+Rock Clone: C Rank  <br>
+Mud Wall: B Rank  <br>
+Earth Dragon Bomb: B Rank  <br>
+Earthen Corridor: B Rank  <br>
+Earth Spear: B Rank  (Buff)<br>
+Dark Swamp: A Rank  <br>
+Earth Golem: A Rank <br>
+Shadow Earth Clone: A Rank<br><br>
+
+
+<center><font size=5><font color="light green">Wind Release<br><br>
+<font size=4>
+
+
+Divine Wind: D Rank <br>
+Great Breakthrough: C Rank <br>
+Wind Scythe: C Rank (Fan Required)  <br>
+Air Bullet: C Rank  <br>
+Gale Palm: C Rank  <br>
+Wind Clone: C Rank<br>
+Jade Hurricane: B Rank  <br>
+Cyclone Scythe: B Rank(Fan Required)  <br>
+Wind Blade: B Rank  <br>
+Vacuum Bullets: B Rank  <br>
+Vacuum Wave: A Rank  <br>
+Wind Sword: A Rank  <br>
+Vacuum Serial Waves: A Rank<br>
+Shadow Wind Clone: A Rank<br><br>
+
+
+<center><font size=5><font color="pink">Medical<br><br>
+<font size=4>
+
+Basic Healing: D Rank<br>
+Prepared Needle Shot: C Rank  <br>
+Novice Healing: C Rank<br>
+Oukashou: C Rank (Requires Chakra Enhanced Strength Perk for use)<br>
+Heavenly Foot of Pain: C Rank (Requires Chakra Enhanced Strength Perk for use)<br>
+Heaven Speark Kick: B Rank (Requires Chakra Enhanced Strength Perk for use)
+Poison Fog: B Rank (Requires Poison proficiency & poison recipe to be lethal) <br>
+Chakra Scalpel: B Rank  <br>
+Cell Activation: B Rank<br>
+Poison Extraction: B Rank  <br>
+Dead Soul: B Rank  <br>
+Expert Healing: B Rank<br>
+Mystical Palm Technique: A Rank  <br>
+Pre-Healing: A Rank<br>
+Creation Rebirth: S Rank (Special Requirements)<br><br>
+
+
+<center><font size=5><font color="gray">Ninjutsu(Non-Elemental)</center><br>
+<font size=4>
+Shadow Clone: A Rank  <br>
+Body Flicker: D Rank  <br>
+Manipulated Shuriken: D Rank  <br>
+Shadow Shuriken: D Rank  <br>
+Crystal Ball: A Rank (Requires special item) <br>
+Kagura: The Mind's Eye: C rank(Sensory profession required, only one person on the server permitted to have at a time)  <br>
+Shadow Clone Explosion: A Rank(Shadow Clone Mastery Required) <br>
+Rasengan: A rank (Special Requirements)  <br><br>
+
+
+<font color="orange"><font size=5><center>Fuuinjutsu<br><br>
+<font size=4>
+Note: You must have at least T1 sealing to get any fuuinjutsu techniques other than C rank Summoning<br>
+Basing Sealing: D Rank (Auto given with T1 Fuuinjutsu perk)<br>
+Lotus Sealing: C Rank (Auto given with T2 Fuuinjutsu perk)<br>
+Summoning: C Rank (Rolled randomly by the admin to determine which animal you get, once the animal is rolled you cannot take back the decision to have a summon, starting with a summoning on creation auto locks you into fuuinjutsu profession)<br>
+Five Seal Barrier: C Rank  <br>
+Finger Carving Seal: C Rank  <br>
+Root Sealing: B Rank (Auto given with T3 Fuuinjutsu perk)<br>
+Sealing Jutsu: Fire Seal: B Rank  <br>
+Five Pronged Seal: A Rank  <br>
+Five Pronged Unseal: A Rank  <br>
+Contract Seal: A Rank <br>
+Curse Sealing: A Rank  <br>
+Advanced Sealing: A Rank (Auto given with T4 Fuuinjutsu perk)<br>
+Sealing Jutsu: Reaper Death Seal: S Rank  <br>
+Reverse Tetragram Sealing: S Rank<br><br>
+
+
+<center><font size=5><font color="green">Taijutsu</center><br>
+<font size=4>
+Silent Killing: D Rank (Requires Lightfoot perk)<br>
+Dynamic Entry: D Rank  <br>
+Leaf Whirlwind: D Rank  <br>
+Leaf Great Whirlwind: C Rank  <br>
+Creeping Leaf Shadow: C Rank  <br>
+Drunken Fist: C Rank (Buff)<br>
+Severe Leaf Hurricane: B Rank  <br>
+Eight Inner Gates: S-Rank (Special Requirements, look at top of page)<br><br>
+
+
+<center><font size=5><font color="white">Genjutsu</center><br>
+<font size=4>
+
+Genjutsu Dissipation: D rank  <br>
+Demonic Illusion: Death Mirage: D Rank <br>
+Interrogation: D Rank<br>
+Mist Servant: D Rank<br>
+Demonic Illusion: Fire Meteor: C rank  <br>
+Optic Delusory: C Rank  <br>
+Sly Mind Effect: C Rank  <br>
+Hazy Illusion: C Rank<br>
+Leaf Style Willow: C Rank<br>
+Rockslide: C Rank<br>
+Double Optic Illusion: B Rank<br>
+Tree Binding: B Rank<br>
+Sylvan Fetters: B Rank  <br>
+Lightning Illusion: Flash Pillar: B Rank (Combiation Genjutsu/Lightning, requires affinity to lightning to use) <br>
+Feather Illusion: A Rank  <br>
+Infinite Darkness: A Rank<br><br>
+
+
+<center><font size=5><font color="gold">Sabaku Clan</center><br>
+<font size=4>Third Eye: D Rank<br>
+Sand Shuriken: D Rank<br>
+Sand Armor: C Rank (Buff)<br>
+Sand Shield: C Rank<br>
+Sand Coffin: C Rank<br>
+Sand Burial: B Rank<br><br>
+Sand Tsumani: B Rank<br>
+Giant Sand Pyramid: A Rank<br>
+Giant Sand Burial: A Rank<br>
+Note: Shukakku host is not a requirement for Sand Manipulator. The Sabaku clan uses sand Manipulation, albeit, a much weaker version than Shukkaku host.
+<br><br>
+
+<center><font size=5><font color="purple">Uchiha Clan</center><br>
+<font size=4>
+Sharingan Stages: Hidden Requirements, every week any Uchiha will be checked if they have met the requirements.<br><br>
+
+<center><font size=5>Aburame</center><br>
+<font size=4>
+
+Insect Tracking: E Rank (Auto given with clan)<br>
+Insect Summoning: C Rank (Auto given with clan)<br>
+Insect Sphere: B Rank<br><br>
+
+
+<center><font size=5>Inuzuka Clan</center><br>
+<font size=3>
+
+Dynamic Marking: E Rank (Auto given with clan)<br>
+Ninja Art of Beast Mimicry: All-Fours: D Rank (Buff)<br>
+Man Beast Clone: D Rank<br>
+Tunelling Fang: D Rank<br>
+Fang Over Fang: C Rank<br>
+Inuzuka Style: Man Beast Transformation Combo: Two-Headed Wolf: B Rank (Buff)<br>
+Wolf Fang over Fang: B Rank<br><br>
+
+<center><font size=5>Hozuki Clan</center><br>
+<font size=4>Water Transformation: C Rank<br>
+Great Water Arm: B Rank<br>
+Demon Fish: B Rank<br>
+Water Fang Bomb: B Rank<br><br>
+Water Gun: A Rank<br><br>
+
+
+<center><font size=5>Kaguya Clan</font></center><br><font size=3>
+<i>All dances must be bought in the order they are listed, you cannot skip dances to get a higher ranked one without the pre-req dance.</i><br><br>
+
+Bone Bullets: D Rank<br>
+Dance of the Willow: C Rank (Buff)<br>
+Dance of the Camellia: C Rank (Buff)<br>
+Dance of the Larch: B Rank (Buff)<br>
+Dance of the Clematis: Vine: B Rank (Buff)<br>
+Dance of the Clematis: Flower: A Rank (Buff)<br>
+Dance of the Seedling Fern: A Rank <br><br>
+
+
+<font size=5><center>Akimichi Clan</center><br><font size=4>
+Human Boulder: C Rank<br>
+Expansion: C rank (Buff)<br>
+Partial Expansion: C Rank (Buff)<br>
+Spiked Meat Tank: C Rank <br>
+Super Expansion: B Rank (Buff)<br>
+Butterfly Bomb: B Rank<br>
+Earthquake Slam: B Rank<br>
+Ballistic Water Wheel: B Rank<br>
+Super Open Hand Slap: B Rank<br><br>
+
+<font size=5><center>Hyuuga Clan</center><br><font size=4>
+Byakugan: D Rank (Auto given with clan)<br>
+Gentle Fist: C Rank<br>
+Eight Trigrams Palm Rotation: C Rank<br>
+Eight Trigrams Sixty-Four Palms: B Rank<br>
+Eight Trigrams Air Palm: B Rank<br>
+Eight Trigrams One Hundred Twenty-Eight Palms: A Rank<br><br>
+
+<font size=5><center>Yamanaka Clan</center><br><font size=4>
+Sensing Transmission: C Rank<br>
+Mind Body Switch Technique: C Rank<br>
+Mind Body Disturbance: B Rank<br>
+Mind Body Transmission: B Rank<br>
+Mind Clone Switch Technique: B Rank<br>
+Mind Disturbance Dance Performance: A Rank<br>
+Mind Puppet Switch Cursed Seal: A Rank<br><br>
+
+<font size=5><center>Nara Clan</center><br><font size=4>
+Shadow Imitation Shuriken: D Rank<br>
+Shadow Imitation: C Rank<br>
+Shadow Gathering: C Rank (Requires Shadow Stitching to purchase)<br>
+Shadow Stitching: B Rank<br>
+Shadow Bind: B Rank<br>
+Shadow Neck Bind: B Rank<br>
+Black Spider Lily: B Rank<br>
+Shadow Clutch: A Rank<br><br>
+
+</body></html>
+

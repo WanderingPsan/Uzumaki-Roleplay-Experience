@@ -1,0 +1,506 @@
+<body background="white"><table width="700" cellspacing="0" cellpadding="10" align="center"> <tr valign="top"><td style="padding:0.0em;" colspan="1" width="300px" align="center"></td>
+<tr><td bgcolor="#000000" align="right" style="padding:0.0em;" colspan="5"><span style="font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;"><font color=#5882FA><center>GENERAL RULES</center></span></td></tr>
+
+<td bgcolor="#5882FA" colspan="3" style="border:0px #FFFFFF solid;"><div align="justify"><font face="arial, lucida, tahoma" size="2" color="#000000">These rules are maintained by the administration team and are always up for discussion and subject to change once the coded admins feel necessary. All decisions made by our administrators are to be followed, regardless if they are temporary rulings or laid in stone.<br><br>
+
+"The Golden Rule"<br><br>
+First and foremost, as a member of this community, you're expected to treat people as you'd like to be treated. Use common sense while in-game and remember that everyone is just here to have fun. As well as, being polite to each other, showing respect, helping people who may be new to our server and in general being a good community member.<br><br>
+
+<font color=red>All of our rules have a general way of punishment. Three formal warnings/boots will be given. If you continue to break rules, even if they aren't the same ones, you are liable to be banned for a period of 5 days and up to 2 weeks depending on your crimes. Anyone who puts the server in danger, either by DOS/DDOS/Harmful roleplay just to hurt the progress of the server, will be permanently code banned. If you have been banned, you will go on a probation status until you are told you have been removed from that probation status by Zeno after a period of good behavior. If you continue foul behavior and breaking rules on the server, you will have various things stripped from your character; such as, skill rank/jutsu/perks/log checks.</font><br><br>
+ 
+1. No metagaming<br>
+Metagaming - When someone uses out of character (OOC) information for in character (IC) purposes. If you attempt to incite metagaming then you're also breaking rules. <br>
+Examples: <br>
+1) Sending OOC messages via: radio messages/Skype & other messengers/OOC say/World OOC. <br>
+2) Having someone inform you of the police waiting outside your house, thus altering the actions you previously may have taken. <br>
+3) Abusing such verbs as Byakugan, Sharingan, or Sensory abilities. <br><br>
+ 
+2. No Godmodding. <br>
+Godmodding is whereby you force actions upon someone, don't allow the other player to retaliate, use items in which you haven't physically obtained -- or acting well beyond character limitations. Ignoring or dulling down negative actions that are drastically less than they should be is considered a case of Godmodding. <br>
+Examples: <br>
+1) Assaulting someone with a Fuma Shuriken when you don’t have one in your inventory. <br>
+2) “John throws a powerful hook into Jane’s jaw, causing her to fall down onto the floor and instantaneously falling unconscious.” <br><br>
+ 
+3. No Auto-Hitting<br>
+This falls nearly into the same category as Godmodding in terms of the examples. Auto-hitting is not waiting for the other person’s reply to your attack and roleplaying that the attack automatically lands without consideration that they might have a way to defend against said attack. <br>
+Examples: <br>
+1). John cast’s a Genjutsu and it takes over Jane’s mind, putting them to sleep. <br><br>
+ 
+4. No Deathmatching<br>
+Deathmatching is the act of killing another person’s character without sufficient reason. The same goes for killing a character verbally without prior RP and waiting for the death role play to be posted by the person dying. <br>
+Revenge killing falls under this rule. This is where you seek out a person on your death reward (DR) or alt and attempt to kill the person who killed your previous character. That means that your memory of said recent events is wiped, you are not a reincarnation that gets ‘bad vibes’ from the person who killed your previous character, and you are not friends with your previous character on your alt.<br><br>
+ 
+5. No advertising. <br>
+Sending other players links or discussing other servers, communities or groups on Byond in the manner of advertising is strictly prohibited. We expect all players to keep their opinions about said matter to themselves, as we hope members from other corners of the gaming world would do the same for us. <font color=red>This only receives one warning and if it is done again the player will be banned for a wipe.</font><br><br>
+ 
+6. Always roleplay. <br>
+This is a roleplay server and no one is allowed to force a situation to go out of character unless it's an administrator. If you attempt to slow roleplay down (especially during a hostile situation) then you're also breaking this rule. Ensure that you continue to roleplay even if you disagree with what's going on until an administrator arrives after you have sent a single Admin-help. <br>
+Examples: <br>
+1) Character names are to be in the format of:  Lastname, Firstname or Firstname Lastname<br>
+2) No advertising of illegal items/consumables. <br>
+3) No unrealistic character names. I.e. Includes Numbers, symbols such as @#$%&*, or canon names to ANY anime, celebrity, etc. (In some cases this is permitted for special circumstances, as well as common celebrity/anime names are permitted) <br>
+4) Usage of OOC communication during roleplay must be kept to a minimum and must serve a purpose when being used. <br>
+5) Have your name as OOC or be considered as OOC for any reason. Only Admins can do such while handling admin business. (You may also not be present at any location OOCly, where your icon is, is where your character is at all times. Only Admins are an exception to this rule while conducting business) <br><br>
+ 
+7. Reader’s Discretion<br>
+Every single party involved must OOCly agree to the below sorts of roleplay taking place; <br>
+Rape<br>
+Cannibalism<br>
+Do bear in mind that although all parties may have agreed to said roleplay, you must be cautious when conducting these forms of roleplay in public settings. Public will be defined as whereby other members of the community can see the act of said roleplay occur, and if they did not OOCly agree to witness the roleplay, then roleplay must be paused and approved by the approaching party. If you have people OOCly agree to witness the roleplay, then you are free to continue. If any party involved or viewing the roleplay does not approve of the scene, it must be black screened but -still- happens ICly and must be served as such. This means if the victim choses to black screen they are full accepting whatever is done to them during said black screen after details have been discussed OOCly. You may also stop at any point during the roleplay if you wish not to continue. <br><br>
+ 
+8. Don't break rules simply because someone else did. <br>
+Under no circumstance are you allowed to break rules because someone else did. If you witness somebody breaking server rules, report them to an administrator immediately. Do not start breaking the rules yourself else you'll face punishment. <br>
+Examples: <br>
+1) Deathmatching someone because they accidentally miss clicked and hit you. <br>
+2) Metagame an attack simply based off the other person metagaming. <br>
+3) Godmodding simply because the other person in the battle is Godmodding. <br><br>
+ 
+9. Getting assistance from Admins/Moderators<br>
+Administrators are often heavily tasked; therefore, spamming the Admin-help can be very distracting and unnecessary. The following are not acceptable reasons to message administrators: <br>
+Examples: <br>
+1) You want to have a friendly conversation. <br>
+2) You disagree with a decision they've made.  (This can be submitted as a complaint in the ‘Complaints’ verb under ‘Commands’ tab) <br>
+3) You are curious about the status of an event you aren’t involved in and that isn’t being world announced. <br><br>
+ 
+10. Ignoring OOC communication<br>
+Sometimes a player may attempt to communicate with you during roleplay. This may be because they wanting to ask you a question in regards to the roleplay, or perhaps do not like the way things are turning out. When this does happen, you are allowed to ignore these players and you are not required to reply as long as it isn’t to make a clarification of the roleplay. If there is a dispute and you don’t want to respond to the person you are roleplaying with then you may simply send a Admin-help requesting an admin’s presence to sort out the issue. <br>
+Examples: <br>
+1) PM From John Doe: Why did you just call the police on me? <br>
+2) Jane Doe: (( Wow you can't do that, give it back! )) <br>
+Exception: <br>
+Administrators that communicate with you must be answered at all times. <br><br>
+
+11. Perk Cooldown<br>
+Perks that are roleplayed for have a 7 day cooldown, they also must be paid for with RPP just like core perks. You may not roleplay for two perks at the same time, on top of this, you are not allowed to roleplay for a perk but then decide to get another perk and ask for the previous perk later (You are required to restart the logging process). <br><br>
+
+12. Alt Interaction. <br>
+You are not allowed to transfer any kinds of assets (items, keys, money, jutsu scrolls) between your characters within your own account or over your multiple accounts. This includes using a friend to purchase a weapon via your blacksmith alt and then handing it off to you as a ‘gift’ as well as any other situation similar. <br><br>
+ 
+13. Bug abusing<br>
+You are not allowed to abuse bugs, bugs are considered as actions in which are not intended, such as duplication of items/money/jutsu scrolls. <br>
+You are required to report any bugs you find to an admin via Admin-help or Suggestions. <br>
+Failure to report bugs and instead using them for your own benefit/gain will be met with a severe punishment that may include permanent ban and a wipe of your character/items. <br><br>
+ 
+14. Items Possession. <br>
+All items, money and weapons in your inventory must be roleplayed on your character’s person. If you don't want to be caught with an item or your character’s entire life savings, we have features in homes that can be used to store items you don’t want on your person. <br>
+Examples: <br>
+1) John Doe has a rogue headband on his person but claims that he ‘stored it elsewhere’. <br><br>
+ 
+15. Rank Rules<br>
+Ranks are put in place for a purpose; they are here to provide stimulation to the roleplay setting to keep balance to not only story but to a government and shinobi military system. Without stabilization then the roleplay can’t flourish, the village will become weaker; the faction will become weaker or broken, etc. If you are a rank do not neglect your position or if it was given to you as a starter or as a reward do not turn around and become a rogue for merely no other reason than ‘I am powerful now’. (This rule applies only to starter ranks) <br><br>
+
+16. AFK rules<br>
+When a player is AFK you must follow these rules when taking actions against them. You must roleplay all actions towards them and then wait ten minutes to see if they will be coming out of AFK or if anyone around the area is going to interrupt your action. The only things permitted to an AFK player are: Grabbing, binding, imprisoning, & kidnapping. (Killing, injuring, & sealing are -not- permitted.) <br><br>
+
+17. Hostile & Flee Roleplays<br>
+Actions such as fleeing, stealing, attacking, destroying, killing, trapping, etc. should be of sufficient length and quality to the action being taken. They should also explain what it is you are doing and why it is you are taking the action. But should not be any less than six quality sentences detailing such action. Killing, mass robbing, or destroying large amounts of items should be more a longer more elaborate roleplay. <br>
+If someone is captured, imprisoned, or has an action done to them which could potentially cut off their roleplay, then it is obligatory to roleplay with them in one way or another. You cannot lock someone in and cut their roleplay off. If a player is cut off from roleplay for more than one OOC day, they may Admin-help to roleplay escaping, of course they must deal with any NPC’s supervising them. <br>
+Players cannot randomly kill players or rob buildings at the drop of a dime with little to no reason. If your background consists of habits regarding a short temper, or anything of the sort regarding this sort of behavior, then you must at least give generous amounts of role-play before an ultimatum.  And even then the player should react with breaking bones, scarring or severing limbs before resorting to killing. Solely for the sake of preserving, promoting, and expanding roleplay experiences for all. No one wants to put a lot of time and effort into a character just to be snuffed out without warning. When players are killed off early or shortly after making a character, it can discourage them and cause them to give up or quit. Which in turn gives us less players, and in turn gives less roleplay which results in a dying server. <br>
+Leaving a hostile situation requires a roleplay stating as such and then waiting for OOC or IC approval from all parties you are permitted to leave. <br>
+When joining a hostile roleplay one must start the further possible away from the target (where a roleplay is still visible), and post an entrance roleplay, before entering the battle. You may only enter a combat situation ICly two rounds after arriving OOCly. If you have T2 sight/hearing/sensor/smell and have an attack that is capable of reaching the target from that range, you are permitted to roleplay after waiting only one round. <br><br>
+ 
+18. Scouting<br>
+To scout you must roleplay arriving, and then leaving. You cannot run into an area OOC, instantly dip, and relay information. Both of these must be done from the furthest point able within vision distance and the use of a bunshin or roleplay flag to mark your position may be used as you move closer to be in roleplay range. If you are capable of scouting outside of normal sensing/sight range, Admin-help for admin assistance. <br><br>
+ 
+19. Flaming & Trolls<br>
+Everyone has their fun with jokes but keep the flaming and trolling to a minimum. This is an act of not only OOC hostility, bullying, but also just a general annoyance that makes the server overall look bad and lacking in a nice community for all players. <br><br>
+ 
+20. Event Characters (ECing) <br>
+Kages are allowed to make EC’s for their own village as they like. If you are not a village leader and would like to EC for events, speak with an admin about signing up to be put on the list. Restrictions: C rank unless you get special permissions and/or set up from an admin. <br><br>
+
+21. Handseals<br>
+The maximum allowed hand seals in a single role-play without Tier 1 Handseals, is five hand seals. <br><br>
+
+22. Speech during Hostile Roleplay<br>
+ICly speaking outside a roleplay two times during a battle forfeits your roleplay turn for the next round if your opponent decides to call it. In other words, you must accept whatever your opponent roleplays if you speak, whisper, or use a radio communication that was not roleplayed in your previous post. <br><br>
+ 
+23. Age limitations<br>
+For various advances on the server there will be age limitations simply because some ages just don’t make sense for child soldiers that are overpowered and can outfight a six foot tall fully matured adult. It’s simple logic. <br>
+1)      Perk progression: <br>
+a.       Tier 1: 4 years old without genius/prodigy, 3 years old with genius/prodigy<br>
+b.       Tier 2: 5 years old without genius/prodigy, 4 years old with genius/prodigy<br>
+c.        Tier 3: 10 years old without genius/prodigy, 9 years old with genius/prodigy<br>
+2)      Jutsu progression: <br>
+a.        D Rank: 4 years old without genius/prodigy, 3 years old with genius/prodigy<br>
+b.        C Rank: 5 years old without genius/prodigy, 4 years old with genius/prodigy<br>
+c.         B Rank: 8 years old without genius/prodigy, 7 years old with genius/prodigy<br>
+d.         A Rank: 10 years old without genius/prodigy, 9 years old with genius/prodigy<br><br>
+ 
+24. Spamming Admin-help<br>
+Do not spam the admin’s with your Admin-helps. Our admins are diligent to try and assist you, so please be patient with us. As for spamming Admin-help’s as a form of flaming will be met with a kick from the server, if continued flaming through spamming occurs then there will be a ban put in place, followed by permanent ban for the worst offenders. <br><br>
+ 
+25. Familiars<br>
+Animal’s must Admin-help to get their icon changed. Be sure you are creating into an animal that is approved to be a familiar/pet. If you aren’t sure, Admin-help before creating. Animal’s/pet’s cannot speak with anyone (excluding Inuzuka’s with ninken trained dogs) until they have acquired the intelligent familiar perk. (Familiar set up: 2 Tier 1 cores, 1 C rank or 2 D rank familiar appropriate custom attacks) <br><br>
+ 
+26. Kawarimi Ruling<br>
+The object must be equal mass to your body and not attached to anything. [Good Example: A chair, a light bench, a giant shuriken, a pre-cut log, solid clones (Shadow Clone). Bad Example: A branch attached to a tree, a tree, a sign attached to the ground, a desk, a kunai, a mass of water, multiple small objects, incorporeal clones.] <br>
+The object you substitute with must be within 2 tiles away when the hand seals are performed. <br>
+Can only activate 10 tiles away from original location. <br>
+You must kawa' to the original location, not any location of choice. <br>
+The kawa' activation only remains intact for 3 rounds. <br><br>
+
+27. Clans<br>
+If your clan has more than one player then a clan leader must be established by all active players of the clan via clan meeting. If the clan leader has a clan jutsu then everyone else in the clan must learn the jutsu from the clan leader, not create it themselves. On some wipes, clans may not be openly known or organized. In cases like this, you do not know your fellow clansmen unless they display the traits of your people or you see them use your family jutsu. Further, you do not know your clan name and only know of the clan abilities which you currently have. (4 clan members who openly know each other to be part of the clan and have come to meet/create a clan house as well as develop some form of organization and declared a clan leader may claim their clan name) <br><br>
+
+28. Advanced KG’s<br>
+If you already have a clan or a special KG then you will not be allowed a second KG without proper medical alteration. You can’t for example have Ice release and Uchiha, nor can you have Hozuki and custom doujutsu. The only case where this isn't applied is double advanced elements rolled on creation. <br><br>
+
+29. No EZing<br>
+No EZing, this means no spamming your practice jutsu verb(You can only use this verb three times after your roleplay using a jutsu), it also means no spamming the same roleplay/periods/or unrelatable content repeatedly to gain RPP, as well as you are only allowed to click 'read scroll' -once- for each paragraph roleplayed. <br><br>
+
+30. Pills<br>
+Soldier Pills/Akimichi Pills last only for a single turn, so about two minutes. So use the pill, then use your NIC immediately. ICly soldier pills last three IC days and then make the character bedridden for two IC days following. <br><br>
+
+31. RPP Purchases<br>
+If you purchase something with RPP, there are NO REFUNDS. The only exception to this rule is if the game caused a glitch in which we will give you a refund. This also goes for if you think that you may be reaching your perk limit, if you think you are close to your perk restriction for your rank, SCREENSHOT YOUR ENTIRE PAGE so that we can verify that it is a recent screenshot and refund you your RPP. <br><br>
+
+32. Poison/Constitution Deaths<br>
+Poison/Constitution Death is IC. If you happen to be OOCly poisoned, you will be revived, this is the only exception. Make sure you take medicine and/or eat regularly if you have an illness or need food. If you have an illness...Act like it. You can easily fight through a fever or a cold. You can even fight through the flu if you can prove that you recently medicated. But if you are caught trying to fight, spar even, with a Wasting Disorder or Fatal Immunodeficiency, or Encephilitis or any other high-tier Illness, you will be killed -immediately- with no mercy and no chance for omit. You have been warned. You do -not- know what sickness you have exactly just because of the status tab. You have to be diagnosed by a Medic before you know -exactly- what you have IC. <br><br>
+
+33. Character Restores<br>
+If you do not have a screenshot of your items/money/exp/rank/jutsu/perks/etc. You will -not- have your character restored. Your character will be either DR’d or nerfed (down to only what the admins can recall you had). It is -crucial- you screenshot not only all of the things listed above but as well as any custom descriptions for perks/jutsu/weapons. <br><br>
+
+34. Invisible Henge<br>
+Henging an NPC, or anything else, to make your icon invisible for any reason is prohibited.<br><br>
+
+35. Scroll Learning<br>
+You must hav the following to create a scroll: 10 intel for D ranks, 15 intel for C ranks, 20 intel for B ranks, 30 intel for A ranks, 60 intel for S ranks. You are also not allowed to learn a jutsu from a scroll that is more than 1 skill rank above your current skill ranks. I.e. you are a C rank so you can only learn up to a B rank.<br><br>
+
+36. Learning New Elements<br>
+You must have a teacher(s). The old point system of learning jutsu to learn the element has been removed and you must progress towards getting the perk first. The amount of required time/roleplays is x2. Meaning that it takes 2 weeks and 10 roleplays a day. The teachers must roleplay at least 5 roleplays to every 10 of the student for those two weeks. You can learn from more than one teacher but you must save all the roleplays of the teacher to be approved for the learning of the new element to prove that you learned from a teacher. If you do not save your student roleplays and the teacher roleplays, you will not be approved for the new element at the end of the 2 week process. After you pay the 1k rpp for the new element perk, you will then be given the element in the code and be allowed to learn jutsu for the new element you have learned.<br><br>
+
+37. Alt Spying<br>
+Using alternate characters in order to spy on roleplay in other parts of a village/in other villages will not be tolerated. <font color=red>If you are not actively roleplaying on the character and it has displayed habits of alt spying you will be warned to roleplay or leave the area, if you refuse you will be booted. If you continue the spying, that individual key will be banned.</font><br><br>
+
+38. Mission Rewards<br>
+Any person found to be giving out mission rewards beyond what is approved will be stripped of their verbs and the abused exp will be deleted from the person it was given to. You are only allowed to complete 3 missions an OOC day. All B rank or higher missions -must- have an EC, unless they are ‘spar a higher ranked shinobi’ mission, which require a full letter grade higher ranked player. Keep in mind that a kage does not have to give you the max missions a day, it is up to IC if they gives you that many missions or no missions at all. Gate guarding cannot be a rewarded mission. Kage's may assign guarding to people but unless there is an EC involved they cannot be rewarded EXP.<br>
+Genin: Max Mission Potential - 1 B, 2 C or 3 C’s or a combination of C’s and D’s (no more than 3 D’s for -total- missions in a day)<br>
+Chuunin: Max Mission Potential - 2 B, 1 C or 3 C’s or 1 admin approved A rank<br>
+Jounin: Max Mission Potential - 2 B, 1 admin approved A rank or 3 B etc<br><br>
+
+39. Buff/Stance Stacking<br>
+There are two types of jutsu buffs in the games, one are physical buffs and one are stances. You cannot stack multiple stances together, the same applies to physical buffs. You are however allowed to stack one stance with one physical buff, even then, there are some exceptions to this rule. If you use stances/physical buffs, talk to Zeno about what you are allowed to stack.<br>
+Example of Stances: Karate Style: This person uses the techniques of the classic Karate style.<br>
+Example of Physical Buffs: Earth Spear, Lightning Armor, Kaguya Dances.<br><br>
+
+
+<font color=red>*Just because a rule isn't written down here doesn't mean it doesn't exist. The admin team has full ability to create a rule on the spot due to a certain situation making a need for a rule to be created. This is not considered abuse it is considered consistency with keeping the game maintained. Rules are also being added every day, if a rule isn't listed here check the rumors page for new rules that have been added between updates. If you have a suggestion for a rule, please contact Riven.</font><br><br>
+
+<b>Admins</b><br>
+ZenoKuthric: Head Admin<br>
+TenaciousRiven: Mapper/Custom Approvals/Moderator<br>
+DhatBoiNick: Host/Coder/Custom Approvals<br>
+Omnikage: Coded Moderator<br>
+Zakku: Coded Host (Currently MIA)<br>
+Maruka: Conflict Moderator<br>
+Ichigo: Event Master/Moderator
+</div></td></tr>
+
+<tr><td colspan="4"></td></tr>
+
+<tr> <td bgcolor="#000000" align="right" style="padding:0.0em;" colspan="5"><span style="font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;"><font color=#5882FA><center>TRAVEL & MOVEMENT RULES</center></span></td></tr>
+
+<tr> <td bgcolor="#5882FA" colspan="4" style="border:1px #FFFFFF solid;"><div align="justify"><font face="arial, lucida, tahoma" size="2" color="#000000">Each map you cross, you must roleplay two times with a minimum of six sentences each. You also must wait a minimum of thirty minutes between crossing each map between your destination.<br><br>
+
+If you are below C- and do not have a survivalist perk you may not travel between villages without a caravan(You still have traveled a total of the number of days = to the number of maps crossed between the villages, you must take this into consideration for IC) purchasable via NPC or with a group of at least two other people with a total of three people traveling.<br><br>
+
+During major events/wars, you cannot use a caravan or walk the amount of time to travel maps normally to reach the event. You arrive several days after the event/battle occured and thus are restricted to travel if it concerns the event/battle. In matters of war, if it lasts several days and you travel during a current event, you are not allowed to participate in that current event/battle but you may participate in the following one.<br><br>
+
+If you're carrying someone and cannot meet the Strength x30 vs the person's weight you are carrying, the roleplays between the maps increases to four roleplays done by the character that's carrying the person. If you want to do two roleplays while carrying a person, you can, but the character who's carrying someone without the required strength perk will have to wait twenty minutes instead of ten minutes between each map.<br><br>
+
+If you have the Courier perk, the waiting time decreases to 10 minutes per map. If you're carrying someone without the required strength and have the Courier perk, then the waiting time between each map is 20 minutes.<br><br>
+
+When a character is traveling alone or in a group, an admin is able to make an event character of a C rank skill to either try and kill the traveling characters or help them on their way - this may vary. (This can be created by an admin or the kage of your village)<br><br>
+
+<b>Movement Rules:</b><br><br>
+
+Round up your stats if they have a .5 after them, if it is below .5, such as .4 you round down. (Speed Stat/2) + Tier # of Speed perk = Tile distance. Example: your speed stat is ten and you have a T2 perk. 10/2 = 5 + 2 = 7 tiles of speed per turn.<br><br>
+
+Using Shunshin: (Speed Stat/2) + Tier # of Speed perk + (Control/2) + # of tiles stated in flicker fighter perks (if you have flicker fighter perks) = Shunshin tile distance<br><br>
+
+</div></td></tr> 
+
+<tr><td colspan="4"></td></tr>
+
+<tr> <td bgcolor="#000000" align="right" style="padding:0.0em;" colspan="5"><span style="font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;"><font color=#5882FA><center>PROFESSION RULES</center></span></td></tr>
+
+<tr> <td bgcolor="#5882FA" colspan="4" style="border:1px #FFFFFF solid;"><div align="justify"><font face="arial, lucida, tahoma" size="2" color="#000000"><i>These are the professions that have profession locks on our server.</i><br><br>
+
+Swordsmanship: Meaning anything concerning a sword of any type.<br>
+Weaponist: Meaning anything concerning weapons which aren't swords.<br>
+Genjutsu: Meaning anything to do with creating illusions using chakra.<br>
+Fuuinjutsu: Meaning anything to do with creating seals using chakra.<br>
+Sensory: Meaning anything to do with sensing chakra.<br>
+Elementalist: Meaning anything to do with using elemental chakra.<br>
+Medic: Meaning anything to do with medical care.<br>
+Scout: Meaning anything to do with stealth and assassination abilities.<br>
+Taijutsu: Meaning anything to do with physical attacks or buffs.<br>
+Puppetry: Meaning anything to do with the use of chakra threads and puppets.<br>
+Death Bringer (Soul): Meaning using soul weapons with necromancer abilities.<br>
+Death Bringer (Gravity): Meaning using gravity necromancer abilities.<br>
+Curse Specialist: Meaning using curses incantations on your opponents through necromancer abilities.<br>
+Dark Magic Specialist: Meaning using dark energy as a necromancer.<br>
+Necromancer Summoner: Meaning a necromancer who summons demons and monsters in battle.<br>
+Exorcist: Meaning a priest who is cacpable of exorcising necromancers/demons/fuuinjutsu/clones.<br>
+Light Magic Specialist: Meaning using light energy as a priest.<br>
+Cleric: Meaning using light abilities to heal. (Crusaders are medics who do not believe in surgery/poisons/pharmacuticals)<br>
+Crusader: Meaning priests who use melee abilities.<br>
+Aburame: Meaning anything to do with special bugs such as Rinkaichu/Bikochu/Kidaichu/Shokaichu (If you roll Rinkaichu on creation, you are auto locked into Aburame profession).<br><br>
+
+
+<i>You are profession locked if you meet one of the following.</i><br><br>
+
+	-Have T3 Katana/BFSW Proficiency (Locked into Swordsmanship)<br>
+	-Have T3 Flicker Fighter (Locked into Scout)<br>
+	-Have B Rank Genjutsu (Locked into Genjutsu)<br>
+	-Have B Rank Fuuinjutsu (Locked into Fuuinjutsu)<br>
+	-Have T2 Fuuinjutsu (Locked into Fuuinjutsu)<br>
+	-Have T2 Sensing (Locked into Sensory)<br>
+	-Have T3 Elemental Training (Locked into Elementalist)<br>
+	-Have B Rank in any Elemental Jutsu (Locked into Elementalist)<br>
+	-Have C Rank in any Medical Ninjutsu (Locked into Medic)<br>
+	-Possession of Surgeon/Geneticist/Pharmacist/or other T2+ medic perk (Locked into Medic)<br>
+	-Have Gate 2 (Locked into Taijutsu)<br>
+	-Have B Rank Taijutsu (Locked into Taijutsu)<br>
+	-Have T2 Boxing/Kickboxing. (Locked into Taijutsu)<br>
+	-Possession of Dual Wielding Sword Art/Giant Sword Art/Juggler (Locked into Swordsmanship or Weaponist)<br>
+-Have B Rank in any swordsmanship buff/jutsu (Locked into Swordsmanship)<br>
+-Possession of Hopeless Visionary/Magician/Illusionist (Locked into Genjutsu)<br>
+-Possession of any SSOM proficiency (Locked into Swordsmanship)<br>
+-Have T3 in any weapon proficiency, that isn't an SSOM/Katana/BFSW/Shield Bearer/Other type of sword (Locked into Weaponist)<br>
+-Have T2 in shield proficiency (Locked into Weaponist or Swordsmanship)<br>
+-Possession of two types of weapon proficiencies, even if they are below T3 (Locked into Weaponist)<br>
+-Possession of two types of sword proficiencies, even if they are below T3 (Locked into Swordsmanship)<br>
+-Have T2 Marksman (Locked into Weaponist)<br>
+-Have T3 Poison proficiency (Locked into one of the following: Medic, Weaponist, Swordsmanship, or Scout)<br>
+-Possession of Shadow Walker/Concealer (Locked into Scout)<br>
+-Possession of Magic Box (Locked into Scout or Fuuinjutsu)<br>
+-Possession of any necromancer/priest profession perk locks you into that profession<br>
+-Have B Rank in a necromancer/priest profession locks you into that profession<br>
+-Have T2 puppeteer (Locked into Puppetry)<br><br>
+
+<b>Blacksmith Professions:</b><br>
+Blacksmiths are limited to certain professions. The blacksmith perks no longer take up a profession themselves but they are restricted to certain professions and cannot be registered Shinobi, though they can take mercenary work for missions and be a village registered local blacksmith. Blacksmiths are limited to these profession choices: Fuuinjutsu, Swordsmanship, Weaponist, Elementalist, Magic Specialist Necromancer/Priest, Crusader, Exorcist, Soul Reaper Death Bringer, Gravity Manipulator Death Bringer, Curse Specialist. The only way for a blacksmith to create poisons for weapons is if they are locked into the weaponist profession for one of their professions. Blacksmiths have two profession slots just like everyone else, with Hardworker having three profession slots. Blacksmiths who have the Fuuinjutsu profession will be capable of making special properties that require Fuuinjutsu for their weapons. Blacksmiths with the elementalist profession will be capable of making special properties concerning the elements they have proficiency in, such as imbuing blades with fire. Magic Specialist Necromancers/Priests blacksmiths are capable of creating dark/light magic imbued weapons at a certain level of intelligence. Exorcist blacksmiths are capable of creating special property weapons that are anti bijuu/demon/Fuuinjutsu. Curse Specialist blacksmiths are capable of creating special property cursed objects and weapons.<br><br>
+
+Due to the considerable drop in Intel stats for blacksmiths and profession restrictions the requirements for making T3 and T4 weapons has been changed. To create T3 weapons you need to have 90 intel. To create T4 weapons you need 120 intel. When T3-4 perk stats are adjusted in the future, this requirement will be adjusted again.<br><br>
+
+<b>Clan Professions:</b><br>
+<i>If you are part of a clan and decide to pursue the clan techniques, these are the professions you will be locked into for the cooresponding clan abilities.</i><br><br>
+
+Senju: Pursuing wood release locks into Elementalist (Wood release is currently locked to creation, meaning no one can pursue wood release unless preapproved already)<br>
+Uzumaki: Pursuing chakra chains locks into Fuuinjutsu, Pursuing heal bite locks into Medic (Only one person allowed on the server to have this technique at a time)<br>
+Kaguya: Dances of B Rank + lock into Taijutsu<br>
+Yuki: Pursuing ice release locks into Elementalist<br>
+Sabaku: Pursuing control of sand locks into Elementalist<br>
+Yamanaka: Does not lock into a profession<br>
+Aburame: Pursuing B Rank + lock into Aburame<br>
+Kamizuru: Control over bees locks into Fuuinjutsu<br>
+Inuzuka: Pursuing B Rank + lock into Taijutsu<br>
+Fuma: Does not lock into a profession<br>
+Akai: Does not lock into a profession<br>
+Kedion: All clan techniques lock into scout<br>
+Hyuuga: Pursuing B Rank + lock into Taijutsu<br>
+Uchiha: Does not lock into a profession<br>
+Hozuki: Pursuing B Rank + lock into Elementalist<br>
+Nara: Does not lock into a profession<br>
+Akimichi: Pursuing B Rank + lock into Taijutsu<br>
+
+
+
+
+</div></td></tr> 
+
+<tr><td colspan="5"></td></tr>
+
+<tr> <td bgcolor="#000000" align="right" style="padding:0.0em;" colspan="5"><span style="font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;"><font color=#5882FA><center>RANK SET-UP</center></span></td></tr>
+
+<tr> <td bgcolor="#5882FA" colspan="4" style="border:1px #FFFFFF solid;"><div align="justify"><font face="arial, lucida, tahoma" size="2" color="#000000">Genin:<br>
+1) 2 D OR 1 C ranked Jutsu. 2 Tier 1 Perks.<br>
+2) Give the three basic jutsu.<br>
+3) D Rank for all Genin. Prodigy start at D+ w/ T1 & T2 perk (Jutsu options remain the same)<br><br>
+
+Chuunin:<br>
+1) 2 D and 2 C ranked Jutsu; 2 Tier 2 & 2 Tier 1 Perks.<br>
+2) Give the three basic jutsu & suimen.<br>
+3) C rank for all Chuunin. Prodigy start at C+<br><br>
+
+Jounin:<br>
+1) 2B, 2C, 2D ranked jutsu; 1 T3, 2 T2, 2 T1 Perks.<br>
+2) Give the three basic jutsu, suimen, & shunshin.<br>
+3) B rank for all Jounin. Prodigy starts at B+<br>
+4) Give Jounin verbs.<br><br>
+
+Old Man Councilor:<br>
+1) 2 D and 2 C ranked Jutsu; 2 Tier 2 & 2 Tier 1 Perks.<br>
+2) Give the three basic jutsu, suimen, & shunshin.<br>
+3) Give Old Person Perk.
+3) Give B- rank. Prodigy starts at B<br>
+4) Give Jounin & Councilor verbs.<br><br>
+
+Kage:<br>
+1) 1A, 2B, 2C, 2D ranked Jutsu; 1 T4, 2 T3, 2 T2, 2 T1 Perks.<br>
+2) Give the three basic jutsu, suimen, & shunshin.<br>
+3) A- rank for all Kage. (Depending on the wipe, kage's may start at B rank)<br>
+4) Give Kage & Jounin verbs.</div></td></tr> 
+
+<tr><td colspan="4"></td></tr>
+
+<tr> <td bgcolor="#000000" align="right" style="padding:0.0em;" colspan="5"><span style="font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;"><font color=#5882FA><center>BATTLE RULES</center></span></td></tr>
+
+<tr> <td bgcolor="#5882FA" colspan="4" style="border:1px #FFFFFF solid;"><div align="justify"><font face="arial, lucida, tahoma" size="2" color="#000000"><i>If it comes down to a use of Ninja Info Cards(NIC) to decide the outcome of an action, these are the stat formulas. Some jutsu/weapons/perks will state a special calculation, when the jutsu/weapon/perk state a special calculation, use that calculation rather than the default calculations. Round up your stats if they have a .5 after them, if it is below .5, such as .4 you round down. </i><br><br>
+
+Attack Speed: Attack Speed Stat vs Reflex Stat<br>
+<b>To determine landing an attack</b><br>
+(Difference between Attack Speed & Reflex)<br>
+1-4 = Little Difficulty to land attack<br>
+5-9 = Medium Difficulty<br>
+10-20 = Major Difficulty<br>
+21+ = Impossible to land attack<br><br>
+
+Speed in water (Non Hoshigaki/Hozuki):<br>
+Modified Calculation is (Strength + Attack Speed)/4<br><br>
+
+Ninjutsu: Ninjutsu + Control vs x2 Ninjutsu Defense<br><br>
+
+Taijutsu: Strength + Taijutsu vs x2 Durability<br><br>
+
+Chakra Flow: Strength + Taijutsu + (Control/5) vs Ninjutsu Defense x1 + Durability x1<br><br>
+
+Throwing Objects: Strength/2<br><br>
+
+Picking up heavy objects/people: Strength x20 vs Weight<br><br>
+
+Landing Genjutsu: Genjutsu + Intel vs Genjutsu Resistance<br><br>
+
+Knowing you are in a Genjutsu: Genjutsu + Intel vs Genjutsu + Intel<br><br>
+
+Breaking Genjutsu: Genjutsu + Control vs Genjuts + Control + 1x Mastery of Kai or 5 points of damage over x2 Durability<br><br>
+
+When using Kai to break out of a Genjutsu, use the Kai's calculation to break down the Genjutsu's calculation for each use. Example: Kai's Calculation is 3 Control + 9 Genjutsu x 1 mastery = 12 calcluation. Genjutsu calculation is 10 Control + 15 Genjutsu = 35 calculation. First use of Kai: 35 - 12 = 23. Second use of Kai: 23 - 12 = 11. Third use of Kai: 11 - 12 = falls to 0, thus the genjutsu is broken.<br><br>
+
+<b>Genjutsu Damage Scale (Genjutsu + Intel vs Genjutsu + Intel)</b><br>
+1-5 Minor (Temporary)<br>
+6-15 Medium (Temporary)<br>
+16-25 Major (Temporary)<br>
+25+ Severe (Temporary)<br>
+50+ Permanent Medium (Simultaneous temporary severe damage)<br>
+100+ Permanent Severe<br><br>
+
+[If you ask for someone’s Strength Stat + Taijutsu Stat, it means you are accepting to be hit. You cannot metagame and ask for their Str / Tai Stat, then proceed to dodge if it’s suddenly too high for you. That’s bad sportsmanship.]<br><br>
+
+[If you ask for someone’s Attack Speed, it’s fine, because it’s to determine if you can dodge it or not.]<br><br>
+
+<b>Damage Scale:</b><br>
+1 - 4 Difference in stats = Minor Damage<br>
+4 - 14 Difference = Medium<br>
+15-24 = Major Damage<br>
+25+ = Lethal<br><br>
+
+If you receive lethal damage to a limb, that means that the limb is damaged to a point you likely can't repair it with surgery. Every situation is different and in most cases having a limb receive lethal damage doesn't put your life in danger unless it's a matter of blood loss such as an arm or leg being severed entirely. If you receive lethal damage to the torso or head, the likeliness of death is 100%. If you feel like the lethal damage you received is debatable, you may contact an admin for a final ruling.<br><br>
+
+When two jutsu clash, several things must be taken into consideration: Opposing and Defending Elements, Skill Ranks, Jutsu Ranks, and Pertinent Perks.<br><br>
+
+The descriptions of perks is not a coverall in some cases. While your perk may state, "The user can break bones with an unguarded strike." This does not necessarily mean that every unguarded strike will break a bone, nor does it mean that a guarded strike will spare any bones broken. Stats must be taken into consideration.<br><br>
+
+<b>COMBAT RULES:</b><br>
+Chakra Enhanced Strength - Based on the Tier.<br>
+Tier 1 - Add ¼ of the user’s control to their Taijutsu + Strength in damage calculation.<br>
+Tier 2 - Add ½ of the user’s control to their Taijutsu + Strength in damage calculation.<br>
+Tier 3 - Add ¾ of the user’s control to their Taijutsu + Strength in damage calculation.<br>
+Tier 4 - Add the user’s control to their Taijutsu + Strength in damage calculation.<br>
+Tier 5 - Add the 1.5 x user’s control to their Taijutsu + Strength in damage calculation.<br>
+Master Tier - Add 2x the User’s control to their Taijutsu + Strength<br><br>
+
+Regular Sand Attack Speed/Ninjutsu Defense/Durability of sand: Control/2<br>
+Iron Sand Moves: (Control/2) - 1<br>
+Gold Sand Moves: (Control/2) - 2<br><br>
+
+<b>Shadow Clone Rules</b><br>
+- Shadow Clones take 50% of your overall stats upon usage.<br>
+- Maximum amount that can be held at a time is the Control Stat. [15 Control = Max of 15 Shadow Clones at any one time.]<br>
+- Maximum amount of clones that be spawned with is number Control. [15 control = 15 Shadow Clones at one time.]<br>
+- Must use once for every single Shadow Clone spawned.<br>
+- Elemental Shadow Clones are A-Rank and when using Elemental Jutsu, keep 100% of the user’s Control in calculation.<br><br>
+
+If an admin is available, you may call for an Admin Hide. Which means, an admin will hide your statistics for you. You will not need to activate your NIC to avoid metagame from the other party. When calculating attacks, the admin will calculate for you. This is sometimes requested by people who have 33 Strength and are trying to hit a 5 Durability person, where the 5 Durability person attempts to flee at every point and dodge every hit due to their knowledge of the major damage.<br><br>
+
+For genjutsu, you are allowed to hide the genjutsu. This means, you will RP the genjutsu’s effects on the opponent, but will not reveal that you actually have a genjutsu on them. This means that the opponent cannot metagame and try to Kai immediately. <br><br>
+
+In addition, for triggers of Genjutsu. If you are not RPly using a sense that is pertinent to the genjutsu in question, the user of the genjutsu assumes that the genjutsu went accordingly.<br>
+Ex. The user uses Hell Viewing. The trigger is seeing its handseals.<br>
+If a genjutsu does not state what the trigger is blatently, and you do not have a perk to change the trigger, the trigger is ALWAYS seeing the handseals.<br>
+One opponent RPs looking at the opponent’s feet. They are not affected.<br>
+One opponent does not RP looking anywhere. They are affected.<br><br>
+
+
+<b>Weapon Durability:</b><br>
+Wood (Not chakra enhanced wood) - Durability of 6<br>
+Iron - Durability of 13<br>
+Steel - Durability of 15.5<br>
+Kubikiribocho - Durability of 14<br>
+Conch Shell Mace - Durability of 17<br>
+All other SSOM blades besides Kubikiribocho & Samehada - Durability of 24<br>
+Stone - Durability of 12<br>
+Diamond - Durability of 22.5<br>
+Samehada (Durability of 28) - [When attacking, 2% for an indirect strike, 10% for a direct hit. Takes the opponent’s chakra. Based on current chakra, not maximum.]<br><br>
+
+[CALCULATED BY STRENGTH VERSUS DURA OF WEAPON, FLAT.]<br><br>
+
+
+<b>Stamina Rules:</b><br>
+10 Turns for a regular battle without Stamina.<br>
+While in water, stamina turns used are x2. Hoshigaki/Hozuki are uneffected by this rule, meaning they only use one stamina point per round in water.<br>
+Stamina gene does not add any extra turns.<br>
+Stamina adds +5 Turns<br>
+Massive Stamina adds +10 Turns<br>
+Monstrous Stamina adds + 15<br>
+C- adds +2 Turns<br>
+B- adds +4 Turns<br>
+A- adds +6 Turns</div></td></tr>
+<tr><td colspan="4"></td></tr>
+ 
+<tr> <td bgcolor="#000000" align="right" style="padding:0.0em;" colspan="5"><span style="font-family: georgia, garamond, serif; font-size: 24pt; line-height: 16pt; letter-spacing: -2px;"><font color=#5882FA><center>TRAIT SET-UP</center></span></td></tr>
+
+<tr> <td bgcolor="#5882FA" colspan="4" style="border:1px #FFFFFF solid;"><div align="justify"><font face="arial, lucida, tahoma" size="2" color="#000000"><i>These traits do not have to be followed through roleplay but if you begin to roleplay the trait, such as pacifist, you must stick to that personality.</i><br><br>
+
+Average: You are an ordinary Joe.<br><br>
+
+Hard Worker: The Hard Worker. You've put in work constantly and it's paying off! <font color=red>Ability to gain second profession at C- and Third at B-.</font><br><br>
+
+Slacker: You make it look like you don't try...Because you don't. <font color=red>Skill Rank D-, Stuck with one profession.</font><br><br>
+
+Genius: You're a natural genius! <br><br>
+
+Pacifist: You're against any unneeded confrontation, you sit and watch as opposed to running into battle, given the chance you often flee. Your character will be more likely to run away from a fight IC. (Do not RP as a blood hungry tyrant if you have previously RP’d as a pacifist)<br><br>
+
+Insomniac: Sleep? Sleep is for the weak. You wish.<br><br>
+
+Sadist: You enjoy inflicting pain upon others...Sick bastard.<br><br>
+
+Masochist: You enjoy having pain inflicted upon you...Sick bastard.<br><br>
+
+Fodder: You're fodder kid, just give it up. Increased chance of being targeted by an event, either positive or negative.<br><br>
+
+Prodigy: They don't come any better than you my friend, you are capable of learning faster and comprehending complex tasks at a younger age.<font color=red>Prodigy perk & Skill Rank D+, 1 T2, 1 T1, 2 D or 1 C rank jutsu set-up.</font><br><br>
+
+Mentalist: Noone can match you, mentally that is. Though your body physically is as frail as can be, you often times brake bones, are not very able to react to attacks, and are pretty much only good as a scholar. <font color=red>Receives Mind T1 upon stat setting. Mentalist is not permitted to have intelligence gene.</font><br><br>
+
+Berserker: You're prone to random fits of rage. When the rage overcomes you, you lose sight of friend and foe, only targets. <font color=red>Receives anger perk & half rpp price/roleplays required for berserker perk.</font><br><br>
+
+Insane: You should be locked up...You're insane in the membrane! Very hard to read and very hard to believe. <font color=red>Receives Insane Perk.</font><br><br>
+
+Frail: You are not very physically adept, you often times are hurt or get ill.<br><br>
+
+Battlehardened: You have seen some shit man. Your body is honed by the fires of combat!<br><br>
+
+Strategist: You are good at strategizing. <font color=red>Receives Studious T1 upon stat setting & Strategist perk.</font><br><br>
+
+Zealot: You fight for your lord, you will sacrifice it all to bring praise and glory to your god.<font color=red>Receives Martyr perk & half rpp price/roleplays required for zealot perk.</font><br><br> 
+
+Neutral: You don't really care either way about much of anything especially whatever's going on right now.<br><br>
+
+Jashinist: All Praise Jashin!! <font color=red>Jashin Perk.</font><br><br>
+
+Nymphomaniac: You love sex like a fat kid loves cake.<br><br>
+
+Old Person: You're just an old person who has lived a long life. Do not stat set after having made or you will kill yourself, an old person is anyone 45 years old or higher.<font color=red> Receives Old Person perk.</font></div></td></tr>

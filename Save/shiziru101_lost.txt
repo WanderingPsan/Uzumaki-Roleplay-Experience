@@ -1,0 +1,74 @@
+//Orphan savefile buffer 'saved_z' found on Fri Dec 11 07:49:47 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Fri Dec 11 07:49:47 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'name' found on Fri Dec 11 07:49:47 2015
+name = "babyclothing-red"
+//End of exported data.
+//Orphan savefile buffer 'type' found on Fri Dec 11 07:49:47 2015
+type = /obj/items/Citem/tools/Backpouch
+//End of exported data.
+//Orphan savefile buffer 'icon' found on Fri Dec 11 07:49:47 2015
+icon = null /*unrecognized data*/
+//End of exported data.
+//Orphan savefile buffer 'type' found on Fri Dec 11 07:49:47 2015
+type = /obj/items/Clothing/Nez_Blackshirt
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Fri Dec 11 07:49:47 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Fri Dec 11 07:49:47 2015
+suffix = null /*unrecognized data*/
+//End of exported data.
+//Orphan savefile buffer '.77' found on Fri Dec 11 07:49:47 2015
+.77
+	tier = 1
+//End of exported data.
+//Orphan savefile buffer 'type' found on Fri Dec 11 07:49:47 2015
+type = /obj/items/Food/Small_Fish
+//End of exported data.
+//Orphan savefile buffer 'saved_z' found on Fri Dec 11 07:49:47 2015
+saved_z = 0
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Fri Dec 11 07:49:47 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Fri Dec 11 07:49:47 2015
+suffix = null /*unrecognized data*/
+//End of exported data.
+//Orphan savefile buffer 'worn' found on Fri Dec 11 07:49:47 2015
+worn = 1
+//End of exported data.
+//Orphan savefile buffer '.8' found on Fri Dec 11 07:59:47 2015
+.8
+//End of exported data.
+//Orphan savefile buffer '.9' found on Fri Dec 11 07:59:47 2015
+.9
+//End of exported data.
+//Orphan savefile buffer 'type' found on Fri Dec 11 07:59:47 2015
+type = /obj/items/Clothing/Nez_Blackshirt
+//End of exported data.
+//Orphan savefile buffer 'name' found on Fri Dec 11 07:59:47 2015
+name = "babyclothing-red"
+//End of exported data.
+//Orphan savefile buffer '.77' found on Fri Dec 11 07:59:47 2015
+.77
+	name = "Travel Papers"
+//End of exported data.
+//Orphan savefile buffer 'saved_x' found on Fri Dec 11 07:59:47 2015
+saved_x = 0
+//End of exported data.
+//Orphan savefile buffer 'type' found on Fri Dec 11 07:59:47 2015
+type = /obj/items/Clothing/Slash
+//End of exported data.
+//Orphan savefile buffer 'saved_y' found on Fri Dec 11 07:59:47 2015
+saved_y = 0
+//End of exported data.
+//Orphan savefile buffer 'suffix' found on Fri Dec 11 07:59:47 2015
+suffix = null /*unrecognized data*/
+//End of exported data.
+//Orphan savefile buffer 'worn' found on Fri Dec 11 07:59:47 2015
+worn = 1
+//End of exported data.

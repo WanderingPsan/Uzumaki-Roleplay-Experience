@@ -1,0 +1,764 @@
+
+x = 121
+y = 193
+z = 10
+exp = 1650.1981201171875
+B1 = list()
+B2 = list()
+B3 = list()
+B4 = list()
+B5 = list()
+B6 = list()
+B7 = list()
+B8 = list()
+B9 = list()
+F1 = list()
+F2 = list()
+G1 = list()
+G2 = list()
+G3 = list()
+M1 = list()
+M2 = list()
+M3 = list()
+M4 = list()
+M5 = list()
+M6 = list()
+LStore = 4.25
+Class = "Genin"
+Village = "Sunagakure"
+Trait = "Average"
+srank = "D"
+PrimaryElement = "Wind"
+SecondaryElement = "Earth"
+TertiaryElement = "Water"
+QuadranaryElement = "Lightning"
+QuinaryElement = "Magnetism"
+RPP = 500
+Yen = 109250
+displaykey = "Marchie15"
+stat = 1
+Age = 14
+StaminaGain = 1.60000002384185791015625
+Calories = 10150
+lx = 121
+ly = 193
+lz = 10
+WHO = list()
+ChakraGain = 1.2000000476837158203125
+StrengthGain = 1.10000002384185791015625
+AgilityGain = 1.5
+OffenceGain = 1.10000002384185791015625
+ControlGain = 1.2999999523162841796875
+ResistanceGain = 1.39999997615814208984375
+TaijutsuGain = 1.2000000476837158203125
+MaxNinjutsu = 1.00100004673004150390625
+NinjutsuGain = 1.5
+MaxGenjutsu = 1.0020000934600830078125
+GenjutsuGain = 1.60000002384185791015625
+OOCFont = "#cc9900"
+SayFont = "#00cc00"
+OSayFont = "#00cc00"
+OOCon = 0
+hair = null /*invalid data*/
+Tan = 1
+grabberSTR = 1
+profile = "<html>\n<head><center><title>\" Cake fixes everything~~\" </title></center></head>\n\n<body bgcolor=CCCCC# text=black>\n\n<iframe width=\"1\" height=\"1\" src=\"(theme song link)\" frameborder=\"0\" allowfullscreen></iframe>\n\n<br><font face=\"Tw Cen MT Condensed\" size=\"3px\" color=\"black\">\n\n<table border bgcolor=white text=black align=center>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><center>Hiroshi</center></th>\n</tr>\n<tr>\n<td colspan=\"2\"><center><img src=\"http://img-cache.cdn.gaiaonline.com/184f4ef03a041b2e2e9682904f369b39/http://i13.photobucket.com/albums/a288/hiroyuki75/Artwork/swordsman.jpg\"; width=\"220\" height=\"250\"></center></td>\n</tr>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><i></i></th>\n</tr>\n<tr>\n<th colspan=\"3\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b>Debut</b></th>\n</tr>\n<tr>\n<td>Appears In</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Arc</td>\n<td>(etc)</td>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\">Personal</th>\n</tr>\n<tr>\n<td>Birthdate</td>\n<td>10-2-398</td>\n</tr>\n<tr>\n<td>Gender</td>\n<td>Male</td>\n</tr>\n<tr>\n<td>Age</td>\n<td> ? years old</td>\n</tr>\n<tr>\n<td>Height</td>\n<td>3'4</td>\n</tr>\n<tr>\n<td>Weight</td>\n<td>Average</td>\n</tr>\n<tr>\n<td>Blood Type</td>\n<td>O-</td>\n</tr>\n<tr>\n<td>Visable Weapons</td>\n<td>Katana</td>\n</tr>\n<tr>\n<td>Affiliation</td>\n<td>Suna\n<img src=\"http://images1.wikia.nocookie.net/__cb20090830222823/naruto/images/thumb/d/de/Konohagakure_Symbol.svg/18px-Konohagakure_Symbol.svg.png\"; width=\"18\" height=\"18\"> <Example <br>\n</td>\n</tr>\n<tr>\n<td>Team</td>\n<td>\n<font size=2>\n<br>\nSquad<br>\n<b>N/A</b><br>\n<br>\n<br>\n</font>\n</td>\n</tr>\n<tr>\n<td>Partners</td>\n<td>\nN/A<br>\nN/A<br>\nN/A<br></td>\n</tr>\n<tr>\n<td>Rival</td>\n<td>N/A<br>\n</td>\n</tr>\n<tr>\n\n"
+Weapon = 1
+Oicon = filedata("name=Base_Tan.dmi;length=5163;crc32=0xbc8c3f2d;encoding=base64",{"
+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
+"})
+Oname = "Hiroshi"
+Oprofile = "<html>\n<head><center><title>(Profile name)</title></center></head>\n\n<body bgcolor=CCCCC# text=black>\n\n<iframe width=\"1\" height=\"1\" src=\"(theme song link)\" frameborder=\"0\" allowfullscreen></iframe>\n\n<br><font face=\"Tw Cen MT Condensed\" size=\"3px\" color=\"black\">\n\n<table border bgcolor=white text=black align=center>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><center>Hiroshi</center></th>\n</tr>\n<tr>\n<td colspan=\"2\"><center><img src=\"https://s-media-cache-ak0.pinimg.com/736x/e6/ed/d0/e6edd08e2e447c3b7ae41410246dd631.jpg\"; width=\"230\" height=\"240\"></center></td>\n</tr>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><i></i></th>\n</tr>\n<tr>\n<th colspan=\"3\" class=\"mainheader\" bgcolor=\"#C0C0C0\"><b>Debut</b></th>\n</tr>\n<tr>\n<td>Appears In</td>\n<td>(etc)</td>\n</tr>\n<tr>\n<td>Arc</td>\n<td>(etc)</td>\n<tr>\n<th colspan=\"2\" class=\"mainheader\" bgcolor=\"#C0C0C0\">Personal</th>\n</tr>\n<tr>\n<td>Birthdate</td>\n<td>10-2-398</td>\n</tr>\n<tr>\n<td>Gender</td>\n<td>Male</td>\n</tr>\n<tr>\n<td>Age</td>\n<td> 7 years old</td>\n</tr>\n<tr>\n<td>Height</td>\n<td>3'4</td>\n</tr>\n<tr>\n<td>Weight</td>\n<td>Average</td>\n</tr>\n<tr>\n<td>Blood Type</td>\n<td>O-</td>\n</tr>\n<tr>\n<td>Classification</td>\n<td>Something</td>\n</tr>\n<tr>\n<td>Affiliation</td>\n<td>Suna\n<img src=\"http://images1.wikia.nocookie.net/__cb20090830222823/naruto/images/thumb/d/de/Konohagakure_Symbol.svg/18px-Konohagakure_Symbol.svg.png\"; width=\"18\" height=\"18\"> <Example <br>\n</td>\n</tr>\n<tr>\n<td>Team</td>\n<td>\n<font size=2>\n<br>\nSquad<br>\n<b>N/A</b><br>\n<br>\n<br>\n</font>\n</td>\n</tr>\n<tr>\n<td>Partners</td>\n<td>\nN/A<br>\nN/A<br>\nN/A<br></td>\n</tr>\n<tr>\n<td>Rival</td>\n<td>N/A<br>\n</td>\n</tr>\n<tr>\n\n"
+kawarimiskill = 2
+Cranks = 1
+JConst = 1011
+Jchakra = 1100
+maxJchakra = 1100
+Jstam = 550
+maxJstam = 550
+Jnin = 8.5
+Jgen = 3
+Jtai = 3
+Jcon = 9.5
+Jint = 5.75
+Jref = 3
+Jspd = 3
+Jstr = 3
+Jdef = 3
+Jdur = 3
+Jatkspd = 3
+Jgenres = 3
+exptunarank = 15.5
+PerC2Nxt = 77
+uprank = 20
+InitialSet = 1
+HPPerc = 90
+RPLOG = "<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b> - Sun Nov 29 20:46:17 2015</b><font><hr><br><br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Shunshn mastery and Chakra control ( Day 1) - Mon Nov 30 17:36:25 2015</b><font><hr><br>knew that he was going to have to do something if he wanted to get any better but being so young he didn’t even know where to even begin. Without anyone to train with or even anyone to team him anything he thought that he should train things he already know such as his high speed, Shunshin no jutsu. It was really all he could really do and with that being the jutsu the drains the most out of him it only makes sense to work on trying to better control it.\n\nHe’d first leave from the crowd of the square and head away to a less populated area of the village. Once there, he’d have to get himself ready for his training. Instead of jumping straight in he’d actually do a bit of meditation first. It was good for him to begin by feeling out his chakra before he begins just pouring it all into his legs at well. It was something simple but it was a good warm up for his practice.\n\nNow that he was off by himself, the youngster shinobi would sit upon the ground, crossing his legs.His hands would come together at the fingertips and held upside how forming something of an upside down triangle. Once in his pose he’d take a deep breath through the nose and close his eyes. He’d exhale through his mouth as he begins to clear his mind of all thoughts. He’d focus on nothing but his chakra, trying to get a feeling for the flow of chakra coursing throughout his body.\n\nHowever, he wouldn’t feel anything at first. The young boy took in another deep breath and exhales repeatedly. His body begins to soon relax and after the boy would begin to feel his the flow of chakra throughout his body. It wouldn’t be by much but it was more than enough for him and now that he could feel it, he decided to move on to try working on the jutsu.\n\nThe boy’s hands swiftly shift into the ram hand seal and once there, he’d begin to redirect the flow of chakra within himself towards his legs. Not being very experienced with controlling his chakra, his chakra would actually flood downwards to his legs and not only that but most of it was actually wasted. Much like a white water rapid, his chakra rushed and spilled over seeping out of his body. What chakra he managed to retain and build would actually vitalize his legs, strengthening them to the peek of their strength.\n\nOnce he he was at a comfortable amount of chakra built, he’d quickly spring to his feet and push off. The small child would shoot off in a amazing burst of speed. However, with this speed we wasn’t even sure where he was exactly to know when to stop. The simple fact of the matter was that this jutsu had more downsides than good for him at the moment, which is why he was trying to master it.\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra T1, Chakra control T2, Ration training T2 ( Day 3) - Mon Dec  7 20:43:44 2015</b><font><hr><br>(*Hiroshi sighs and crosses his arms for a moment. \" Hmm... how am I going to do this.\" he mumbles to himself. \" Of course I have to use raiton... but one shot's not going to do it... so.. I guess i have to use my combo into combo move then. Dang... I didn't want to use that.\" he continued in his head nodding and reaching into his front pouch.\n<br><br>\n\" Okay so this is going to take a few move a bear with me.\" He says to his bro. \" You never said I had to do it in one move~\" He'd continues jumping straight up into the air. From his front , he'd upp four kunai tagged with paper bombs. He'd throw one for each cardinal direction around the stone with them all active but on an extended timer so they would blow just yet.*)\n<br><br>\n\n(*Hiroshi  begins to count the second in his head \" One... two... three.\" he though forming a single seal and building chakra to his lungs. He'd take in a deep breath and exhale a twister of wind. \" four..\" The twister slowly begins to move forwards around the stone before \" Boom...\" he thought as the paper bombs explode.\n<br><br>\nNot only would the boulder take damage from the explosion itself, cracking it, but then it would take even more from the twister of fire that cover the boulder. Bits and pieces would breaks away from the boulder but it would still stand. However that wasn't the end of his onslaught.*)\n<br><br>\n\n(*Hiroshi from there would switch hands to another seal. ( Tiger I think it was? I don't remember) and he'd take another deep breath, channeling chakra again. This eye quickly scans over the face of the boulder and took aim at a rather deep crack in it. The moment he does, he'd fire off a shot of water from his mouth directly at it.\n<br><br>\nThe water gun itself would do a small amount of damage, pushing away loose stones in the area on the boulder but hitting it with that jutsu wasn't really the full aim here. He simply wanted to get the boulder wet for the final blow. ( Gigady I know.)*)\n<br><br>\n\n(*Hiroshi finally was ready to finish this up. His hands come close together and lighting would begin to spark between his hands. A wide grin crosses his face as a ball of lighting forms between them. \"Alright! Final shot!\" the boy shout firing the ball of lighting right at the crack he shot his watergun at. The impact itself would send rocks flying but the electricity would run deeper into the stone following the water. This causes the boulder to damn near implode, causing halves of the rocks to separate and slide apart.\n<br><br>\nSo say the least the boulder just got wrekt.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b> Katana proficient, T1 Studious T1 - Tue Dec  8 02:13:07 2015</b><font><hr><br>\n(*Hiroshi unseals his bokken from his scroll and take it in hand. “ Okay well it’s time to work on this some more I guess.” he mumbles beginning to get into his starting stance. He’s move his feet further apart, tilt slightly back on his left side and straighten himself up. He’d hold his bokken with both hands and firmly grasping his bokken. Thought his arms were a bit shaky, his stance was actually not too bad thanks to the help of Chikyu. It was lucky for him to actually get a bit of training.\n<br><br>\nFrom there he’d begin to do do his strikes. To anyone spectating it’s appear he was moving at a slow pace. This was because he was counting off steps in his head as he moved through the four motions to make a simple downwards strike. The sword raised over his head, then his lower hand slides downwards to support the strike, he’d stomp forwards as he makes a downwards striking motion stopping half way through the swing to remain parallel to  the ground, and finally he’d step back into his starting stance.\n<br><br>\nHis strikes were shaky and slow but this was just practice anyways. He’d proceed to repeat this process several times. After every strike he’d keep a mental count for himself and although he set the number for himself high, like most things, the boy would get distracted and would stop every now and then. \"  know this is important... but it’s just so boring~\" he thought to himself with a sigh.*)\n<br><br>\n(*Hiroshi takes a deep breack and raise his bokken. \" Okay... just a few more..\" he mumbles under his breath as he takes his stance. \".. and go!\" he hough quickly raising his bokken. He was going to pick it up a bit for this last set trying to quickly shift through the motions of the strike. Though he was going fast it seems a few thing suffered because of it.\n<br><br>\nHis strikes were a bit sloppy and shaky. That and because of it he would be properly getting back into his proper stance after doing the next strike. Sadly, his strikes only suffered more and more because of that. Of course he noticed this himself.. eventually.\n<br><br>\n\" Still can't do them fast huh?... lame.\" he thought pulling out a scroll to seal his bokken away again.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra T1, Chakra control T2, Ration training T2, T1 Studious T1 - Tue Dec  8 18:44:41 2015</b><font><hr><br>(*Hiroshi sighs. It was another day and another training session. It seems everyone was on him about mastering his jutsus so it was time for him t do a bit more training. It sucked but someone had to do it.\n<br><br>\nInstead of going straight into it and going shooting jutsu after jutsu off, he'd head to the academy for a bit of studying first. It was nothing fancy he just had to read over some of the scrolls about raiton jutsus. He thought if he could learn more about how to control and easy access his chakra than he'd be better off and it would be easier to master his jutsu.\n<br><br>\nOnce he made it there to the academy he'd head over to the classroom and find the bookshelves they had there. Scanning over them all he'd see that many of the scrolls were useless to him at the moment but then he finds one about natures of chakra. Thinking that that's as close as he was probably going to get, he'd pick it up and take a seat.\n<br><br>\nOpening the scroll he'd silently read it to himself about the natures. Much of this he already knew. ike how one element affected another but others he wasn't so sure about. In one passage the states that to use raiton, one has to \" Image their chakra sparking and flowing like an electric current.\" IT sounds strange to him but it seems all the imagery for the jutsus were.\n<br><br>\nRegardless, he was done here. After putting the scroll away the boy head on out side and finds himself a nice isolated spot to begin a bit of training. \" Well that didn't help much..\"he mumbled bringing his hands up, palms facing one another. \" Well.. it's something iI guess.\" he thought beginning the channel chakra to his hands. Sparks of lightning began to bounce between his hands before clashing together and fusing, creating a ball of lighting that'd expand bigger and bigger.\n<br><br>\nOnce it was at good size for him, he'd launch the ball forward at a nearby boulder. The ball of lightNing riddles the boulder with lightNing and causes several cracks to erupt around it after the initial hit that broke the stones. It was a much better go then his normal try but this was far from over for him. He had to master this jutsu which his REALLY unfortunate for him.\n<br><br>\nSeeing as he still had more training to go, he'd actually bring his hands back near each other. The glowing blue hue would shine brightly from his hands. THe crackle of lightning would begin to chatter as lighting begins to spring back and forth between his hands. The lighting then began to twist and collide with each other forming a ball of pure lightning. Not only that but it'd get bigger and bigger.\n<br><br>\nThe ball would grow to about the size of a basketball before it was launched forwards at the boulder. With a loud crashing sound the boulder cracks and electricity runs along the outside of the boulder. \" Better but still not good enough.\" he said bringing his hands close together again right after the shot.\n<br><br>\nHis hands steady and yet another fit of lighting begins to chatter between his hands. The electric bolts the bounced back and forth. His palms glow a blue hue and another ball of lighting would be formed. As the ball grew his hands would slowly get further and further apart until he thought it was a good size. From there he's launch the ball forth and into the boulder in front of him causing it to break and have large chuckles of it fall apart.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra T1, Chakra control T2, Ration training T2, T1 Studious T1 - Tue Dec  8 21:40:28 2015</b><font><hr><br>(*Hiroshi seemed to not be completely mastered his jutsu. Something that he was about to change for sure. He knew he was close but just had to put in even more effort than he has already. Though it was going to be hard and annoying work.\n<br><br>\nJust like before he'd bring his hands close together with his palms facing each other. \" OKay this should be pretty easy.\" he thought to himself beginning to channel chakra to his hands. A blue hue begins to glow from his hands electricity began to jump between his hands. A ball of lighting would form from these sparks and grow at a steady rate.\n<br><br>\nOnce it was a good size, the boy raises it up over his hand and then thoses it forwards. The ball was aimed to slam into the ground and explode releasing a surge of lightning to dance about the impact location. \" Hmm... good but still not enough.\" the boy notes thinking he just had to try again.\n<br><br>\nSeeing as he wasn't happy with his result he'd bring his hands back in front of his chest and begin to channel chakra to them. Sparks of lightning begins to form  and then collide and begin to create a ball of lighting between his hands yet again. As it expands, his hands slowly come further apart. Once the ball was a large enough size it's be thrown at the ground again.\n<br><br>\nIt'd impact with a boom kicking dust and rock. Lighting wildly danced about until it sizzled to an end. \" Hmm.... maybe a bit more? I'm not even sure anymore.\"*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b> Katana proficient T1 - Wed Dec  9 00:39:40 2015</b><font><hr><br>(*Hiroshi unseals his bokken from his scroll and take it in hand. “ Ugh… practice time again” he mumbles beginning to get into his starting stance. He’s move his feet further apart, tilt slightly back on his left side and straighten himself up. He’d hold his bokken with both hands and firmly grasping his bokken. Thought his arms were a bit shaky, his stance was actually not too bad thanks to the help of Chikyu. It was lucky for him to actually get a bit of training.\n<br><br>\nFrom there he’d begin to do do his strikes. To anyone spectating it’s appear he was moving at a slow pace. This was because he was counting off steps in his head as he moved through the four motions to make a simple downwards strike. The sword raised over his head, then his lower hand slides downwards to support the strike, he’d stomp forwards as he makes a downwards striking motion stopping half way through the swing to remain parallel to the ground, and finally he’d step back into his starting stance.\n<br><br>\nHis strikes were shaky and slow but this was just practice anyways. He’d proceed to repeat this process several times. After every strike he’d keep a mental count for himself and although he set the number for himself high, like most things, the boy would get distracted and would stop every now and then.\n<br><br>\nHowever, he’d still push through it. Although his arms started to ache and body started to cramp from the repeated motions.Even with all that he’d still push on for a bit longer continuing to do his downward strikes. However this didn’t come without it’s drawbacks. His takes would grow sloppier and sloppier as he did more and more of strikes. Eventually he’d have to stop and rest his arms for a moment.\n<br><br>\n\" Geeze my arms hurt \" he mumbles with a sigh leaving his arms down for a moment. “ Okay let's start this up again. he says lifting his bokken up to at the ready. His bokken raises over his head and his hand slides down slightly just before sending the wooden blade downwards as he stops forwards. He’d stop half way into his swing and then pull himself back into his starting stance. He’d repeat this motion, repeatedly striking through the air. It was rather tedious work for him but it was needed.*)\n<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra T1, Chakra control T2, Studious T1 - Wed Dec  9 02:35:44 2015</b><font><hr><br>(*Hiroshi has got reach the point of being unable to avoid it. He had to work on Shunshin!! The terrible jutsu that he just could not get the hang of. He was far from good with it. He was much better with his raiton but that will only get the poor child so far. Because of this, he was a bit forced to work on his jutsus much much more. Seeing as his is one of his jutsus that weren’t exactly the easiest and he’d mastered his raiton ones he figured he’d go for it.\n<br><br>\nWith a big sigh he’d find somewhere for him to be able to work on his jutsu. Just a bit of a clearing is all he needed to start practicing this horrid jutsu. Once he found it, he’d take in a deep breath trying to calm and relax himself. From there he’d make the ram hand seal, closing his eyes and exhaling through his mouth. \" Okay.. I know this jutsu sucks and I know it’s going to be a pain in the butt but I have to learn how to do it! Bro knows it so I’m going to figure it out too!\"\n<br><br>\nThe boy was getting himself pumped up for this train because god knows he didn’t want to do it. His chakra begins spike, and chakra flows to his legs. A large amount of chakra would be channeled to his legs. The chakra would actually vitalize his legs and strengthen them to there peeks. This would allow him to move at near untrackable speeds. For others and even himself.\n<br><br>\nThe moment he pushed off, he’d shoot off like a rocket at high speeds. With all this speed, he was unable to even tell where he was going. Not only that he wasn’t even sure how much ground he was covering making it hard to know when to stop. There was nothing he could do but understand the jutsu better by practicing it. The boy comes to a sliding stop with a slight pant.\n<br><br>\n\" Man this jutsu sucks.\" he says taking a deep breath and forming the ram hand seal again. He exhales, beginning to channel chakra to his legs a second time. He’d focus harder, strengthening them before pushing off again and again. He’d have to repeatedly use the just over and over if he was going to understand it but, it seems that he wasn’t improving very much. It seems he wasn’t doing very well with the jutsu at all.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Studious T1 - Wed Dec  9 17:19:47 2015</b><font><hr><br>(*Hiroshi yawns, putting his head down on the desk. \" Lame... this is so lame. \" he thought to himself. He was suck, waiting in the classroom with the other students for the teacher to come in to begin the class. Not only that but Hiroshi was actually a bit bihind on his work.\n<br><br>\nHe'd left hs head slightly and hold it on his hand as he pulls out a textbook for the moment. Seeing as their last subject was math, and he had yet to do his homework, he'd quicky pull out a sheet of paper and flip to a page set for the homework we was suppose to do.\n<br><br>\nThey were just simple math problems. After all he was only a child. His classes weren't but so hard. It turns out that htey were just times tables. He just needed to answer the problem given to him. Problems such as : \"2 x 8\" and \" 7 x 6\" Thouhg this isn't hard for some it was actually fairly difficult for him.\n<br><br>\nThe boy actually ended up quickly repeatedly adding the numbers together to get to the anser he needed. Seeing as he didn't know thw answer right off hand, he had to do something to get to get the answer.\n<br><br>\nSeeing as he was doing it the long way he actualy ran out of time and the teacher walks in \" Dang it.. I was almost done.\" hr thought quickly hidding his work. As the teacher walks to the front he'd call aloud \" Okay class lets see you're homework huh? Come on pull it out.\" \n<br><br>\n\" Of course...\" the by thought. He thought. A bad start to the class.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Katana proficient T1 - Wed Dec  9 19:54:14 2015</b><font><hr><br>(*Hiroshi unseals his bokken yet again and gets into his stance. It seemed like everyday now the he was doing these daily strikes and from it seems like he was getting pretty good at it. His stance was held nicely. His feet were spread apart, one slightingly back, hips tilted back and both hands on his bokken's hilt with steady arms holding them.\n<br><br>\nHe'd quickly raise his sword over his head and begin to make several strikes through the air. All of which, were done in the same exact fashion. The bokken went up, he'd slide his lower hand down, swing downwards stopping at about waist height, and and then pulls back into his starting stance. These strikes would actually be rather well done to the untrained katana user but it truth they could still use some work.\n<br><br>\nEven still te boy would move on, actually going into a direct strike. He would try a few diagonal slashes for once. So he raised his bokken over his towards his right shoulder and makes his first strike from right to left. For a first try it wasn't terrible but surely wasn't good It vired off to far to the left as he made the motion and it was actually pretty shaky.\n<br><br>\nTHe boy groans a bit to himself before continuing on slowing down a bit to properly form his strikes in steps. Before he knew it he actually had seemed to spend hours here, swinging away at nothing. His arms burned as if they were on fire and he'd be quite exhausted. He'd seal his bokken away for the time being and go to take a break for a while.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra T1, Chakra control T2, Ration training T2 - Wed Dec  9 23:25:00 2015</b><font><hr><br>(*Hiroshi had a mission and though he was excited he thought he shud work on a jutsu or two fire before he gets out there soon. With that in mind he thought since he got all his raiton jutsus under control then he shoud now go for some of his suiton jutsus. Seeing as he only knew one, it seems he was going with water gun for his training today.\n<br><br>\nThe boy finds a nice place to train for himself, away from all the others and in an open space near the rocky walls that surround the village. Turning to face it, he’d make a single seal and close his eyes. The boy takes a deep breath in through the nose and exhales through the mouth. A simply trike to calm himself before building up his chakra. Taking in a breath, the chakra mixes with the air in his lungs and the result would be a torrent of water being shot forth from his mouth.\n<br><br>\nThe water was strong enough to maybe cause a man to stumble but not where near enough to really do the damage he wanted from the jutsu near make as much as he wanted. When it crashes into the wall, the wall would take it extremely well. Nothing but a wet spot was left behind after the jutsu was done. It’d appear the wall would of taken little to no damage at all from the jutsu. \" Dang it\" I need to get better with this..\" he mumbles getting ready again.\n<br><br>\nHis hands go right back into the seal and beginning to build up his chakra once more. It wasn’t that he really needed this to work out but he thought that since suiton aid his raiton that it would be the next logical choice even though his bro wouldn’t approve. Another water gun would be launched at the wall clashing against it and yet again not doing much of anything to it.\n<br><br>\nWater gu after water gun would be fired at the wall. However, he would stop after a while. There was nothing more he could do and he needed to save his chakra for later. \" Ugh.. this is annoying..\" he muttered going off to take a break for the moment.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra T1, Chakra control T2, Ration training T2, Studious T1 - Thu Dec 10 00:35:50 2015</b><font><hr><br>(*Hiroshi The boy finds a nice place to train for himself, away from all the others and in an open space near the rocky walls that surround the village. Turning to face it, he’d make a single seal and close his eyes. The boy takes a deep breath in through the nose and exhales through the mouth. A simply trike to calm himself before building up his chakra. Taking in a breath, the chakra mixes with the air in his lungs and the result would be a torrent of water being shot forth from his mouth.\n<br><br>\nTHe water gun jutsu wasn't all that powerful. He never used it for it but it was strong enough to reach the wall form the few feet away he was at, unlike the first time. He was happy but the jutsu was still rather weak. There was no way it would do any damage to the wall, nor a bandit or gang member on a mission. THere was noting he could do but continue to work on it even more.\n<br><br>\nHe'd take another deep breath before forming the hand seal again. Just like before, he'd build chakra to his lungs and spit out another burst of water. It was just as strong as the last. There was no diffence in it's force so there was no difference in the result. THe wall would take little to no damage from the cuncussive blurst of water.\n<br><br>\nThe boy grins his teeth. \" oh come on..\" he mutters forming the seal again. This time he's let chakra flood to his lungs, infusing with the air inside of them. With an exhale, a turrent of water fired from his lips crashing into the wall. It was stronger this time but it still wasn't strong enough to do much of any damage.\n<br><br>\n\" Ugh!!!\" He'd cry un frustration. \" All these elements are so annoying!!\" he's continue in his rage, forming the seal once more. He'd poor even more chakra into it then before. After channeling this chakra he'd fire another shot of water. IT was only a D-rank jutsu but he wanted it to be stronger. However it seems the jutsu wasn't living up to his expectations as yet again it seems to do nothing to his target.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra T1, Chakra control T2, Ration training T2 - Thu Dec 10 03:36:44 2015</b><font><hr><br>(*Hiroshi grins. It's been some time since he got to spar is ol buddy Otorius and the distance they started in was really a HUGE disadvantage for Oto. No way  he could run across all this ground that fast which puts an idea into the boy's head.\n<br><br>\n\n\" Alright! Let's have some fun then~~\" he'd cheer, forming but a single hand sign. From the boy's mouth a torrent of water would shoot out not at Oto. The shot was aimed at the ground between the two and was dragged, left to right, making a long 'C' like shape. His hands then slipped into his front pouch pockets as he waits for Oto's first move.*)\n<br><br>\n\n\n(*Hiroshi grin does nothing but widen. Of course he expected Oto to think there was something with the water. IT was the very same trick he pulled in the last spar but, always thinking ahead he expected that and planed to make yet another move.\n<br><br>\n\nHiro would actually move forward and back, making it roughly where the bottom of the \" C \" shaped puddle starts. As he ran, he'd flick quite real kunais at Oto already knowing he could block them. They were only a distraction so that he could make another seal and fire off another water gun in another arc'd pattern.\n<br><br>\n\nStanding at the base of both of these puddles, quite literally Oto's only move was to come straight at him if he didn't want to step into the water. The boy seems to be having fun as he wanted to see what Oto would do about this situation.\n<br><br>\n\n( For visual reference --> \" ( . ) \"parentheses are water and the dot is Hiroshi )*)\n<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Katana proficient T1 - Thu Dec 10 07:08:22 2015</b><font><hr><br>(*Hiroshi yawns as he slowly stroll into the middle of the training area.He'd start with a few stretches. His arms reaching high above his head in the night's moon light. With a childish groan, he'd lean over to his left side and extend his right arm up and over his head. He'd then begin a short count, muttering it to himself as he holds the stretch. \n\n\" One... two.. three... four... five... six... seven... eight... nine... ten. \" the young boy counts off before reversing the stance. He'd now lean to his right, extending his left arm over his head and begin the count yet again. \n\" One... two.. three... four... five... six... seven... eight... nine... ten. \" he'd count off again before moving into another's stretch.\n\nNext he put his hands to his hips and rail back a bit. This wasn't just some idle stretch for the heck of it. \" OKay and now to start.\"he thought, drawing his iron katana from his hip. \" Just a few more of this dumb strikes...\" he continued to himself sliding into this starting stance.\n\nThe boy's feet separate, sliding wider apart to keep his balance. He'd move his right foot forwards slight, tilting his hips slightly. He'd grasp his katana firmly with both hands trying to hold the sword steady. This would be the stance Kyu taught him, however, it still wasn't the best. His arms still swayed a bit as his strength wasn't enough to really hold it.\n\nRegardless of that small fact, he'd go to begin his training, raising his katana overhead and beginning to go through the steps of his strikes as quickly as he could. First the katana went up, his lower hand on the hilt slide down to in sure he'd keep a good grip, the katana was then slashed straight down as he lifts and stomps his leading leg forwards and stopping the slash about half way down to be parallel to the ground, and finally he'd pull himself back into the starting stance.\n\nThis motion would be repeated time after time. He simply was trying to get better at his kenjutsu and without even realizing it he was starting to get faster and faster at moving through his steps for it. The strike themselves still needed work. There were many issues. The blade was shaky, and the strikes were actually pretty slow all thing considered but the form started to get better over time.\n\nBefore he knew it, it'd seem the boy would begin to fun out of steam as his breath begins to become heavy. His arms began to burn from the weight of the katana and sweat began to run from his face. The moment he noticed all this, his arms lower his katana and he's sigh \" Better... I guess...\"\n\nHe'd sheathe his sword and bend down to take a seat on the ground. For the moment he wasn't going to do anything else but hang out. He'd pull a scroll from his back pouch and unroll it in front of him. He's unseal a textbook in a plume of white smoke and open it. The studying never ended.... the struggles.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Studious T1 - Thu Dec 10 07:39:56 2015</b><font><hr><br>(*Hiroshi sighs, sitting there looking over his text book. He'd pull another scroll from his pouch and unseals a set of worksheet. \" Lame... lame!!... Math is LAME!\" he'd mumble in rage as he begins to do the dreded and PURE EVIL math problems. And none other than... MULTIPLICATION!!! DUN DUN DUUUUUUUUN!!!.\n<br><br>\nIn his classes recently they were learning their times tables and it wasn't exactly something he was enjoying at all but luck for his it was an easy few word sheets. The first of which was something of a cheat sheet he needed to complete in help him with the other sheets.Upon this sheet of paper was a blank times table chart that he needed to fill out.\n<br><br>\nStarting from the top left corner of the table, he'd begin to write down the times tables for all the 'x1' which was extremely easy. After that was all the twos. Starting with one time two being two then two times two is four. Two times three being six and so on and so forth you get the idea. The first worksheet wasn't too bad seeing as he got to gradually work through them and there was always the option of just continuously adding up to the actual answer.\n<br><br>\nAfter completing the first be moves on the the next two which were just more basic math problems. Hiroshi would fail to really realize it but this would prove to be important for him later on. Allowing his to properly calculating trajectory... that is when he go into that kind of thing.\n<br><br>\nHonestly, he'd just keep looking back to his first worksheet as a answer key to simply answer all the questions on the other two sheet. Simple work. Once completed he'd pile everything back up nicely and sealing it all back into their scrolls. \" Ugh okay that's done...\" he'd sigh standing back up to his feet. \" To the next thing I guess. \"*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Katana proficient T1 ( repost) - Thu Dec 10 17:08:16 2015</b><font><hr><br>(*Hiroshi yawns as he slowly stroll into the middle of the training area.He'd start with a few stretches. His arms reaching high above his head in the night's moon light. With a childish groan, he'd lean over to his left side and extend his right arm up and over his head. He'd then begin a short count, muttering it to himself as he holds the stretch. \" One... two.. three... four... five... six... seven... eight... nine... ten. \" the young boy counts off before reversing the stance.\n<br><br>\n He'd now lean to his right, extending his left arm over his head and begin the count yet again. \" One... two.. three... four... five... six... seven... eight... nine... ten. \" he'd count off again before moving into another's stretch. Next he put his hands to his hips and rail back a bit. This wasn't just some idle stretch for the heck of it. \" OKay and now to start.\"he thought, drawing his iron katana from his hip. \" Just a few more of this dumb strikes...\" he continued to himself sliding into this starting stance. \n<br><br>\nThe boy's feet separate, sliding wider apart to keep his balance. He'd move his right foot forwards slight, tilting his hips slightly. He'd grasp his katana firmly with both hands trying to hold the sword steady. This would be the stance Kyu taught him, however, it still wasn't the best. His arms still swayed a bit as his strength wasn't enough to really hold it.\n<br><br>\n Regardless of that small fact, he'd go to begin his training, raising his katana overhead and beginning to go through the steps of his strikes as quickly as he could. First the katana went up, his lower hand on the hilt slide down to in sure he'd keep a good grip, the katana was then slashed straight down as he lifts and stomps his leading leg forwards and stopping the slash about half way down to be parallel to the ground, and finally he'd pull himself back into the starting stance. This motion would be repeated time after time. He simply was trying to get better at his kenjutsu and without even realizing it he was starting to get faster and faster at moving through his steps for it. \n<br><br>\nThe strike themselves still needed work. There were many issues. The blade was shaky, and the strikes were actually pretty slow all thing considered but the form started to get better over time. Before he knew it, it'd seem the boy would begin to fun out of steam as his breath begins to become heavy. His arms began to burn from the weight of the katana and sweat began to run from his face. The moment he noticed all this, his arms lower his katana and he's sigh \" Better... I guess...\" He'd sheathe his sword and bend down to take a seat on the ground. For the moment he wasn't going to do anything else but hang out. He'd pull a scroll from his back pouch and unroll it in front of him. He's unseal a textbook in a plume of white smoke and open it. The studying never ended.... the struggles.*)\n<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Katana proficient T1 Studious T1 - Thu Dec 10 18:53:13 2015</b><font><hr><br>(*Hiroshi groans yet again he had to do more of his training and more of his homework so today he was just going to put the two together. He'd sit down on his knees and open his text books. Next to them were the blank pieces of paper he took out to record the answers he wrote down. Finally he takes out the bokken and lay it down next to him.\n<br><br>\n\" Okay now I guess I'll do a five strikes everytime time I get stuck\" he says with a nod setting the rule for himself. With that, he'd move on to begin his work. Today's subject was reading and the story they had to ready was a actually tale tell expressing how guilt can eat you alive and cause you to make poor choices.\n<br><br>\nHiro wasn't the best at reading and his comprehension was okay but that is what made this training even better. This way he would have plenty of times to do his practice strikes.  He'd begin to read the story. Much of it was in riddles and similes with a few metaphors splashed in for flare. It was just the challenge for the boy, stumbling over words and not understanding a few of the metaphors.\n<br><br>\nThroughout this, there were a few words that he just couldn't get. When that happened the oy stood up with a sigh and pick up his bokken. He'd move into the starting stance he was taught. His feet separate, sliding wider apart to keep his balance. He'd move his right foot forwards slight, tilting his hips slightly. He'd grasp his katana firmly with both hands trying to hold the sword steady.\n<br><br>\nFrom there he'd begin to make several strikes through the air. Of course he'd be mentally counting his way through his steps. First the katana went up, his lower hand on the hilt slide down to in sure he'd keep a good grip, the katana was then slashed straight down as he lifts and stomps his leading leg forwards and stopping the slash about half way down to be parallel to the ground, and finally he'd pull himself back into the starting stance. The boy continued to this this several time over and over counting aloud as he does each one.\n<br><br>\n\" One... two.. three... four... five..\" he'd count for each word work he couldn't pronounce or he simply didn't know. Throughout the passage there were many. Making it so that he ended up doing more than two hundred strikes before he was done. Tired and a bit sweaty he'd go back towards the book work to answer the questions about the story he just read.\n<br><br>\nHe his focus was a bit off seeing as he just finished doing tons of strikes but he was going to go ahead and work on it anyways. There was no need for him to have to rush t finish this later. There were only ten questions. All were multiple choice. Somewhere about the meaning of some of the text while others were more about what happened to make sure the reader was paying attention.\n<br><br>\nIn the end, the boy ended up being stumped n three of the questions and would have to ask his teacher or his Bro for help later but this meant that he would have to do fifteen more strikes.\n<br><br>\nWith a sight the boy stood to his feet and picked up his bokken yet again moving into his stance.The boy's feet separate, sliding wider apart to keep his balance. He'd move his right foot forwards slight, tilting his hips slightly all like before. It was nothing new for him.\n<br><br>\nHe'd proceed to do his fifteen extra strikes. At this point his arms were burning like they were on fire and his heaving got nothing but heavier but it was all for the best. He finally was done after those stikes and falls to a seated position. \"Okay... finally done....\"*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Katana proficient T1 - Thu Dec 10 22:41:04 2015</b><font><hr><br>(*Hiroshi takes a deep breath and begins to draw his iron katana. He's hol it with both ahnds at the ready and sigh a bit. \" Okay well back to doing more of these..\" he'd mumble shifting into his stance. Once he was in it he'd be to backing strikes through the air.\n\nHis katana lifts upwards over his head then his lower hand on the hilt slide down to in sure he'd keep a good grip, the katana was then slashed straight down as he lifts and stomps his leading leg forwards and stopping the slash about half way down to be parallel to the ground, and finally he'd pull himself back into the starting stance.\n\nThese strikes would be repeated time after time again. Stirke after strike trying to get them faster, stronger, and better formed. The strikes he were doing actually weren't bad. In truth, they have gotten a long way from the sloppy mess of an attack he use to have but they still needed work. The strikes were still a bit sloppy and  off a bit.\n\nThe strikes swayed a bit in the air and not only that but returning to his stance seems to still need some work. When he pulls back in, his feet sometimes soome to move too close together. It was a shame but even he noticed these thing and had to constinitly be mindfull of them.\n\nThe boy continues to do strike after strike until he was completely drained of his stamina. He had no more energy left byt the end and would stab his swprd into the groun and take a knee. \" Ugh... I hate this..\" he mumbles rubbing his arms. \" They feel like there' on fire..\" he murmered with a sight and moving towards his katana. He'd pull it from the grouns and sheathe it. \" That's enugh for now I guess.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra T1, Chakra control T2, Ration training T2 Studious T1 - Thu Dec 10 23:30:33 2015</b><font><hr><br>(*Hiroshi knew that he was going to have to do something if he wanted to get any better but being so young he didn’t even know where to even begin. Without anyone to train with or even anyone to team him anything he thought that he should train things he already know such as his high speed, Shunshin no jutsu. It was really all he could really do and with that being the jutsu the drains the most out of him it only makes sense to work on trying to better control it.\n<br><br>\nHe’d first leave from the crowd of the square and head away to a less populated area of the village. Once there, he’d have to get himself ready for his training. Instead of jumping straight in he’d actually do a bit of meditation first. It was good for him to begin by feeling out his chakra before he begins just pouring it all into his legs at well. It was something simple but it was a good warm up for his practice.\n<br><br>\nNow that he was off by himself, the youngster shinobi would sit upon the ground, crossing his legs.His hands would come together at the fingertips and held upside how forming something of an upside down triangle. Once in his pose he’d take a deep breath through the nose and close his eyes. He’d exhale through his mouth as he begins to clear his mind of all thoughts. He’d focus on nothing but his chakra, trying to get a feeling for the flow of chakra coursing throughout his body.\n<br><br>\nHowever, he wouldn’t feel anything at first. The young boy took in another deep breath and exhales repeatedly. His body begins to soon relax and after the boy would begin to feel his the flow of chakra throughout his body. It wouldn’t be by much but it was more than enough for him and now that he could feel it, he decided to move on to try working on the jutsu.\n<br><br>\nThe boy’s hands swiftly shift into the ram hand seal and once there, he’d begin to redirect the flow of chakra within himself towards his legs. Not being very experienced with controlling his chakra, his chakra would actually flood downwards to his legs and not only that but most of it was actually wasted. Much like a white water rapid, his chakra rushed and spilled over seeping out of his body. What chakra he managed to retain and build would actually vitalize his legs, strengthening them to the peek of their strength.\n<br><br>\nOnce he he was at a comfortable amount of chakra built, he’d quickly spring to his feet and push off. The small child would shoot off in a amazing burst of speed. However, with this speed we wasn’t even sure where he was exactly to know when to stop. The simple fact of the matter was that this jutsu had more downsides than good for him at the moment, which is why he was trying to master it. Along with his extreme tunnel vision was the strain this jutsu put on a boy as small and young as he is.\n<br><br>\nSoon enough, he’d come to a sliding stop and then fall to his knees. “ Dang It… that drains way too much..” he’d pant. Even with his large reserves of chakra this jutsu, shunshin no jutsu, seemed to eat away most of it in a single use. It was obviously something that couldn’t be left alone of he was going to use it it combat.\n<br><br>\nRegardless of how useful the jutsu is for him at the moment, he’d sit down on the ground and form the ram hand seal again. He was simply going to meditate for the time beginning as he gathered his strength back. While he was waiting, he’d go back to just trying to get a feel for his chakra. He’d begin his breathing once more, in though the nose and out through the mouth. The boy repeated this cycle as he focused all of his attention inwards to his chakra flow.\n<br><br>\nAfter a while of meditation, he’d feel as if he gained back his strength. His hands shift back into the ram hand seal and he’d begin to focus his chakra into his legs. Yet again a large amount of his chakra would be wasted but what was maintained would strengthen his legs considerably. Once again he’d spring to his feet and push off, shooting off like a speeding bullet across a clearing.\n<br><br>\nSadly, the boy wasn’t able to even really tell where he was as he was moving and when he stopped yet again a massive amount of his chakra was gone. With almost all his chakra being gone, he’d fall to a seated position on the ground, panting a bit. This was going to take far more training if he wanted to be able to use this for anything at all.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra T1 Chakra control T2 - Thu Dec 10 23:39:05 2015</b><font><hr><br>(*Hiroshi yawns not really wanting to but knowing he had to do some training if he was going to get better at the technique he’s been trying to approve upon for some time. He’d gather his things from his home and heads into the forest of Mori. However, he would just go strolling through the forest idly roaming around. He’d have an idea of where to go but he’d need to move quickly and to spot them with ease.\n<br><br>\nTo do this, he’d use the one technique he was trying to get better use of. The high speed technique known as shunshin. So far, his body has yet to adjust to the high speed and he is unable to really tell where he is.  Thsi could be fix but he will need much much mor training on his shunshin.\n<br><br>\nSo he was going to practice more and more with it. He'd form the ram handseal again and channel chakra to his legs. With a deep breath, he'd ush off, shooting off in a burst of speed like no other. Upon trying to stop, his feet slide in the sand to a stop. \" Dammit... I still need more work at it..\" he murmered to himself forming the seal and shotting off again.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Chakra T1, Chakra control T2, Ration training T2, Katana proficient T1 Studious T1 - Fri Dec 11 01:48:48 2015</b><font><hr><br>(*Hiroshi frowned as they were walking into the building. The ragged area the terrible smell he got int his nose and the burning of his eyes from the weed smoke that polluted the air. It was all rather sickening for him. Not only that but it made his head head more the closer ad closer they got to the building.\n<br><br>\n\" This place smells.. my head hurts... and ... it SMELLS!\" he thought to himself carrying a grumpy face all the way into the building. Once in there even he could feel the shift in the area and the hostility they all seemed to have towards them. Hiro's foot motions backwards, slighting afraid ina situation like this but he wouldn't run. After all he had his big bro.\n<br><br>\nAs the negotiations go on, he'd simply stand there and look over all of the people counting them in his head. \" One, two, three.... seven... ten... hmm... about sixteen counting the boss?\" he thought glancing behind him to see that there were another four or five guys behind them blocking their escape. \" They have a lot of guys in this gang.\" he thought to himself looking back forwards as the boss man started to shout.\n<br><br>\nHe'd chuckle a bit as the boss was launched backwards into the other gang of outlaw and was given to que to go ahead a fight. \" Sweet a rumble!\" the boy should clapping his hands together. As he pulls them apart, the sound of lighting chatters loudly. Between his hands would for a ball of lighting he shot at the pile of gang members shocking the living hell of of them.\n<br><br>\nThe gang member behind the two boys would pull out their weapons. Pipes, chains, and even a kunai would be seen pulled out by the members before the rushed behind the two. \" Behind us!\" Hiro says beginning to look behind them. Not only that but the boss seemed to be down but was far from out.\n\nThe large man stood back up with a roar like cry \" YOU SON OF A---!\" the man shouts attempting to draw his gun and aim it towards Blue. Was quite the spot the two would be in.... why do negotiations ever work?\n<br><br>\nSadly, even with the spot they’re in it seems other members could hear to comotion and the sounds of extra movement not in the room yet could be hear. It sounds as if people were running down stairs and stomping on the upper floor sound like thunder over head. It’d appear more men were on there way down.*)\n<br><br>\n\n(*Hiroshi wasn't all the combat savvy. If anything all of this was a bit taken by all of this but he wasn't going to just get beat up. Nah, that would look bad, very bad and he wasn't going to have that in front of his bro. PRAYS THE GODS that Hiro dodged the bullet shot at him by the thugs but with him over there, that left him with having to deal the the few men running up behind him.\n<br><br>\nHe wasn't skilled enough to just go punching them all out like his bro so he did what he always did... shock them. He'd quickly build chakra and emit it in the form of electricity as the thugs got close. They all would be stunned by the shock wave of lighting before the boy reached for his katana at his side. In a single fluid drawing strike, the boy would cut all of the men's wastes. No blood would spill but all of there pants would drop exposing those nice underroos.\n<br><br>\nJust after that the man Blue throw would collide with the group sending them all the ground. The boy chuckles thinking that that was simply hilarious but he didn't have the time to really enjoy it. His eyes look back to his brother whom was still giving the rest of the bandits the finest or hands. Already thinking ahead he knew something would have to be done and he'd begin to channel chakra to the end of his sword.\n<br><br>\nHe waited for the perfect time which, his bro would nicely give him with a sticky water normal water combo. The boy creates another ball of lighting at the end of his sword that he's raise upwards and send flying at the soaking wet men \" Buh bye~~~\" the boy chimes as they all were shocked is easily incapacitated.\n<br><br>\nSeeing as the only two left standing were the Hiroshi brother, Green would sheathe his sword and grin \" I expected that to go a TON worse.\" he says to his brother with a smile \" Happy it didn't though... so do we just leave these guys to twitch and go back to Koji?\" the boy asks this being his first mission he honestly wasn't sure.*)<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b> Studious T1 Ration training T2 - Fri Dec 11 06:47:28 2015</b><font><hr><br>(*Hiroshi // Just as Blue lets out his cry is sorry three students would come walking into the class. One was a girl, bright eyed and radiates sweetness in her pink spaghetti strapped dress and two boys, one with goggles and a cocky grin and the last a rather chunky kid would seemed to be eating a bag of chips of some kind.\n<br><br>\nThe boy's eyes turn to the youngsters as the take their seats. The goggled boy call out \" Aye! So what are we learning!\" in a overly loud tone.  Green flinches a bit before looking around. \" Ugh... this is so lame...\" he thought to himself before clearing his throat and facing the students. He fought a gang in the last mission three little kids were no contest!\n<br><br>\n\" Okay listen up!\" Green says in a clear and loud enough tone for them all to hear. \" Today we're learning the chakra natures. There's five elemental chakra natures used for ninjutsu in total. There's fire, wind, lightning, earth and water.\" he says raising a hand and counting off all the elements with his fingers. Just to the students could tell there were only five.\n<br<><br>\nHe'd then look to his bro to continue.*)\n<br><br>\n\n\n(*Hiroshi frowns a bit as he realizes... yeah he didn't even tell them his name. Honestly he was just trying to get it over with. Hiro wasn't exactly as social as his brother but getting back to it he'd sigh and nods a bit at how the lesson was going so far.\n<br<><br>\nSeeing as attention went back to him, it was his job to say the final snig bit. The boy take a deep relaxing breath and begins to speak. \" Well... elements don't just counter each other. They can also help each other out.\"The boy explains \" For example fire is stronger against wind but it doesn't just counter it. Wind will actually power it up.\"\n<br<><br>\nThe boy nods and begins walking towards the desk. As he does so the chubby kid with the chips calls out \" Oh! Just like when mom fans the fire on the grill!?\". Hiroshi nods \" Exactly like that. It makes the fire stronger.\" He says before pulling out a scroll and unrolling it across the teacher's desk.\n<br<><br>\n\" Now just like that water and lighting have a cool relationship. Lighting will actually run across water as far as it can and it's a bit stronger to boot.\" He says unsealing a long but narrow container of water from the scroll. \" Just like this~\" the boy says lifting his right hand and making a pinching like pose with his fingers. Between them would spark a small ball of lighting to be dropped into the water.\n<br<><br>\nNormally a ball that size wouldn't get far but with aid from the water the long two foot container would light up like a christmas tree. \" See a ball that size would do all this normally but by using it with water it can get a lot more done.\" he says sealing the container away again.\n<br<><br>\nAll the kids faces light up as the sparks fly. They clap and cheer \" That's cool!! \" Hiro look to blue and tilts his head a bit. \" So.. that's about it right?\"*)\n<br>\"<html><body><center><background color = \"black\"><font color =\"grey\" size = 2>\"<br><hr><br><font size = 3><b>Katana proficient T1 - Fri Dec 11 07:13:55 2015</b><font><hr><br>(*Hiroshi sighs as he follows his brother, first to get the saw and then out towards the forest. This was an easy mission. Hell -I- can cut down a tree and I'm fucked up but I digress. The mission was to give out wood like oprah so i say YOU get some wood and YOU get some wood!\n<br><br>\nOnce on the outskirts Blue would say probably the strangest thing he would ever hear. Leaving his bro behind? Even if he could tell his brother was serious he was never going to do that. He'd agree anyways making sure to cross his fingers. He'd rather die with his brother then leave him behind. \" Right~\" he'd say slipping his crossed fingers into his pocket.\n<br><br>\nOnce into the woods they're find the tall tree. It was just a tree but it was quite taller than the rest and that raised a flag to Hiro. The wood seems to be fine without any marking from anything however on the way here was claw marks on a few trees a sign of bears being near.\n<br><br>\nShrugging, Hiro figured it'd be better to just get this done then go complaining. He'd take his side of the saw and begins to help his bro cut the tree. He'd act as if it was part of his kenjutsu training, taking a stance of his kenjutsu and twisting his body as if he was doing a horizontal slash, trying to get the general motion down for training later on. it was a good start and would be rather easy honestly.\n<br><br>\nJust before the tree was completely sawed through a sound could be hear from a distance. A roar of sort echoing from the far. Green himself couldn't pinpoint the sounds but it wouldn't really matter as soon the tree would come crashing down. \" TIMBER!!!\" the boy shouts \" I always wanted to say that, heheh.\"*)<br>"
+name = "Hiroshi"
+icon = object("//Oicon",0)
+icon_state = ""
+overlays = list(appearance(null /*invalid data*/),appearance(object("//hair",0)),appearance(null /*invalid data*/),appearance(filedata("name=;ext=.dmi;length=1430;crc32=0x13d27893;encoding=base64",{"
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3wYxnCyYwa7cLAAAA
+tqcOAQA=
+"})),appearance(filedata("name=;ext=.dmi;length=689;crc32=0x445d37e3;encoding=base64",{"
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAfyLntqjj27+20FS3bIxnCyYwa7cLAAAA
+tqcOAQA=
+"})),appearance(filedata("name=;ext=.dmi;length=1115;crc32=0x1c5ab50d;encoding=base64",{"
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QAAbyLntqjj27+20FS3H4xnCyYwa7cLAAAA
+tqcOAQAAAAAA5qXatiYAAAAAEAEAAAAAAAAAAAB+4QA=
+"})),appearance(filedata("name=SunaNeck.dmi;length=544;crc32=0xc491547d;encoding=base64",{"
+iVBORw0KGgoAAAANSUhEUgAAAMAAAACgBAMAAACoBn5uAAAAElBMVEXAwMAA3wAsLCyorrP////h
+4eFuf4L9AAAAAXRSTlMAQObYZgAAAKh6VFh0RGVzY3JpcHRpb24AAHicU1ZwcnX39FNw8fXkKkst
+Ks7Mz1OwVTDRM+DiLM9MKckAcoyNuDgzUjPTM0ognOKSxJJUIFNJiYszJbOoGKSeizOtKDE3FcpO
+Sc1JrAQyjXTAkIszN78sNTc1D2SAIUK/Y0lJYnI2dlOQlLnlJ5cWI1QZYlfl7U9QSXhqYkF+Hnb7
+jFBczcWZk59fAFairODq5wIOHgAa8U+wUBRhhwAAAQhJREFUaIHt29sNwjAMheFkg2aEwgRIbEAX
+QIj9V+HyFlvk1DJ9gP6feEmVkpSL5FO5pQDAz2irDg1M79fncWutG9fngcj717m12bxBP+G89Ass
+l+GG7Lge77dugdJv+HUJo7HcoPsISi0ReoNZyQ0CAABgP2R+UBPS+UFMSOcHNSGbH/QEynMAAADs
+RjY/ZAOGzQ8+TyQDhs0PLk+kA4a9QpcnCBgAAAD7Fev+iauHWPOKKt9dvV9PofNVfe/K+1Kvo/N9
++S/qe1/emwVWlP/j+r5NtrzvFtig/DffwfdFf0VxW/8PAAAA/lT2+QLdXyT6g9L9Rer2fbq/SD1f
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggg==
+"})),appearance(filedata("name=;ext=.dmi;length=782;crc32=0xf516269f;encoding=base64",{"
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj27+20FS3Ko1nCyYwa7cLAAAA
+kO8vErj9DwB/7gGZJiL7IRFr9gAAAABJRU5ErkJggv8PfyLntqjj278=
+"})),appearance(filedata("name=;ext=.dmi;length=1606;crc32=0x8f527eb;encoding=base64",{"
+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
+kO8vErj9DwB/7g==
+"})))
+dir = 8
+gender = "male"
+contents = list(
+		object(".0"),
+		object(".1"),
+		object(".2"),
+		object(".3"),
+		object(".4"),
+		object(".5"),
+		object(".6"),
+		object(".7"),
+		object(".8"),
+		object(".9"),
+		object(".10"),
+		object(".11"),
+		object(".12"),
+		object(".13"),
+		object(".14"),
+		object(".15"),
+		object(".16"),
+		object(".17"),
+		object(".18"),
+		object(".19"),
+		object(".20"),
+		object(".21"),
+		object(".22"),
+		object(".23"),
+		object(".24"),
+		object(".25"),
+		object(".26"),
+		object(".27"),
+		object(".28"),
+		object(".29"),
+		object(".30"),
+		object(".31"),
+		object(".32"),
+		object(".33"),
+		object(".34"),
+		object(".35"),
+		object(".36"),
+		object(".37"),
+		object(".38"),
+		object(".39"),
+		object(".40"),
+		object(".41"),
+		object(".42"),
+		object(".43"),
+		object(".44"),
+		object(".45"),
+		object(".46"),
+		object(".47"),
+		object(".48"))
+	.0
+		type = /obj/Gene/Magnetism_Release
+	.1
+		type = /obj/Perk/Strategem_of_Wind
+	.2
+		type = /obj/items/Clothing/SandHeadband
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",6564)
+	.3
+		type = /obj/Genjutsu/Bunshin
+	.4
+		type = /obj/Ninjutsu/Kawarimi
+	.5
+		type = /obj/Genjutsu/Henge
+	.6
+		type = /obj/Gene/Monstrous_Chakra
+	.7
+		type = /obj/Custom/Med/Meditate
+		RPPSpent = 79
+		idran = "Chakra"
+	.8
+		type = /obj/Perk/Shinobi_Info_Card
+	.9
+		type = /obj/items/Clothing/Pants
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",1278)
+	.10
+		type = /obj/items/Clothing/Shoes
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",8)
+	.11
+		type = /obj/items/Clothing/Jacket
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = filedata("name=;ext=.dmi;length=1115;crc32=0x9803488a;encoding=base64",{"
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4FugJZwQAAPgW6Ak6AAAAtI9nCwAAAAAAAAAA
+APgBAAB44Nu/RDrvCJCF6An4FugJeODbv96+Prf4Fug=
+"})
+	.12
+		type = /obj/items/Clothing/Nez_Green_Hoodie
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = ""
+	.13
+		type = /obj/items/Clothing/Shorts
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.14
+		type = /obj/items/Citem/tools/Backpouch
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",7134)
+		contents = list(
+				object(".0"),
+				object(".1"),
+				object(".2"),
+				object(".3"),
+				object(".4"),
+				object(".5"),
+				object(".6"),
+				object(".7"),
+				object(".8"),
+				object(".9"),
+				object(".10"),
+				object(".11"),
+				object(".12"),
+				object(".13"))
+			.0
+				type = /obj/items/Weapon/Kunai
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.1
+				type = /obj/items/Weapon/Kunai
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.2
+				type = /obj/items/Weapon/Explosive_Tag
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.3
+				type = /obj/items/Weapon/Explosive_Tag
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.4
+				type = /obj/items/Weapon/Explosive_Tag
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.5
+				type = /obj/items/Scrolls/Scroll
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				name = "Sealed water"
+				icon = object("../../../../.36/icon",0)
+				icon_state = null /*unrecognized data*/
+				mouse_drag_pointer = appearance(null /*invalid data*/)
+			.6
+				type = /obj/items/Weapon/Kunai
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.7
+				type = /obj/items/Weapon/Kunai
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.8
+				type = /obj/items/Weapon/Kunai
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.9
+				type = /obj/items/Scrolls/Scroll
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+				icon = object("../../../../.36/icon",0)
+			.10
+				type = /obj/items/Weapon/Explosive_Tag
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.11
+				type = /obj/items/Weapon/Explosive_Tag
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.12
+				type = /obj/items/Weapon/Explosive_Tag
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+			.13
+				type = /obj/items/Weapon/Explosive_Tag
+				saved_x = 0
+				saved_y = 0
+				saved_z = 0
+	.15
+		type = /obj/items/Scrolls/Scroll
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = ""
+		icon = object("../../.36/icon",0)
+		mouse_drag_pointer = appearance(object("../../.36/icon",0))
+	.16
+		type = /obj/Perk/Elemental_Training_Lightning
+	.17
+		type = /obj/Perk/Basic_Sealing
+	.18
+		type = /obj/Custom/Ninjutsu/Drank/Shunshin
+		RPPSpent = 348
+		skil = "Novice"
+		dran = 525
+	.19
+		type = /obj/Custom/Raiton/Drank/Ninja_Art_Raiton_Flash
+		RPPSpent = 39
+		skil = "Mastered"
+		dran = 60.02500152587890625
+	.20
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>Scroll</title></center></head><body>This scroll contains three bundles of shurken held by loosely tied wire. Each bundle has 4 shuriken each.</body>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Bundles of shuriken x3"
+		icon = object("../../.36/icon",0)
+		icon_state = ""
+	.21
+		type = /obj/items/Weapon/Shuriken
+		shuriken = 34
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "You current have 34 in this stack"
+	.22
+		type = /obj/Student
+	.23
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.24
+		type = /obj/items/Scrolls/Scroll
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Wired shuriken Net"
+		icon = object("../../.36/icon",0)
+		icon_state = ""
+	.25
+		type = /obj/Teacher
+	.26
+		type = /obj/items/Scrolls/Jutsu_Scroll
+		ele = "Lightning"
+		lrncost = 30
+		nan = "Ninja Art: Lighting Ball"
+		Kekkei = 0
+		IsStored = 1
+		description = "By gathering lightning chakra between their hands or two chakra flow weapons, the user creates a ball of lightning that they then shoot."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 38.664947509765625
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "lighting ball"
+	.27
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 86
+		ele = "Lightning"
+		description = "By gathering lightning chakra between their hands or two chakra flow weapons, the user creates a ball of lightning that they then shoot."
+		skil = "Mastered"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 27.526119232177734375
+		idran = "Chakra"
+		name = "Ninja Art: Lighting Ball"
+	.28
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.29
+		type = /obj/items/Scrolls/Scroll
+		profile2 = "<html><head><center><title>Scroll</title></center></head><body>This scroll contains a Bokken</body>"
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		name = "Bokken Scroll"
+		icon = object("../../.36/icon",0)
+	.30
+		type = /obj/Ninjutsu/Suimen_Hokou_no_Waza
+	.31
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 4
+		ele = "Water"
+		description = "The user fires out a stream of water from their mouth. This is the simplest of water release techniques."
+		skil = "Novice"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 71.63983154296875
+		idran = "Chakra"
+		name = "Ninja Art: Watergun"
+	.32
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 106
+		ele = "Wind"
+		description = "The user releases a gust of wind that forms several small tornadoes. Combined with Fire Release: Running Fire that forms a circle on ground level, this creates a massive flaming hurricane."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 93.03874969482421875
+		idran = "Chakra"
+		name = "Divine Wind"
+	.33
+		type = /obj/Perk/Chakra_Control
+	.34
+		type = /obj/items/Scrolls/Scroll
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = object("../../.36/icon",0)
+	.35
+		type = /obj/items/Scrolls/Scroll
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		icon = object("../../.36/icon",0)
+	.36
+		type = /obj/items/Scrolls/Scroll
+		saved_x = 0
+		saved_y = 0
+		saved_z = null /*unrecognized data*/
+		icon = null /*invalid data*/
+	.37
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.38
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.39
+		type = /obj/items/Weapon/Explosive_Tag
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.40
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.41
+		type = /obj/items/Weapon/Kunai
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+	.42
+		type = /obj/Custom/Blank_Jutsu
+		RPPSpent = 248
+		ele = "Earth"
+		description = "This technique changes earth into fine sand by channelling chakra into it, allowing the user to dig through it like a mole. This effect goes around the body (not just the hands), making it just large enough for a person to move through. The user can pinpoint where they are, despite being underground, by sensing the magnetic forces. They can also sense what is happening on the surface and use that information to launch a surprise attack on the enemy.One can also hide deep in the ground, escaping to a depth where the enemy can't reach. It also appears that after digging, the ground can be returned to its original state, leaving no trace of where the user entered the earth."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "C"
+		dran = 147.12890625
+		idran = "Chakra"
+		name = "Earth Style: Hiding like a Mole Jutsu"
+	.43
+		type = /obj/Custom/Blank_Jutsu
+		ele = "Lightning"
+		description = "The user surges their chakra for a moment. The air directly around their body surges with raiton chakra shocking their opponents, numbing them for a moment."
+		skil = "New"
+		jut = "Ninjutsu"
+		ran = "D"
+		dran = 93.03874969482421875
+		idran = "Chakra"
+		name = "Ninja Art: Raiton Flash"
+	.44
+		type = /obj/Perk/Blank_Perk
+		description = "This Iron Kanata was crafted and made by Marco. \[Durability: 13\]\[+2 to Damage\]"
+		tier = 2
+		name = "Iron Sword"
+	.45
+		type = /obj/items/Clothing/Shirt
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",3288)
+	.46
+		type = /obj/items/Clothing/Jacket
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",5435)
+	.47
+		type = /obj/items/Clothing/Gloves
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",4732)
+	.48
+		type = /obj/items/Weapon/Custom_Katana
+		worn = 1
+		saved_x = 0
+		saved_y = 0
+		saved_z = 0
+		suffix = "**Equipped**"
+		icon = object("//overlays",7930)
+key = "Marchie15"
